@@ -22,32 +22,92 @@ jobs:
       - name: Install dependencies
         run: pip install requests pandas openpyxl
 
-      - name: Find Excel URL
-        id: find_url
+      - name: Find and download Excel
         run: |
-          # Cherche l'URL en testant les timestamps des dernières heures
-          FOUND=""
-          BASE="https://regieessencequebec.ca/data/stations-"
-          
-          for i in $(seq 0 47); do
-            TIMESTAMP=$(date -u -d "-${i} hours" +"%Y%m%d%H0000" 2>/dev/null || date -u -v-${i}H +"%Y%m%d%H0000")
-            URL="${BASE}${TIMESTAMP}.xlsx"
-            STATUS=$(curl -s -o /dev/null -w "%{http_code}" -A "Mozilla/5.0" "$URL")
-            if [ "$STATUS" = "200" ]; then
-              echo "URL trouvee: $URL"
-              echo "url=$URL" >> $GITHUB_OUTPUT
-              FOUND="yes"
-              break
-            fi
-          done
-          
-          if [ -z "$FOUND" ]; then
-            echo "Aucune URL trouvee"
-            echo "url=" >> $GITHUB_OUTPUT
-          fi
+          python3 - <<'EOF'
+          import requests
+          import re
+          import json
+          import os
+          from datetime import datetime
+
+          headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+
+          # Methode 1: cherche dans le JS bundle du site
+          urls_to_check = [
+              "https://regieessencequebec.ca/",
+              "https://regieessencequebec.ca/index.html",
+          ]
+
+          found_url = None
+          for page_url in urls_to_check:
+              try:
+                  r = requests.get(page_url, headers=headers, timeout=15)
+                  matches = re.findall(r'stations-\d{14,}\.xlsx', r.text)
+                  if matches:
+                      found_url = f"https://regieessencequebec.ca/data/{matches[-1]}"
+                      print(f"URL trouvee dans page: {found_url}")
+                      break
+              except Exception as e:
+                  print(f"Erreur: {e}")
+
+          # Methode 2: cherche dans les fichiers JS
+          if not found_url:
+              try:
+                  r = requests.get("https://regieessencequebec.ca/", headers=headers, timeout=15)
+                  js_files = re.findall(r'src="([^"]*\.js[^"]*)"', r.text)
+                  for js in js_files[:5]:
+                      if not js.startswith('http'):
+                          js = f"https://regieessencequebec.ca{js}"
+                      try:
+                          rjs = requests.get(js, headers=headers, timeout=10)
+                          matches = re.findall(r'stations-\d{14,}\.xlsx', rjs.text)
+                          if matches:
+                              found_url = f"https://regieessencequebec.ca/data/{matches[-1]}"
+                              print(f"URL trouvee dans JS: {found_url}")
+                              break
+                      except:
+                          pass
+              except Exception as e:
+                  print(f"Erreur JS: {e}")
+
+          # Methode 3: aujourd'hui on connait le format exact YYYYMMDDHHMMSS
+          # On essaie toutes les secondes de l'heure courante et precedente
+          if not found_url:
+              now = datetime.utcnow()
+              for h in range(now.hour, max(now.hour-6, -1), -1):
+                  for m in range(59, -1, -1):
+                      for s in [0, 1, 2, 30]:
+                          ts = now.strftime(f"%Y%m%d{h:02d}{m:02d}{s:02d}")
+                          url = f"https://regieessencequebec.ca/data/stations-{ts}.xlsx"
+                          try:
+                              resp = requests.head(url, headers=headers, timeout=3)
+                              if resp.status_code == 200:
+                                  found_url = url
+                                  print(f"URL trouvee bruteforce: {found_url}")
+                                  break
+                          except:
+                              pass
+                      if found_url:
+                          break
+                  if found_url:
+                      break
+
+          if found_url:
+              with open("excel_url.txt", "w") as f:
+                  f.write(found_url)
+              print(f"URL sauvegardee: {found_url}")
+          else:
+              print("Aucune URL trouvee")
+              with open("excel_url.txt", "w") as f:
+                  f.write("")
+          EOF
 
       - name: Run scraper
-        run: python essence_saguenay.py "${{ steps.find_url.outputs.url }}"
+        run: |
+          URL=$(cat excel_url.txt)
+          echo "URL utilisee: $URL"
+          python essence_saguenay.py "$URL"
 
       - name: Commit data
         run: |
