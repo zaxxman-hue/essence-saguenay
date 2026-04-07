@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 8 * * *'   # 8h AM
     - cron: '0 17 * * *'  # 5h PM
-  workflow_dispatch:       # Manuel aussi
+  workflow_dispatch:
 
 jobs:
   update:
@@ -22,15 +22,32 @@ jobs:
       - name: Install dependencies
         run: pip install requests pandas openpyxl
 
-      - name: Run scraper
+      - name: Find Excel URL
+        id: find_url
         run: |
-          URL=$(curl -s -A "Mozilla/5.0" "https://regieessencequebec.ca/" | grep -o 'data/stations-[0-9]*.xlsx' | tail -1)
-          echo "URL trouvee: $URL"
-          if [ -z "$URL" ]; then
-            python essence_saguenay.py
-          else
-            python essence_saguenay.py "https://regieessencequebec.ca/$URL"
+          # Cherche l'URL en testant les timestamps des dernières heures
+          FOUND=""
+          BASE="https://regieessencequebec.ca/data/stations-"
+          
+          for i in $(seq 0 47); do
+            TIMESTAMP=$(date -u -d "-${i} hours" +"%Y%m%d%H0000" 2>/dev/null || date -u -v-${i}H +"%Y%m%d%H0000")
+            URL="${BASE}${TIMESTAMP}.xlsx"
+            STATUS=$(curl -s -o /dev/null -w "%{http_code}" -A "Mozilla/5.0" "$URL")
+            if [ "$STATUS" = "200" ]; then
+              echo "URL trouvee: $URL"
+              echo "url=$URL" >> $GITHUB_OUTPUT
+              FOUND="yes"
+              break
+            fi
+          done
+          
+          if [ -z "$FOUND" ]; then
+            echo "Aucune URL trouvee"
+            echo "url=" >> $GITHUB_OUTPUT
           fi
+
+      - name: Run scraper
+        run: python essence_saguenay.py "${{ steps.find_url.outputs.url }}"
 
       - name: Commit data
         run: |
