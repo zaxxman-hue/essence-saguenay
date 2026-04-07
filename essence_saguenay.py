@@ -14,44 +14,10 @@ from datetime import datetime
 
 OUTPUT_JSON = "data.json"
 
-def trouver_dernier_fichier():
-    """Trouve l'URL du dernier fichier Excel sur le site"""
-    try:
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-        }
-        response = requests.get("https://regieessencequebec.ca/", headers=headers, timeout=15)
-        matches = re.findall(r'data/stations-\d+\.xlsx', response.text)
-        if matches:
-            url = f"https://regieessencequebec.ca/{matches[-1]}"
-            print(f"URL trouvee: {url}")
-            return url
-    except Exception as e:
-        print(f"Erreur recherche URL: {e}")
-
-    # Bruteforce les URLs possibles
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-    now = datetime.now()
-    for hour in range(now.hour, max(now.hour - 12, -1), -1):
-        for minute in [0, 30]:
-            timestamp = now.strftime(f"%Y%m%d{hour:02d}{minute:02d}00")
-            url = f"https://regieessencequebec.ca/data/stations-{timestamp}.xlsx"
-            try:
-                r = requests.head(url, headers=headers, timeout=5)
-                if r.status_code == 200:
-                    print(f"URL trouvee: {url}")
-                    return url
-            except:
-                pass
-    return None
-
 def telecharger_excel(url=None):
     """Telecharge le fichier Excel"""
-    if not url:
-        url = trouver_dernier_fichier()
-
-    if not url:
-        print("Impossible de trouver l'URL du fichier Excel")
+    if not url or url.strip() == "":
+        print("Aucune URL fournie")
         return None
 
     print(f"Telechargement: {url}")
@@ -75,31 +41,22 @@ def telecharger_excel(url=None):
         return None
 
 def filtrer_saguenay(filepath):
-    """Lit le Excel et filtre Jonquiere/Chicoutimi"""
+    """Lit le Excel et filtre la region Saguenay"""
     try:
         df = pd.read_excel(filepath)
         print(f"Total stations au Quebec: {len(df)}")
         print(f"Colonnes: {df.columns.tolist()}")
+        
+        # Affiche quelques lignes pour debug
+        print("Exemple de donnees:")
+        print(df.head(3).to_string())
 
-        masque = pd.Series([False] * len(df))
-
-        for col in df.columns:
-            col_lower = col.lower().replace('é', 'e').replace('è', 'e').replace('ê', 'e')
-            if 'region' in col_lower or 'région' in col_lower:
-                masque = masque | df[col].str.contains('Saguenay', case=False, na=False)
-            if 'adresse' in col_lower:
-                masque = masque | df[col].str.contains('Saguenay', case=False, na=False)
-                masque = masque | df[col].str.contains('Jonquiere', case=False, na=False)
-                masque = masque | df[col].str.contains('Jonquière', case=False, na=False)
-                masque = masque | df[col].str.contains('Chicoutimi', case=False, na=False)
-
-        df_saguenay = df[masque].copy()
-        print(f"Stations Saguenay trouvees: {len(df_saguenay)}")
-
-        # Detecte les colonnes avec ou sans accents
+        # Detecte les colonnes
         col_banniere = None
         col_adresse = None
         col_prix = None
+        col_region = None
+        col_cp = None
 
         for col in df.columns:
             col_lower = col.lower()
@@ -109,21 +66,82 @@ def filtrer_saguenay(filepath):
                 col_adresse = col
             if 'regulier' in col_lower or 'régulier' in col_lower:
                 col_prix = col
+            if 'region' in col_lower or 'région' in col_lower:
+                col_region = col
+            if 'postal' in col_lower or 'code' in col_lower:
+                col_cp = col
 
-        if not col_banniere or not col_adresse or not col_prix:
-            print(f"Colonnes manquantes: banniere={col_banniere}, adresse={col_adresse}, prix={col_prix}")
-            return None
+        print(f"Colonnes detectees: banniere={col_banniere}, adresse={col_adresse}, prix={col_prix}, region={col_region}")
 
-        df_final = df_saguenay[[col_banniere, col_adresse, col_prix]].copy()
-        df_final.columns = ['Banniere', 'Adresse', 'Prix']
+        # Filtre par region Saguenay
+        masque = pd.Series([False] * len(df))
+        
+        if col_region:
+            masque = masque | df[col_region].astype(str).str.contains('Saguenay', case=False, na=False)
+        
+        if col_adresse:
+            masque = masque | df[col_adresse].astype(str).str.contains('Saguenay', case=False, na=False)
+            masque = masque | df[col_adresse].astype(str).str.contains('Jonquiere', case=False, na=False)
+            masque = masque | df[col_adresse].astype(str).str.contains('Chicoutimi', case=False, na=False)
+
+        df_saguenay = df[masque].copy()
+        print(f"Stations Saguenay trouvees: {len(df_saguenay)}")
+
+        # Garde les colonnes utiles
+        colonnes_garder = [col_banniere, col_adresse, col_prix]
+        if col_region:
+            colonnes_garder.append(col_region)
+        if col_cp:
+            colonnes_garder.append(col_cp)
+
+        df_final = df_saguenay[colonnes_garder].copy()
+
+        # Renomme les colonnes
+        new_names = ['Banniere', 'Adresse', 'Prix']
+        if col_region:
+            new_names.append('Region')
+        if col_cp:
+            new_names.append('CodePostal')
+        df_final.columns = new_names
+
+        # Retire les stations sans prix
         df_final = df_final.dropna(subset=['Prix'])
+        
+        # Debug prix
+        print(f"Exemple de prix bruts: {df_final['Prix'].head(5).tolist()}")
+        
+        # Convertit les prix
+        def convertir_prix(val):
+            try:
+                p = float(str(val).replace(',', '.').strip())
+                # Si prix < 10, c'est en dollars (ex: 1.879) -> convertir en cents (187.9)
+                if p > 0 and p < 10:
+                    p = round(p * 100, 1)
+                # Si prix entre 10 et 100, probablement en cents deja (ex: 87.9)
+                elif p >= 100 and p < 300:
+                    pass  # OK deja en cents
+                elif p > 0:
+                    p = round(p, 1)
+                return p
+            except:
+                return 0
+
+        df_final['Prix'] = df_final['Prix'].apply(convertir_prix)
+        
+        # Retire les prix a 0
+        df_final = df_final[df_final['Prix'] > 0]
+        
+        # Trie par prix croissant
         df_final = df_final.sort_values('Prix')
 
-        print(f"Stations avec prix: {len(df_final)}")
+        print(f"Stations avec prix valides: {len(df_final)}")
+        print(f"Prix min: {df_final['Prix'].min()}, Prix max: {df_final['Prix'].max()}")
         return df_final
 
     except Exception as e:
+        import traceback
         print(f"Erreur lecture Excel: {e}")
+        traceback.print_exc()
         return None
 
 def sauvegarder_json(df):
@@ -135,9 +153,22 @@ def sauvegarder_json(df):
         except:
             prix_num = 0
 
+        # Determine la ville depuis le code postal ou la region
+        ville = "Saguenay"
+        adresse = str(row['Adresse'])
+        
+        # Codes postaux: G7H = Chicoutimi, G7J/G7K = Jonquiere
+        if 'CodePostal' in df.columns and pd.notna(row.get('CodePostal')):
+            cp = str(row['CodePostal']).upper().strip()
+            if cp.startswith('G7H') or cp.startswith('G7B') or cp.startswith('G7G'):
+                ville = "Chicoutimi"
+            elif cp.startswith('G7J') or cp.startswith('G7K') or cp.startswith('G7X') or cp.startswith('G7S'):
+                ville = "Jonquiere"
+        
         stations.append({
             "banniere": str(row['Banniere']) if pd.notna(row['Banniere']) else "Inconnue",
-            "adresse": str(row['Adresse']),
+            "adresse": adresse,
+            "ville": ville,
             "prix": round(prix_num, 1)
         })
 
@@ -161,8 +192,9 @@ def main():
     print(f"{datetime.now().strftime('%d/%m/%Y %H:%M')}")
     print("=" * 50)
 
-    # Accepte une URL en argument optionnel
     url = sys.argv[1] if len(sys.argv) > 1 else None
+    if url:
+        url = url.strip()
     if url:
         print(f"URL fournie en argument: {url}")
 
