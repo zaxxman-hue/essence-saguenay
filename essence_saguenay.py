@@ -1,374 +1,153 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#1a1a2e">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="mobile-web-app-capable" content="yes">
-<title>⛽ Essence Saguenay</title>
-<style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    background: #0f0f1a;
-    color: #e0e0e0;
-    min-height: 100vh;
-  }
+#!/usr/bin/env python3
+"""
+Régie Essence Québec - Scraper Saguenay
+Télécharge les données et filtre Jonquière/Chicoutimi
+"""
 
-  header {
-    background: linear-gradient(135deg, #1a1a2e, #16213e);
-    padding: 20px 16px 16px;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    border-bottom: 1px solid #2a2a4a;
-    box-shadow: 0 2px 20px rgba(0,0,0,0.5);
-  }
+import requests
+import pandas as pd
+import json
+import os
+import glob
+from datetime import datetime
 
-  h1 {
-    font-size: 22px;
-    font-weight: 700;
-    color: #fff;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
+# Configuration
+OUTPUT_JSON = "data.json"
+REGIONS_CIBLES = ["Saguenay", "Jonquière", "Chicoutimi", "Saguenay–Lac-Saint-Jean"]
+VILLES_CIBLES = ["Saguenay", "Jonquière", "Chicoutimi"]
 
-  .subtitle {
-    font-size: 12px;
-    color: #888;
-    margin-top: 4px;
-  }
+def trouver_dernier_fichier():
+    """Trouve l'URL du dernier fichier Excel sur le site"""
+    try:
+        response = requests.get("https://regieessencequebec.ca/", timeout=10)
+        import re
+        # Cherche le pattern de fichier Excel dans la page
+        matches = re.findall(r'data/stations-\d+\.xlsx', response.text)
+        if matches:
+            return f"https://regieessencequebec.ca/{matches[-1]}"
+    except:
+        pass
+    return None
 
-  .maj {
-    font-size: 11px;
-    color: #4fc3f7;
-    margin-top: 6px;
-  }
-
-  .filtre {
-    display: flex;
-    gap: 8px;
-    margin-top: 12px;
-    overflow-x: auto;
-    padding-bottom: 4px;
-  }
-
-  .filtre button {
-    background: #1e1e3a;
-    border: 1px solid #333;
-    color: #aaa;
-    padding: 6px 14px;
-    border-radius: 20px;
-    font-size: 13px;
-    cursor: pointer;
-    white-space: nowrap;
-    transition: all 0.2s;
-  }
-
-  .filtre button.actif {
-    background: #4fc3f7;
-    color: #000;
-    border-color: #4fc3f7;
-    font-weight: 600;
-  }
-
-  .stats {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
-    padding: 12px 16px;
-    background: #12122a;
-    border-bottom: 1px solid #2a2a4a;
-  }
-
-  .stat-card {
-    background: #1e1e3a;
-    border-radius: 10px;
-    padding: 10px;
-    text-align: center;
-  }
-
-  .stat-label {
-    font-size: 10px;
-    color: #888;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-  }
-
-  .stat-value {
-    font-size: 18px;
-    font-weight: 700;
-    margin-top: 4px;
-  }
-
-  .stat-value.bas { color: #4caf50; }
-  .stat-value.moyen { color: #ffb74d; }
-  .stat-value.haut { color: #ef5350; }
-
-  .liste {
-    padding: 12px 16px;
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-  }
-
-  .station {
-    background: #1e1e3a;
-    border-radius: 12px;
-    padding: 14px;
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    border: 1px solid #2a2a4a;
-    transition: transform 0.15s;
-    position: relative;
-    overflow: hidden;
-  }
-
-  .station:active { transform: scale(0.98); }
-
-  .station.top1 { border-color: #4caf50; }
-  .station.top2 { border-color: #8bc34a; }
-  .station.top3 { border-color: #cddc39; }
-
-  .rang {
-    font-size: 13px;
-    font-weight: 700;
-    color: #666;
-    min-width: 24px;
-    text-align: center;
-  }
-
-  .station.top1 .rang { color: #4caf50; font-size: 18px; }
-  .station.top2 .rang { color: #8bc34a; }
-  .station.top3 .rang { color: #cddc39; }
-
-  .info {
-    flex: 1;
-    min-width: 0;
-  }
-
-  .banniere {
-    font-size: 15px;
-    font-weight: 600;
-    color: #fff;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-
-  .adresse {
-    font-size: 12px;
-    color: #888;
-    margin-top: 3px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-
-  .prix-box {
-    text-align: right;
-    flex-shrink: 0;
-  }
-
-  .prix {
-    font-size: 24px;
-    font-weight: 800;
-    line-height: 1;
-  }
-
-  .prix-unit {
-    font-size: 11px;
-    color: #888;
-    margin-top: 2px;
-  }
-
-  .economie {
-    font-size: 11px;
-    color: #4caf50;
-    margin-top: 3px;
-  }
-
-  .loading {
-    text-align: center;
-    padding: 60px 20px;
-    color: #666;
-  }
-
-  .spinner {
-    width: 40px;
-    height: 40px;
-    border: 3px solid #333;
-    border-top-color: #4fc3f7;
-    border-radius: 50%;
-    animation: spin 0.8s linear infinite;
-    margin: 0 auto 16px;
-  }
-
-  @keyframes spin { to { transform: rotate(360deg); } }
-
-  .erreur {
-    text-align: center;
-    padding: 40px 20px;
-    color: #ef5350;
-  }
-
-  .btn-refresh {
-    background: #4fc3f7;
-    color: #000;
-    border: none;
-    padding: 10px 24px;
-    border-radius: 20px;
-    font-size: 14px;
-    font-weight: 600;
-    cursor: pointer;
-    margin-top: 12px;
-  }
-
-  .vide {
-    text-align: center;
-    padding: 40px;
-    color: #555;
-  }
-</style>
-</head>
-<body>
-
-<header>
-  <h1>⛽ Essence Saguenay</h1>
-  <div class="subtitle">Jonquière • Chicoutimi</div>
-  <div class="maj" id="maj">Chargement...</div>
-  <div class="filtre">
-    <button class="actif" onclick="filtrer('tous')">Tous</button>
-    <button onclick="filtrer('jonquiere')">Jonquière</button>
-    <button onclick="filtrer('chicoutimi')">Chicoutimi</button>
-  </div>
-</header>
-
-<div class="stats" id="stats" style="display:none">
-  <div class="stat-card">
-    <div class="stat-label">Plus bas</div>
-    <div class="stat-value bas" id="stat-bas">—</div>
-  </div>
-  <div class="stat-card">
-    <div class="stat-label">Moyen</div>
-    <div class="stat-value moyen" id="stat-moy">—</div>
-  </div>
-  <div class="stat-card">
-    <div class="stat-label">Plus haut</div>
-    <div class="stat-value haut" id="stat-haut">—</div>
-  </div>
-</div>
-
-<div id="contenu">
-  <div class="loading">
-    <div class="spinner"></div>
-    <div>Chargement des prix...</div>
-  </div>
-</div>
-
-<script>
-let toutesStations = [];
-let filtreActuel = 'tous';
-
-async function charger() {
-  try {
-    const r = await fetch('data.json?t=' + Date.now());
-    if (!r.ok) throw new Error('Fichier introuvable');
-    const data = await r.json();
+def telecharger_excel(url=None):
+    """Télécharge le fichier Excel"""
+    if not url:
+        url = trouver_dernier_fichier()
     
-    toutesStations = data.stations;
-    document.getElementById('maj').textContent = '🕐 Mis à jour: ' + data.mise_a_jour;
+    if not url:
+        print("❌ Impossible de trouver l'URL du fichier Excel")
+        return None
     
-    afficher(toutesStations);
-  } catch(e) {
-    document.getElementById('contenu').innerHTML = `
-      <div class="erreur">
-        ❌ Données non disponibles<br>
-        <small>${e.message}</small><br>
-        <button class="btn-refresh" onclick="charger()">🔄 Réessayer</button>
-      </div>`;
-  }
-}
-
-function filtrer(zone) {
-  filtreActuel = zone;
-  
-  // Met à jour les boutons
-  document.querySelectorAll('.filtre button').forEach(b => b.classList.remove('actif'));
-  event.target.classList.add('actif');
-  
-  let stations = toutesStations;
-  
-  if (zone === 'jonquiere') {
-    stations = toutesStations.filter(s => 
-      s.adresse.toLowerCase().includes('jonquière') || 
-      s.adresse.toLowerCase().includes('jonquiere'));
-  } else if (zone === 'chicoutimi') {
-    stations = toutesStations.filter(s => 
-      s.adresse.toLowerCase().includes('chicoutimi'));
-  }
-  
-  afficher(stations);
-}
-
-function afficher(stations) {
-  if (stations.length === 0) {
-    document.getElementById('stats').style.display = 'none';
-    document.getElementById('contenu').innerHTML = '<div class="vide">Aucune station trouvée</div>';
-    return;
-  }
-  
-  // Stats
-  const prix = stations.map(s => s.prix).filter(p => p > 0).sort((a,b) => a-b);
-  const moyen = prix.reduce((a,b) => a+b, 0) / prix.length;
-  const prixMin = prix[0];
-  
-  document.getElementById('stat-bas').textContent = prix[0] + '¢';
-  document.getElementById('stat-moy').textContent = Math.round(moyen) + '¢';
-  document.getElementById('stat-haut').textContent = prix[prix.length-1] + '¢';
-  document.getElementById('stats').style.display = 'grid';
-  
-  // Liste
-  let html = '<div class="liste">';
-  
-  stations.forEach((s, i) => {
-    const rang = i === 0 ? '🥇' : i === 1 ? '🥈' : i === 2 ? '🥉' : (i+1);
-    const classe = i === 0 ? 'top1' : i === 1 ? 'top2' : i === 2 ? 'top3' : '';
-    const eco = i > 0 && s.prix > 0 ? `Économie: ${(s.prix - prixMin).toFixed(1)}¢/L` : '';
+    print(f"📥 Téléchargement: {url}")
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
     
-    const couleur = i === 0 ? '#4caf50' : 
-                    i < 3 ? '#8bc34a' :
-                    s.prix > moyen + 5 ? '#ef5350' : '#e0e0e0';
+    try:
+        response = requests.get(url, headers=headers, timeout=30)
+        if response.status_code == 200:
+            filepath = "/tmp/stations_essence.xlsx"
+            with open(filepath, 'wb') as f:
+                f.write(response.content)
+            print(f"✅ Fichier téléchargé: {len(response.content)} bytes")
+            return filepath
+        else:
+            print(f"❌ Erreur HTTP: {response.status_code}")
+            return None
+    except Exception as e:
+        print(f"❌ Erreur: {e}")
+        return None
+
+def filtrer_saguenay(filepath):
+    """Lit le Excel et filtre Jonquière/Chicoutimi"""
+    try:
+        df = pd.read_excel(filepath)
+        print(f"📊 Total stations au Québec: {len(df)}")
+        
+        # Filtre par région ou adresse contenant Saguenay/Jonquière/Chicoutimi
+        masque = (
+            df['Région'].str.contains('Saguenay', case=False, na=False) |
+            df['Adresse'].str.contains('Jonquière', case=False, na=False) |
+            df['Adresse'].str.contains('Chicoutimi', case=False, na=False) |
+            df['Adresse'].str.contains('Saguenay', case=False, na=False)
+        )
+        
+        df_saguenay = df[masque].copy()
+        print(f"📍 Stations Saguenay trouvées: {len(df_saguenay)}")
+        
+        # Garde seulement les colonnes utiles
+        colonnes = ['Bannière', 'Adresse', 'Prix Régulier']
+        df_final = df_saguenay[colonnes].copy()
+        
+        # Retire les stations sans prix
+        df_final = df_final.dropna(subset=['Prix Régulier'])
+        
+        # Trie par prix croissant
+        df_final = df_final.sort_values('Prix Régulier')
+        
+        print(f"✅ Stations avec prix: {len(df_final)}")
+        return df_final
+        
+    except Exception as e:
+        print(f"❌ Erreur lecture Excel: {e}")
+        return None
+
+def sauvegarder_json(df):
+    """Sauvegarde en JSON"""
+    stations = []
+    for _, row in df.iterrows():
+        prix = row['Prix Régulier']
+        try:
+            prix_num = float(prix)
+        except:
+            prix_num = 0
+            
+        stations.append({
+            "banniere": str(row['Bannière']) if pd.notna(row['Bannière']) else "Inconnue",
+            "adresse": str(row['Adresse']),
+            "prix": round(prix_num, 1)
+        })
     
-    html += `
-      <div class="station ${classe}">
-        <div class="rang">${rang}</div>
-        <div class="info">
-          <div class="banniere">${s.banniere}</div>
-          <div class="adresse">📍 ${s.adresse}</div>
-          ${eco ? `<div class="economie">💰 ${eco}</div>` : ''}
-        </div>
-        <div class="prix-box">
-          <div class="prix" style="color:${couleur}">${s.prix}</div>
-          <div class="prix-unit">¢/litre</div>
-        </div>
-      </div>`;
-  });
-  
-  html += '</div>';
-  document.getElementById('contenu').innerHTML = html;
-}
+    data = {
+        "mise_a_jour": datetime.now().strftime("%d/%m/%Y %H:%M"),
+        "total": len(stations),
+        "stations": stations
+    }
+    
 
-// Charge au démarrage
-charger();
 
-// Rafraîchit toutes les 30 minutes
-setInterval(charger, 30 * 60 * 1000);
-</script>
+    
+    with open(OUTPUT_JSON, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    
+    print(f"✅ JSON sauvegardé: {OUTPUT_JSON}")
+    print(f"🏆 Meilleur prix: {stations[0]['banniere']} - {stations[0]['adresse']} - {stations[0]['prix']}¢")
+    return True
 
-</body>
-</html>
+def main():
+    print("=" * 50)
+    print("🔥 Régie Essence Québec - Saguenay")
+    print(f"⏰ {datetime.now().strftime('%d/%m/%Y %H:%M')}")
+    print("=" * 50)
+    
+    # Télécharge
+    filepath = telecharger_excel()
+    if not filepath:
+        return False
+    
+    # Filtre
+    df = filtrer_saguenay(filepath)
+    if df is None or len(df) == 0:
+        print("❌ Aucune station trouvée")
+        return False
+    
+    # Sauvegarde
+    sauvegarder_json(df)
+    
+    # Nettoie
+    os.remove(filepath)
+    print("✅ Terminé!")
+    return True
+
+if __name__ == "__main__":
+    main()
