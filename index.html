@@ -6,7 +6,7 @@
 <meta name="theme-color" content="#1a1a2e">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
-<title>⛽ Essence Saguenay</title>
+<title>Essence Saguenay</title>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   
@@ -36,22 +36,19 @@
     gap: 8px;
   }
 
-  .subtitle {
-    font-size: 12px;
-    color: #888;
-    margin-top: 4px;
-  }
+  .subtitle { font-size: 12px; color: #888; margin-top: 4px; }
+  .maj { font-size: 11px; color: #4fc3f7; margin-top: 6px; }
 
-  .maj {
-    font-size: 11px;
-    color: #4fc3f7;
-    margin-top: 6px;
+  .header-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
   }
 
   .filtre {
     display: flex;
     gap: 8px;
-    margin-top: 12px;
     overflow-x: auto;
     padding-bottom: 4px;
   }
@@ -75,6 +72,22 @@
     font-weight: 600;
   }
 
+  .btn-refresh {
+    background: #2a2a4a;
+    border: 1px solid #444;
+    color: #4fc3f7;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 13px;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.2s;
+    flex-shrink: 0;
+  }
+
+  .btn-refresh:hover { background: #3a3a5a; }
+  .btn-refresh.loading { opacity: 0.6; }
+
   .stats {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -91,19 +104,8 @@
     text-align: center;
   }
 
-  .stat-label {
-    font-size: 10px;
-    color: #888;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-  }
-
-  .stat-value {
-    font-size: 18px;
-    font-weight: 700;
-    margin-top: 4px;
-  }
-
+  .stat-label { font-size: 10px; color: #888; text-transform: uppercase; letter-spacing: 0.5px; }
+  .stat-value { font-size: 18px; font-weight: 700; margin-top: 4px; }
   .stat-value.bas { color: #4caf50; }
   .stat-value.moyen { color: #ffb74d; }
   .stat-value.haut { color: #ef5350; }
@@ -124,32 +126,19 @@
     gap: 12px;
     border: 1px solid #2a2a4a;
     transition: transform 0.15s;
-    position: relative;
-    overflow: hidden;
   }
 
   .station:active { transform: scale(0.98); }
-
   .station.top1 { border-color: #4caf50; }
   .station.top2 { border-color: #8bc34a; }
   .station.top3 { border-color: #cddc39; }
 
-  .rang {
-    font-size: 13px;
-    font-weight: 700;
-    color: #666;
-    min-width: 24px;
-    text-align: center;
-  }
-
+  .rang { font-size: 13px; font-weight: 700; color: #666; min-width: 24px; text-align: center; }
   .station.top1 .rang { color: #4caf50; font-size: 18px; }
   .station.top2 .rang { color: #8bc34a; }
   .station.top3 .rang { color: #cddc39; }
 
-  .info {
-    flex: 1;
-    min-width: 0;
-  }
+  .info { flex: 1; min-width: 0; }
 
   .banniere {
     font-size: 15px;
@@ -169,38 +158,17 @@
     text-overflow: ellipsis;
   }
 
-  .prix-box {
-    text-align: right;
-    flex-shrink: 0;
-  }
+  .economie { font-size: 11px; color: #4caf50; margin-top: 3px; }
 
-  .prix {
-    font-size: 24px;
-    font-weight: 800;
-    line-height: 1;
-  }
+  .prix-box { text-align: right; flex-shrink: 0; }
 
-  .prix-unit {
-    font-size: 11px;
-    color: #888;
-    margin-top: 2px;
-  }
+  .prix { font-size: 24px; font-weight: 800; line-height: 1; }
+  .prix-unit { font-size: 11px; color: #888; margin-top: 2px; }
 
-  .economie {
-    font-size: 11px;
-    color: #4caf50;
-    margin-top: 3px;
-  }
-
-  .loading {
-    text-align: center;
-    padding: 60px 20px;
-    color: #666;
-  }
+  .loading { text-align: center; padding: 60px 20px; color: #666; }
 
   .spinner {
-    width: 40px;
-    height: 40px;
+    width: 40px; height: 40px;
     border: 3px solid #333;
     border-top-color: #4fc3f7;
     border-radius: 50%;
@@ -210,41 +178,33 @@
 
   @keyframes spin { to { transform: rotate(360deg); } }
 
-  .erreur {
-    text-align: center;
-    padding: 40px 20px;
-    color: #ef5350;
-  }
+  .erreur { text-align: center; padding: 40px 20px; color: #ef5350; }
+  .vide { text-align: center; padding: 40px; color: #555; }
 
-  .btn-refresh {
-    background: #4fc3f7;
-    color: #000;
-    border: none;
-    padding: 10px 24px;
-    border-radius: 20px;
-    font-size: 14px;
-    font-weight: 600;
-    cursor: pointer;
-    margin-top: 12px;
-  }
-
-  .vide {
-    text-align: center;
-    padding: 40px;
-    color: #555;
+  .badge-ville {
+    font-size: 10px;
+    background: #2a2a4a;
+    color: #888;
+    padding: 2px 6px;
+    border-radius: 10px;
+    margin-top: 3px;
+    display: inline-block;
   }
 </style>
 </head>
 <body>
 
 <header>
-  <h1>⛽ Essence Saguenay</h1>
-  <div class="subtitle">Jonquière • Chicoutimi</div>
+  <h1>&#9981; Essence Saguenay</h1>
+  <div class="subtitle">Jonquière • Chicoutimi • Saguenay</div>
   <div class="maj" id="maj">Chargement...</div>
-  <div class="filtre">
-    <button class="actif" onclick="filtrer('tous')">Tous</button>
-    <button onclick="filtrer('jonquiere')">Jonquière</button>
-    <button onclick="filtrer('chicoutimi')">Chicoutimi</button>
+  <div class="header-actions">
+    <div class="filtre">
+      <button class="actif" onclick="filtrer(this, 'tous')">Tous</button>
+      <button onclick="filtrer(this, 'Jonquiere')">Jonquière</button>
+      <button onclick="filtrer(this, 'Chicoutimi')">Chicoutimi</button>
+    </div>
+    <button class="btn-refresh" id="btn-refresh" onclick="charger()">&#8635; Actualiser</button>
   </div>
 </header>
 
@@ -275,98 +235,105 @@ let toutesStations = [];
 let filtreActuel = 'tous';
 
 async function charger() {
+  const btn = document.getElementById('btn-refresh');
+  btn.classList.add('loading');
+  btn.textContent = '⏳ Chargement...';
+  
   try {
     const r = await fetch('data.json?t=' + Date.now());
     if (!r.ok) throw new Error('Fichier introuvable');
     const data = await r.json();
     
-    toutesStations = data.stations;
-    document.getElementById('maj').textContent = '🕐 Mis à jour: ' + data.mise_a_jour;
+    toutesStations = data.stations || [];
+    document.getElementById('maj').textContent = 'Mis a jour: ' + data.mise_a_jour;
     
-    afficher(toutesStations);
+    afficher(filtrerStations(toutesStations, filtreActuel));
   } catch(e) {
     document.getElementById('contenu').innerHTML = `
       <div class="erreur">
-        ❌ Données non disponibles<br>
-        <small>${e.message}</small><br>
-        <button class="btn-refresh" onclick="charger()">🔄 Réessayer</button>
+        Donnees non disponibles<br>
+        <small>${e.message}</small>
       </div>`;
+  } finally {
+    btn.classList.remove('loading');
+    btn.textContent = '↻ Actualiser';
   }
 }
 
-function filtrer(zone) {
+function filtrerStations(stations, zone) {
+  if (zone === 'tous') return stations;
+  return stations.filter(s => {
+    const ville = (s.ville || '').toLowerCase();
+    const adresse = (s.adresse || '').toLowerCase();
+    const zLower = zone.toLowerCase();
+    return ville.includes(zLower) || adresse.includes(zLower);
+  });
+}
+
+function filtrer(btn, zone) {
   filtreActuel = zone;
-  
-  // Met à jour les boutons
   document.querySelectorAll('.filtre button').forEach(b => b.classList.remove('actif'));
-  event.target.classList.add('actif');
-  
-  let stations = toutesStations;
-  
-  if (zone === 'jonquiere') {
-    stations = toutesStations.filter(s => 
-      s.adresse.toLowerCase().includes('jonquière') || 
-      s.adresse.toLowerCase().includes('jonquiere'));
-  } else if (zone === 'chicoutimi') {
-    stations = toutesStations.filter(s => 
-      s.adresse.toLowerCase().includes('chicoutimi'));
-  }
-  
-  afficher(stations);
+  btn.classList.add('actif');
+  afficher(filtrerStations(toutesStations, zone));
 }
 
 function afficher(stations) {
-  if (stations.length === 0) {
+  if (!stations || stations.length === 0) {
     document.getElementById('stats').style.display = 'none';
-    document.getElementById('contenu').innerHTML = '<div class="vide">Aucune station trouvée</div>';
+    document.getElementById('contenu').innerHTML = '<div class="vide">Aucune station trouvee</div>';
     return;
   }
+
+  const prix = stations.map(s => s.prix).filter(p => p > 0).sort((a, b) => a - b);
   
-  // Stats
-  const prix = stations.map(s => s.prix).filter(p => p > 0).sort((a,b) => a-b);
-  const moyen = prix.reduce((a,b) => a+b, 0) / prix.length;
+  if (prix.length === 0) {
+    document.getElementById('stats').style.display = 'none';
+    document.getElementById('contenu').innerHTML = '<div class="vide">Aucun prix disponible</div>';
+    return;
+  }
+
+  const moyen = prix.reduce((a, b) => a + b, 0) / prix.length;
   const prixMin = prix[0];
-  
-  document.getElementById('stat-bas').textContent = prix[0] + '¢';
-  document.getElementById('stat-moy').textContent = Math.round(moyen) + '¢';
-  document.getElementById('stat-haut').textContent = prix[prix.length-1] + '¢';
+
+  document.getElementById('stat-bas').textContent = prix[0] + 'c';
+  document.getElementById('stat-moy').textContent = Math.round(moyen) + 'c';
+  document.getElementById('stat-haut').textContent = prix[prix.length - 1] + 'c';
   document.getElementById('stats').style.display = 'grid';
-  
-  // Liste
+
   let html = '<div class="liste">';
-  
+
   stations.forEach((s, i) => {
-    const rang = i === 0 ? '🥇' : i === 1 ? '🥈' : i === 2 ? '🥉' : (i+1);
+    const rang = i === 0 ? '&#129351;' : i === 1 ? '&#129352;' : i === 2 ? '&#129353;' : (i + 1);
     const classe = i === 0 ? 'top1' : i === 1 ? 'top2' : i === 2 ? 'top3' : '';
-    const eco = i > 0 && s.prix > 0 ? `Économie: ${(s.prix - prixMin).toFixed(1)}¢/L` : '';
-    
-    const couleur = i === 0 ? '#4caf50' : 
+    const eco = i > 0 && s.prix > 0 ? `Economie: ${(s.prix - prixMin).toFixed(1)}c/L` : '';
+
+    const couleur = i === 0 ? '#4caf50' :
                     i < 3 ? '#8bc34a' :
                     s.prix > moyen + 5 ? '#ef5350' : '#e0e0e0';
-    
+
+    const ville = s.ville ? `<span class="badge-ville">${s.ville}</span>` : '';
+
     html += `
       <div class="station ${classe}">
         <div class="rang">${rang}</div>
         <div class="info">
           <div class="banniere">${s.banniere}</div>
-          <div class="adresse">📍 ${s.adresse}</div>
-          ${eco ? `<div class="economie">💰 ${eco}</div>` : ''}
+          <div class="adresse">&#128205; ${s.adresse}</div>
+          ${ville}
+          ${eco ? `<div class="economie">&#128176; ${eco}</div>` : ''}
         </div>
         <div class="prix-box">
           <div class="prix" style="color:${couleur}">${s.prix}</div>
-          <div class="prix-unit">¢/litre</div>
+          <div class="prix-unit">c/litre</div>
         </div>
       </div>`;
   });
-  
+
   html += '</div>';
   document.getElementById('contenu').innerHTML = html;
 }
 
-// Charge au démarrage
 charger();
-
-// Rafraîchit toutes les 30 minutes
 setInterval(charger, 30 * 60 * 1000);
 </script>
 
