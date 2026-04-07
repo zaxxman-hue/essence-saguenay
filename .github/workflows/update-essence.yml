@@ -23,7 +23,14 @@ jobs:
         run: pip install requests pandas openpyxl
 
       - name: Run scraper
-        run: python essence_saguenay.py
+        run: |
+          URL=$(curl -s -A "Mozilla/5.0" "https://regieessencequebec.ca/" | grep -o 'data/stations-[0-9]*.xlsx' | tail -1)
+          echo "URL trouvee: $URL"
+          if [ -z "$URL" ]; then
+            python essence_saguenay.py
+          else
+            python essence_saguenay.py "https://regieessencequebec.ca/$URL"
+          fi
 
       - name: Commit data
         run: |
