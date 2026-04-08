@@ -31,45 +31,18 @@
     box-shadow: 0 2px 20px rgba(0,0,0,0.5);
   }
 
-  .header-top {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 8px;
-  }
-
+  .header-top { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
   h1 { font-size: 19px; font-weight: 700; color: #fff; white-space: nowrap; }
-
   .header-right { display: flex; gap: 6px; align-items: center; flex-shrink: 0; }
 
   .btn-refresh, .btn-vue {
-    border-radius: 14px;
-    font-size: 12px;
-    cursor: pointer;
-    transition: all 0.2s;
-    white-space: nowrap;
-    padding: 5px 10px;
+    border-radius: 14px; font-size: 12px; cursor: pointer;
+    transition: all 0.2s; white-space: nowrap; padding: 5px 10px;
   }
 
-  .btn-refresh {
-    background: #2a2a4a;
-    border: 1px solid #444;
-    color: #4fc3f7;
-  }
-
-  .btn-vue {
-    background: #1e3a2a;
-    border: 1px solid #2a5a3a;
-    color: #4caf50;
-  }
-
-  .btn-vue.actif {
-    background: #4caf50;
-    color: #000;
-    border-color: #4caf50;
-    font-weight: 600;
-  }
-
+  .btn-refresh { background: #2a2a4a; border: 1px solid #444; color: #4fc3f7; }
+  .btn-vue { background: #1e3a2a; border: 1px solid #2a5a3a; color: #4caf50; }
+  .btn-vue.actif { background: #4caf50; color: #000; border-color: #4caf50; font-weight: 600; }
   .btn-refresh:hover { background: #3a3a5a; }
   .btn-vue:hover { background: #2a4a3a; }
 
@@ -77,41 +50,25 @@
   .source { font-size: 10px; color: #555; margin-top: 2px; }
 
   .filtre {
-    display: flex;
-    gap: 6px;
-    margin-top: 8px;
-    overflow-x: auto;
-    padding-bottom: 2px;
-    align-items: center;
+    display: flex; gap: 6px; margin-top: 8px;
+    overflow-x: auto; padding-bottom: 2px; align-items: center;
   }
 
   .filtre button {
-    background: #1e1e3a;
-    border: 1px solid #333;
-    color: #aaa;
-    padding: 5px 12px;
-    border-radius: 14px;
-    font-size: 12px;
-    cursor: pointer;
-    white-space: nowrap;
-    transition: all 0.2s;
+    background: #1e1e3a; border: 1px solid #333; color: #aaa;
+    padding: 5px 12px; border-radius: 14px; font-size: 12px;
+    cursor: pointer; white-space: nowrap; transition: all 0.2s;
   }
 
   .filtre button.actif {
-    background: #4fc3f7;
-    color: #000;
-    border-color: #4fc3f7;
-    font-weight: 600;
+    background: #4fc3f7; color: #000; border-color: #4fc3f7; font-weight: 600;
   }
 
   .filtre-spacer { flex: 1; }
 
   .stats {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 8px;
-    padding: 10px 16px;
-    background: #12122a;
+    display: grid; grid-template-columns: repeat(3, 1fr);
+    gap: 8px; padding: 10px 16px; background: #12122a;
     border-bottom: 1px solid #2a2a4a;
   }
 
@@ -122,40 +79,29 @@
   .stat-value.moyen { color: #ffb74d; }
   .stat-value.haut { color: #ef5350; }
 
-  /* Vue liste */
   #vue-liste { display: block; }
 
-  .liste {
-    padding: 10px 16px;
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-  }
+  .liste { padding: 10px 16px; display: flex; flex-direction: column; gap: 8px; }
 
   .station {
-    background: #1e1e3a;
-    border-radius: 12px;
-    padding: 12px 14px;
-    border: 1px solid #2a2a4a;
-    transition: transform 0.15s;
+    background: #1e1e3a; border-radius: 12px; padding: 12px 14px;
+    border: 2px solid #2a2a4a; transition: transform 0.15s;
   }
 
   .station:active { transform: scale(0.98); }
-  .station.top1 { border-color: #4caf50; }
-  .station.top2 { border-color: #8bc34a; }
-  .station.top3 { border-color: #cddc39; }
+  .station.couleur-vert { border-color: #4caf50; }
+  .station.couleur-orange { border-color: #ffb74d; }
+  .station.couleur-rouge { border-color: #ef5350; }
 
   .station-top { display: flex; align-items: center; gap: 10px; }
 
   .rang { font-size: 13px; font-weight: 700; color: #666; min-width: 28px; text-align: center; flex-shrink: 0; }
-  .station.top1 .rang { color: #4caf50; font-size: 22px; }
-  .station.top2 .rang { color: #8bc34a; font-size: 18px; }
-  .station.top3 .rang { color: #cddc39; font-size: 16px; }
+  .station.couleur-vert .rang { color: #4caf50; }
+  .station.couleur-orange .rang { color: #ffb74d; }
+  .station.couleur-rouge .rang { color: #ef5350; }
 
   .info { flex: 1; min-width: 0; }
-
   .banniere { font-size: 19px; font-weight: 700; color: #fff; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-
   .badge-ville { font-size: 10px; background: #2a2a4a; color: #888; padding: 2px 6px; border-radius: 8px; display: inline-block; margin-top: 3px; }
 
   .prix-box { text-align: right; flex-shrink: 0; }
@@ -163,48 +109,19 @@
   .prix-unit { font-size: 11px; color: #888; margin-top: 2px; }
 
   .station-bottom { display: flex; align-items: center; justify-content: space-between; margin-top: 8px; padding-top: 8px; border-top: 1px solid #252540; gap: 8px; }
-
   .adresse { font-size: 12px; color: #777; flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
   .btn-map { background: #1a3a2a; border: 1px solid #2a5a3a; color: #4caf50; padding: 5px 10px; border-radius: 8px; font-size: 11px; cursor: pointer; white-space: nowrap; text-decoration: none; display: inline-flex; align-items: center; gap: 3px; flex-shrink: 0; transition: background 0.2s; }
   .btn-map:hover { background: #2a4a3a; }
 
-  /* Vue carte */
   #vue-carte { display: none; }
+  #map { height: calc(100vh - 140px); width: 100%; z-index: 1; }
 
-  #map {
-    height: calc(100vh - 140px);
-    width: 100%;
-    z-index: 1;
-  }
-
-  /* Popup Leaflet custom */
-  .popup-content {
-    text-align: center;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    min-width: 140px;
-  }
-
+  .popup-content { text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; min-width: 140px; }
   .popup-banniere { font-size: 14px; font-weight: 700; color: #1a1a2e; }
-  .popup-prix { font-size: 26px; font-weight: 900; color: #4caf50; line-height: 1.1; }
+  .popup-prix { font-size: 26px; font-weight: 900; line-height: 1.1; }
   .popup-unit { font-size: 11px; color: #666; }
   .popup-adresse { font-size: 11px; color: #555; margin-top: 4px; }
-
-  /* Marqueur prix custom */
-  .marker-prix {
-    background: #1e1e3a;
-    border: 2px solid #4fc3f7;
-    border-radius: 8px;
-    padding: 3px 6px;
-    font-size: 12px;
-    font-weight: 800;
-    color: #4caf50;
-    white-space: nowrap;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.5);
-  }
-
-  .marker-prix.bas { border-color: #4caf50; color: #4caf50; }
-  .marker-prix.haut { border-color: #ef5350; color: #ef5350; }
 
   .loading { text-align: center; padding: 60px 20px; color: #666; }
   .spinner { width: 36px; height: 36px; border: 3px solid #333; border-top-color: #4fc3f7; border-radius: 50%; animation: spin 0.8s linear infinite; margin: 0 auto 14px; }
@@ -228,6 +145,7 @@
   <div class="filtre">
     <button class="actif" id="btn-jonquiere" onclick="filtrer(this, 'Jonquiere')">Jonquière</button>
     <button id="btn-chicoutimi" onclick="filtrer(this, 'Chicoutimi')">Chicoutimi</button>
+    <button id="btn-labaie" onclick="filtrer(this, 'LaBaie')">La Baie</button>
     <div class="filtre-spacer"></div>
     <button id="btn-tous" onclick="filtrer(this, 'tous')">Tous</button>
   </div>
@@ -248,7 +166,6 @@
   </div>
 </div>
 
-<!-- Vue liste -->
 <div id="vue-liste">
   <div id="contenu">
     <div class="loading">
@@ -258,7 +175,6 @@
   </div>
 </div>
 
-<!-- Vue carte -->
 <div id="vue-carte">
   <div id="map"></div>
 </div>
@@ -271,6 +187,16 @@ let carteInit = false;
 let leafletMap = null;
 let markers = [];
 
+// Determine la couleur selon le tiers de prix
+function getCouleur(prix, prixMin, prixMax) {
+  const range = prixMax - prixMin;
+  if (range === 0) return 'vert';
+  const tiers = range / 3;
+  if (prix <= prixMin + tiers) return 'vert';
+  if (prix <= prixMin + tiers * 2) return 'orange';
+  return 'rouge';
+}
+
 async function charger() {
   const btn = document.getElementById('btn-refresh');
   btn.textContent = '⏳';
@@ -282,7 +208,6 @@ async function charger() {
 
     toutesStations = data.stations || [];
     document.getElementById('maj').textContent = 'Mis à jour: ' + data.mise_a_jour;
-
     if (data.fichier_source) {
       document.getElementById('source').textContent = 'Source: ' + data.fichier_source;
     }
@@ -303,8 +228,13 @@ async function charger() {
 }
 
 function filtrerStations(stations, zone) {
-  if (zone === 'tous') return stations;
-  return stations.filter(s => (s.ville || '').toLowerCase().includes(zone.toLowerCase()));
+  if (zone === 'tous') return [...stations].sort((a, b) => a.prix - b.prix);
+  return stations.filter(s => {
+    const ville = (s.ville || '').toLowerCase();
+    const adresse = (s.adresse || '').toLowerCase();
+    if (zone === 'LaBaie') return ville.includes('baie') || adresse.includes('la baie') || adresse.includes('ville de la baie');
+    return ville.includes(zone.toLowerCase());
+  });
 }
 
 function filtrer(btn, zone) {
@@ -344,17 +274,12 @@ function toggleVue() {
 
 function afficherStats(stations) {
   const prix = stations.map(s => s.prix).filter(p => p > 0).sort((a, b) => a - b);
-  if (prix.length === 0) {
-    document.getElementById('stats').style.display = 'none';
-    return;
-  }
+  if (prix.length === 0) { document.getElementById('stats').style.display = 'none'; return; }
   const moyen = prix.reduce((a, b) => a + b, 0) / prix.length;
   document.getElementById('stat-bas').textContent = prix[0] + '¢';
   document.getElementById('stat-moy').textContent = Math.round(moyen) + '¢';
   document.getElementById('stat-haut').textContent = prix[prix.length - 1] + '¢';
-  if (vueActuelle === 'liste') {
-    document.getElementById('stats').style.display = 'grid';
-  }
+  if (vueActuelle === 'liste') document.getElementById('stats').style.display = 'grid';
 }
 
 function afficherListe(stations) {
@@ -369,18 +294,20 @@ function afficherListe(stations) {
     return;
   }
 
-  const moyen = prix.reduce((a, b) => a + b, 0) / prix.length;
+  const prixMin = prix[0];
+  const prixMax = prix[prix.length - 1];
+
   let html = '<div class="liste">';
 
   stations.forEach((s, i) => {
     const rang = i === 0 ? '&#129351;' : i === 1 ? '&#129352;' : i === 2 ? '&#129353;' : (i + 1);
-    const classe = i === 0 ? 'top1' : i === 1 ? 'top2' : i === 2 ? 'top3' : '';
-    const couleur = i === 0 ? '#4caf50' : i < 3 ? '#8bc34a' : s.prix > moyen + 5 ? '#ef5350' : '#e0e0e0';
+    const couleur = getCouleur(s.prix, prixMin, prixMax);
+    const couleurHex = couleur === 'vert' ? '#4caf50' : couleur === 'orange' ? '#ffb74d' : '#ef5350';
     const ville = s.ville && s.ville !== 'Saguenay' ? `<span class="badge-ville">${s.ville}</span>` : '';
     const mapsUrl = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(s.adresse + ', Saguenay, QC, Canada');
 
     html += `
-      <div class="station ${classe}">
+      <div class="station couleur-${couleur}">
         <div class="station-top">
           <div class="rang">${rang}</div>
           <div class="info">
@@ -388,7 +315,7 @@ function afficherListe(stations) {
             ${ville}
           </div>
           <div class="prix-box">
-            <div class="prix" style="color:${couleur}">${s.prix}</div>
+            <div class="prix" style="color:${couleurHex}">${s.prix}</div>
             <div class="prix-unit">¢/litre</div>
           </div>
         </div>
@@ -404,7 +331,6 @@ function afficherListe(stations) {
 }
 
 function afficherCarte(stations) {
-  // Initialise la carte si pas encore fait
   if (!carteInit) {
     leafletMap = L.map('map').setView([48.42, -71.07], 12);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -413,7 +339,6 @@ function afficherCarte(stations) {
     carteInit = true;
   }
 
-  // Efface les marqueurs existants
   markers.forEach(m => leafletMap.removeLayer(m));
   markers = [];
 
@@ -423,55 +348,41 @@ function afficherCarte(stations) {
   const prixMin = prix[0];
   const prixMax = prix[prix.length - 1];
 
-  // Géocode via OpenStreetMap Nominatim
   stations.forEach(s => {
-    if (!s.prix || s.prix <= 0) return;
+    if (!s.prix || s.prix <= 0 || !s.lat || !s.lon) return;
 
-    const estBas = s.prix <= prixMin + 2;
-    const estHaut = s.prix >= prixMax - 2;
-    const couleur = estBas ? '#4caf50' : estHaut ? '#ef5350' : '#4fc3f7';
-    const borderColor = estBas ? '#2a7a3a' : estHaut ? '#9a2a2a' : '#2a6a8a';
-
-    // Marqueur avec point coloré + tag coloré
-    const pointCouleur = estBas ? '#4caf50' : '#ef5350';
-    const pointBorder = estBas ? '#2a7a3a' : '#9a2a2a';
-    const tagBorder = estBas ? '#4caf50' : '#ef5350';
-    const tagTextCouleur = estBas ? '#1a4a1a' : '#4a1a1a';
-    const tagBg = estBas ? 'rgba(220,255,220,0.97)' : 'rgba(255,220,220,0.97)';
+    const couleur = getCouleur(s.prix, prixMin, prixMax);
+    const pointCouleur = couleur === 'vert' ? '#4caf50' : couleur === 'orange' ? '#ffb74d' : '#ef5350';
+    const pointBorder = couleur === 'vert' ? '#2a7a3a' : couleur === 'orange' ? '#9a6a00' : '#9a2a2a';
+    const tagBg = couleur === 'vert' ? 'rgba(220,255,220,0.97)' : couleur === 'orange' ? 'rgba(255,240,200,0.97)' : 'rgba(255,220,220,0.97)';
+    const tagText = couleur === 'vert' ? '#1a4a1a' : couleur === 'orange' ? '#4a3000' : '#4a1a1a';
 
     const icon = L.divIcon({
       className: '',
       html: `<div style="display:flex;flex-direction:column;align-items:center;">
                <div style="width:14px;height:14px;background:${pointCouleur};border:2px solid ${pointBorder};border-radius:50%;box-shadow:0 2px 6px rgba(0,0,0,0.5);"></div>
-               <div style="background:${tagBg};border:2px solid ${tagBorder};border-radius:6px;padding:2px 7px;font-size:13px;font-weight:900;color:${tagTextCouleur};white-space:nowrap;box-shadow:0 2px 8px rgba(0,0,0,0.4);font-family:-apple-system,sans-serif;margin-top:2px;">${s.prix}¢</div>
+               <div style="background:${tagBg};border:2px solid ${pointCouleur};border-radius:6px;padding:2px 7px;font-size:13px;font-weight:900;color:${tagText};white-space:nowrap;box-shadow:0 2px 8px rgba(0,0,0,0.4);font-family:-apple-system,sans-serif;margin-top:2px;">${s.prix}¢</div>
              </div>`,
       iconAnchor: [30, 26]
     });
 
-    // Utilise les coordonnees GPS du fichier Excel directement
-    if (s.lat && s.lon) {
-      const marker = L.marker([s.lat, s.lon], { icon })
-        .addTo(leafletMap)
-        .bindPopup(`
-          <div class="popup-content">
-            <div class="popup-banniere">${s.banniere}</div>
-            <div class="popup-prix">${s.prix}¢</div>
-            <div class="popup-unit">/ litre</div>
-            <div class="popup-adresse">${s.adresse}</div>
-          </div>
-        `);
-      markers.push(marker);
-    }
+    const marker = L.marker([s.lat, s.lon], { icon })
+      .addTo(leafletMap)
+      .bindPopup(`
+        <div class="popup-content">
+          <div class="popup-banniere">${s.banniere}</div>
+          <div class="popup-prix" style="color:${pointCouleur}">${s.prix}¢</div>
+          <div class="popup-unit">/ litre</div>
+          <div class="popup-adresse">${s.adresse}</div>
+        </div>
+      `);
+    markers.push(marker);
   });
 
-  // Centre la carte sur Saguenay
-  if (filtreActuel === 'Jonquiere') {
-    leafletMap.setView([48.43, -71.22], 12);
-  } else if (filtreActuel === 'Chicoutimi') {
-    leafletMap.setView([48.42, -71.05], 12);
-  } else {
-    leafletMap.setView([48.42, -71.10], 11);
-  }
+  if (filtreActuel === 'Jonquiere') leafletMap.setView([48.43, -71.22], 12);
+  else if (filtreActuel === 'Chicoutimi') leafletMap.setView([48.42, -71.05], 12);
+  else if (filtreActuel === 'LaBaie') leafletMap.setView([48.33, -70.88], 13);
+  else leafletMap.setView([48.40, -71.10], 11);
 }
 
 charger();
