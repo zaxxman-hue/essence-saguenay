@@ -2,8 +2,15 @@ name: Update Essence Data
 
 on:
   schedule:
-    - cron: '0 8 * * *'   # 8h AM
-    - cron: '0 17 * * *'  # 5h PM
+    - cron: '0 10 * * *'
+    - cron: '0 12 * * *'
+    - cron: '0 14 * * *'
+    - cron: '0 16 * * *'
+    - cron: '0 18 * * *'
+    - cron: '0 20 * * *'
+    - cron: '0 22 * * *'
+    - cron: '0 0 * * *'
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -22,83 +29,47 @@ jobs:
       - name: Install dependencies
         run: pip install requests pandas openpyxl
 
-      - name: Find and download Excel
+      - name: Find Excel URL
         run: |
           python3 - <<'EOF'
           import requests
-          import re
-          import json
-          import os
-          from datetime import datetime
+          from datetime import datetime, timedelta
+          import time
 
           headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+          base = "https://regieessencequebec.ca/data/stations-"
+          found = None
+          now = datetime.utcnow()
 
-          # Methode 1: cherche dans le JS bundle du site
-          urls_to_check = [
-              "https://regieessencequebec.ca/",
-              "https://regieessencequebec.ca/index.html",
-          ]
-
-          found_url = None
-          for page_url in urls_to_check:
-              try:
-                  r = requests.get(page_url, headers=headers, timeout=15)
-                  matches = re.findall(r'stations-\d{14,}\.xlsx', r.text)
-                  if matches:
-                      found_url = f"https://regieessencequebec.ca/data/{matches[-1]}"
-                      print(f"URL trouvee dans page: {found_url}")
-                      break
-              except Exception as e:
-                  print(f"Erreur: {e}")
-
-          # Methode 2: cherche dans les fichiers JS
-          if not found_url:
-              try:
-                  r = requests.get("https://regieessencequebec.ca/", headers=headers, timeout=15)
-                  js_files = re.findall(r'src="([^"]*\.js[^"]*)"', r.text)
-                  for js in js_files[:5]:
-                      if not js.startswith('http'):
-                          js = f"https://regieessencequebec.ca{js}"
-                      try:
-                          rjs = requests.get(js, headers=headers, timeout=10)
-                          matches = re.findall(r'stations-\d{14,}\.xlsx', rjs.text)
-                          if matches:
-                              found_url = f"https://regieessencequebec.ca/data/{matches[-1]}"
-                              print(f"URL trouvee dans JS: {found_url}")
-                              break
-                      except:
-                          pass
-              except Exception as e:
-                  print(f"Erreur JS: {e}")
-
-          # Methode 3: aujourd'hui on connait le format exact YYYYMMDDHHMMSS
-          # On essaie toutes les secondes de l'heure courante et precedente
-          if not found_url:
-              now = datetime.utcnow()
-              for h in range(now.hour, max(now.hour-6, -1), -1):
-                  for m in range(59, -1, -1):
-                      for s in [0, 1, 2, 30]:
-                          ts = now.strftime(f"%Y%m%d{h:02d}{m:02d}{s:02d}")
-                          url = f"https://regieessencequebec.ca/data/stations-{ts}.xlsx"
-                          try:
-                              resp = requests.head(url, headers=headers, timeout=3)
-                              if resp.status_code == 200:
-                                  found_url = url
-                                  print(f"URL trouvee bruteforce: {found_url}")
-                                  break
-                          except:
-                              pass
-                      if found_url:
+          print(f"Recherche autour de {now.strftime('%Y-%m-%d %H:%M')} UTC")
+          
+          # Teste seulement les minutes des 4 dernières heures (240 requetes max)
+          for delta_min in range(0, 241):
+              dt = now - timedelta(minutes=delta_min)
+              # Teste avec secondes 00, 30 seulement pour réduire les requêtes
+              for sec in [0, 30]:
+                  ts = dt.strftime(f"%Y%m%d%H%M{sec:02d}")
+                  url = f"{base}{ts}.xlsx"
+                  try:
+                      r = requests.head(url, headers=headers, timeout=3)
+                      if r.status_code == 200:
+                          found = url
+                          print(f"Trouve: {url}")
                           break
-                  if found_url:
-                      break
+                  except:
+                      pass
+              if found:
+                  break
+              # Petite pause toutes les 50 requetes pour eviter le blocage
+              if delta_min % 50 == 0 and delta_min > 0:
+                  time.sleep(1)
 
-          if found_url:
+          if found:
               with open("excel_url.txt", "w") as f:
-                  f.write(found_url)
-              print(f"URL sauvegardee: {found_url}")
+                  f.write(found)
+              print(f"URL sauvegardee: {found}")
           else:
-              print("Aucune URL trouvee")
+              print("Aucune URL trouvee dans les 4 dernieres heures")
               with open("excel_url.txt", "w") as f:
                   f.write("")
           EOF
@@ -106,7 +77,7 @@ jobs:
       - name: Run scraper
         run: |
           URL=$(cat excel_url.txt)
-          echo "URL utilisee: $URL"
+          echo "URL: $URL"
           python essence_saguenay.py "$URL"
 
       - name: Commit data
