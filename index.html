@@ -56,17 +56,8 @@
 
   .btn-refresh:hover { background: #3a3a5a; }
 
-  .maj {
-    font-size: 10px;
-    color: #4fc3f7;
-    margin-top: 4px;
-  }
-
-  .source {
-    font-size: 10px;
-    color: #555;
-    margin-top: 2px;
-  }
+  .maj { font-size: 10px; color: #4fc3f7; margin-top: 4px; }
+  .source { font-size: 10px; color: #555; margin-top: 2px; }
 
   .filtre {
     display: flex;
@@ -74,6 +65,7 @@
     margin-top: 8px;
     overflow-x: auto;
     padding-bottom: 2px;
+    align-items: center;
   }
 
   .filtre button {
@@ -94,6 +86,8 @@
     border-color: #4fc3f7;
     font-weight: 600;
   }
+
+  .filtre-spacer { flex: 1; }
 
   .stats {
     display: grid;
@@ -247,9 +241,10 @@
   <div class="maj" id="maj">Chargement...</div>
   <div class="source" id="source"></div>
   <div class="filtre">
-    <button class="actif" onclick="filtrer(this, 'tous')">Tous</button>
-    <button onclick="filtrer(this, 'Jonquiere')">Jonquière</button>
-    <button onclick="filtrer(this, 'Chicoutimi')">Chicoutimi</button>
+    <button class="actif" id="btn-jonquiere" onclick="filtrer(this, 'Jonquiere')">Jonquière</button>
+    <button id="btn-chicoutimi" onclick="filtrer(this, 'Chicoutimi')">Chicoutimi</button>
+    <div class="filtre-spacer"></div>
+    <button id="btn-tous" onclick="filtrer(this, 'tous')">Tous</button>
   </div>
 </header>
 
@@ -277,7 +272,7 @@
 
 <script>
 let toutesStations = [];
-let filtreActuel = 'tous';
+let filtreActuel = 'Jonquiere';
 
 async function charger() {
   const btn = document.getElementById('btn-refresh');
