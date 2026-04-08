@@ -432,10 +432,19 @@ function afficherCarte(stations) {
     const couleur = estBas ? '#4caf50' : estHaut ? '#ef5350' : '#4fc3f7';
     const borderColor = estBas ? '#2a7a3a' : estHaut ? '#9a2a2a' : '#2a6a8a';
 
-    // Marqueur avec prix custom
+    // Marqueur avec point coloré + tag coloré
+    const pointCouleur = estBas ? '#4caf50' : '#ef5350';
+    const pointBorder = estBas ? '#2a7a3a' : '#9a2a2a';
+    const tagBorder = estBas ? '#4caf50' : '#ef5350';
+    const tagTextCouleur = estBas ? '#1a4a1a' : '#4a1a1a';
+    const tagBg = estBas ? 'rgba(220,255,220,0.97)' : 'rgba(255,220,220,0.97)';
+
     const icon = L.divIcon({
       className: '',
-      html: `<div style="display:flex;flex-direction:column;align-items:center;"><div style="width:14px;height:14px;background:#FFD700;border:2px solid #B8860B;border-radius:50%;box-shadow:0 2px 6px rgba(0,0,0,0.5);"></div><div style="background:rgba(255,255,255,0.95);border:1.5px solid #FFD700;border-radius:6px;padding:2px 7px;font-size:13px;font-weight:900;color:#1a1a2e;white-space:nowrap;box-shadow:0 2px 8px rgba(0,0,0,0.4);font-family:-apple-system,sans-serif;margin-top:2px;">${s.prix}¢</div></div>`,
+      html: `<div style="display:flex;flex-direction:column;align-items:center;">
+               <div style="width:14px;height:14px;background:${pointCouleur};border:2px solid ${pointBorder};border-radius:50%;box-shadow:0 2px 6px rgba(0,0,0,0.5);"></div>
+               <div style="background:${tagBg};border:2px solid ${tagBorder};border-radius:6px;padding:2px 7px;font-size:13px;font-weight:900;color:${tagTextCouleur};white-space:nowrap;box-shadow:0 2px 8px rgba(0,0,0,0.4);font-family:-apple-system,sans-serif;margin-top:2px;">${s.prix}¢</div>
+             </div>`,
       iconAnchor: [30, 26]
     });
 
