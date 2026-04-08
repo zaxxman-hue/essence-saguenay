@@ -164,6 +164,7 @@ def sauvegarder_json(df, url_source=""):
 
     data = {
         "mise_a_jour": datetime.now().strftime("%d/%m/%Y %H:%M"),
+        "derniere_verification": datetime.now().strftime("%d/%m/%Y %H:%M:%S"),
         "fichier_source": nom_fichier,
         "total": len(stations),
         "stations": stations
