@@ -1,89 +1,191 @@
-name: Update Essence Data
+#!/usr/bin/env python3
+"""
+Regie Essence Quebec - Scraper Saguenay
+Telecharge les donnees et filtre Jonquiere/Chicoutimi
+"""
 
-on:
-  schedule:
-    - cron: '0 10 * * *'
-    - cron: '0 12 * * *'
-    - cron: '0 14 * * *'
-    - cron: '0 16 * * *'
-    - cron: '0 18 * * *'
-    - cron: '0 20 * * *'
-    - cron: '0 22 * * *'
-    - cron: '0 0 * * *'
-    - cron: '0 2 * * *'
-  workflow_dispatch:
+import requests
+import pandas as pd
+import json
+import os
+import re
+import sys
+from datetime import datetime
 
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
+OUTPUT_JSON = "data.json"
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+def telecharger_excel(url=None):
+    if not url or url.strip() == "":
+        print("Aucune URL fournie")
+        return None
 
-      - name: Install dependencies
-        run: pip install requests pandas openpyxl
+    print(f"Telechargement: {url}")
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
-      - name: Find Excel URL
-        run: |
-          python3 - <<'EOF'
-          import requests
-          from datetime import datetime, timedelta
-          import time
+    try:
+        response = requests.get(url, headers=headers, timeout=30)
+        if response.status_code == 200:
+            filepath = "/tmp/stations_essence.xlsx"
+            with open(filepath, 'wb') as f:
+                f.write(response.content)
+            print(f"Fichier telecharge: {len(response.content)} bytes")
+            return filepath
+        else:
+            print(f"Erreur HTTP: {response.status_code}")
+            return None
+    except Exception as e:
+        print(f"Erreur: {e}")
+        return None
 
-          headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-          base = "https://regieessencequebec.ca/data/stations-"
-          found = None
-          now = datetime.utcnow()
+def convertir_prix(val):
+    try:
+        s = str(val).replace(',', '.').replace('¢', '').replace('$', '').replace(' ', '').strip()
+        p = float(s)
+        if p <= 0:
+            return 0
+        if p >= 100:
+            return round(p, 1)
+        if p < 10:
+            return round(p * 100, 1)
+        return round(p, 1)
+    except:
+        return 0
 
-          print(f"Recherche autour de {now.strftime('%Y-%m-%d %H:%M')} UTC")
-          
-          # Teste seulement les minutes des 4 dernières heures (240 requetes max)
-          for delta_min in range(0, 241):
-              dt = now - timedelta(minutes=delta_min)
-              # Teste avec secondes 00, 30 seulement pour réduire les requêtes
-              for sec in [0, 30]:
-                  ts = dt.strftime(f"%Y%m%d%H%M{sec:02d}")
-                  url = f"{base}{ts}.xlsx"
-                  try:
-                      r = requests.head(url, headers=headers, timeout=3)
-                      if r.status_code == 200:
-                          found = url
-                          print(f"Trouve: {url}")
-                          break
-                  except:
-                      pass
-              if found:
-                  break
-              # Petite pause toutes les 50 requetes pour eviter le blocage
-              if delta_min % 50 == 0 and delta_min > 0:
-                  time.sleep(1)
+def filtrer_saguenay(filepath):
+    try:
+        df = pd.read_excel(filepath)
+        print(f"Total stations au Quebec: {len(df)}")
 
-          if found:
-              with open("excel_url.txt", "w") as f:
-                  f.write(found)
-              print(f"URL sauvegardee: {found}")
-          else:
-              print("Aucune URL trouvee dans les 4 dernieres heures")
-              with open("excel_url.txt", "w") as f:
-                  f.write("")
-          EOF
+        col_banniere = col_adresse = col_prix = col_region = col_cp = None
+        for col in df.columns:
+            col_lower = col.lower()
+            if 'banni' in col_lower:
+                col_banniere = col
+            if 'adresse' in col_lower:
+                col_adresse = col
+            if 'regulier' in col_lower or 'régulier' in col_lower:
+                col_prix = col
+            if 'region' in col_lower or 'région' in col_lower:
+                col_region = col
+            if 'postal' in col_lower:
+                col_cp = col
 
-      - name: Run scraper
-        run: |
-          URL=$(cat excel_url.txt)
-          echo "URL: $URL"
-          python essence_saguenay.py "$URL"
+        print(f"Colonnes: banniere={col_banniere}, adresse={col_adresse}, prix={col_prix}, region={col_region}, cp={col_cp}")
 
-      - name: Commit data
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add data.json
-          git diff --staged --quiet || git commit -m "Update essence data"
-          git push
+        masque = pd.Series([False] * len(df))
+        if col_region:
+            masque = masque | df[col_region].astype(str).str.contains('Saguenay', case=False, na=False)
+        if col_adresse:
+            masque = masque | df[col_adresse].astype(str).str.contains('Saguenay', case=False, na=False)
+
+        df_saguenay = df[masque].copy()
+        print(f"Stations Saguenay trouvees: {len(df_saguenay)}")
+
+        colonnes = [col_banniere, col_adresse, col_prix]
+        if col_cp:
+            colonnes.append(col_cp)
+
+        df_final = df_saguenay[colonnes].copy()
+        noms = ['Banniere', 'Adresse', 'Prix']
+        if col_cp:
+            noms.append('CodePostal')
+        df_final.columns = noms
+
+        print(f"Exemple prix bruts: {df_final['Prix'].head(5).tolist()}")
+
+        df_final['Prix'] = df_final['Prix'].apply(convertir_prix)
+        df_final = df_final[df_final['Prix'] > 0]
+        df_final = df_final.sort_values('Prix')
+
+        print(f"Stations avec prix valides: {len(df_final)}")
+        if len(df_final) > 0:
+            print(f"Prix min: {df_final['Prix'].min()}, max: {df_final['Prix'].max()}")
+        return df_final
+
+    except Exception as e:
+        import traceback
+        print(f"Erreur: {e}")
+        traceback.print_exc()
+        return None
+
+def determiner_ville(row):
+    if 'CodePostal' in row.index and pd.notna(row.get('CodePostal')):
+        cp = str(row['CodePostal']).upper().strip()
+        if cp.startswith(('G7H', 'G7B', 'G7G')):
+            return "Chicoutimi"
+        elif cp.startswith(('G7J', 'G7K', 'G7X', 'G7S')):
+            return "Jonquiere"
+    return "Saguenay"
+
+def sauvegarder_json(df, url_source=""):
+    stations = []
+    for _, row in df.iterrows():
+        try:
+            prix_num = float(row['Prix'])
+        except:
+            prix_num = 0
+
+        stations.append({
+            "banniere": str(row['Banniere']) if pd.notna(row['Banniere']) else "Inconnue",
+            "adresse": str(row['Adresse']),
+            "ville": determiner_ville(row),
+            "prix": round(prix_num, 1)
+        })
+
+    # Extrait le nom du fichier depuis l'URL
+    nom_fichier = ""
+    if url_source:
+        match = re.search(r'stations-[\d]+\.xlsx', url_source)
+        if match:
+            nom_fichier = match.group(0)
+
+    data = {
+        "mise_a_jour": datetime.now().strftime("%d/%m/%Y %H:%M"),
+        "fichier_source": nom_fichier,
+        "total": len(stations),
+        "stations": stations
+    }
+
+    with open(OUTPUT_JSON, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    print(f"JSON sauvegarde: {OUTPUT_JSON}")
+    if stations:
+        print(f"Meilleur prix: {stations[0]['banniere']} - {stations[0]['adresse']} - {stations[0]['prix']}c")
+    return True
+
+def main():
+    print("=" * 50)
+    print("Regie Essence Quebec - Saguenay")
+    print(f"{datetime.now().strftime('%d/%m/%Y %H:%M')}")
+    print("=" * 50)
+
+    url = sys.argv[1].strip() if len(sys.argv) > 1 else None
+    if url:
+        print(f"URL: {url}")
+
+    filepath = telecharger_excel(url)
+    if not filepath:
+        data = {
+            "mise_a_jour": datetime.now().strftime("%d/%m/%Y %H:%M"),
+            "fichier_source": "",
+            "total": 0,
+            "stations": [],
+            "erreur": "Fichier Excel non disponible"
+        }
+        with open(OUTPUT_JSON, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        return False
+
+    df = filtrer_saguenay(filepath)
+    if df is None or len(df) == 0:
+        print("Aucune station trouvee")
+        return False
+
+    sauvegarder_json(df, url or "")
+    os.remove(filepath)
+    print("Termine!")
+    return True
+
+if __name__ == "__main__":
+    main()
