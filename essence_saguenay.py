@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Regie Essence Quebec - Scraper Saguenay
-Telecharge les donnees et filtre Jonquiere/Chicoutimi
+Telecharge les donnees et filtre Jonquiere/Chicoutimi/LaBaie
 """
 
 import requests
@@ -55,7 +55,6 @@ def filtrer_saguenay(filepath):
     try:
         df = pd.read_excel(filepath)
         print(f"Total stations au Quebec: {len(df)}")
-        print(f"Colonnes disponibles: {df.columns.tolist()}")
 
         col_banniere = col_adresse = col_prix = col_region = col_cp = None
         col_lat = col_lon = None
@@ -66,18 +65,16 @@ def filtrer_saguenay(filepath):
                 col_banniere = col
             if 'adresse' in col_lower:
                 col_adresse = col
-            if 'regulier' in col_lower or 'régulier' in col_lower:
+            if 'regulier' in col_lower or 'regulier' in col_lower:
                 col_prix = col
-            if 'region' in col_lower or 'région' in col_lower:
+            if 'region' in col_lower:
                 col_region = col
             if 'postal' in col_lower:
                 col_cp = col
-            if 'latitude' in col_lower or col_lower == 'lat':
+            if 'latitude' in col_lower:
                 col_lat = col
-            if 'longitude' in col_lower or col_lower == 'lon' or col_lower == 'lng':
+            if 'longitude' in col_lower:
                 col_lon = col
-
-        print(f"Colonnes: banniere={col_banniere}, adresse={col_adresse}, prix={col_prix}, region={col_region}, cp={col_cp}, lat={col_lat}, lon={col_lon}")
 
         masque = pd.Series([False] * len(df))
         if col_region:
@@ -104,15 +101,11 @@ def filtrer_saguenay(filepath):
         df_final = df_saguenay[colonnes].copy()
         df_final.columns = noms
 
-        print(f"Exemple prix bruts: {df_final['Prix'].head(5).tolist()}")
-
         df_final['Prix'] = df_final['Prix'].apply(convertir_prix)
         df_final = df_final[df_final['Prix'] > 0]
         df_final = df_final.sort_values('Prix')
 
         print(f"Stations avec prix valides: {len(df_final)}")
-        if len(df_final) > 0:
-            print(f"Prix min: {df_final['Prix'].min()}, max: {df_final['Prix'].max()}")
         return df_final
 
     except Exception as e:
@@ -122,9 +115,12 @@ def filtrer_saguenay(filepath):
         return None
 
 def determiner_ville(row):
+    """Determine la ville selon le code postal - La Baie separee de Chicoutimi"""
     if 'CodePostal' in row.index and pd.notna(row.get('CodePostal')):
         cp = str(row['CodePostal']).upper().strip()
-        if cp.startswith(('G7H', 'G7B', 'G7G')):
+        if cp.startswith('G7B'):
+            return "LaBaie"
+        elif cp.startswith(('G7H', 'G7G')):
             return "Chicoutimi"
         elif cp.startswith(('G7J', 'G7K', 'G7X', 'G7S')):
             return "Jonquiere"
@@ -138,7 +134,6 @@ def sauvegarder_json(df, url_source=""):
         except:
             prix_num = 0
 
-        # Coordonnees GPS
         lat = None
         lon = None
         if 'Lat' in row.index and pd.notna(row.get('Lat')):
@@ -177,11 +172,14 @@ def sauvegarder_json(df, url_source=""):
     with open(OUTPUT_JSON, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print(f"JSON sauvegarde: {OUTPUT_JSON}")
+    villes = {}
+    for s in stations:
+        v = s['ville']
+        villes[v] = villes.get(v, 0) + 1
+    print(f"Repartition par ville: {villes}")
+
     if stations:
         print(f"Meilleur prix: {stations[0]['banniere']} - {stations[0]['adresse']} - {stations[0]['prix']}c")
-        if stations[0]['lat']:
-            print(f"Coordonnees: {stations[0]['lat']}, {stations[0]['lon']}")
     return True
 
 def main():
