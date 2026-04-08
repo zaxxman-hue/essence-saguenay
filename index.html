@@ -7,6 +7,8 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <title>Essence Saguenay</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -15,6 +17,8 @@
     background: #0f0f1a;
     color: #e0e0e0;
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
   }
 
   header {
@@ -22,7 +26,7 @@
     padding: 14px 16px 10px;
     position: sticky;
     top: 0;
-    z-index: 100;
+    z-index: 1000;
     border-bottom: 1px solid #2a2a4a;
     box-shadow: 0 2px 20px rgba(0,0,0,0.5);
   }
@@ -34,27 +38,40 @@
     gap: 8px;
   }
 
-  h1 {
-    font-size: 19px;
-    font-weight: 700;
-    color: #fff;
+  h1 { font-size: 19px; font-weight: 700; color: #fff; white-space: nowrap; }
+
+  .header-right { display: flex; gap: 6px; align-items: center; flex-shrink: 0; }
+
+  .btn-refresh, .btn-vue {
+    border-radius: 14px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.2s;
     white-space: nowrap;
+    padding: 5px 10px;
   }
 
   .btn-refresh {
     background: #2a2a4a;
     border: 1px solid #444;
     color: #4fc3f7;
-    padding: 5px 10px;
-    border-radius: 14px;
-    font-size: 12px;
-    cursor: pointer;
-    transition: all 0.2s;
-    white-space: nowrap;
-    flex-shrink: 0;
+  }
+
+  .btn-vue {
+    background: #1e3a2a;
+    border: 1px solid #2a5a3a;
+    color: #4caf50;
+  }
+
+  .btn-vue.actif {
+    background: #4caf50;
+    color: #000;
+    border-color: #4caf50;
+    font-weight: 600;
   }
 
   .btn-refresh:hover { background: #3a3a5a; }
+  .btn-vue:hover { background: #2a4a3a; }
 
   .maj { font-size: 10px; color: #4fc3f7; margin-top: 4px; }
   .source { font-size: 10px; color: #555; margin-top: 2px; }
@@ -98,18 +115,15 @@
     border-bottom: 1px solid #2a2a4a;
   }
 
-  .stat-card {
-    background: #1e1e3a;
-    border-radius: 10px;
-    padding: 8px;
-    text-align: center;
-  }
-
+  .stat-card { background: #1e1e3a; border-radius: 10px; padding: 8px; text-align: center; }
   .stat-label { font-size: 9px; color: #888; text-transform: uppercase; letter-spacing: 0.5px; }
   .stat-value { font-size: 20px; font-weight: 800; margin-top: 3px; }
   .stat-value.bas { color: #4caf50; }
   .stat-value.moyen { color: #ffb74d; }
   .stat-value.haut { color: #ef5350; }
+
+  /* Vue liste */
+  #vue-liste { display: block; }
 
   .liste {
     padding: 10px 16px;
@@ -131,102 +145,70 @@
   .station.top2 { border-color: #8bc34a; }
   .station.top3 { border-color: #cddc39; }
 
-  .station-top {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
+  .station-top { display: flex; align-items: center; gap: 10px; }
 
-  .rang {
-    font-size: 13px;
-    font-weight: 700;
-    color: #666;
-    min-width: 28px;
-    text-align: center;
-    flex-shrink: 0;
-  }
-
+  .rang { font-size: 13px; font-weight: 700; color: #666; min-width: 28px; text-align: center; flex-shrink: 0; }
   .station.top1 .rang { color: #4caf50; font-size: 22px; }
   .station.top2 .rang { color: #8bc34a; font-size: 18px; }
   .station.top3 .rang { color: #cddc39; font-size: 16px; }
 
   .info { flex: 1; min-width: 0; }
 
-  .banniere {
-    font-size: 19px;
-    font-weight: 700;
-    color: #fff;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
+  .banniere { font-size: 19px; font-weight: 700; color: #fff; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
-  .badge-ville {
-    font-size: 10px;
-    background: #2a2a4a;
-    color: #888;
-    padding: 2px 6px;
-    border-radius: 8px;
-    display: inline-block;
-    margin-top: 3px;
-  }
+  .badge-ville { font-size: 10px; background: #2a2a4a; color: #888; padding: 2px 6px; border-radius: 8px; display: inline-block; margin-top: 3px; }
 
   .prix-box { text-align: right; flex-shrink: 0; }
   .prix { font-size: 32px; font-weight: 900; line-height: 1; }
   .prix-unit { font-size: 11px; color: #888; margin-top: 2px; }
 
-  .station-bottom {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-top: 8px;
-    padding-top: 8px;
-    border-top: 1px solid #252540;
-    gap: 8px;
-  }
+  .station-bottom { display: flex; align-items: center; justify-content: space-between; margin-top: 8px; padding-top: 8px; border-top: 1px solid #252540; gap: 8px; }
 
-  .adresse {
-    font-size: 12px;
-    color: #777;
-    flex: 1;
-    min-width: 0;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
+  .adresse { font-size: 12px; color: #777; flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
-  .btn-map {
-    background: #1a3a2a;
-    border: 1px solid #2a5a3a;
-    color: #4caf50;
-    padding: 5px 10px;
-    border-radius: 8px;
-    font-size: 11px;
-    cursor: pointer;
-    white-space: nowrap;
-    text-decoration: none;
-    display: inline-flex;
-    align-items: center;
-    gap: 3px;
-    flex-shrink: 0;
-    transition: background 0.2s;
-  }
-
+  .btn-map { background: #1a3a2a; border: 1px solid #2a5a3a; color: #4caf50; padding: 5px 10px; border-radius: 8px; font-size: 11px; cursor: pointer; white-space: nowrap; text-decoration: none; display: inline-flex; align-items: center; gap: 3px; flex-shrink: 0; transition: background 0.2s; }
   .btn-map:hover { background: #2a4a3a; }
 
-  .loading { text-align: center; padding: 60px 20px; color: #666; }
+  /* Vue carte */
+  #vue-carte { display: none; }
 
-  .spinner {
-    width: 36px; height: 36px;
-    border: 3px solid #333;
-    border-top-color: #4fc3f7;
-    border-radius: 50%;
-    animation: spin 0.8s linear infinite;
-    margin: 0 auto 14px;
+  #map {
+    height: calc(100vh - 140px);
+    width: 100%;
+    z-index: 1;
   }
 
-  @keyframes spin { to { transform: rotate(360deg); } }
+  /* Popup Leaflet custom */
+  .popup-content {
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    min-width: 140px;
+  }
 
+  .popup-banniere { font-size: 14px; font-weight: 700; color: #1a1a2e; }
+  .popup-prix { font-size: 26px; font-weight: 900; color: #4caf50; line-height: 1.1; }
+  .popup-unit { font-size: 11px; color: #666; }
+  .popup-adresse { font-size: 11px; color: #555; margin-top: 4px; }
+
+  /* Marqueur prix custom */
+  .marker-prix {
+    background: #1e1e3a;
+    border: 2px solid #4fc3f7;
+    border-radius: 8px;
+    padding: 3px 6px;
+    font-size: 12px;
+    font-weight: 800;
+    color: #4caf50;
+    white-space: nowrap;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+  }
+
+  .marker-prix.bas { border-color: #4caf50; color: #4caf50; }
+  .marker-prix.haut { border-color: #ef5350; color: #ef5350; }
+
+  .loading { text-align: center; padding: 60px 20px; color: #666; }
+  .spinner { width: 36px; height: 36px; border: 3px solid #333; border-top-color: #4fc3f7; border-radius: 50%; animation: spin 0.8s linear infinite; margin: 0 auto 14px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
   .erreur { text-align: center; padding: 40px 20px; color: #ef5350; }
   .vide { text-align: center; padding: 40px; color: #555; }
 </style>
@@ -236,7 +218,10 @@
 <header>
   <div class="header-top">
     <h1>&#9981; Essence Saguenay</h1>
-    <button class="btn-refresh" id="btn-refresh" onclick="charger()">&#8635; Actualiser</button>
+    <div class="header-right">
+      <button class="btn-vue" id="btn-carte" onclick="toggleVue()">&#128506; Carte</button>
+      <button class="btn-refresh" id="btn-refresh" onclick="charger()">&#8635;</button>
+    </div>
   </div>
   <div class="maj" id="maj">Chargement...</div>
   <div class="source" id="source"></div>
@@ -263,16 +248,28 @@
   </div>
 </div>
 
-<div id="contenu">
-  <div class="loading">
-    <div class="spinner"></div>
-    <div>Chargement des prix...</div>
+<!-- Vue liste -->
+<div id="vue-liste">
+  <div id="contenu">
+    <div class="loading">
+      <div class="spinner"></div>
+      <div>Chargement des prix...</div>
+    </div>
   </div>
+</div>
+
+<!-- Vue carte -->
+<div id="vue-carte">
+  <div id="map"></div>
 </div>
 
 <script>
 let toutesStations = [];
 let filtreActuel = 'Jonquiere';
+let vueActuelle = 'liste';
+let carteInit = false;
+let leafletMap = null;
+let markers = [];
 
 async function charger() {
   const btn = document.getElementById('btn-refresh');
@@ -290,69 +287,97 @@ async function charger() {
       document.getElementById('source').textContent = 'Source: ' + data.fichier_source;
     }
 
-    afficher(filtrerStations(toutesStations, filtreActuel));
+    const stations = filtrerStations(toutesStations, filtreActuel);
+    afficherStats(stations);
+
+    if (vueActuelle === 'liste') {
+      afficherListe(stations);
+    } else {
+      afficherCarte(stations);
+    }
   } catch(e) {
     document.getElementById('contenu').innerHTML = `<div class="erreur">Données non disponibles<br><small>${e.message}</small></div>`;
   } finally {
-    btn.textContent = '↻ Actualiser';
+    btn.textContent = '↻';
   }
 }
 
 function filtrerStations(stations, zone) {
   if (zone === 'tous') return stations;
-  return stations.filter(s => {
-    const ville = (s.ville || '').toLowerCase();
-    return ville.includes(zone.toLowerCase());
-  });
+  return stations.filter(s => (s.ville || '').toLowerCase().includes(zone.toLowerCase()));
 }
 
 function filtrer(btn, zone) {
   filtreActuel = zone;
   document.querySelectorAll('.filtre button').forEach(b => b.classList.remove('actif'));
   btn.classList.add('actif');
-  afficher(filtrerStations(toutesStations, zone));
+  const stations = filtrerStations(toutesStations, zone);
+  afficherStats(stations);
+  if (vueActuelle === 'liste') {
+    afficherListe(stations);
+  } else {
+    afficherCarte(stations);
+  }
 }
 
-function googleMapsUrl(adresse) {
-  return 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(adresse + ', Saguenay, QC, Canada');
-}
-
-function afficher(stations) {
-  if (!stations || stations.length === 0) {
+function toggleVue() {
+  const btnCarte = document.getElementById('btn-carte');
+  if (vueActuelle === 'liste') {
+    vueActuelle = 'carte';
+    document.getElementById('vue-liste').style.display = 'none';
+    document.getElementById('vue-carte').style.display = 'block';
     document.getElementById('stats').style.display = 'none';
+    btnCarte.classList.add('actif');
+    btnCarte.textContent = '☰ Liste';
+    afficherCarte(filtrerStations(toutesStations, filtreActuel));
+  } else {
+    vueActuelle = 'liste';
+    document.getElementById('vue-liste').style.display = 'block';
+    document.getElementById('vue-carte').style.display = 'none';
+    btnCarte.classList.remove('actif');
+    btnCarte.textContent = '🗺 Carte';
+    const stations = filtrerStations(toutesStations, filtreActuel);
+    afficherStats(stations);
+    afficherListe(stations);
+  }
+}
+
+function afficherStats(stations) {
+  const prix = stations.map(s => s.prix).filter(p => p > 0).sort((a, b) => a - b);
+  if (prix.length === 0) {
+    document.getElementById('stats').style.display = 'none';
+    return;
+  }
+  const moyen = prix.reduce((a, b) => a + b, 0) / prix.length;
+  document.getElementById('stat-bas').textContent = prix[0] + '¢';
+  document.getElementById('stat-moy').textContent = Math.round(moyen) + '¢';
+  document.getElementById('stat-haut').textContent = prix[prix.length - 1] + '¢';
+  if (vueActuelle === 'liste') {
+    document.getElementById('stats').style.display = 'grid';
+  }
+}
+
+function afficherListe(stations) {
+  if (!stations || stations.length === 0) {
     document.getElementById('contenu').innerHTML = '<div class="vide">Aucune station trouvée</div>';
     return;
   }
 
   const prix = stations.map(s => s.prix).filter(p => p > 0).sort((a, b) => a - b);
-
   if (prix.length === 0) {
-    document.getElementById('stats').style.display = 'none';
     document.getElementById('contenu').innerHTML = '<div class="vide">Aucun prix disponible</div>';
     return;
   }
 
   const moyen = prix.reduce((a, b) => a + b, 0) / prix.length;
-
-  document.getElementById('stat-bas').textContent = prix[0] + '¢';
-  document.getElementById('stat-moy').textContent = Math.round(moyen) + '¢';
-  document.getElementById('stat-haut').textContent = prix[prix.length - 1] + '¢';
-  document.getElementById('stats').style.display = 'grid';
-
   let html = '<div class="liste">';
 
   stations.forEach((s, i) => {
     const rang = i === 0 ? '&#129351;' : i === 1 ? '&#129352;' : i === 2 ? '&#129353;' : (i + 1);
     const classe = i === 0 ? 'top1' : i === 1 ? 'top2' : i === 2 ? 'top3' : '';
-
-    const couleur = i === 0 ? '#4caf50' :
-                    i < 3 ? '#8bc34a' :
-                    s.prix > moyen + 5 ? '#ef5350' : '#e0e0e0';
-
-    const ville = s.ville && s.ville !== 'Saguenay'
-      ? `<span class="badge-ville">${s.ville}</span>` : '';
-
-    const mapsUrl = googleMapsUrl(s.adresse);
+    const couleur = i === 0 ? '#4caf50' : i < 3 ? '#8bc34a' : s.prix > moyen + 5 ? '#ef5350' : '#e0e0e0';
+    const ville = s.ville && s.ville !== 'Saguenay' ? `<span class="badge-ville">${s.ville}</span>` : '';
+    const mapsUrl = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(s.adresse + ', Saguenay, QC, Canada');
 
     html += `
       <div class="station ${classe}">
@@ -376,6 +401,78 @@ function afficher(stations) {
 
   html += '</div>';
   document.getElementById('contenu').innerHTML = html;
+}
+
+function afficherCarte(stations) {
+  // Initialise la carte si pas encore fait
+  if (!carteInit) {
+    leafletMap = L.map('map').setView([48.42, -71.07], 12);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap'
+    }).addTo(leafletMap);
+    carteInit = true;
+  }
+
+  // Efface les marqueurs existants
+  markers.forEach(m => leafletMap.removeLayer(m));
+  markers = [];
+
+  if (!stations || stations.length === 0) return;
+
+  const prix = stations.map(s => s.prix).filter(p => p > 0).sort((a, b) => a - b);
+  const prixMin = prix[0];
+  const prixMax = prix[prix.length - 1];
+
+  // Géocode via OpenStreetMap Nominatim
+  stations.forEach(s => {
+    if (!s.prix || s.prix <= 0) return;
+
+    const estBas = s.prix <= prixMin + 2;
+    const estHaut = s.prix >= prixMax - 2;
+    const couleur = estBas ? '#4caf50' : estHaut ? '#ef5350' : '#4fc3f7';
+    const borderColor = estBas ? '#2a7a3a' : estHaut ? '#9a2a2a' : '#2a6a8a';
+
+    // Marqueur avec prix custom
+    const icon = L.divIcon({
+      className: '',
+      html: `<div style="background:#1e1e3a;border:2px solid ${couleur};border-radius:8px;padding:3px 7px;font-size:13px;font-weight:900;color:${couleur};white-space:nowrap;box-shadow:0 2px 8px rgba(0,0,0,0.6);font-family:-apple-system,sans-serif;">${s.prix}¢</div>`,
+      iconAnchor: [20, 10]
+    });
+
+    // Geocodage basé sur adresse
+    const adresseEncode = encodeURIComponent(s.adresse + ', Saguenay, Quebec, Canada');
+    fetch(`https://nominatim.openstreetmap.org/search?q=${adresseEncode}&format=json&limit=1`, {
+      headers: { 'Accept-Language': 'fr' }
+    })
+    .then(r => r.json())
+    .then(data => {
+      if (data && data.length > 0) {
+        const lat = parseFloat(data[0].lat);
+        const lon = parseFloat(data[0].lon);
+        const marker = L.marker([lat, lon], { icon })
+          .addTo(leafletMap)
+          .bindPopup(`
+            <div class="popup-content">
+              <div class="popup-banniere">${s.banniere}</div>
+              <div class="popup-prix">${s.prix}¢</div>
+              <div class="popup-unit">/ litre</div>
+              <div class="popup-adresse">${s.adresse}</div>
+            </div>
+          `);
+        markers.push(marker);
+      }
+    })
+    .catch(() => {});
+  });
+
+  // Centre la carte sur Saguenay
+  if (filtreActuel === 'Jonquiere') {
+    leafletMap.setView([48.43, -71.22], 12);
+  } else if (filtreActuel === 'Chicoutimi') {
+    leafletMap.setView([48.42, -71.05], 12);
+  } else {
+    leafletMap.setView([48.42, -71.10], 11);
+  }
 }
 
 charger();
