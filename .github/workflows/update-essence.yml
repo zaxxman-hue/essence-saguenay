@@ -2,15 +2,42 @@ name: Update Essence Data
 
 on:
   schedule:
+    # 5h à 20h EST (10h à 1h UTC) toutes les 30 minutes
     - cron: '0 10 * * *'
+    - cron: '30 10 * * *'
+    - cron: '0 11 * * *'
+    - cron: '30 11 * * *'
     - cron: '0 12 * * *'
+    - cron: '30 12 * * *'
+    - cron: '0 13 * * *'
+    - cron: '30 13 * * *'
     - cron: '0 14 * * *'
+    - cron: '30 14 * * *'
+    - cron: '0 15 * * *'
+    - cron: '30 15 * * *'
     - cron: '0 16 * * *'
+    - cron: '30 16 * * *'
+    - cron: '0 17 * * *'
+    - cron: '30 17 * * *'
     - cron: '0 18 * * *'
+    - cron: '30 18 * * *'
+    - cron: '0 19 * * *'
+    - cron: '30 19 * * *'
     - cron: '0 20 * * *'
+    - cron: '30 20 * * *'
+    - cron: '0 21 * * *'
+    - cron: '30 21 * * *'
     - cron: '0 22 * * *'
+    - cron: '30 22 * * *'
+    - cron: '0 23 * * *'
+    - cron: '30 23 * * *'
     - cron: '0 0 * * *'
+    - cron: '30 0 * * *'
+    # 20h à 5h EST (1h à 10h UTC) toutes les 2 heures
     - cron: '0 2 * * *'
+    - cron: '0 4 * * *'
+    - cron: '0 6 * * *'
+    - cron: '0 8 * * *'
   workflow_dispatch:
 
 jobs:
@@ -39,27 +66,22 @@ jobs:
           base = "https://regieessencequebec.ca"
           found = None
 
-          # Etape 1: charge la page principale
           r = requests.get(base + "/", headers=headers, timeout=15)
           print(f"Page principale: {r.status_code}, {len(r.text)} chars")
 
-          # Etape 2: trouve tous les fichiers JS
           js_files = re.findall(r'src="(/assets/[^"]*\.js)"', r.text)
           js_files += re.findall(r'src="(/[^"]*\.js)"', r.text)
           print(f"Fichiers JS trouves: {js_files}")
 
-          # Etape 3: cherche l'URL Excel dans chaque JS
           for js in js_files:
               url_js = base + js
               try:
                   rjs = requests.get(url_js, headers=headers, timeout=10)
-                  # Cherche pattern stations-XXXXXXXXXXXXXXX.xlsx
                   matches = re.findall(r'stations-\d{14}\.xlsx', rjs.text)
                   if matches:
                       found = f"{base}/data/{matches[-1]}"
                       print(f"URL trouvee dans {js}: {found}")
                       break
-                  # Cherche aussi /data/stations
                   matches2 = re.findall(r'/data/stations-\d+\.xlsx', rjs.text)
                   if matches2:
                       found = f"{base}{matches2[-1]}"
@@ -68,23 +90,12 @@ jobs:
               except Exception as e:
                   print(f"Erreur JS {js}: {e}")
 
-          # Etape 4: si pas trouve dans JS, cherche dans manifest.json
-          if not found:
-              try:
-                  rm = requests.get(base + "/manifest.json", headers=headers, timeout=10)
-                  matches = re.findall(r'stations-\d+\.xlsx', rm.text)
-                  if matches:
-                      found = f"{base}/data/{matches[-1]}"
-                      print(f"URL trouvee dans manifest: {found}")
-              except:
-                  pass
-
-          # Etape 5: si toujours pas trouve, verifie l'URL du jour dernier connu
           if not found:
               from datetime import datetime, timedelta
+              import time
               now = datetime.utcnow()
               print("Bruteforce par minutes...")
-              for delta in range(0, 480):  # 8 heures
+              for delta in range(0, 480):
                   dt = now - timedelta(minutes=delta)
                   for sec in [0, 1, 2, 3, 5, 10, 15, 30, 45, 59]:
                       ts = dt.strftime(f"%Y%m%d%H%M{sec:02d}")
@@ -99,6 +110,8 @@ jobs:
                           pass
                   if found:
                       break
+                  if delta % 50 == 0 and delta > 0:
+                      time.sleep(1)
 
           if found:
               with open("excel_url.txt", "w") as f:
