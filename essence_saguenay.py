@@ -55,8 +55,11 @@ def filtrer_saguenay(filepath):
     try:
         df = pd.read_excel(filepath)
         print(f"Total stations au Quebec: {len(df)}")
+        print(f"Colonnes disponibles: {df.columns.tolist()}")
 
         col_banniere = col_adresse = col_prix = col_region = col_cp = None
+        col_lat = col_lon = None
+
         for col in df.columns:
             col_lower = col.lower()
             if 'banni' in col_lower:
@@ -69,8 +72,12 @@ def filtrer_saguenay(filepath):
                 col_region = col
             if 'postal' in col_lower:
                 col_cp = col
+            if 'latitude' in col_lower or col_lower == 'lat':
+                col_lat = col
+            if 'longitude' in col_lower or col_lower == 'lon' or col_lower == 'lng':
+                col_lon = col
 
-        print(f"Colonnes: banniere={col_banniere}, adresse={col_adresse}, prix={col_prix}, region={col_region}, cp={col_cp}")
+        print(f"Colonnes: banniere={col_banniere}, adresse={col_adresse}, prix={col_prix}, region={col_region}, cp={col_cp}, lat={col_lat}, lon={col_lon}")
 
         masque = pd.Series([False] * len(df))
         if col_region:
@@ -82,13 +89,19 @@ def filtrer_saguenay(filepath):
         print(f"Stations Saguenay trouvees: {len(df_saguenay)}")
 
         colonnes = [col_banniere, col_adresse, col_prix]
+        noms = ['Banniere', 'Adresse', 'Prix']
+
         if col_cp:
             colonnes.append(col_cp)
+            noms.append('CodePostal')
+        if col_lat:
+            colonnes.append(col_lat)
+            noms.append('Lat')
+        if col_lon:
+            colonnes.append(col_lon)
+            noms.append('Lon')
 
         df_final = df_saguenay[colonnes].copy()
-        noms = ['Banniere', 'Adresse', 'Prix']
-        if col_cp:
-            noms.append('CodePostal')
         df_final.columns = noms
 
         print(f"Exemple prix bruts: {df_final['Prix'].head(5).tolist()}")
@@ -125,14 +138,29 @@ def sauvegarder_json(df, url_source=""):
         except:
             prix_num = 0
 
+        # Coordonnees GPS
+        lat = None
+        lon = None
+        if 'Lat' in row.index and pd.notna(row.get('Lat')):
+            try:
+                lat = round(float(row['Lat']), 6)
+            except:
+                pass
+        if 'Lon' in row.index and pd.notna(row.get('Lon')):
+            try:
+                lon = round(float(row['Lon']), 6)
+            except:
+                pass
+
         stations.append({
             "banniere": str(row['Banniere']) if pd.notna(row['Banniere']) else "Inconnue",
             "adresse": str(row['Adresse']),
             "ville": determiner_ville(row),
-            "prix": round(prix_num, 1)
+            "prix": round(prix_num, 1),
+            "lat": lat,
+            "lon": lon
         })
 
-    # Extrait le nom du fichier depuis l'URL
     nom_fichier = ""
     if url_source:
         match = re.search(r'stations-[\d]+\.xlsx', url_source)
@@ -152,6 +180,8 @@ def sauvegarder_json(df, url_source=""):
     print(f"JSON sauvegarde: {OUTPUT_JSON}")
     if stations:
         print(f"Meilleur prix: {stations[0]['banniere']} - {stations[0]['adresse']} - {stations[0]['prix']}c")
+        if stations[0]['lat']:
+            print(f"Coordonnees: {stations[0]['lat']}, {stations[0]['lon']}")
     return True
 
 def main():
