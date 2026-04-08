@@ -36,26 +36,76 @@ jobs:
           import re
 
           headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+          base = "https://regieessencequebec.ca"
+          found = None
 
-          try:
-              r = requests.get("https://regieessencequebec.ca/", headers=headers, timeout=15)
-              print(f"Status: {r.status_code}, Taille: {len(r.text)} chars")
-              
-              # Cherche le pattern href="/data/stations-XXXXXX.xlsx"
-              matches = re.findall(r'href="(/data/stations-\d+\.xlsx)"', r.text)
-              
-              if matches:
-                  url = f"https://regieessencequebec.ca{matches[-1]}"
-                  print(f"URL trouvee: {url}")
-                  with open("excel_url.txt", "w") as f:
-                      f.write(url)
-              else:
-                  print("Pattern non trouve dans le HTML")
-                  print("Extrait HTML:", r.text[2000:3000])
-                  with open("excel_url.txt", "w") as f:
-                      f.write("")
-          except Exception as e:
-              print(f"Erreur: {e}")
+          # Etape 1: charge la page principale
+          r = requests.get(base + "/", headers=headers, timeout=15)
+          print(f"Page principale: {r.status_code}, {len(r.text)} chars")
+
+          # Etape 2: trouve tous les fichiers JS
+          js_files = re.findall(r'src="(/assets/[^"]*\.js)"', r.text)
+          js_files += re.findall(r'src="(/[^"]*\.js)"', r.text)
+          print(f"Fichiers JS trouves: {js_files}")
+
+          # Etape 3: cherche l'URL Excel dans chaque JS
+          for js in js_files:
+              url_js = base + js
+              try:
+                  rjs = requests.get(url_js, headers=headers, timeout=10)
+                  # Cherche pattern stations-XXXXXXXXXXXXXXX.xlsx
+                  matches = re.findall(r'stations-\d{14}\.xlsx', rjs.text)
+                  if matches:
+                      found = f"{base}/data/{matches[-1]}"
+                      print(f"URL trouvee dans {js}: {found}")
+                      break
+                  # Cherche aussi /data/stations
+                  matches2 = re.findall(r'/data/stations-\d+\.xlsx', rjs.text)
+                  if matches2:
+                      found = f"{base}{matches2[-1]}"
+                      print(f"URL trouvee dans {js}: {found}")
+                      break
+              except Exception as e:
+                  print(f"Erreur JS {js}: {e}")
+
+          # Etape 4: si pas trouve dans JS, cherche dans manifest.json
+          if not found:
+              try:
+                  rm = requests.get(base + "/manifest.json", headers=headers, timeout=10)
+                  matches = re.findall(r'stations-\d+\.xlsx', rm.text)
+                  if matches:
+                      found = f"{base}/data/{matches[-1]}"
+                      print(f"URL trouvee dans manifest: {found}")
+              except:
+                  pass
+
+          # Etape 5: si toujours pas trouve, verifie l'URL du jour dernier connu
+          if not found:
+              from datetime import datetime, timedelta
+              now = datetime.utcnow()
+              print("Bruteforce par minutes...")
+              for delta in range(0, 480):  # 8 heures
+                  dt = now - timedelta(minutes=delta)
+                  for sec in [0, 1, 2, 3, 5, 10, 15, 30, 45, 59]:
+                      ts = dt.strftime(f"%Y%m%d%H%M{sec:02d}")
+                      url = f"{base}/data/stations-{ts}.xlsx"
+                      try:
+                          resp = requests.head(url, headers=headers, timeout=2)
+                          if resp.status_code == 200:
+                              found = url
+                              print(f"URL trouvee bruteforce: {found}")
+                              break
+                      except:
+                          pass
+                  if found:
+                      break
+
+          if found:
+              with open("excel_url.txt", "w") as f:
+                  f.write(found)
+              print(f"URL finale: {found}")
+          else:
+              print("ECHEC: aucune URL trouvee")
               with open("excel_url.txt", "w") as f:
                   f.write("")
           EOF
