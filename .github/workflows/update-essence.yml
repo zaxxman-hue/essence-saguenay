@@ -33,43 +33,29 @@ jobs:
         run: |
           python3 - <<'EOF'
           import requests
-          from datetime import datetime, timedelta
-          import time
+          import re
 
           headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-          base = "https://regieessencequebec.ca/data/stations-"
-          found = None
-          now = datetime.utcnow()
 
-          print(f"Recherche autour de {now.strftime('%Y-%m-%d %H:%M')} UTC")
-          
-          # Teste seulement les minutes des 4 dernières heures (240 requetes max)
-          for delta_min in range(0, 241):
-              dt = now - timedelta(minutes=delta_min)
-              # Teste avec secondes 00, 30 seulement pour réduire les requêtes
-              for sec in [0, 30]:
-                  ts = dt.strftime(f"%Y%m%d%H%M{sec:02d}")
-                  url = f"{base}{ts}.xlsx"
-                  try:
-                      r = requests.head(url, headers=headers, timeout=3)
-                      if r.status_code == 200:
-                          found = url
-                          print(f"Trouve: {url}")
-                          break
-                  except:
-                      pass
-              if found:
-                  break
-              # Petite pause toutes les 50 requetes pour eviter le blocage
-              if delta_min % 50 == 0 and delta_min > 0:
-                  time.sleep(1)
-
-          if found:
-              with open("excel_url.txt", "w") as f:
-                  f.write(found)
-              print(f"URL sauvegardee: {found}")
-          else:
-              print("Aucune URL trouvee dans les 4 dernieres heures")
+          try:
+              r = requests.get("https://regieessencequebec.ca/", headers=headers, timeout=15)
+              print(f"Status: {r.status_code}, Taille: {len(r.text)} chars")
+              
+              # Cherche le pattern href="/data/stations-XXXXXX.xlsx"
+              matches = re.findall(r'href="(/data/stations-\d+\.xlsx)"', r.text)
+              
+              if matches:
+                  url = f"https://regieessencequebec.ca{matches[-1]}"
+                  print(f"URL trouvee: {url}")
+                  with open("excel_url.txt", "w") as f:
+                      f.write(url)
+              else:
+                  print("Pattern non trouve dans le HTML")
+                  print("Extrait HTML:", r.text[2000:3000])
+                  with open("excel_url.txt", "w") as f:
+                      f.write("")
+          except Exception as e:
+              print(f"Erreur: {e}")
               with open("excel_url.txt", "w") as f:
                   f.write("")
           EOF
