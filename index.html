@@ -439,30 +439,20 @@ function afficherCarte(stations) {
       iconAnchor: [30, 26]
     });
 
-    // Geocodage basé sur adresse
-    const adresseEncode = encodeURIComponent(s.adresse + ', Saguenay, Quebec, Canada');
-    fetch(`https://nominatim.openstreetmap.org/search?q=${adresseEncode}&format=json&limit=1`, {
-      headers: { 'Accept-Language': 'fr' }
-    })
-    .then(r => r.json())
-    .then(data => {
-      if (data && data.length > 0) {
-        const lat = parseFloat(data[0].lat);
-        const lon = parseFloat(data[0].lon);
-        const marker = L.marker([lat, lon], { icon })
-          .addTo(leafletMap)
-          .bindPopup(`
-            <div class="popup-content">
-              <div class="popup-banniere">${s.banniere}</div>
-              <div class="popup-prix">${s.prix}¢</div>
-              <div class="popup-unit">/ litre</div>
-              <div class="popup-adresse">${s.adresse}</div>
-            </div>
-          `);
-        markers.push(marker);
-      }
-    })
-    .catch(() => {});
+    // Utilise les coordonnees GPS du fichier Excel directement
+    if (s.lat && s.lon) {
+      const marker = L.marker([s.lat, s.lon], { icon })
+        .addTo(leafletMap)
+        .bindPopup(`
+          <div class="popup-content">
+            <div class="popup-banniere">${s.banniere}</div>
+            <div class="popup-prix">${s.prix}¢</div>
+            <div class="popup-unit">/ litre</div>
+            <div class="popup-adresse">${s.adresse}</div>
+          </div>
+        `);
+      markers.push(marker);
+    }
   });
 
   // Centre la carte sur Saguenay
