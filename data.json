@@ -1,6 +1,6 @@
 {
-  "mise_a_jour": "08/04/2026 14:24",
-  "fichier_source": "stations-20260408142002.xlsx",
+  "mise_a_jour": "08/04/2026 14:41",
+  "fichier_source": "stations-20260408144002.xlsx",
   "total": 147,
   "stations": [
     {
@@ -76,9 +76,9 @@
       "prix": 183.9
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 183.9
     },
     {
@@ -148,9 +148,9 @@
       "prix": 183.9
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 183.9
     },
     {
@@ -160,9 +160,9 @@
       "prix": 183.9
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
       "prix": 183.9
     },
     {
@@ -184,10 +184,10 @@
       "prix": 183.9
     },
     {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 185.9
+      "prix": 183.9
     },
     {
       "banniere": "Petro-Canada",
@@ -196,8 +196,8 @@
       "prix": 185.9
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 185.9
     },
