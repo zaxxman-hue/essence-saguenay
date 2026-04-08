@@ -207,7 +207,7 @@ async function charger() {
     const data = await r.json();
 
     toutesStations = data.stations || [];
-    document.getElementById('maj').textContent = 'Mis à jour: ' + data.mise_a_jour;
+    document.getElementById('maj').textContent = 'Vérifié: ' + (data.derniere_verification || data.mise_a_jour);
     if (data.fichier_source) {
       document.getElementById('source').textContent = 'Source: ' + data.fichier_source;
     }
