@@ -9,7 +9,7 @@
 <title>Essence Saguenay</title>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  
+
   body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     background: #0f0f1a;
@@ -19,7 +19,7 @@
 
   header {
     background: linear-gradient(135deg, #1a1a2e, #16213e);
-    padding: 20px 16px 16px;
+    padding: 14px 16px 10px;
     position: sticky;
     top: 0;
     z-index: 100;
@@ -27,39 +27,62 @@
     box-shadow: 0 2px 20px rgba(0,0,0,0.5);
   }
 
-  h1 {
-    font-size: 22px;
-    font-weight: 700;
-    color: #fff;
+  .header-top {
     display: flex;
+    justify-content: space-between;
     align-items: center;
     gap: 8px;
   }
 
-  .subtitle { font-size: 12px; color: #888; margin-top: 4px; }
-  .maj { font-size: 11px; color: #4fc3f7; margin-top: 6px; }
+  h1 {
+    font-size: 19px;
+    font-weight: 700;
+    color: #fff;
+    white-space: nowrap;
+  }
 
-  .header-actions {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 10px;
+  .btn-refresh {
+    background: #2a2a4a;
+    border: 1px solid #444;
+    color: #4fc3f7;
+    padding: 5px 10px;
+    border-radius: 14px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .btn-refresh:hover { background: #3a3a5a; }
+
+  .maj {
+    font-size: 10px;
+    color: #4fc3f7;
+    margin-top: 4px;
+  }
+
+  .source {
+    font-size: 10px;
+    color: #555;
+    margin-top: 2px;
   }
 
   .filtre {
     display: flex;
-    gap: 8px;
+    gap: 6px;
+    margin-top: 8px;
     overflow-x: auto;
-    padding-bottom: 4px;
+    padding-bottom: 2px;
   }
 
   .filtre button {
     background: #1e1e3a;
     border: 1px solid #333;
     color: #aaa;
-    padding: 6px 14px;
-    border-radius: 20px;
-    font-size: 13px;
+    padding: 5px 12px;
+    border-radius: 14px;
+    font-size: 12px;
     cursor: pointer;
     white-space: nowrap;
     transition: all 0.2s;
@@ -72,27 +95,11 @@
     font-weight: 600;
   }
 
-  .btn-refresh {
-    background: #2a2a4a;
-    border: 1px solid #444;
-    color: #4fc3f7;
-    padding: 6px 12px;
-    border-radius: 20px;
-    font-size: 13px;
-    cursor: pointer;
-    white-space: nowrap;
-    transition: all 0.2s;
-    flex-shrink: 0;
-  }
-
-  .btn-refresh:hover { background: #3a3a5a; }
-  .btn-refresh.loading { opacity: 0.6; }
-
   .stats {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
-    padding: 12px 16px;
+    gap: 8px;
+    padding: 10px 16px;
     background: #12122a;
     border-bottom: 1px solid #2a2a4a;
   }
@@ -100,18 +107,18 @@
   .stat-card {
     background: #1e1e3a;
     border-radius: 10px;
-    padding: 10px;
+    padding: 8px;
     text-align: center;
   }
 
-  .stat-label { font-size: 10px; color: #888; text-transform: uppercase; letter-spacing: 0.5px; }
-  .stat-value { font-size: 18px; font-weight: 700; margin-top: 4px; }
+  .stat-label { font-size: 9px; color: #888; text-transform: uppercase; letter-spacing: 0.5px; }
+  .stat-value { font-size: 20px; font-weight: 800; margin-top: 3px; }
   .stat-value.bas { color: #4caf50; }
   .stat-value.moyen { color: #ffb74d; }
   .stat-value.haut { color: #ef5350; }
 
   .liste {
-    padding: 12px 16px;
+    padding: 10px 16px;
     display: flex;
     flex-direction: column;
     gap: 8px;
@@ -120,10 +127,7 @@
   .station {
     background: #1e1e3a;
     border-radius: 12px;
-    padding: 14px;
-    display: flex;
-    align-items: center;
-    gap: 12px;
+    padding: 12px 14px;
     border: 1px solid #2a2a4a;
     transition: transform 0.15s;
   }
@@ -133,78 +137,119 @@
   .station.top2 { border-color: #8bc34a; }
   .station.top3 { border-color: #cddc39; }
 
-  .rang { font-size: 13px; font-weight: 700; color: #666; min-width: 24px; text-align: center; }
-  .station.top1 .rang { color: #4caf50; font-size: 18px; }
-  .station.top2 .rang { color: #8bc34a; }
-  .station.top3 .rang { color: #cddc39; }
+  .station-top {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .rang {
+    font-size: 13px;
+    font-weight: 700;
+    color: #666;
+    min-width: 28px;
+    text-align: center;
+    flex-shrink: 0;
+  }
+
+  .station.top1 .rang { color: #4caf50; font-size: 22px; }
+  .station.top2 .rang { color: #8bc34a; font-size: 18px; }
+  .station.top3 .rang { color: #cddc39; font-size: 16px; }
 
   .info { flex: 1; min-width: 0; }
 
   .banniere {
-    font-size: 15px;
-    font-weight: 600;
+    font-size: 19px;
+    font-weight: 700;
     color: #fff;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
   }
 
+  .badge-ville {
+    font-size: 10px;
+    background: #2a2a4a;
+    color: #888;
+    padding: 2px 6px;
+    border-radius: 8px;
+    display: inline-block;
+    margin-top: 3px;
+  }
+
+  .prix-box { text-align: right; flex-shrink: 0; }
+  .prix { font-size: 32px; font-weight: 900; line-height: 1; }
+  .prix-unit { font-size: 11px; color: #888; margin-top: 2px; }
+
+  .station-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px solid #252540;
+    gap: 8px;
+  }
+
   .adresse {
     font-size: 12px;
-    color: #888;
-    margin-top: 3px;
+    color: #777;
+    flex: 1;
+    min-width: 0;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
   }
 
-  .economie { font-size: 11px; color: #4caf50; margin-top: 3px; }
+  .btn-map {
+    background: #1a3a2a;
+    border: 1px solid #2a5a3a;
+    color: #4caf50;
+    padding: 5px 10px;
+    border-radius: 8px;
+    font-size: 11px;
+    cursor: pointer;
+    white-space: nowrap;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    flex-shrink: 0;
+    transition: background 0.2s;
+  }
 
-  .prix-box { text-align: right; flex-shrink: 0; }
-
-  .prix { font-size: 24px; font-weight: 800; line-height: 1; }
-  .prix-unit { font-size: 11px; color: #888; margin-top: 2px; }
+  .btn-map:hover { background: #2a4a3a; }
 
   .loading { text-align: center; padding: 60px 20px; color: #666; }
 
   .spinner {
-    width: 40px; height: 40px;
+    width: 36px; height: 36px;
     border: 3px solid #333;
     border-top-color: #4fc3f7;
     border-radius: 50%;
     animation: spin 0.8s linear infinite;
-    margin: 0 auto 16px;
+    margin: 0 auto 14px;
   }
 
   @keyframes spin { to { transform: rotate(360deg); } }
 
   .erreur { text-align: center; padding: 40px 20px; color: #ef5350; }
   .vide { text-align: center; padding: 40px; color: #555; }
-
-  .badge-ville {
-    font-size: 10px;
-    background: #2a2a4a;
-    color: #888;
-    padding: 2px 6px;
-    border-radius: 10px;
-    margin-top: 3px;
-    display: inline-block;
-  }
 </style>
 </head>
 <body>
 
 <header>
-  <h1>&#9981; Essence Saguenay</h1>
-  <div class="subtitle">Jonquière • Chicoutimi • Saguenay</div>
-  <div class="maj" id="maj">Chargement...</div>
-  <div class="header-actions">
-    <div class="filtre">
-      <button class="actif" onclick="filtrer(this, 'tous')">Tous</button>
-      <button onclick="filtrer(this, 'Jonquiere')">Jonquière</button>
-      <button onclick="filtrer(this, 'Chicoutimi')">Chicoutimi</button>
-    </div>
+  <div class="header-top">
+    <h1>&#9981; Essence Saguenay</h1>
     <button class="btn-refresh" id="btn-refresh" onclick="charger()">&#8635; Actualiser</button>
+  </div>
+  <div class="maj" id="maj">Chargement...</div>
+  <div class="source" id="source"></div>
+  <div class="filtre">
+    <button class="actif" onclick="filtrer(this, 'tous')">Tous</button>
+    <button onclick="filtrer(this, 'Jonquiere')">Jonquière</button>
+    <button onclick="filtrer(this, 'Chicoutimi')">Chicoutimi</button>
   </div>
 </header>
 
@@ -236,26 +281,24 @@ let filtreActuel = 'tous';
 
 async function charger() {
   const btn = document.getElementById('btn-refresh');
-  btn.classList.add('loading');
-  btn.textContent = '⏳ Chargement...';
-  
+  btn.textContent = '⏳';
+
   try {
     const r = await fetch('data.json?t=' + Date.now());
     if (!r.ok) throw new Error('Fichier introuvable');
     const data = await r.json();
-    
+
     toutesStations = data.stations || [];
-    document.getElementById('maj').textContent = 'Mis a jour: ' + data.mise_a_jour;
-    
+    document.getElementById('maj').textContent = 'Mis à jour: ' + data.mise_a_jour;
+
+    if (data.fichier_source) {
+      document.getElementById('source').textContent = 'Source: ' + data.fichier_source;
+    }
+
     afficher(filtrerStations(toutesStations, filtreActuel));
   } catch(e) {
-    document.getElementById('contenu').innerHTML = `
-      <div class="erreur">
-        Donnees non disponibles<br>
-        <small>${e.message}</small>
-      </div>`;
+    document.getElementById('contenu').innerHTML = `<div class="erreur">Données non disponibles<br><small>${e.message}</small></div>`;
   } finally {
-    btn.classList.remove('loading');
     btn.textContent = '↻ Actualiser';
   }
 }
@@ -264,9 +307,7 @@ function filtrerStations(stations, zone) {
   if (zone === 'tous') return stations;
   return stations.filter(s => {
     const ville = (s.ville || '').toLowerCase();
-    const adresse = (s.adresse || '').toLowerCase();
-    const zLower = zone.toLowerCase();
-    return ville.includes(zLower) || adresse.includes(zLower);
+    return ville.includes(zone.toLowerCase());
   });
 }
 
@@ -277,15 +318,19 @@ function filtrer(btn, zone) {
   afficher(filtrerStations(toutesStations, zone));
 }
 
+function googleMapsUrl(adresse) {
+  return 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(adresse + ', Saguenay, QC, Canada');
+}
+
 function afficher(stations) {
   if (!stations || stations.length === 0) {
     document.getElementById('stats').style.display = 'none';
-    document.getElementById('contenu').innerHTML = '<div class="vide">Aucune station trouvee</div>';
+    document.getElementById('contenu').innerHTML = '<div class="vide">Aucune station trouvée</div>';
     return;
   }
 
   const prix = stations.map(s => s.prix).filter(p => p > 0).sort((a, b) => a - b);
-  
+
   if (prix.length === 0) {
     document.getElementById('stats').style.display = 'none';
     document.getElementById('contenu').innerHTML = '<div class="vide">Aucun prix disponible</div>';
@@ -293,11 +338,10 @@ function afficher(stations) {
   }
 
   const moyen = prix.reduce((a, b) => a + b, 0) / prix.length;
-  const prixMin = prix[0];
 
-  document.getElementById('stat-bas').textContent = prix[0] + 'c';
-  document.getElementById('stat-moy').textContent = Math.round(moyen) + 'c';
-  document.getElementById('stat-haut').textContent = prix[prix.length - 1] + 'c';
+  document.getElementById('stat-bas').textContent = prix[0] + '¢';
+  document.getElementById('stat-moy').textContent = Math.round(moyen) + '¢';
+  document.getElementById('stat-haut').textContent = prix[prix.length - 1] + '¢';
   document.getElementById('stats').style.display = 'grid';
 
   let html = '<div class="liste">';
@@ -305,26 +349,32 @@ function afficher(stations) {
   stations.forEach((s, i) => {
     const rang = i === 0 ? '&#129351;' : i === 1 ? '&#129352;' : i === 2 ? '&#129353;' : (i + 1);
     const classe = i === 0 ? 'top1' : i === 1 ? 'top2' : i === 2 ? 'top3' : '';
-    const eco = i > 0 && s.prix > 0 ? `Economie: ${(s.prix - prixMin).toFixed(1)}c/L` : '';
 
     const couleur = i === 0 ? '#4caf50' :
                     i < 3 ? '#8bc34a' :
                     s.prix > moyen + 5 ? '#ef5350' : '#e0e0e0';
 
-    const ville = s.ville ? `<span class="badge-ville">${s.ville}</span>` : '';
+    const ville = s.ville && s.ville !== 'Saguenay'
+      ? `<span class="badge-ville">${s.ville}</span>` : '';
+
+    const mapsUrl = googleMapsUrl(s.adresse);
 
     html += `
       <div class="station ${classe}">
-        <div class="rang">${rang}</div>
-        <div class="info">
-          <div class="banniere">${s.banniere}</div>
-          <div class="adresse">&#128205; ${s.adresse}</div>
-          ${ville}
-          ${eco ? `<div class="economie">&#128176; ${eco}</div>` : ''}
+        <div class="station-top">
+          <div class="rang">${rang}</div>
+          <div class="info">
+            <div class="banniere">${s.banniere}</div>
+            ${ville}
+          </div>
+          <div class="prix-box">
+            <div class="prix" style="color:${couleur}">${s.prix}</div>
+            <div class="prix-unit">¢/litre</div>
+          </div>
         </div>
-        <div class="prix-box">
-          <div class="prix" style="color:${couleur}">${s.prix}</div>
-          <div class="prix-unit">c/litre</div>
+        <div class="station-bottom">
+          <div class="adresse">&#128205; ${s.adresse}</div>
+          <a class="btn-map" href="${mapsUrl}" target="_blank">&#128205; Maps</a>
         </div>
       </div>`;
   });
