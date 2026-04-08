@@ -65,7 +65,7 @@ def filtrer_saguenay(filepath):
                 col_banniere = col
             if 'adresse' in col_lower:
                 col_adresse = col
-            if 'regulier' in col_lower or 'regulier' in col_lower:
+            if ("regulier" in col_lower or "\u00e9gulier" in col_lower) and "super" not in col_lower and "diesel" not in col_lower:
                 col_prix = col
             if 'region' in col_lower:
                 col_region = col
