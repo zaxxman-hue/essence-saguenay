@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "08/04/2026 23:06",
-  "derniere_verification": "08/04/2026 23:06:51",
-  "fichier_source": "stations-20260408230502.xlsx",
+  "mise_a_jour": "08/04/2026 23:31",
+  "derniere_verification": "08/04/2026 23:31:40",
+  "fichier_source": "stations-20260408232502.xlsx",
   "total": 73,
   "stations": [
     {
@@ -469,6 +469,14 @@
       "lon": -71.027496
     },
     {
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 187.9,
+      "lat": 48.424585,
+      "lon": -71.180502
+    },
+    {
       "banniere": "Harnois",
       "adresse": "1476 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
@@ -483,14 +491,6 @@
       "prix": 189.9,
       "lat": 48.41388,
       "lon": -71.067443
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 193.9,
-      "lat": 48.424585,
-      "lon": -71.180502
     },
     {
       "banniere": "Petro-Canada",
