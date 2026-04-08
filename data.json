@@ -1,6 +1,6 @@
 {
-  "mise_a_jour": "08/04/2026 15:19",
-  "fichier_source": "stations-20260408151501.xlsx",
+  "mise_a_jour": "08/04/2026 15:53",
+  "fichier_source": "stations-20260408155002.xlsx",
   "total": 147,
   "stations": [
     {
@@ -332,12 +332,12 @@
       "lon": -79.03785
     },
     {
-      "banniere": "Irving",
-      "adresse": "404 av. du Pont nord, Alma",
+      "banniere": "Esso",
+      "adresse": "4190 rue des Peupliers, La Doré",
       "ville": "Saguenay",
-      "prix": 199.3,
-      "lat": 48.555847,
-      "lon": -71.639517
+      "prix": 199.4,
+      "lat": 48.704426,
+      "lon": -72.638333
     },
     {
       "banniere": "Petro-Canada",
@@ -348,12 +348,12 @@
       "lon": -71.647452
     },
     {
-      "banniere": "Esso",
-      "adresse": "4190 rue des Peupliers, La Doré",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5221 av. du Pont nord, Alma",
       "ville": "Saguenay",
       "prix": 199.4,
-      "lat": 48.704426,
-      "lon": -72.638333
+      "lat": 48.630136,
+      "lon": -71.685482
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -389,27 +389,19 @@
     },
     {
       "banniere": "Irving",
+      "adresse": "404 av. du Pont nord, Alma",
+      "ville": "Saguenay",
+      "prix": 199.4,
+      "lat": 48.555847,
+      "lon": -71.639517
+    },
+    {
+      "banniere": "Irving",
       "adresse": "490 boul. Saint-Jude, Alma",
       "ville": "Saguenay",
       "prix": 199.4,
       "lat": 48.545179,
       "lon": -71.659649
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "40 rue Quen, Dolbeau-Mistassini",
-      "ville": "Saguenay",
-      "prix": 199.4,
-      "lat": 48.889918,
-      "lon": -72.206958
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5221 av. du Pont nord, Alma",
-      "ville": "Saguenay",
-      "prix": 199.4,
-      "lat": 48.630136,
-      "lon": -71.685482
     },
     {
       "banniere": "Irving",
@@ -418,6 +410,14 @@
       "prix": 199.4,
       "lat": 48.425557,
       "lon": -71.26138
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "40 rue Quen, Dolbeau-Mistassini",
+      "ville": "Saguenay",
+      "prix": 199.4,
+      "lat": 48.889918,
+      "lon": -72.206958
     },
     {
       "banniere": "Harnois",
