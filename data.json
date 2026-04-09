@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "09/04/2026 22:36",
-  "derniere_verification": "09/04/2026 22:36:12",
-  "fichier_source": "stations-20260409223502.xlsx",
+  "mise_a_jour": "09/04/2026 23:06",
+  "derniere_verification": "09/04/2026 23:06:36",
+  "fichier_source": "stations-20260409230502.xlsx",
   "total": 74,
   "stations": [
     {
@@ -557,12 +557,12 @@
       "lon": -71.023248
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2350 boul. Saguenay, Rouyn-Noranda",
-      "ville": "Saguenay",
-      "prix": 196.4,
-      "lat": 48.271731,
-      "lon": -79.027249
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 193.9,
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Harnois",
@@ -573,12 +573,12 @@
       "lon": -79.03785
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 199.9,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "banniere": "Petro-Canada",
+      "adresse": "2350 boul. Saguenay, Rouyn-Noranda",
+      "ville": "Saguenay",
+      "prix": 196.4,
+      "lat": 48.271731,
+      "lon": -79.027249
     },
     {
       "banniere": "Ultramar",
