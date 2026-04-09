@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "09/04/2026 15:13",
-  "derniere_verification": "09/04/2026 15:13:22",
-  "fichier_source": "stations-20260409151001.xlsx",
+  "mise_a_jour": "09/04/2026 16:01",
+  "derniere_verification": "09/04/2026 16:01:40",
+  "fichier_source": "stations-20260409160001.xlsx",
   "total": 73,
   "stations": [
     {
@@ -517,6 +517,14 @@
       "lon": -71.027496
     },
     {
+      "banniere": "Crevier",
+      "adresse": "2922 boul. du Saguenay, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 189.9,
+      "lat": 48.433314,
+      "lon": -71.187357
+    },
+    {
       "banniere": "Harnois",
       "adresse": "1476 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
@@ -531,14 +539,6 @@
       "prix": 189.9,
       "lat": 48.41388,
       "lon": -71.067443
-    },
-    {
-      "banniere": "Crevier",
-      "adresse": "2922 boul. du Saguenay, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 193.9,
-      "lat": 48.433314,
-      "lon": -71.187357
     },
     {
       "banniere": "Petro-Canada",
