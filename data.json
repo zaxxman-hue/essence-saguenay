@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "09/04/2026 11:04",
-  "derniere_verification": "09/04/2026 11:04:33",
-  "fichier_source": "stations-20260409110002.xlsx",
+  "mise_a_jour": "09/04/2026 11:30",
+  "derniere_verification": "09/04/2026 11:30:10",
+  "fichier_source": "stations-20260409113001.xlsx",
   "total": 73,
   "stations": [
     {
@@ -61,12 +61,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 183.9,
-      "lat": 48.40924,
-      "lon": -71.052572
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Esso",
@@ -85,12 +85,12 @@
       "lon": -71.166847
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 183.9,
-      "lat": 48.421176,
-      "lon": -71.059061
+      "lat": 48.40924,
+      "lon": -71.052572
     },
     {
       "banniere": "Irving",
@@ -117,12 +117,12 @@
       "lon": -71.106094
     },
     {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1821 rue Sainte-Famille, Saguenay",
       "ville": "Jonquiere",
       "prix": 183.9,
-      "lat": 48.413826,
-      "lon": -71.246977
+      "lat": 48.431009,
+      "lon": -71.233782
     },
     {
       "banniere": "Pétro-T",
@@ -173,20 +173,20 @@
       "lon": -71.243563
     },
     {
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 183.9,
+      "lat": 48.421176,
+      "lon": -71.059061
+    },
+    {
       "banniere": "Esso",
       "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 183.9,
       "lat": 48.403131,
       "lon": -71.059187
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 183.9,
-      "lat": 48.454509,
-      "lon": -71.111521
     },
     {
       "banniere": "Ultramar",
@@ -245,12 +245,12 @@
       "lon": -71.175803
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1821 rue Sainte-Famille, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 183.9,
-      "lat": 48.431009,
-      "lon": -71.233782
+      "lat": 48.404702,
+      "lon": -71.171977
     },
     {
       "banniere": "Ultramar",
@@ -334,11 +334,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 183.9,
-      "lat": 48.369606,
-      "lon": -71.28365
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
       "banniere": "Petro-Canada",
@@ -389,12 +389,12 @@
       "lon": -70.881141
     },
     {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
       "prix": 183.9,
-      "lat": 48.421952,
-      "lon": -71.242838
+      "lat": 48.369606,
+      "lon": -71.28365
     },
     {
       "banniere": "R.L.",
@@ -453,6 +453,14 @@
       "lon": -71.051965
     },
     {
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 183.9,
+      "lat": 48.421952,
+      "lon": -71.242838
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "4391 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
@@ -501,20 +509,20 @@
       "lon": -71.180502
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2350 boul. Saguenay, Rouyn-Noranda",
-      "ville": "Saguenay",
-      "prix": 196.4,
-      "lat": 48.271731,
-      "lon": -79.027249
-    },
-    {
       "banniere": "Harnois",
       "adresse": "3182 rue Saguenay, Rouyn-Noranda",
       "ville": "Saguenay",
       "prix": 196.4,
       "lat": 48.291928,
       "lon": -79.03785
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2350 boul. Saguenay, Rouyn-Noranda",
+      "ville": "Saguenay",
+      "prix": 196.4,
+      "lat": 48.271731,
+      "lon": -79.027249
     },
     {
       "banniere": "Irving",
@@ -533,20 +541,20 @@
       "lon": -71.068372
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 199.9,
-      "lat": 48.425808,
-      "lon": -71.071138
-    },
-    {
       "banniere": "Crevier",
       "adresse": "2922 boul. du Saguenay, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 199.9,
       "lat": 48.433314,
       "lon": -71.187357
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 199.9,
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "Petro-Canada",
@@ -557,20 +565,12 @@
       "lon": -71.020099
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
+      "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
       "ville": "Jonquiere",
       "prix": 199.9,
-      "lat": 48.404702,
-      "lon": -71.171977
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 199.9,
-      "lat": 48.404137,
-      "lon": -71.166787
+      "lat": 48.425808,
+      "lon": -71.071138
     },
     {
       "banniere": "Irving",
