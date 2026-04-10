@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "10/04/2026 15:58",
-  "derniere_verification": "10/04/2026 15:58:38",
-  "fichier_source": "stations-20260410155502.xlsx",
+  "mise_a_jour": "10/04/2026 16:11",
+  "derniere_verification": "10/04/2026 16:11:52",
+  "fichier_source": "stations-20260410161001.xlsx",
   "total": 74,
   "stations": [
     {
@@ -261,12 +261,12 @@
       "lon": -71.020099
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Shell",
+      "adresse": "342 rue 6, Saguenay",
+      "ville": "LaBaie",
       "prix": 183.9,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "lat": 48.330239,
+      "lon": -70.890031
     },
     {
       "banniere": "Petro-Canada",
@@ -390,11 +390,11 @@
     },
     {
       "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
       "prix": 183.9,
-      "lat": 48.316248,
-      "lon": -71.134685
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -422,11 +422,11 @@
     },
     {
       "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
+      "ville": "LaBaie",
       "prix": 183.9,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "lat": 48.336551,
+      "lon": -70.882167
     },
     {
       "banniere": "Canadian Tire",
@@ -437,28 +437,28 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Shell",
-      "adresse": "342 rue 6, Saguenay",
-      "ville": "LaBaie",
-      "prix": 183.9,
-      "lat": 48.330239,
-      "lon": -70.890031
-    },
-    {
       "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
+      "adresse": "1050 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 183.9,
-      "lat": 48.336551,
-      "lon": -70.882167
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 183.9,
+      "lat": 48.428994,
+      "lon": -71.027496
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 183.9,
-      "lat": 48.317087,
-      "lon": -71.134075
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -533,6 +533,14 @@
       "lon": -71.242838
     },
     {
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 183.9,
+      "lat": 48.317087,
+      "lon": -71.134075
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "4391 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
@@ -547,14 +555,6 @@
       "prix": 184.9,
       "lat": 48.5064,
       "lon": -71.270068
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 185.9,
-      "lat": 48.428994,
-      "lon": -71.027496
     },
     {
       "banniere": "Harnois",
