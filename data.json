@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "10/04/2026 15:13",
-  "derniere_verification": "10/04/2026 15:13:50",
-  "fichier_source": "stations-20260410151001.xlsx",
+  "mise_a_jour": "10/04/2026 15:58",
+  "derniere_verification": "10/04/2026 15:58:38",
+  "fichier_source": "stations-20260410155502.xlsx",
   "total": 74,
   "stations": [
     {
@@ -70,19 +70,19 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 183.4,
-      "lat": 48.422936,
-      "lon": -71.243563
-    },
-    {
-      "banniere": "Irving",
       "adresse": "4024 boul. du Royaume, Saguenay",
       "ville": "Saguenay",
       "prix": 183.4,
       "lat": 48.425557,
       "lon": -71.26138
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "3635 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 183.4,
+      "lat": 48.421137,
+      "lon": -71.234999
     },
     {
       "banniere": "Irving",
@@ -165,14 +165,6 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Irving",
-      "adresse": "3635 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 183.9,
-      "lat": 48.421137,
-      "lon": -71.234999
-    },
-    {
       "banniere": "Esso",
       "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -190,11 +182,19 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 183.9,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "lat": 48.422936,
+      "lon": -71.243563
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 183.9,
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "Esso",
@@ -238,19 +238,19 @@
     },
     {
       "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 183.9,
+      "lat": 48.337232,
+      "lon": -70.888533
+    },
+    {
+      "banniere": "Irving",
       "adresse": "2005 boul. Mellon, Saguenay",
       "ville": "Jonquiere",
       "prix": 183.9,
       "lat": 48.424585,
       "lon": -71.180502
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 183.9,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Petro-Canada",
