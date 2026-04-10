@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "10/04/2026 14:41",
-  "derniere_verification": "10/04/2026 14:41:58",
-  "fichier_source": "stations-20260410144001.xlsx",
+  "mise_a_jour": "10/04/2026 15:13",
+  "derniere_verification": "10/04/2026 15:13:50",
+  "fichier_source": "stations-20260410151001.xlsx",
   "total": 74,
   "stations": [
     {
@@ -181,12 +181,12 @@
       "lon": -71.059187
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 183.9,
-      "lat": 48.421176,
-      "lon": -71.059061
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Irving",
@@ -197,12 +197,12 @@
       "lon": -70.888533
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
       "prix": 183.9,
-      "lat": 48.452384,
-      "lon": -71.094392
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Petro-Canada",
@@ -213,20 +213,20 @@
       "lon": -71.114422
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 183.9,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.452384,
+      "lon": -71.094392
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 183.9,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Esso",
@@ -293,12 +293,12 @@
       "lon": -71.05197
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
       "prix": 183.9,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "lat": 48.356563,
+      "lon": -71.055264
     },
     {
       "banniere": "Petro-Canada",
@@ -421,12 +421,12 @@
       "lon": -71.28365
     },
     {
-      "banniere": "Shell",
-      "adresse": "342 rue 6, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 183.9,
-      "lat": 48.330239,
-      "lon": -70.890031
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "Canadian Tire",
@@ -437,20 +437,20 @@
       "lon": -71.23162
     },
     {
+      "banniere": "Shell",
+      "adresse": "342 rue 6, Saguenay",
+      "ville": "LaBaie",
+      "prix": 183.9,
+      "lat": 48.330239,
+      "lon": -70.890031
+    },
+    {
       "banniere": "Canadian Tire",
       "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
       "ville": "LaBaie",
       "prix": 183.9,
       "lat": 48.336551,
       "lon": -70.882167
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 183.9,
-      "lat": 48.32626,
-      "lon": -70.873104
     },
     {
       "banniere": "R.L.",
@@ -478,11 +478,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 183.9,
-      "lat": 48.356563,
-      "lon": -71.055264
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Petro-Canada",
@@ -517,6 +517,14 @@
       "lon": -71.081011
     },
     {
+      "banniere": "R.L.",
+      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 183.9,
+      "lat": 48.32626,
+      "lon": -70.873104
+    },
+    {
       "banniere": "Shell",
       "adresse": "3761 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
@@ -526,19 +534,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
-      "ville": "Saguenay",
-      "prix": 184.9,
-      "lat": 48.5064,
-      "lon": -71.270068
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "4391 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
       "prix": 184.9,
       "lat": 48.470796,
       "lon": -71.277321
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "4500 rte Mathias, Saguenay",
+      "ville": "Saguenay",
+      "prix": 184.9,
+      "lat": 48.5064,
+      "lon": -71.270068
     },
     {
       "banniere": "R.L.",
@@ -557,14 +565,6 @@
       "lon": -71.023248
     },
     {
-      "banniere": "Harnois",
-      "adresse": "950 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 189.9,
-      "lat": 48.41388,
-      "lon": -71.067443
-    },
-    {
       "banniere": "Crevier",
       "adresse": "2922 boul. du Saguenay, SAGUENAY",
       "ville": "Jonquiere",
@@ -573,12 +573,12 @@
       "lon": -71.187357
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2350 boul. Saguenay, Rouyn-Noranda",
-      "ville": "Saguenay",
-      "prix": 196.4,
-      "lat": 48.271731,
-      "lon": -79.027249
+      "banniere": "Harnois",
+      "adresse": "950 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 189.9,
+      "lat": 48.41388,
+      "lon": -71.067443
     },
     {
       "banniere": "Harnois",
@@ -589,12 +589,12 @@
       "lon": -79.03785
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 199.9,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "banniere": "Petro-Canada",
+      "adresse": "2350 boul. Saguenay, Rouyn-Noranda",
+      "ville": "Saguenay",
+      "prix": 196.4,
+      "lat": 48.271731,
+      "lon": -79.027249
     }
   ]
 }
