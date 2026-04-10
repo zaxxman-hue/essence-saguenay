@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "10/04/2026 13:17",
-  "derniere_verification": "10/04/2026 13:17:17",
-  "fichier_source": "stations-20260410131501.xlsx",
+  "mise_a_jour": "10/04/2026 13:53",
+  "derniere_verification": "10/04/2026 13:53:26",
+  "fichier_source": "stations-20260410135001.xlsx",
   "total": 74,
   "stations": [
     {
@@ -565,14 +565,6 @@
       "lon": -71.187357
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 193.9,
-      "lat": 48.438557,
-      "lon": -71.061332
-    },
-    {
       "banniere": "Harnois",
       "adresse": "3182 rue Saguenay, Rouyn-Noranda",
       "ville": "Saguenay",
@@ -595,6 +587,14 @@
       "prix": 199.9,
       "lat": 48.42592,
       "lon": -71.068372
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 199.9,
+      "lat": 48.438557,
+      "lon": -71.061332
     }
   ]
 }
