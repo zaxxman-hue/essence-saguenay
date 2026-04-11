@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "11/04/2026 19:08",
-  "derniere_verification": "11/04/2026 19:08:52",
-  "fichier_source": "stations-20260411190502.xlsx",
+  "mise_a_jour": "11/04/2026 19:27",
+  "derniere_verification": "11/04/2026 19:27:15",
+  "fichier_source": "stations-20260411192502.xlsx",
   "total": 74,
   "stations": [
     {
@@ -19,6 +19,14 @@
       "prix": 181.8,
       "lat": 48.40924,
       "lon": -71.052572
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 182.5,
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Petro-Canada",
@@ -43,14 +51,6 @@
       "prix": 183.2,
       "lat": 48.421176,
       "lon": -71.059061
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 183.2,
-      "lat": 48.403131,
-      "lon": -71.059187
     },
     {
       "banniere": "Ultramar",
