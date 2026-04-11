@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "11/04/2026 17:55",
-  "derniere_verification": "11/04/2026 17:55:30",
-  "fichier_source": "stations-20260411175501.xlsx",
+  "mise_a_jour": "11/04/2026 18:39",
+  "derniere_verification": "11/04/2026 18:39:16",
+  "fichier_source": "stations-20260411183501.xlsx",
   "total": 74,
   "stations": [
     {
@@ -24,25 +24,17 @@
       "banniere": "Petro-Canada",
       "adresse": "1201 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 183.2,
+      "prix": 182.5,
       "lat": 48.408298,
       "lon": -71.054487
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 183.2,
-      "lat": 48.39744,
-      "lon": -71.081011
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 183.2,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
+      "prix": 182.5,
+      "lat": 48.356563,
+      "lon": -71.055264
     },
     {
       "banniere": "Couche-Tard",
@@ -53,6 +45,14 @@
       "lon": -71.059061
     },
     {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 183.2,
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1333 Boul. du Royaume est, SAGUENAY",
       "ville": "Saguenay",
@@ -61,12 +61,12 @@
       "lon": -71.114645
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 183.2,
-      "lat": 48.356563,
-      "lon": -71.055264
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Shell",
