@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "12/04/2026 14:07",
-  "derniere_verification": "12/04/2026 14:07:21",
-  "fichier_source": "stations-20260412140501.xlsx",
+  "mise_a_jour": "12/04/2026 14:32",
+  "derniere_verification": "12/04/2026 14:32:50",
+  "fichier_source": "stations-20260412143001.xlsx",
   "total": 74,
   "stations": [
     {
@@ -96,7 +96,7 @@
       "banniere": "Canadian Tire",
       "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 183.2,
+      "prix": 182.5,
       "lat": 48.411103,
       "lon": -71.052843
     },
