@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/04/2026 19:59",
-  "derniere_verification": "13/04/2026 19:59:19",
-  "fichier_source": "stations-20260413195502.xlsx",
+  "mise_a_jour": "13/04/2026 20:32",
+  "derniere_verification": "13/04/2026 20:32:51",
+  "fichier_source": "stations-20260413203002.xlsx",
   "total": 74,
   "stations": [
     {
@@ -11,6 +11,14 @@
       "prix": 173.9,
       "lat": 48.317822,
       "lon": -70.861146
+    },
+    {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 181.1,
+      "lat": 48.40924,
+      "lon": -71.052572
     },
     {
       "banniere": "Irving",
@@ -27,14 +35,6 @@
       "prix": 181.4,
       "lat": 48.426389,
       "lon": -71.259018
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 181.8,
-      "lat": 48.39744,
-      "lon": -71.081011
     },
     {
       "banniere": "Esso",
@@ -61,12 +61,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 181.8,
-      "lat": 48.40924,
-      "lon": -71.052572
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Canadian Tire",
