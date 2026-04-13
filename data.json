@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/04/2026 22:08",
-  "derniere_verification": "13/04/2026 22:08:18",
-  "fichier_source": "stations-20260413220503.xlsx",
+  "mise_a_jour": "13/04/2026 22:38",
+  "derniere_verification": "13/04/2026 22:38:48",
+  "fichier_source": "stations-20260413223502.xlsx",
   "total": 74,
   "stations": [
     {
@@ -21,14 +21,6 @@
       "lon": -71.052572
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 181.1,
-      "lat": 48.421176,
-      "lon": -71.059061
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "1201 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -45,6 +37,14 @@
       "lon": -71.055264
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 181.4,
+      "lat": 48.426389,
+      "lon": -71.259018
+    },
+    {
       "banniere": "Irving",
       "adresse": "4024 boul. du Royaume, Saguenay",
       "ville": "Saguenay",
@@ -53,12 +53,12 @@
       "lon": -71.26138
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 181.4,
-      "lat": 48.426389,
-      "lon": -71.259018
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 181.8,
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "Ultramar",
@@ -117,20 +117,20 @@
       "lon": -71.070497
     },
     {
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 181.8,
+      "lat": 48.421176,
+      "lon": -71.059061
+    },
+    {
       "banniere": "Esso",
       "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 181.8,
       "lat": 48.403131,
       "lon": -71.059187
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 181.8,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Canadian Tire",
