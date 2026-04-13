@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/04/2026 14:45",
-  "derniere_verification": "13/04/2026 14:45:52",
-  "fichier_source": "stations-20260413144501.xlsx",
+  "mise_a_jour": "13/04/2026 14:58",
+  "derniere_verification": "13/04/2026 14:58:29",
+  "fichier_source": "stations-20260413145502.xlsx",
   "total": 74,
   "stations": [
     {
@@ -101,12 +101,12 @@
       "lon": -71.05197
     },
     {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
       "prix": 181.9,
-      "lat": 48.413826,
-      "lon": -71.246977
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Irving",
@@ -197,12 +197,12 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 181.9,
-      "lat": 48.451071,
-      "lon": -71.020099
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Petro-Canada",
@@ -229,12 +229,12 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 181.9,
-      "lat": 48.406769,
-      "lon": -71.051965
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Esso",
@@ -245,12 +245,12 @@
       "lon": -70.995272
     },
     {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
       "ville": "Chicoutimi",
       "prix": 181.9,
-      "lat": 48.415732,
-      "lon": -71.065681
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
       "banniere": "Esso",
@@ -259,6 +259,14 @@
       "prix": 181.9,
       "lat": 48.411254,
       "lon": -71.261772
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 181.9,
+      "lat": 48.415732,
+      "lon": -71.065681
     },
     {
       "banniere": "Shell",
@@ -277,20 +285,20 @@
       "lon": -71.094182
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 182.5,
-      "lat": 48.408178,
-      "lon": -71.093216
-    },
-    {
       "banniere": "Esso",
       "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 182.5,
       "lat": 48.395019,
       "lon": -71.106094
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 182.5,
+      "lat": 48.408178,
+      "lon": -71.093216
     },
     {
       "banniere": "Canadian Tire",
@@ -315,14 +323,6 @@
       "prix": 183.4,
       "lat": 48.44285,
       "lon": -71.076179
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 183.4,
-      "lat": 48.426389,
-      "lon": -71.259018
     },
     {
       "banniere": "Petro-Canada",
@@ -365,12 +365,12 @@
       "lon": -70.067898
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 183.4,
-      "lat": 48.425557,
-      "lon": -71.26138
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "Esso",
