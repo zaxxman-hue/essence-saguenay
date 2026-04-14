@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "14/04/2026 23:10",
-  "derniere_verification": "14/04/2026 23:10:07",
-  "fichier_source": "stations-20260414230502.xlsx",
+  "mise_a_jour": "14/04/2026 23:36",
+  "derniere_verification": "14/04/2026 23:36:37",
+  "fichier_source": "stations-20260414233502.xlsx",
   "total": 74,
   "stations": [
     {
@@ -141,12 +141,12 @@
       "lon": -71.055264
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 179.7,
-      "lat": 48.411756,
-      "lon": -71.05197
+      "lat": 48.408178,
+      "lon": -71.093216
     },
     {
       "banniere": "Ultramar",
@@ -158,19 +158,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 179.7,
-      "lat": 48.39309,
-      "lon": -71.070497
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.7,
-      "lat": 48.402262,
-      "lon": -71.23757
+      "lat": 48.411756,
+      "lon": -71.05197
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -179,6 +171,14 @@
       "prix": 179.7,
       "lat": 48.396671,
       "lon": -71.252854
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 179.7,
+      "lat": 48.407448,
+      "lon": -71.094182
     },
     {
       "banniere": "Petro-Canada",
@@ -198,11 +198,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "3667 rue Panet, Saguenay",
+      "ville": "Jonquiere",
       "prix": 179.7,
-      "lat": 48.414704,
-      "lon": -71.259124
+      "lat": 48.402262,
+      "lon": -71.23757
     },
     {
       "banniere": "Petro-Canada",
@@ -213,6 +213,22 @@
       "lon": -71.234995
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.7,
+      "lat": 48.414704,
+      "lon": -71.259124
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 179.7,
+      "lat": 48.39309,
+      "lon": -71.070497
+    },
+    {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -221,12 +237,12 @@
       "lon": -71.052572
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 179.7,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.421952,
+      "lon": -71.242838
     },
     {
       "banniere": "Esso",
@@ -237,12 +253,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
       "prix": 179.7,
-      "lat": 48.421952,
-      "lon": -71.242838
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Esso",
@@ -267,22 +283,6 @@
       "prix": 180.4,
       "lat": 48.411103,
       "lon": -71.052843
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 181.1,
-      "lat": 48.408178,
-      "lon": -71.093216
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 181.8,
-      "lat": 48.407448,
-      "lon": -71.094182
     },
     {
       "banniere": "Petro-Canada",
