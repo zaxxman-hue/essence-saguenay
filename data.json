@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "15/04/2026 11:56",
-  "derniere_verification": "15/04/2026 11:56:22",
-  "fichier_source": "stations-20260415115502.xlsx",
+  "mise_a_jour": "15/04/2026 12:10",
+  "derniere_verification": "15/04/2026 12:10:57",
+  "fichier_source": "stations-20260415121002.xlsx",
   "total": 74,
   "stations": [
     {
@@ -310,19 +310,19 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 180.9,
+      "lat": 48.425808,
+      "lon": -71.071138
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 181.9,
       "lat": 48.454509,
       "lon": -71.111521
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 181.9,
-      "lat": 48.428994,
-      "lon": -71.027496
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -365,20 +365,20 @@
       "lon": -71.091169
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 181.9,
-      "lat": 48.425808,
-      "lon": -71.071138
-    },
-    {
       "banniere": "Shell",
       "adresse": "487 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 181.9,
       "lat": 48.44285,
       "lon": -71.076179
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 181.9,
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Petro-Canada",
