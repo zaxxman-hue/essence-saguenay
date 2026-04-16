@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "16/04/2026 17:10",
-  "derniere_verification": "16/04/2026 17:10:36",
-  "fichier_source": "stations-20260416171002.xlsx",
+  "mise_a_jour": "16/04/2026 17:49",
+  "derniere_verification": "16/04/2026 17:49:10",
+  "fichier_source": "stations-20260416174502.xlsx",
   "total": 75,
   "stations": [
     {
@@ -205,12 +205,12 @@
       "lon": -70.995272
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 178.7,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.421952,
+      "lon": -71.242838
     },
     {
       "banniere": "Esso",
@@ -219,6 +219,14 @@
       "prix": 178.7,
       "lat": 48.415732,
       "lon": -71.065681
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 178.7,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Petro-Canada",
@@ -235,14 +243,6 @@
       "prix": 178.9,
       "lat": 48.454509,
       "lon": -71.111521
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
-      "prix": 178.9,
-      "lat": 48.414704,
-      "lon": -71.259124
     },
     {
       "banniere": "Irving",
@@ -366,11 +366,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
       "prix": 178.9,
-      "lat": 48.454243,
-      "lon": -71.061125
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Petro-Canada",
@@ -389,12 +389,12 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "641 rue Delisle, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 178.9,
-      "lat": 48.421952,
-      "lon": -71.242838
+      "lat": 48.454243,
+      "lon": -71.061125
     },
     {
       "banniere": "R.L.",
