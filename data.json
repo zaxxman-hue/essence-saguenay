@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/04/2026 14:38",
-  "derniere_verification": "17/04/2026 14:38:56",
-  "fichier_source": "stations-20260417143502.xlsx",
+  "mise_a_jour": "17/04/2026 14:47",
+  "derniere_verification": "17/04/2026 14:47:27",
+  "fichier_source": "stations-20260417144502.xlsx",
   "total": 75,
   "stations": [
     {
@@ -53,6 +53,22 @@
       "lon": -71.106094
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
+      "prix": 175.9,
+      "lat": 48.356563,
+      "lon": -71.055264
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.9,
+      "lat": 48.408298,
+      "lon": -71.054487
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
@@ -83,22 +99,6 @@
       "prix": 175.9,
       "lat": 48.42592,
       "lon": -71.068372
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
-      "prix": 176.8,
-      "lat": 48.341983,
-      "lon": -70.995272
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 176.8,
-      "lat": 48.408298,
-      "lon": -71.054487
     },
     {
       "banniere": "Harnois",
@@ -133,20 +133,20 @@
       "lon": -71.145998
     },
     {
+      "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
+      "prix": 176.8,
+      "lat": 48.341983,
+      "lon": -70.995272
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 176.8,
       "lat": 48.411756,
       "lon": -71.05197
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
-      "prix": 176.8,
-      "lat": 48.356563,
-      "lon": -71.055264
     },
     {
       "banniere": "Esso",
