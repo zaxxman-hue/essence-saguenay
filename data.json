@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/04/2026 16:32",
-  "derniere_verification": "17/04/2026 16:32:31",
-  "fichier_source": "stations-20260417163002.xlsx",
+  "mise_a_jour": "17/04/2026 16:52",
+  "derniere_verification": "17/04/2026 16:52:27",
+  "fichier_source": "stations-20260417165002.xlsx",
   "total": 75,
   "stations": [
     {
@@ -61,12 +61,12 @@
       "lon": -71.055264
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 175.9,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.407448,
+      "lon": -71.094182
     },
     {
       "banniere": "Petro-Canada",
@@ -109,12 +109,12 @@
       "lon": -71.093216
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1821 rue Sainte-Famille, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.8,
-      "lat": 48.431009,
-      "lon": -71.233782
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.9,
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Esso",
@@ -125,12 +125,12 @@
       "lon": -71.246977
     },
     {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1821 rue Sainte-Famille, Saguenay",
       "ville": "Jonquiere",
       "prix": 176.8,
-      "lat": 48.400574,
-      "lon": -71.145998
+      "lat": 48.431009,
+      "lon": -71.233782
     },
     {
       "banniere": "Irving",
@@ -189,12 +189,12 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
+      "ville": "Jonquiere",
       "prix": 176.8,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Esso",
@@ -203,6 +203,14 @@
       "prix": 176.8,
       "lat": 48.415732,
       "lon": -71.065681
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 176.8,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -214,14 +222,6 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
-      "prix": 177.5,
-      "lat": 48.414704,
-      "lon": -71.259124
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "1960 rue De Montfort, Saguenay",
       "ville": "Jonquiere",
       "prix": 177.5,
@@ -230,11 +230,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "adresse": "3997 boul. Harvey, Saguenay",
       "ville": "Saguenay",
       "prix": 177.5,
-      "lat": 48.369606,
-      "lon": -71.28365
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Esso",
@@ -261,12 +261,12 @@
       "lon": -71.052843
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 177.5,
-      "lat": 48.407448,
-      "lon": -71.094182
+      "lat": 48.423109,
+      "lon": -71.212988
     },
     {
       "banniere": "Shell",
@@ -285,12 +285,12 @@
       "lon": -71.020099
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
       "prix": 177.5,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "lat": 48.369606,
+      "lon": -71.28365
     },
     {
       "banniere": "Nutrinor Énergies",
