@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "16/04/2026 23:33",
-  "derniere_verification": "16/04/2026 23:33:59",
-  "fichier_source": "stations-20260416233001.xlsx",
+  "mise_a_jour": "17/04/2026 00:03",
+  "derniere_verification": "17/04/2026 00:03:54",
+  "fichier_source": "stations-20260417000002.xlsx",
   "total": 75,
   "stations": [
     {
@@ -213,28 +213,12 @@
       "lon": -71.242838
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 178.1,
-      "lat": 48.408178,
-      "lon": -71.093216
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 178.2,
       "lat": 48.411756,
       "lon": -71.05197
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 178.4,
-      "lat": 48.425557,
-      "lon": -71.26138
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -245,12 +229,28 @@
       "lon": -71.259018
     },
     {
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 178.4,
+      "lat": 48.425557,
+      "lon": -71.26138
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "3667 rue Panet, Saguenay",
       "ville": "Jonquiere",
       "prix": 178.7,
       "lat": 48.402262,
       "lon": -71.23757
+    },
+    {
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 178.9,
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Irving",
@@ -309,14 +309,6 @@
       "lon": -71.071138
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 178.9,
-      "lat": 48.412676,
-      "lon": -71.23162
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "1960 rue De Montfort, Saguenay",
       "ville": "Jonquiere",
@@ -331,6 +323,14 @@
       "prix": 178.9,
       "lat": 48.454509,
       "lon": -71.111521
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 178.9,
+      "lat": 48.408178,
+      "lon": -71.093216
     },
     {
       "banniere": "R.L.",
