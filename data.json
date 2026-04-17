@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/04/2026 11:52",
-  "derniere_verification": "17/04/2026 11:52:51",
-  "fichier_source": "stations-20260417115001.xlsx",
+  "mise_a_jour": "17/04/2026 12:09",
+  "derniere_verification": "17/04/2026 12:09:39",
+  "fichier_source": "stations-20260417120502.xlsx",
   "total": 75,
   "stations": [
     {
@@ -21,20 +21,20 @@
       "lon": -71.052572
     },
     {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 177.5,
-      "lat": 48.413826,
-      "lon": -71.246977
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
+      "prix": 176.8,
+      "lat": 48.356563,
+      "lon": -71.055264
     },
     {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 177.5,
-      "lat": 48.400574,
-      "lon": -71.145998
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 176.8,
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Harnois",
@@ -53,20 +53,20 @@
       "lon": -70.995272
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 177.5,
-      "lat": 48.451071,
-      "lon": -71.020099
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
+      "ville": "Jonquiere",
       "prix": 177.5,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Couche-Tard",
@@ -118,19 +118,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
-      "prix": 177.5,
-      "lat": 48.414704,
-      "lon": -71.259124
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
+      "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 177.5,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.451071,
+      "lon": -71.020099
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 177.5,
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Ultramar",
@@ -198,11 +198,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
+      "adresse": "3997 boul. Harvey, Saguenay",
       "ville": "Saguenay",
       "prix": 177.5,
-      "lat": 48.356563,
-      "lon": -71.055264
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Shell",
