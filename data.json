@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/04/2026 15:36",
-  "derniere_verification": "17/04/2026 15:36:34",
-  "fichier_source": "stations-20260417153501.xlsx",
+  "mise_a_jour": "17/04/2026 16:04",
+  "derniere_verification": "17/04/2026 16:04:42",
+  "fichier_source": "stations-20260417160002.xlsx",
   "total": 75,
   "stations": [
     {
@@ -181,20 +181,20 @@
       "lon": -71.051965
     },
     {
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 176.8,
+      "lat": 48.412676,
+      "lon": -71.23162
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 176.8,
       "lat": 48.411756,
       "lon": -71.05197
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 176.8,
-      "lat": 48.411254,
-      "lon": -71.261772
     },
     {
       "banniere": "Esso",
@@ -205,10 +205,18 @@
       "lon": -71.065681
     },
     {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 176.8,
+      "lat": 48.411254,
+      "lon": -71.261772
+    },
+    {
       "banniere": "Nutrinor Énergies",
       "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
-      "prix": 177.4,
+      "prix": 176.9,
       "lat": 48.396671,
       "lon": -71.252854
     },
@@ -222,14 +230,6 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 177.5,
-      "lat": 48.424661,
-      "lon": -71.234995
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "3397 rue Saint-Dominique, Saguenay",
       "ville": "Saguenay",
       "prix": 177.5,
@@ -237,12 +237,12 @@
       "lon": -71.28365
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "1960 rue De Montfort, Saguenay",
+      "ville": "Jonquiere",
       "prix": 177.5,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Petro-Canada",
@@ -254,11 +254,11 @@
     },
     {
       "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "1050 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 177.5,
-      "lat": 48.412676,
-      "lon": -71.23162
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "Nutrinor Énergies",
