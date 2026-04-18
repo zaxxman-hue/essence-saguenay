@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/04/2026 00:02",
-  "derniere_verification": "18/04/2026 00:02:43",
-  "fichier_source": "stations-20260418000002.xlsx",
+  "mise_a_jour": "18/04/2026 01:18",
+  "derniere_verification": "18/04/2026 01:18:21",
+  "fichier_source": "stations-20260418011502.xlsx",
   "total": 75,
   "stations": [
     {
@@ -325,12 +325,12 @@
       "lon": -71.250599
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "3667 rue Panet, Saguenay",
       "ville": "Jonquiere",
-      "prix": 176.9,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "prix": 177.5,
+      "lat": 48.402262,
+      "lon": -71.23757
     },
     {
       "banniere": "Ultramar",
@@ -339,14 +339,6 @@
       "prix": 177.5,
       "lat": 48.423109,
       "lon": -71.212988
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 177.5,
-      "lat": 48.402262,
-      "lon": -71.23757
     },
     {
       "banniere": "Petro-Canada",
@@ -365,12 +357,20 @@
       "lon": -71.180502
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 179.3,
-      "lat": 48.435333,
-      "lon": -71.140604
+      "lat": 48.404137,
+      "lon": -71.166787
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "3073 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 179.3,
+      "lat": 48.40886,
+      "lon": -71.19486
     },
     {
       "banniere": "Ultramar",
@@ -389,22 +389,6 @@
       "lon": -71.166847
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.3,
-      "lat": 48.404137,
-      "lon": -71.166787
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3073 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.3,
-      "lat": 48.40886,
-      "lon": -71.19486
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "2728 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
@@ -413,12 +397,12 @@
       "lon": -71.175803
     },
     {
-      "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 179.7,
-      "lat": 48.317087,
-      "lon": -71.134075
+      "banniere": "Petro-Canada",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 179.3,
+      "lat": 48.435333,
+      "lon": -71.140604
     },
     {
       "banniere": "R.L.",
@@ -429,6 +413,14 @@
       "lon": -71.027496
     },
     {
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.7,
+      "lat": 48.317087,
+      "lon": -71.134075
+    },
+    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
@@ -437,20 +429,28 @@
       "lon": -71.324386
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "4391 rte Saint-Léonard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 179.9,
-      "lat": 48.470796,
-      "lon": -71.277321
-    },
-    {
       "banniere": "Harnois",
       "adresse": "950 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 179.9,
       "lat": 48.41388,
       "lon": -71.067443
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "4500 rte Mathias, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.9,
+      "lat": 48.5064,
+      "lon": -71.270068
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "4391 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.9,
+      "lat": 48.470796,
+      "lon": -71.277321
     },
     {
       "banniere": "Esso",
@@ -478,14 +478,6 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
-      "ville": "Saguenay",
-      "prix": 179.9,
-      "lat": 48.5064,
-      "lon": -71.270068
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "952 rue Du Boulevard, Saguenay",
       "ville": "Saguenay",
       "prix": 179.9,
@@ -499,6 +491,14 @@
       "prix": 180.9,
       "lat": 48.441506,
       "lon": -71.051019
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 181.9,
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Énergie DDF",
