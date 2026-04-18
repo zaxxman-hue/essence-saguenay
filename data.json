@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/04/2026 11:35",
-  "derniere_verification": "18/04/2026 11:35:15",
-  "fichier_source": "stations-20260418113502.xlsx",
+  "mise_a_jour": "18/04/2026 11:57",
+  "derniere_verification": "18/04/2026 11:57:52",
+  "fichier_source": "stations-20260418115501.xlsx",
   "total": 75,
   "stations": [
     {
@@ -78,11 +78,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "adresse": "3754 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.9,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "R.L.",
@@ -133,12 +133,12 @@
       "lon": -71.051965
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.9,
-      "lat": 48.425808,
-      "lon": -71.071138
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Ultramar",
@@ -261,12 +261,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
       "prix": 175.9,
-      "lat": 48.415732,
-      "lon": -71.065681
+      "lat": 48.425808,
+      "lon": -71.071138
     },
     {
       "banniere": "Petro-Canada",
@@ -278,19 +278,19 @@
     },
     {
       "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.9,
+      "lat": 48.415732,
+      "lon": -71.065681
+    },
+    {
+      "banniere": "Esso",
       "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 175.9,
       "lat": 48.411254,
       "lon": -71.261772
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.8,
-      "lat": 48.412676,
-      "lon": -71.23162
     },
     {
       "banniere": "Shell",
@@ -301,20 +301,20 @@
       "lon": -71.242838
     },
     {
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 176.8,
+      "lat": 48.412676,
+      "lon": -71.23162
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 176.8,
       "lat": 48.411756,
       "lon": -71.05197
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.8,
-      "lat": 48.422936,
-      "lon": -71.243563
     },
     {
       "banniere": "Petro-Canada",
