@@ -1,9 +1,25 @@
 {
-  "mise_a_jour": "18/04/2026 21:57",
-  "derniere_verification": "18/04/2026 21:57:00",
-  "fichier_source": "stations-20260418215502.xlsx",
+  "mise_a_jour": "18/04/2026 22:28",
+  "derniere_verification": "18/04/2026 22:28:33",
+  "fichier_source": "stations-20260418222502.xlsx",
   "total": 75,
   "stations": [
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
+      "prix": 173.8,
+      "lat": 48.356563,
+      "lon": -71.055264
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 173.8,
+      "lat": 48.408298,
+      "lon": -71.054487
+    },
     {
       "banniere": "Esso",
       "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
@@ -19,22 +35,6 @@
       "prix": 174.5,
       "lat": 48.39744,
       "lon": -71.081011
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 174.5,
-      "lat": 48.403131,
-      "lon": -71.059187
-    },
-    {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 174.5,
-      "lat": 48.40924,
-      "lon": -71.052572
     },
     {
       "banniere": "Couche-Tard",
@@ -53,20 +53,20 @@
       "lon": -71.114645
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
-      "prix": 174.5,
-      "lat": 48.356563,
-      "lon": -71.055264
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 174.5,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
+    {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 174.5,
+      "lat": 48.40924,
+      "lon": -71.052572
     },
     {
       "banniere": "Petro-Canada",
