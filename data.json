@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/04/2026 21:04",
-  "derniere_verification": "18/04/2026 21:04:07",
-  "fichier_source": "stations-20260418210002.xlsx",
+  "mise_a_jour": "18/04/2026 21:28",
+  "derniere_verification": "18/04/2026 21:28:44",
+  "fichier_source": "stations-20260418212502.xlsx",
   "total": 75,
   "stations": [
     {
@@ -69,6 +69,14 @@
       "lon": -71.054487
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 174.5,
+      "lat": 48.408178,
+      "lon": -71.093216
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
@@ -83,14 +91,6 @@
       "prix": 174.5,
       "lat": 48.394683,
       "lon": -71.070736
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 175.2,
-      "lat": 48.408178,
-      "lon": -71.093216
     },
     {
       "banniere": "Crevier",
