@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/04/2026 16:35",
-  "derniere_verification": "18/04/2026 16:35:22",
-  "fichier_source": "stations-20260418163502.xlsx",
+  "mise_a_jour": "18/04/2026 17:02",
+  "derniere_verification": "18/04/2026 17:02:15",
+  "fichier_source": "stations-20260418170002.xlsx",
   "total": 75,
   "stations": [
     {
@@ -29,12 +29,12 @@
       "lon": -71.059187
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 174.5,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Petro-Canada",
@@ -53,12 +53,12 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 175.2,
-      "lat": 48.421176,
-      "lon": -71.059061
+      "prix": 174.5,
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Ultramar",
