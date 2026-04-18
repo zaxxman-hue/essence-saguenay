@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/04/2026 22:28",
-  "derniere_verification": "18/04/2026 22:28:33",
-  "fichier_source": "stations-20260418222502.xlsx",
+  "mise_a_jour": "18/04/2026 23:02",
+  "derniere_verification": "18/04/2026 23:02:18",
+  "fichier_source": "stations-20260418230002.xlsx",
   "total": 75,
   "stations": [
     {
@@ -11,6 +11,14 @@
       "prix": 173.8,
       "lat": 48.356563,
       "lon": -71.055264
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 173.8,
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Petro-Canada",
@@ -29,14 +37,6 @@
       "lon": -70.861146
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 174.5,
-      "lat": 48.39744,
-      "lon": -71.081011
-    },
-    {
       "banniere": "Couche-Tard",
       "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
@@ -46,11 +46,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 174.5,
-      "lat": 48.387452,
-      "lon": -71.114645
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Esso",
@@ -69,12 +69,12 @@
       "lon": -71.052572
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
       "prix": 174.5,
-      "lat": 48.408178,
-      "lon": -71.093216
+      "lat": 48.387452,
+      "lon": -71.114645
     },
     {
       "banniere": "Ultramar",
@@ -85,12 +85,12 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 174.5,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.408178,
+      "lon": -71.093216
     },
     {
       "banniere": "Crevier",
