@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "19/04/2026 15:58",
-  "derniere_verification": "19/04/2026 15:58:02",
-  "fichier_source": "stations-20260419155501.xlsx",
+  "mise_a_jour": "19/04/2026 16:35",
+  "derniere_verification": "19/04/2026 16:35:41",
+  "fichier_source": "stations-20260419163502.xlsx",
   "total": 75,
   "stations": [
     {
@@ -133,6 +133,14 @@
       "lon": -71.246977
     },
     {
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.9,
+      "lat": 48.452384,
+      "lon": -71.094392
+    },
+    {
       "banniere": "Irving",
       "adresse": "3635 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
@@ -147,14 +155,6 @@
       "prix": 175.9,
       "lat": 48.40314,
       "lon": -71.250599
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 175.9,
-      "lat": 48.425808,
-      "lon": -71.071138
     },
     {
       "banniere": "Canadian Tire",
@@ -206,19 +206,19 @@
     },
     {
       "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 175.9,
+      "lat": 48.425557,
+      "lon": -71.26138
+    },
+    {
+      "banniere": "Irving",
       "adresse": "3754 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.9,
       "lat": 48.422936,
       "lon": -71.243563
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 175.9,
-      "lat": 48.452384,
-      "lon": -71.094392
     },
     {
       "banniere": "Pétro-T",
@@ -302,11 +302,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
       "prix": 175.9,
-      "lat": 48.454243,
-      "lon": -71.061125
+      "lat": 48.425808,
+      "lon": -71.071138
     },
     {
       "banniere": "Esso",
@@ -333,6 +333,14 @@
       "lon": -71.242838
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "641 rue Delisle, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.9,
+      "lat": 48.454243,
+      "lon": -71.061125
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
@@ -347,14 +355,6 @@
       "prix": 177.5,
       "lat": 48.423109,
       "lon": -71.212988
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 178.4,
-      "lat": 48.425557,
-      "lon": -71.26138
     },
     {
       "banniere": "Petro-Canada",
