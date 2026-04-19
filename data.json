@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "19/04/2026 11:05",
-  "derniere_verification": "19/04/2026 11:05:08",
-  "fichier_source": "stations-20260419110501.xlsx",
+  "mise_a_jour": "19/04/2026 11:35",
+  "derniere_verification": "19/04/2026 11:35:45",
+  "fichier_source": "stations-20260419113502.xlsx",
   "total": 75,
   "stations": [
     {
@@ -77,12 +77,12 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 174.5,
-      "lat": 48.40924,
-      "lon": -71.052572
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "Petro-Canada",
@@ -93,20 +93,20 @@
       "lon": -71.093216
     },
     {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 174.5,
+      "lat": 48.40924,
+      "lon": -71.052572
+    },
+    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.8,
       "lat": 48.353958,
       "lon": -71.324386
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
-      "prix": 175.9,
-      "lat": 48.341983,
-      "lon": -70.995272
     },
     {
       "banniere": "Irving",
@@ -118,19 +118,19 @@
     },
     {
       "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
+      "prix": 175.9,
+      "lat": 48.341983,
+      "lon": -70.995272
+    },
+    {
+      "banniere": "Esso",
       "adresse": "3820 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.9,
       "lat": 48.413826,
       "lon": -71.246977
-    },
-    {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 175.9,
-      "lat": 48.400574,
-      "lon": -71.145998
     },
     {
       "banniere": "Irving",
@@ -221,12 +221,12 @@
       "lon": -71.094392
     },
     {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.9,
-      "lat": 48.395019,
-      "lon": -71.106094
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Harnois",
