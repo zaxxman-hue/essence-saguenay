@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "19/04/2026 21:30",
-  "derniere_verification": "19/04/2026 21:30:11",
-  "fichier_source": "stations-20260419212501.xlsx",
+  "mise_a_jour": "19/04/2026 21:57",
+  "derniere_verification": "19/04/2026 21:57:10",
+  "fichier_source": "stations-20260419215502.xlsx",
   "total": 75,
   "stations": [
     {
@@ -85,6 +85,14 @@
       "lon": -71.068372
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 173.8,
+      "lat": 48.407448,
+      "lon": -71.094182
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
@@ -107,14 +115,6 @@
       "prix": 175.8,
       "lat": 48.353958,
       "lon": -71.324386
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
-      "prix": 175.9,
-      "lat": 48.341983,
-      "lon": -70.995272
     },
     {
       "banniere": "Esso",
@@ -150,19 +150,19 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "3667 rue Panet, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 175.9,
+      "lat": 48.402262,
+      "lon": -71.23757
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "81 rue Price ouest, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.9,
       "lat": 48.425808,
       "lon": -71.071138
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 175.9,
-      "lat": 48.411103,
-      "lon": -71.052843
     },
     {
       "banniere": "Canadian Tire",
@@ -197,12 +197,12 @@
       "lon": -71.076179
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
       "prix": 175.9,
-      "lat": 48.402262,
-      "lon": -71.23757
+      "lat": 48.341983,
+      "lon": -70.995272
     },
     {
       "banniere": "Irving",
@@ -262,11 +262,19 @@
     },
     {
       "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.9,
-      "lat": 48.407448,
-      "lon": -71.094182
+      "lat": 48.396671,
+      "lon": -71.252854
+    },
+    {
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.9,
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "Petro-Canada",
@@ -275,14 +283,6 @@
       "prix": 175.9,
       "lat": 48.369606,
       "lon": -71.28365
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 175.9,
-      "lat": 48.396671,
-      "lon": -71.252854
     },
     {
       "banniere": "Petro-Canada",
