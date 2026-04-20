@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "20/04/2026 20:35",
-  "derniere_verification": "20/04/2026 20:35:09",
-  "fichier_source": "stations-20260420203002.xlsx",
+  "mise_a_jour": "20/04/2026 21:25",
+  "derniere_verification": "20/04/2026 21:25:56",
+  "fichier_source": "stations-20260420212502.xlsx",
   "total": 75,
   "stations": [
     {
@@ -93,12 +93,12 @@
       "lon": -71.052843
     },
     {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
       "prix": 160.9,
-      "lat": 48.428994,
-      "lon": -71.027496
+      "lat": 48.387452,
+      "lon": -71.114645
     },
     {
       "banniere": "Ultramar",
@@ -109,12 +109,12 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1960 rue De Montfort, Saguenay",
+      "ville": "Jonquiere",
       "prix": 160.9,
-      "lat": 48.387452,
-      "lon": -71.114645
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Petro-Canada",
@@ -150,11 +150,11 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 160.9,
-      "lat": 48.317087,
-      "lon": -71.134075
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Esso",
@@ -163,6 +163,14 @@
       "prix": 160.9,
       "lat": 48.411254,
       "lon": -71.261772
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 160.9,
+      "lat": 48.317087,
+      "lon": -71.134075
     },
     {
       "banniere": "Esso",
@@ -187,14 +195,6 @@
       "prix": 161.6,
       "lat": 48.451071,
       "lon": -71.020099
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 161.6,
-      "lat": 48.424661,
-      "lon": -71.234995
     },
     {
       "banniere": "Petro-Canada",
