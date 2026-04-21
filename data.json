@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "21/04/2026 23:04",
-  "derniere_verification": "21/04/2026 23:04:58",
-  "fichier_source": "stations-20260421230002.xlsx",
+  "mise_a_jour": "21/04/2026 23:29",
+  "derniere_verification": "21/04/2026 23:29:56",
+  "fichier_source": "stations-20260421232501.xlsx",
   "total": 75,
   "stations": [
     {
@@ -277,6 +277,14 @@
       "lon": -71.081011
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 160.2,
+      "lat": 48.407448,
+      "lon": -71.094182
+    },
+    {
       "banniere": "Énergie DDF",
       "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
@@ -285,12 +293,12 @@
       "lon": -71.100018
     },
     {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 160.9,
-      "lat": 48.428994,
-      "lon": -71.027496
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -301,12 +309,12 @@
       "lon": -71.259018
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 160.9,
-      "lat": 48.407448,
-      "lon": -71.094182
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Esso",
@@ -315,14 +323,6 @@
       "prix": 160.9,
       "lat": 48.373886,
       "lon": -71.091169
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 160.9,
-      "lat": 48.451071,
-      "lon": -71.020099
     },
     {
       "banniere": "R.L.",
