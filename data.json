@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "21/04/2026 20:28",
-  "derniere_verification": "21/04/2026 20:28:27",
-  "fichier_source": "stations-20260421202501.xlsx",
+  "mise_a_jour": "21/04/2026 20:39",
+  "derniere_verification": "21/04/2026 20:39:17",
+  "fichier_source": "stations-20260421203502.xlsx",
   "total": 75,
   "stations": [
     {
@@ -110,19 +110,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
-      "prix": 159.9,
-      "lat": 48.414704,
-      "lon": -71.259124
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "1960 rue De Montfort, Saguenay",
       "ville": "Jonquiere",
       "prix": 159.9,
       "lat": 48.424661,
       "lon": -71.234995
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "3667 rue Panet, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 159.9,
+      "lat": 48.402262,
+      "lon": -71.23757
     },
     {
       "banniere": "Irving",
@@ -157,12 +157,12 @@
       "lon": -71.261772
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "banniere": "Petro-Canada",
+      "adresse": "3997 boul. Harvey, Saguenay",
       "ville": "Saguenay",
-      "prix": 160.2,
-      "lat": 48.387452,
-      "lon": -71.114645
+      "prix": 159.9,
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Petro-Canada",
@@ -173,12 +173,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
       "ville": "Saguenay",
       "prix": 160.2,
-      "lat": 48.356563,
-      "lon": -71.055264
+      "lat": 48.387452,
+      "lon": -71.114645
     },
     {
       "banniere": "Ultramar",
@@ -189,12 +189,12 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "377 rue Sainte Anne, SAGUENAY",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
       "prix": 160.2,
-      "lat": 48.42592,
-      "lon": -71.068372
+      "lat": 48.356563,
+      "lon": -71.055264
     },
     {
       "banniere": "Mobil",
@@ -205,12 +205,12 @@
       "lon": -71.052572
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 160.2,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Esso",
@@ -253,12 +253,20 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 160.2,
+      "lat": 48.42592,
+      "lon": -71.068372
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 160.2,
-      "lat": 48.421176,
-      "lon": -71.059061
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Énergie DDF",
@@ -267,14 +275,6 @@
       "prix": 160.4,
       "lat": 48.419808,
       "lon": -71.100018
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 160.9,
-      "lat": 48.426389,
-      "lon": -71.259018
     },
     {
       "banniere": "R.L.",
@@ -293,20 +293,20 @@
       "lon": -71.094182
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 160.9,
+      "lat": 48.426389,
+      "lon": -71.259018
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "952 rue Du Boulevard, Saguenay",
       "ville": "Saguenay",
       "prix": 160.9,
       "lat": 48.307346,
       "lon": -71.114422
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 160.9,
-      "lat": 48.402262,
-      "lon": -71.23757
     },
     {
       "banniere": "Esso",
