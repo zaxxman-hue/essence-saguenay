@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "21/04/2026 20:39",
-  "derniere_verification": "21/04/2026 20:39:17",
-  "fichier_source": "stations-20260421203502.xlsx",
+  "mise_a_jour": "21/04/2026 21:23",
+  "derniere_verification": "21/04/2026 21:23:36",
+  "fichier_source": "stations-20260421212002.xlsx",
   "total": 75,
   "stations": [
     {
@@ -166,11 +166,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 160.2,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.408178,
+      "lon": -71.093216
     },
     {
       "banniere": "Ultramar",
@@ -197,12 +197,12 @@
       "lon": -71.055264
     },
     {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 160.2,
-      "lat": 48.40924,
-      "lon": -71.052572
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Couche-Tard",
@@ -261,6 +261,14 @@
       "lon": -71.068372
     },
     {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 160.2,
+      "lat": 48.40924,
+      "lon": -71.052572
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
@@ -286,14 +294,6 @@
     },
     {
       "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 160.9,
-      "lat": 48.407448,
-      "lon": -71.094182
-    },
-    {
-      "banniere": "Nutrinor Énergies",
       "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 160.9,
@@ -301,12 +301,12 @@
       "lon": -71.259018
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "952 rue Du Boulevard, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 160.9,
-      "lat": 48.307346,
-      "lon": -71.114422
+      "lat": 48.407448,
+      "lon": -71.094182
     },
     {
       "banniere": "Esso",
@@ -342,11 +342,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "952 rue Du Boulevard, Saguenay",
+      "ville": "Saguenay",
       "prix": 160.9,
-      "lat": 48.408178,
-      "lon": -71.093216
+      "lat": 48.307346,
+      "lon": -71.114422
     },
     {
       "banniere": "R.L.",
