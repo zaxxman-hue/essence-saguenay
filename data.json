@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "21/04/2026 16:35",
-  "derniere_verification": "21/04/2026 16:35:23",
-  "fichier_source": "stations-20260421163502.xlsx",
+  "mise_a_jour": "21/04/2026 16:56",
+  "derniere_verification": "21/04/2026 16:56:13",
+  "fichier_source": "stations-20260421165502.xlsx",
   "total": 74,
   "stations": [
     {
@@ -133,12 +133,12 @@
       "lon": -71.059187
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 160.2,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "Petro-Canada",
@@ -149,12 +149,12 @@
       "lon": -71.055264
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 160.2,
-      "lat": 48.421176,
-      "lon": -71.059061
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Shell",
@@ -163,6 +163,14 @@
       "prix": 160.2,
       "lat": 48.394683,
       "lon": -71.070736
+    },
+    {
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 160.2,
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Mobil",
@@ -182,14 +190,6 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 160.9,
-      "lat": 48.408178,
-      "lon": -71.093216
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "3667 rue Panet, Saguenay",
       "ville": "Jonquiere",
       "prix": 160.9,
@@ -198,11 +198,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 160.9,
-      "lat": 48.414704,
-      "lon": -71.259124
+      "lat": 48.408178,
+      "lon": -71.093216
     },
     {
       "banniere": "Ultramar",
@@ -229,20 +229,12 @@
       "lon": -71.114422
     },
     {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
       "prix": 160.9,
-      "lat": 48.428994,
-      "lon": -71.027496
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 160.9,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Ultramar",
@@ -251,6 +243,14 @@
       "prix": 160.9,
       "lat": 48.42592,
       "lon": -71.068372
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 160.9,
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Ultramar",
