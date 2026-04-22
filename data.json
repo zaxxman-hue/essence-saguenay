@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "22/04/2026 16:36",
-  "derniere_verification": "22/04/2026 16:36:31",
-  "fichier_source": "stations-20260422163502.xlsx",
+  "mise_a_jour": "22/04/2026 16:58",
+  "derniere_verification": "22/04/2026 16:58:49",
+  "fichier_source": "stations-20260422165502.xlsx",
   "total": 75,
   "stations": [
     {
@@ -325,12 +325,12 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "952 rue Du Boulevard, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 160.9,
-      "lat": 48.307346,
-      "lon": -71.114422
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "Esso",
@@ -341,12 +341,12 @@
       "lon": -71.091169
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "952 rue Du Boulevard, Saguenay",
+      "ville": "Saguenay",
       "prix": 160.9,
-      "lat": 48.452384,
-      "lon": -71.094392
+      "lat": 48.307346,
+      "lon": -71.114422
     },
     {
       "banniere": "Petro-Canada",
@@ -357,20 +357,20 @@
       "lon": -71.088774
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 160.9,
-      "lat": 48.426389,
-      "lon": -71.259018
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 160.9,
       "lat": 48.454509,
       "lon": -71.111521
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 160.9,
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "Petro-Canada",
@@ -414,6 +414,14 @@
     },
     {
       "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 160.9,
+      "lat": 48.452384,
+      "lon": -71.094392
+    },
+    {
+      "banniere": "R.L.",
       "adresse": "1845 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 160.9,
@@ -427,14 +435,6 @@
       "prix": 162.9,
       "lat": 48.438557,
       "lon": -71.061332
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 162.9,
-      "lat": 48.44285,
-      "lon": -71.076179
     },
     {
       "banniere": "Ultramar",
