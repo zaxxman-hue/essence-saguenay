@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "22/04/2026 19:08",
-  "derniere_verification": "22/04/2026 19:08:27",
-  "fichier_source": "stations-20260422190502.xlsx",
+  "mise_a_jour": "22/04/2026 19:45",
+  "derniere_verification": "22/04/2026 19:45:00",
+  "fichier_source": "stations-20260422194002.xlsx",
   "total": 75,
   "stations": [
     {
@@ -125,12 +125,12 @@
       "lon": -71.242838
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 159.5,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "Ultramar",
@@ -197,20 +197,20 @@
       "lon": -71.059061
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 159.5,
+      "lat": 48.39744,
+      "lon": -71.081011
+    },
+    {
       "banniere": "Esso",
       "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.5,
       "lat": 48.403131,
       "lon": -71.059187
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
-      "prix": 159.9,
-      "lat": 48.414704,
-      "lon": -71.259124
     },
     {
       "banniere": "Petro-Canada",
@@ -229,12 +229,12 @@
       "lon": -71.234995
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
       "prix": 159.9,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -261,6 +261,14 @@
       "lon": -71.270068
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 159.9,
+      "lat": 48.423109,
+      "lon": -71.212988
+    },
+    {
       "banniere": "Irving",
       "adresse": "4024 boul. du Royaume, Saguenay",
       "ville": "Saguenay",
@@ -285,14 +293,6 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 160.2,
-      "lat": 48.407448,
-      "lon": -71.094182
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "1312 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
@@ -309,12 +309,12 @@
       "lon": -71.05197
     },
     {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 160.2,
-      "lat": 48.395019,
-      "lon": -71.106094
+      "lat": 48.407448,
+      "lon": -71.094182
     },
     {
       "banniere": "Petro-Canada",
