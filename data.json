@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "22/04/2026 15:03",
-  "derniere_verification": "22/04/2026 15:03:50",
-  "fichier_source": "stations-20260422150003.xlsx",
+  "mise_a_jour": "22/04/2026 15:54",
+  "derniere_verification": "22/04/2026 15:54:32",
+  "fichier_source": "stations-20260422155002.xlsx",
   "total": 75,
   "stations": [
     {
@@ -413,6 +413,14 @@
       "lon": -71.076179
     },
     {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 162.9,
+      "lat": 48.438557,
+      "lon": -71.061332
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "2728 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
@@ -427,14 +435,6 @@
       "prix": 164.4,
       "lat": 48.404137,
       "lon": -71.166787
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 164.4,
-      "lat": 48.435333,
-      "lon": -71.140604
     },
     {
       "banniere": "Ultramar",
@@ -454,19 +454,19 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 164.4,
+      "lat": 48.435333,
+      "lon": -71.140604
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "3073 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 164.4,
       "lat": 48.40886,
       "lon": -71.19486
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 164.9,
-      "lat": 48.438557,
-      "lon": -71.061332
     },
     {
       "banniere": "Crevier",
