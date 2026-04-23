@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "23/04/2026 21:40",
-  "derniere_verification": "23/04/2026 21:40:13",
-  "fichier_source": "stations-20260423214001.xlsx",
+  "mise_a_jour": "23/04/2026 22:06",
+  "derniere_verification": "23/04/2026 22:06:29",
+  "fichier_source": "stations-20260423220501.xlsx",
   "total": 76,
   "stations": [
     {
@@ -165,20 +165,20 @@
       "lon": -71.234999
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 158.1,
+      "lat": 48.451071,
+      "lon": -71.020099
+    },
+    {
       "banniere": "Esso",
       "adresse": "3 Rue Wing, Saguenay",
       "ville": "Saguenay",
       "prix": 158.1,
       "lat": 48.341983,
       "lon": -70.995272
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 158.1,
-      "lat": 48.406769,
-      "lon": -71.051965
     },
     {
       "banniere": "Canadian Tire",
@@ -197,12 +197,12 @@
       "lon": -71.28365
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 158.1,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
       "banniere": "Shell",
@@ -214,6 +214,14 @@
     },
     {
       "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 158.1,
+      "lat": 48.411254,
+      "lon": -71.261772
+    },
+    {
+      "banniere": "Esso",
       "adresse": "138 rue Dubé, Saguenay",
       "ville": "Chicoutimi",
       "prix": 158.1,
@@ -221,20 +229,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 158.8,
-      "lat": 48.412676,
-      "lon": -71.23162
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 158.8,
-      "lat": 48.451071,
-      "lon": -71.020099
+      "lat": 48.423109,
+      "lon": -71.212988
     },
     {
       "banniere": "R.L.",
@@ -245,12 +245,12 @@
       "lon": -71.027496
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 158.8,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Petro-Canada",
