@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "24/04/2026 15:00",
-  "derniere_verification": "24/04/2026 15:00:23",
-  "fichier_source": "stations-20260424150002.xlsx",
+  "mise_a_jour": "24/04/2026 15:47",
+  "derniere_verification": "24/04/2026 15:47:40",
+  "fichier_source": "stations-20260424154502.xlsx",
   "total": 76,
   "stations": [
     {
@@ -181,12 +181,12 @@
       "lon": -71.134075
     },
     {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 158.8,
-      "lat": 48.428994,
-      "lon": -71.027496
+      "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 158.9,
+      "lat": 48.425808,
+      "lon": -71.071138
     },
     {
       "banniere": "Esso",
@@ -213,36 +213,12 @@
       "lon": -71.114422
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 158.9,
-      "lat": 48.425808,
-      "lon": -71.071138
-    },
-    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 159.4,
       "lat": 48.412108,
       "lon": -71.231414
-    },
-    {
-      "banniere": "Énergie Express BD",
-      "adresse": "3421 rte Saint-Léonard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 159.9,
-      "lat": 48.458548,
-      "lon": -71.260593
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 159.9,
-      "lat": 48.44285,
-      "lon": -71.076179
     },
     {
       "banniere": "Ultramar",
@@ -254,11 +230,35 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 159.9,
+      "lat": 48.450526,
+      "lon": -71.088774
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 159.9,
+      "lat": 48.44285,
+      "lon": -71.076179
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.9,
       "lat": 48.454509,
       "lon": -71.111521
+    },
+    {
+      "banniere": "Énergie Express BD",
+      "adresse": "3421 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 159.9,
+      "lat": 48.458548,
+      "lon": -71.260593
     },
     {
       "banniere": "Irving",
@@ -291,14 +291,6 @@
       "prix": 159.9,
       "lat": 48.452384,
       "lon": -71.094392
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 159.9,
-      "lat": 48.450526,
-      "lon": -71.088774
     },
     {
       "banniere": "Ultramar",
@@ -342,6 +334,14 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
+      "prix": 169.9,
+      "lat": 48.414704,
+      "lon": -71.259124
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "4391 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
       "prix": 169.9,
@@ -350,11 +350,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
+      "adresse": "4500 rte Mathias, Saguenay",
       "ville": "Saguenay",
       "prix": 169.9,
-      "lat": 48.414704,
-      "lon": -71.259124
+      "lat": 48.5064,
+      "lon": -71.270068
     },
     {
       "banniere": "Petro-Canada",
@@ -398,19 +398,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
-      "ville": "Saguenay",
-      "prix": 169.9,
-      "lat": 48.5064,
-      "lon": -71.270068
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "3397 rue Saint-Dominique, Saguenay",
       "ville": "Saguenay",
       "prix": 169.9,
       "lat": 48.369606,
       "lon": -71.28365
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 169.9,
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Canadian Tire",
