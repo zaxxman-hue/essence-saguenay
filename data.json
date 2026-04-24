@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "24/04/2026 22:07",
-  "derniere_verification": "24/04/2026 22:07:28",
-  "fichier_source": "stations-20260424220502.xlsx",
+  "mise_a_jour": "24/04/2026 22:35",
+  "derniere_verification": "24/04/2026 22:35:15",
+  "fichier_source": "stations-20260424223002.xlsx",
   "total": 80,
   "stations": [
     {
@@ -198,11 +198,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "641 rue Delisle, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 158.9,
-      "lat": 48.425808,
-      "lon": -71.071138
+      "lat": 48.454243,
+      "lon": -71.061125
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -229,6 +229,14 @@
       "lon": -71.114422
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 158.9,
+      "lat": 48.454509,
+      "lon": -71.111521
+    },
+    {
       "banniere": "Shell",
       "adresse": "487 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
@@ -237,28 +245,20 @@
       "lon": -71.076179
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 158.9,
+      "lat": 48.425808,
+      "lon": -71.071138
+    },
+    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 159.4,
       "lat": 48.412108,
       "lon": -71.231414
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "45 rue Du Pont, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 159.9,
-      "lat": 48.436903,
-      "lon": -71.067338
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 159.9,
-      "lat": 48.452384,
-      "lon": -71.094392
     },
     {
       "banniere": "Énergie Express BD",
@@ -277,12 +277,12 @@
       "lon": -71.088774
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.9,
-      "lat": 48.454509,
-      "lon": -71.111521
+      "lat": 48.452384,
+      "lon": -71.094392
     },
     {
       "banniere": "R.L.",
@@ -301,12 +301,12 @@
       "lon": -71.061332
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "45 rue Du Pont, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.9,
-      "lat": 48.454243,
-      "lon": -71.061125
+      "lat": 48.436903,
+      "lon": -71.067338
     },
     {
       "banniere": "R.L.",
