@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "24/04/2026 18:04",
-  "derniere_verification": "24/04/2026 18:04:49",
-  "fichier_source": "stations-20260424180002.xlsx",
+  "mise_a_jour": "24/04/2026 18:43",
+  "derniere_verification": "24/04/2026 18:43:36",
+  "fichier_source": "stations-20260424184002.xlsx",
   "total": 76,
   "stations": [
     {
@@ -221,6 +221,14 @@
       "lon": -71.07443
     },
     {
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 158.9,
+      "lat": 48.44285,
+      "lon": -71.076179
+    },
+    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
@@ -237,12 +245,12 @@
       "lon": -71.088774
     },
     {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Énergie Express BD",
+      "adresse": "3421 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
       "prix": 159.9,
-      "lat": 48.44285,
-      "lon": -71.076179
+      "lat": 48.458548,
+      "lon": -71.260593
     },
     {
       "banniere": "Petro-Canada",
@@ -251,14 +259,6 @@
       "prix": 159.9,
       "lat": 48.454509,
       "lon": -71.111521
-    },
-    {
-      "banniere": "Énergie Express BD",
-      "adresse": "3421 rte Saint-Léonard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 159.9,
-      "lat": 48.458548,
-      "lon": -71.260593
     },
     {
       "banniere": "Irving",
