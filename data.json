@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "24/04/2026 15:47",
-  "derniere_verification": "24/04/2026 15:47:40",
-  "fichier_source": "stations-20260424154502.xlsx",
+  "mise_a_jour": "24/04/2026 16:07",
+  "derniere_verification": "24/04/2026 16:07:30",
+  "fichier_source": "stations-20260424160502.xlsx",
   "total": 76,
   "stations": [
     {
@@ -213,20 +213,20 @@
       "lon": -71.114422
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 158.9,
+      "lat": 48.442216,
+      "lon": -71.07443
+    },
+    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 159.4,
       "lat": 48.412108,
       "lon": -71.231414
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 159.9,
-      "lat": 48.442216,
-      "lon": -71.07443
     },
     {
       "banniere": "Petro-Canada",
