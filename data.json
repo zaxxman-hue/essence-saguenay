@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "25/04/2026 18:44",
-  "derniere_verification": "25/04/2026 18:44:00",
-  "fichier_source": "stations-20260425184002.xlsx",
+  "mise_a_jour": "25/04/2026 19:14",
+  "derniere_verification": "25/04/2026 19:14:26",
+  "fichier_source": "stations-20260425191002.xlsx",
   "total": 80,
   "stations": [
     {
@@ -432,17 +432,9 @@
       "banniere": "Petro-Canada",
       "adresse": "3997 boul. Harvey, Saguenay",
       "ville": "Saguenay",
-      "prix": 169.4,
+      "prix": 169.9,
       "lat": 48.414704,
       "lon": -71.259124
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
-      "prix": 169.4,
-      "lat": 48.369606,
-      "lon": -71.28365
     },
     {
       "banniere": "R.L.",
@@ -453,22 +445,6 @@
       "lon": -71.027496
     },
     {
-      "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
-      "prix": 169.9,
-      "lat": 48.341983,
-      "lon": -70.995272
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 169.9,
-      "lat": 48.429329,
-      "lon": -71.065922
-    },
-    {
       "banniere": "Canadian Tire",
       "adresse": "3580 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
@@ -477,12 +453,36 @@
       "lon": -71.23162
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
+      "prix": 169.9,
+      "lat": 48.369606,
+      "lon": -71.28365
+    },
+    {
       "banniere": "Harnois",
       "adresse": "950 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 169.9,
       "lat": 48.41388,
       "lon": -71.067443
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
+      "prix": 169.9,
+      "lat": 48.341983,
+      "lon": -70.995272
+    },
+    {
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 169.9,
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Harnois",
@@ -509,12 +509,12 @@
       "lon": -71.051965
     },
     {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 169.9,
-      "lat": 48.400574,
-      "lon": -71.145998
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Esso",
@@ -525,12 +525,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 169.9,
-      "lat": 48.451071,
-      "lon": -71.020099
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "Esso",
