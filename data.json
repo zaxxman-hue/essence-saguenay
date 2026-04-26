@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "26/04/2026 18:46",
-  "derniere_verification": "26/04/2026 18:46:03",
-  "fichier_source": "stations-20260426184502.xlsx",
+  "mise_a_jour": "26/04/2026 19:25",
+  "derniere_verification": "26/04/2026 19:25:11",
+  "fichier_source": "stations-20260426192501.xlsx",
   "total": 79,
   "stations": [
     {
@@ -13,28 +13,28 @@
       "lon": -71.052572
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 156.7,
+      "lat": 48.408298,
+      "lon": -71.054487
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
+      "prix": 156.7,
+      "lat": 48.356563,
+      "lon": -71.055264
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 157.4,
       "lat": 48.39744,
       "lon": -71.081011
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 157.4,
-      "lat": 48.395019,
-      "lon": -71.106094
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 157.4,
-      "lat": 48.403131,
-      "lon": -71.059187
     },
     {
       "banniere": "Ultramar",
@@ -53,20 +53,20 @@
       "lon": -71.093216
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 157.4,
-      "lat": 48.356563,
-      "lon": -71.055264
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 157.4,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Ultramar",
