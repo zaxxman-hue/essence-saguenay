@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "26/04/2026 21:07",
-  "derniere_verification": "26/04/2026 21:07:28",
-  "fichier_source": "stations-20260426210502.xlsx",
+  "mise_a_jour": "26/04/2026 21:33",
+  "derniere_verification": "26/04/2026 21:33:12",
+  "fichier_source": "stations-20260426213002.xlsx",
   "total": 79,
   "stations": [
+    {
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 156.7,
+      "lat": 48.39744,
+      "lon": -71.081011
+    },
     {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
@@ -11,14 +19,6 @@
       "prix": 156.7,
       "lat": 48.40924,
       "lon": -71.052572
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 156.7,
-      "lat": 48.394683,
-      "lon": -71.070736
     },
     {
       "banniere": "Petro-Canada",
@@ -29,28 +29,36 @@
       "lon": -71.055264
     },
     {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 156.7,
+      "lat": 48.394683,
+      "lon": -71.070736
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 156.7,
+      "lat": 48.387452,
+      "lon": -71.114645
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 156.7,
+      "lat": 48.39309,
+      "lon": -71.070497
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "1201 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 156.7,
       "lat": 48.408298,
       "lon": -71.054487
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 157.4,
-      "lat": 48.408178,
-      "lon": -71.093216
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 157.4,
-      "lat": 48.39744,
-      "lon": -71.081011
     },
     {
       "banniere": "Esso",
@@ -61,28 +69,20 @@
       "lon": -71.106094
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 157.4,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.408178,
+      "lon": -71.093216
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 157.4,
-      "lat": 48.39309,
-      "lon": -71.070497
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 157.4,
-      "lat": 48.387452,
-      "lon": -71.114645
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "Ultramar",
@@ -93,12 +93,12 @@
       "lon": -71.05197
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 157.4,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Énergie DDF",
