@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "26/04/2026 21:33",
-  "derniere_verification": "26/04/2026 21:33:12",
-  "fichier_source": "stations-20260426213002.xlsx",
+  "mise_a_jour": "26/04/2026 22:01",
+  "derniere_verification": "26/04/2026 22:01:35",
+  "fichier_source": "stations-20260426220002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -21,12 +21,12 @@
       "lon": -71.052572
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 156.7,
-      "lat": 48.356563,
-      "lon": -71.055264
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Shell",
@@ -54,19 +54,19 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
+      "prix": 156.7,
+      "lat": 48.356563,
+      "lon": -71.055264
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "1201 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 156.7,
       "lat": 48.408298,
       "lon": -71.054487
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 157.4,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Petro-Canada",
@@ -94,11 +94,11 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 157.4,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "Énergie DDF",
