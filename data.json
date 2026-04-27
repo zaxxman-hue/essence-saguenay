@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "27/04/2026 17:01",
-  "derniere_verification": "27/04/2026 17:01:22",
-  "fichier_source": "stations-20260427170002.xlsx",
+  "mise_a_jour": "27/04/2026 17:18",
+  "derniere_verification": "27/04/2026 17:18:47",
+  "fichier_source": "stations-20260427171502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -430,11 +430,11 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "45 rue Du Pont, Saguenay",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.9,
-      "lat": 48.436903,
-      "lon": -71.067338
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Irving",
@@ -454,11 +454,11 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
+      "adresse": "45 rue Du Pont, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.9,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "lat": 48.436903,
+      "lon": -71.067338
     },
     {
       "banniere": "Énergie Express BD",
@@ -469,12 +469,12 @@
       "lon": -71.260593
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "R.L.",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 159.9,
-      "lat": 48.5064,
-      "lon": -71.270068
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "R.L.",
@@ -483,6 +483,22 @@
       "prix": 159.9,
       "lat": 48.452384,
       "lon": -71.094392
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 159.9,
+      "lat": 48.441444,
+      "lon": -71.052232
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "4500 rte Mathias, Saguenay",
+      "ville": "Saguenay",
+      "prix": 159.9,
+      "lat": 48.5064,
+      "lon": -71.270068
     },
     {
       "banniere": "Petro-Canada",
@@ -515,22 +531,6 @@
       "prix": 165.8,
       "lat": 48.353958,
       "lon": -71.324386
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 165.9,
-      "lat": 48.428994,
-      "lon": -71.027496
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 165.9,
-      "lat": 48.429329,
-      "lon": -71.065922
     },
     {
       "banniere": "Irving",
