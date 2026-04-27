@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "27/04/2026 18:47",
-  "derniere_verification": "27/04/2026 18:47:10",
-  "fichier_source": "stations-20260427184502.xlsx",
+  "mise_a_jour": "27/04/2026 19:14",
+  "derniere_verification": "27/04/2026 19:14:03",
+  "fichier_source": "stations-20260427191002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -525,20 +525,20 @@
       "lon": -71.166787
     },
     {
-      "banniere": "Crevier",
-      "adresse": "5251 ch. du Quai, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 165.8,
-      "lat": 48.353958,
-      "lon": -71.324386
-    },
-    {
       "banniere": "Irving",
       "adresse": "2005 boul. Mellon, Saguenay",
       "ville": "Jonquiere",
       "prix": 167.4,
       "lat": 48.424585,
       "lon": -71.180502
+    },
+    {
+      "banniere": "Crevier",
+      "adresse": "5251 ch. du Quai, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 169.8,
+      "lat": 48.353958,
+      "lon": -71.324386
     },
     {
       "banniere": "Harnois",
