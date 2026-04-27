@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "27/04/2026 17:46",
-  "derniere_verification": "27/04/2026 17:46:37",
-  "fichier_source": "stations-20260427174502.xlsx",
+  "mise_a_jour": "27/04/2026 18:10",
+  "derniere_verification": "27/04/2026 18:10:39",
+  "fichier_source": "stations-20260427181001.xlsx",
   "total": 79,
   "stations": [
     {
@@ -285,6 +285,14 @@
       "lon": -71.065681
     },
     {
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 156.7,
+      "lat": 48.421952,
+      "lon": -71.242838
+    },
+    {
       "banniere": "Esso",
       "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
@@ -299,14 +307,6 @@
       "prix": 158.1,
       "lat": 48.42592,
       "lon": -71.068372
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 158.1,
-      "lat": 48.421952,
-      "lon": -71.242838
     },
     {
       "banniere": "Petro-Canada",
