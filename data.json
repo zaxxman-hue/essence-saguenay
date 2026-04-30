@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "30/04/2026 18:50",
-  "derniere_verification": "30/04/2026 18:50:30",
-  "fichier_source": "stations-20260430185001.xlsx",
+  "mise_a_jour": "30/04/2026 19:15",
+  "derniere_verification": "30/04/2026 19:15:01",
+  "fichier_source": "stations-20260430191001.xlsx",
   "total": 80,
   "stations": [
     {
@@ -293,14 +293,6 @@
       "lon": -71.023248
     },
     {
-      "banniere": "Harnois",
-      "adresse": "950 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.9,
-      "lat": 48.41388,
-      "lon": -71.067443
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
       "ville": "LaBaie",
@@ -309,20 +301,20 @@
       "lon": -70.881141
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 183.9,
-      "lat": 48.337232,
-      "lon": -70.888533
-    },
-    {
       "banniere": "Shell",
       "adresse": "60 rue Dumas, Petit-Saguenay",
       "ville": "Saguenay",
       "prix": 183.9,
       "lat": 48.209145,
       "lon": -70.067898
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 183.9,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -341,6 +333,14 @@
       "lon": -71.076179
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 185.9,
+      "lat": 48.408178,
+      "lon": -71.093216
+    },
+    {
       "banniere": "R.L.",
       "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
@@ -357,20 +357,20 @@
       "lon": -71.106094
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2465 rue Brodeur, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Harnois",
+      "adresse": "950 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 185.9,
-      "lat": 48.402843,
-      "lon": -71.166847
+      "lat": 48.41388,
+      "lon": -71.067443
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
       "prix": 185.9,
-      "lat": 48.408178,
-      "lon": -71.093216
+      "lat": 48.341983,
+      "lon": -70.995272
     },
     {
       "banniere": "Esso",
@@ -469,20 +469,20 @@
       "lon": -71.020099
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 185.9,
-      "lat": 48.406769,
-      "lon": -71.051965
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 185.9,
       "lat": 48.442216,
       "lon": -71.07443
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2465 rue Brodeur, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 185.9,
+      "lat": 48.402843,
+      "lon": -71.166847
     },
     {
       "banniere": "Ultramar",
@@ -493,12 +493,12 @@
       "lon": -71.171977
     },
     {
-      "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 185.9,
-      "lat": 48.341983,
-      "lon": -70.995272
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
       "banniere": "R.L.",
