@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "01/05/2026 01:55",
-  "derniere_verification": "01/05/2026 01:55:57",
-  "fichier_source": "stations-20260501015502.xlsx",
+  "mise_a_jour": "01/05/2026 04:36",
+  "derniere_verification": "01/05/2026 04:36:29",
+  "fichier_source": "stations-20260501043502.xlsx",
   "total": 80,
   "stations": [
     {
@@ -45,14 +45,6 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 175.2,
-      "lat": 48.394683,
-      "lon": -71.070736
-    },
-    {
       "banniere": "Esso",
       "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -67,6 +59,22 @@
       "prix": 175.4,
       "lat": 48.422936,
       "lon": -71.243563
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 175.4,
+      "lat": 48.425557,
+      "lon": -71.26138
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "3667 rue Panet, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 175.4,
+      "lat": 48.402262,
+      "lon": -71.23757
     },
     {
       "banniere": "Petro-Canada",
@@ -85,14 +93,6 @@
       "lon": -71.28365
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 175.4,
-      "lat": 48.402262,
-      "lon": -71.23757
-    },
-    {
       "banniere": "Canadian Tire",
       "adresse": "3580 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
@@ -109,12 +109,12 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
       "prix": 175.4,
-      "lat": 48.425557,
-      "lon": -71.26138
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Inconnue",
@@ -133,14 +133,6 @@
       "lon": -71.250599
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 175.4,
-      "lat": 48.419808,
-      "lon": -71.100018
-    },
-    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
@@ -150,11 +142,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "4391 rte Saint-Léonard, Saguenay",
+      "adresse": "4500 rte Mathias, Saguenay",
       "ville": "Saguenay",
       "prix": 175.9,
-      "lat": 48.470796,
-      "lon": -71.277321
+      "lat": 48.5064,
+      "lon": -71.270068
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 175.9,
+      "lat": 48.421952,
+      "lon": -71.242838
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -181,14 +181,6 @@
       "lon": -71.260593
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
-      "ville": "Saguenay",
-      "prix": 175.9,
-      "lat": 48.5064,
-      "lon": -71.270068
-    },
-    {
       "banniere": "Irving",
       "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
@@ -197,12 +189,12 @@
       "lon": -71.061332
     },
     {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "4391 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
       "prix": 175.9,
-      "lat": 48.421952,
-      "lon": -71.242838
+      "lat": 48.470796,
+      "lon": -71.277321
     },
     {
       "banniere": "Harnois",
@@ -211,6 +203,14 @@
       "prix": 179.9,
       "lat": 48.42632,
       "lon": -71.023248
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 182.4,
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Irving",
