@@ -1,17 +1,9 @@
 {
-  "mise_a_jour": "01/05/2026 23:13",
-  "derniere_verification": "01/05/2026 23:13:41",
-  "fichier_source": "stations-20260501231002.xlsx",
+  "mise_a_jour": "01/05/2026 23:43",
+  "derniere_verification": "01/05/2026 23:43:35",
+  "fichier_source": "stations-20260501234002.xlsx",
   "total": 80,
   "stations": [
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 172.9,
-      "lat": 48.317822,
-      "lon": -70.861146
-    },
     {
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
@@ -43,6 +35,14 @@
       "prix": 179.9,
       "lat": 48.42632,
       "lon": -71.023248
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 179.9,
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Esso",
