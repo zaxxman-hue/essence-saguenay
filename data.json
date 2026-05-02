@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "02/05/2026 12:06",
-  "derniere_verification": "02/05/2026 12:06:54",
-  "fichier_source": "stations-20260502120501.xlsx",
+  "mise_a_jour": "02/05/2026 13:17",
+  "derniere_verification": "02/05/2026 13:17:41",
+  "fichier_source": "stations-20260502131502.xlsx",
   "total": 80,
   "stations": [
     {
@@ -45,6 +45,14 @@
       "lon": -70.861146
     },
     {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 181.7,
+      "lat": 48.40924,
+      "lon": -71.052572
+    },
+    {
       "banniere": "Esso",
       "adresse": "3820 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
@@ -53,20 +61,12 @@
       "lon": -71.246977
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1821 rue Sainte-Famille, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 182.4,
-      "lat": 48.431009,
-      "lon": -71.233782
-    },
-    {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 182.4,
-      "lat": 48.40924,
-      "lon": -71.052572
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Esso",
@@ -78,11 +78,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "2465 rue Brodeur, Saguenay",
+      "ville": "Jonquiere",
       "prix": 182.4,
-      "lat": 48.451071,
-      "lon": -71.020099
+      "lat": 48.402843,
+      "lon": -71.166847
     },
     {
       "banniere": "Irving",
@@ -117,12 +117,12 @@
       "lon": -71.106094
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2465 rue Brodeur, Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1821 rue Sainte-Famille, Saguenay",
       "ville": "Jonquiere",
       "prix": 182.4,
-      "lat": 48.402843,
-      "lon": -71.166847
+      "lat": 48.431009,
+      "lon": -71.233782
     },
     {
       "banniere": "Pétro-T",
