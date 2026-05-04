@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "04/05/2026 18:20",
-  "derniere_verification": "04/05/2026 18:20:35",
-  "fichier_source": "stations-20260504182002.xlsx",
+  "mise_a_jour": "04/05/2026 19:02",
+  "derniere_verification": "04/05/2026 19:02:00",
+  "fichier_source": "stations-20260504190002.xlsx",
   "total": 80,
   "stations": [
     {
@@ -429,20 +429,20 @@
       "lon": -71.071138
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 182.9,
+      "lat": 48.442216,
+      "lon": -71.07443
+    },
+    {
       "banniere": "R.L.",
       "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
       "prix": 183.9,
       "lat": 48.32626,
       "lon": -70.873104
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 183.9,
-      "lat": 48.331986,
-      "lon": -70.881141
     },
     {
       "banniere": "Shell",
@@ -453,12 +453,12 @@
       "lon": -70.067898
     },
     {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 185.9,
-      "lat": 48.44285,
-      "lon": -71.076179
+      "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 183.9,
+      "lat": 48.331986,
+      "lon": -70.881141
     },
     {
       "banniere": "Petro-Canada",
@@ -485,12 +485,12 @@
       "lon": -71.180502
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
-      "ville": "Jonquiere",
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 185.9,
-      "lat": 48.404702,
-      "lon": -71.171977
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "Harnois",
@@ -509,12 +509,12 @@
       "lon": -71.061332
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2465 rue Brodeur, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 185.9,
-      "lat": 48.402843,
-      "lon": -71.166847
+      "lat": 48.404702,
+      "lon": -71.171977
     },
     {
       "banniere": "R.L.",
@@ -605,12 +605,12 @@
       "lon": -71.19486
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "2465 rue Brodeur, Saguenay",
+      "ville": "Jonquiere",
       "prix": 185.9,
-      "lat": 48.442216,
-      "lon": -71.07443
+      "lat": 48.402843,
+      "lon": -71.166847
     },
     {
       "banniere": "R.L.",
