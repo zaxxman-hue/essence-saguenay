@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "04/05/2026 16:17",
-  "derniere_verification": "04/05/2026 16:17:54",
-  "fichier_source": "stations-20260504161502.xlsx",
+  "mise_a_jour": "04/05/2026 16:50",
+  "derniere_verification": "04/05/2026 16:50:37",
+  "fichier_source": "stations-20260504165002.xlsx",
   "total": 80,
   "stations": [
     {
@@ -13,20 +13,20 @@
       "lon": -70.890031
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 172.9,
-      "lat": 48.336456,
-      "lon": -70.889349
-    },
-    {
       "banniere": "Irving",
       "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 175.1,
       "lat": 48.337232,
       "lon": -70.888533
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 175.1,
+      "lat": 48.336456,
+      "lon": -70.889349
     },
     {
       "banniere": "Esso",
@@ -349,12 +349,12 @@
       "lon": -71.051965
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 181.7,
-      "lat": 48.404702,
-      "lon": -71.171977
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "R.L.",
@@ -485,12 +485,12 @@
       "lon": -71.180502
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2465 rue Brodeur, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 185.9,
-      "lat": 48.402843,
-      "lon": -71.166847
+      "lat": 48.404702,
+      "lon": -71.171977
     },
     {
       "banniere": "Harnois",
@@ -501,20 +501,20 @@
       "lon": -71.067443
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 185.9,
-      "lat": 48.404137,
-      "lon": -71.166787
-    },
-    {
       "banniere": "Irving",
       "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 185.9,
       "lat": 48.438557,
       "lon": -71.061332
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2465 rue Brodeur, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 185.9,
+      "lat": 48.402843,
+      "lon": -71.166847
     },
     {
       "banniere": "R.L.",
