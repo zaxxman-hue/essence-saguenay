@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "04/05/2026 19:24",
-  "derniere_verification": "04/05/2026 19:24:22",
-  "fichier_source": "stations-20260504192002.xlsx",
+  "mise_a_jour": "04/05/2026 19:59",
+  "derniere_verification": "04/05/2026 19:59:33",
+  "fichier_source": "stations-20260504195502.xlsx",
   "total": 80,
   "stations": [
     {
@@ -349,12 +349,12 @@
       "lon": -71.051965
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 181.7,
-      "lat": 48.404137,
-      "lon": -71.166787
+      "lat": 48.404702,
+      "lon": -71.171977
     },
     {
       "banniere": "R.L.",
@@ -501,20 +501,20 @@
       "lon": -71.067443
     },
     {
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 185.9,
+      "lat": 48.404137,
+      "lon": -71.166787
+    },
+    {
       "banniere": "Irving",
       "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 185.9,
       "lat": 48.438557,
       "lon": -71.061332
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 185.9,
-      "lat": 48.404702,
-      "lon": -71.171977
     },
     {
       "banniere": "R.L.",
