@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "05/05/2026 18:15",
-  "derniere_verification": "05/05/2026 18:15:50",
-  "fichier_source": "stations-20260505181502.xlsx",
+  "mise_a_jour": "05/05/2026 18:51",
+  "derniere_verification": "05/05/2026 18:51:09",
+  "fichier_source": "stations-20260505185002.xlsx",
   "total": 80,
   "stations": [
     {
@@ -85,12 +85,12 @@
       "lon": -71.250599
     },
     {
-      "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 180.2,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Shell",
@@ -133,22 +133,6 @@
       "lon": -71.059187
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 180.2,
-      "lat": 48.412676,
-      "lon": -71.23162
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 180.2,
-      "lat": 48.425557,
-      "lon": -71.26138
-    },
-    {
       "banniere": "Shell",
       "adresse": "3761 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
@@ -157,12 +141,12 @@
       "lon": -71.242838
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
-      "prix": 180.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "prix": 180.2,
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -173,12 +157,28 @@
       "lon": -71.252854
     },
     {
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 180.4,
+      "lat": 48.419808,
+      "lon": -71.100018
+    },
+    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 180.4,
       "lat": 48.412108,
       "lon": -71.231414
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 181.4,
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -189,12 +189,12 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
       "prix": 181.4,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Nutrinor Énergies",
