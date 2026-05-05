@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "05/05/2026 18:51",
-  "derniere_verification": "05/05/2026 18:51:09",
-  "fichier_source": "stations-20260505185002.xlsx",
+  "mise_a_jour": "05/05/2026 19:14",
+  "derniere_verification": "05/05/2026 19:14:29",
+  "fichier_source": "stations-20260505191002.xlsx",
   "total": 80,
   "stations": [
     {
@@ -11,14 +11,6 @@
       "prix": 172.9,
       "lat": 48.330239,
       "lon": -70.890031
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 172.9,
-      "lat": 48.331986,
-      "lon": -70.881141
     },
     {
       "banniere": "Canadian Tire",
@@ -51,6 +43,14 @@
       "prix": 179.9,
       "lat": 48.337232,
       "lon": -70.888533
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 179.9,
+      "lat": 48.331986,
+      "lon": -70.881141
     },
     {
       "banniere": "Esso",
