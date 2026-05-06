@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/05/2026 11:52",
-  "derniere_verification": "06/05/2026 11:52:06",
-  "fichier_source": "stations-20260506115002.xlsx",
+  "mise_a_jour": "06/05/2026 12:14",
+  "derniere_verification": "06/05/2026 12:14:50",
+  "fichier_source": "stations-20260506121002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -149,12 +149,12 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
-      "prix": 180.4,
-      "lat": 48.412108,
-      "lon": -71.231414
+      "prix": 181.4,
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -163,14 +163,6 @@
       "prix": 181.4,
       "lat": 48.426389,
       "lon": -71.259018
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 181.4,
-      "lat": 48.40314,
-      "lon": -71.250599
     },
     {
       "banniere": "Esso",
@@ -189,14 +181,6 @@
       "lon": -71.260593
     },
     {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
-      "ville": "Saguenay",
-      "prix": 183.9,
-      "lat": 48.209145,
-      "lon": -70.067898
-    },
-    {
       "banniere": "R.L.",
       "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
@@ -205,12 +189,28 @@
       "lon": -70.873104
     },
     {
+      "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "ville": "Saguenay",
+      "prix": 183.9,
+      "lat": 48.209145,
+      "lon": -70.067898
+    },
+    {
       "banniere": "Nutrinor Énergies",
       "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 185.4,
       "lat": 48.316248,
       "lon": -71.134685
+    },
+    {
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 185.4,
+      "lat": 48.412108,
+      "lon": -71.231414
     },
     {
       "banniere": "Canadian Tire",
