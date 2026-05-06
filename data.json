@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/05/2026 06:37",
-  "derniere_verification": "06/05/2026 06:37:36",
-  "fichier_source": "stations-20260506063502.xlsx",
+  "mise_a_jour": "06/05/2026 10:07",
+  "derniere_verification": "06/05/2026 10:07:42",
+  "fichier_source": "stations-20260506100502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -158,11 +158,11 @@
     },
     {
       "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 181.4,
-      "lat": 48.316248,
-      "lon": -71.134685
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "Irving",
@@ -171,14 +171,6 @@
       "prix": 181.4,
       "lat": 48.40314,
       "lon": -71.250599
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 181.4,
-      "lat": 48.426389,
-      "lon": -71.259018
     },
     {
       "banniere": "Esso",
@@ -197,6 +189,14 @@
       "lon": -71.260593
     },
     {
+      "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "ville": "Saguenay",
+      "prix": 183.9,
+      "lat": 48.209145,
+      "lon": -70.067898
+    },
+    {
       "banniere": "R.L.",
       "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
@@ -205,12 +205,12 @@
       "lon": -70.873104
     },
     {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
-      "prix": 183.9,
-      "lat": 48.209145,
-      "lon": -70.067898
+      "prix": 185.4,
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Crevier",
