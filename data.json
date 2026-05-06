@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/05/2026 16:57",
-  "derniere_verification": "06/05/2026 16:57:59",
-  "fichier_source": "stations-20260506165502.xlsx",
+  "mise_a_jour": "06/05/2026 17:27",
+  "derniere_verification": "06/05/2026 17:27:16",
+  "fichier_source": "stations-20260506172502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -13,20 +13,20 @@
       "lon": -70.890031
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1476 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.9,
-      "lat": 48.42632,
-      "lon": -71.023248
-    },
-    {
       "banniere": "Irving",
       "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
-      "prix": 179.9,
+      "prix": 175.1,
       "lat": 48.337232,
       "lon": -70.888533
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 175.1,
+      "lat": 48.336456,
+      "lon": -70.889349
     },
     {
       "banniere": "Esso",
@@ -53,12 +53,12 @@
       "lon": -70.882167
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Harnois",
+      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 179.9,
-      "lat": 48.336456,
-      "lon": -70.889349
+      "lat": 48.42632,
+      "lon": -71.023248
     },
     {
       "banniere": "Esso",
