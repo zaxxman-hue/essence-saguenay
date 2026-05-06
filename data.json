@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/05/2026 12:14",
-  "derniere_verification": "06/05/2026 12:14:50",
-  "fichier_source": "stations-20260506121002.xlsx",
+  "mise_a_jour": "06/05/2026 12:27",
+  "derniere_verification": "06/05/2026 12:27:39",
+  "fichier_source": "stations-20260506122502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -165,20 +165,20 @@
       "lon": -71.259018
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 181.4,
-      "lat": 48.373886,
-      "lon": -71.091169
-    },
-    {
       "banniere": "Énergie Express BD",
       "adresse": "3421 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
       "prix": 182.4,
       "lat": 48.458548,
       "lon": -71.260593
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "ville": "Saguenay",
+      "prix": 183.9,
+      "lat": 48.209145,
+      "lon": -70.067898
     },
     {
       "banniere": "R.L.",
@@ -189,12 +189,12 @@
       "lon": -70.873104
     },
     {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
-      "ville": "Saguenay",
-      "prix": 183.9,
-      "lat": 48.209145,
-      "lon": -70.067898
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 185.4,
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -213,12 +213,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 185.4,
-      "lat": 48.412676,
-      "lon": -71.23162
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Crevier",
