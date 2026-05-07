@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "07/05/2026 19:57",
-  "derniere_verification": "07/05/2026 19:57:48",
-  "fichier_source": "stations-20260507195502.xlsx",
+  "mise_a_jour": "07/05/2026 20:07",
+  "derniere_verification": "07/05/2026 20:07:55",
+  "fichier_source": "stations-20260507200502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -165,12 +165,12 @@
       "lon": -70.890031
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "3667 rue Panet, Saguenay",
+      "ville": "Jonquiere",
       "prix": 180.2,
-      "lat": 48.425557,
-      "lon": -71.26138
+      "lat": 48.402262,
+      "lon": -71.23757
     },
     {
       "banniere": "Petro-Canada",
@@ -285,12 +285,12 @@
       "lon": -71.05197
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
       "prix": 180.2,
-      "lat": 48.402262,
-      "lon": -71.23757
+      "lat": 48.317087,
+      "lon": -71.134075
     },
     {
       "banniere": "Esso",
@@ -333,12 +333,12 @@
       "lon": -71.242838
     },
     {
-      "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 180.2,
-      "lat": 48.317087,
-      "lon": -71.134075
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 180.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -347,14 +347,6 @@
       "prix": 180.4,
       "lat": 48.316248,
       "lon": -71.134685
-    },
-    {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 180.4,
-      "lat": 48.419808,
-      "lon": -71.100018
     },
     {
       "banniere": "Esso",
@@ -371,6 +363,14 @@
       "prix": 180.4,
       "lat": 48.412108,
       "lon": -71.231414
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 181.4,
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Nutrinor Énergies",
