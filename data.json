@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "07/05/2026 10:13",
-  "derniere_verification": "07/05/2026 10:13:31",
-  "fichier_source": "stations-20260507101002.xlsx",
+  "mise_a_jour": "07/05/2026 11:52",
+  "derniere_verification": "07/05/2026 11:52:14",
+  "fichier_source": "stations-20260507115002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -165,6 +165,14 @@
       "lon": -71.100018
     },
     {
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 180.4,
+      "lat": 48.412108,
+      "lon": -71.231414
+    },
+    {
       "banniere": "Irving",
       "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
@@ -173,20 +181,20 @@
       "lon": -71.250599
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 181.4,
-      "lat": 48.425557,
-      "lon": -71.26138
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 181.4,
       "lat": 48.426389,
       "lon": -71.259018
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 181.4,
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Énergie Express BD",
@@ -219,14 +227,6 @@
       "prix": 185.4,
       "lat": 48.316248,
       "lon": -71.134685
-    },
-    {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 185.4,
-      "lat": 48.412108,
-      "lon": -71.231414
     },
     {
       "banniere": "Esso",
