@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "07/05/2026 01:52",
-  "derniere_verification": "07/05/2026 01:52:42",
-  "fichier_source": "stations-20260507015002.xlsx",
+  "mise_a_jour": "07/05/2026 04:23",
+  "derniere_verification": "07/05/2026 04:23:14",
+  "fichier_source": "stations-20260507042002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -16,7 +16,7 @@
       "banniere": "Irving",
       "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
-      "prix": 175.1,
+      "prix": 179.6,
       "lat": 48.337232,
       "lon": -70.888533
     },
