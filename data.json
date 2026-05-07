@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "07/05/2026 11:52",
-  "derniere_verification": "07/05/2026 11:52:14",
-  "fichier_source": "stations-20260507115002.xlsx",
+  "mise_a_jour": "07/05/2026 12:15",
+  "derniere_verification": "07/05/2026 12:15:39",
+  "fichier_source": "stations-20260507121502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -13,20 +13,20 @@
       "lon": -70.890031
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 175.1,
+      "lat": 48.336456,
+      "lon": -70.889349
+    },
+    {
       "banniere": "Irving",
       "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 179.6,
       "lat": 48.337232,
       "lon": -70.888533
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 179.6,
-      "lat": 48.336456,
-      "lon": -70.889349
     },
     {
       "banniere": "Esso",
