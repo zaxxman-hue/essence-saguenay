@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "10/05/2026 14:19",
-  "derniere_verification": "10/05/2026 14:19:24",
-  "fichier_source": "stations-20260510141502.xlsx",
+  "mise_a_jour": "10/05/2026 14:34",
+  "derniere_verification": "10/05/2026 14:34:18",
+  "fichier_source": "stations-20260510143003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -173,12 +173,12 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 177.4,
-      "lat": 48.415732,
-      "lon": -71.065681
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "Esso",
@@ -205,6 +205,14 @@
       "lon": -71.261772
     },
     {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 177.4,
+      "lat": 48.415732,
+      "lon": -71.065681
+    },
+    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
@@ -214,19 +222,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
-      "prix": 177.9,
-      "lat": 48.414704,
-      "lon": -71.259124
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
+      "adresse": "1960 rue De Montfort, Saguenay",
       "ville": "Jonquiere",
       "prix": 177.9,
-      "lat": 48.402262,
-      "lon": -71.23757
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Irving",
@@ -246,11 +246,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
       "prix": 177.9,
-      "lat": 48.424661,
-      "lon": -71.234995
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Petro-Canada",
@@ -261,12 +261,12 @@
       "lon": -71.28365
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "banniere": "Petro-Canada",
+      "adresse": "3667 rue Panet, Saguenay",
       "ville": "Jonquiere",
       "prix": 177.9,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "lat": 48.402262,
+      "lon": -71.23757
     },
     {
       "banniere": "Petro-Canada",
@@ -293,12 +293,12 @@
       "lon": -71.259018
     },
     {
-      "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 177.9,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.423109,
+      "lon": -71.212988
     },
     {
       "banniere": "Irving",
@@ -309,20 +309,20 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2728 boul. du Saguenay, Saguenay",
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
-      "prix": 178.1,
-      "lat": 48.433492,
-      "lon": -71.175803
+      "prix": 177.9,
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "ville": "Jonquiere",
       "prix": 178.1,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "lat": 48.435333,
+      "lon": -71.140604
     },
     {
       "banniere": "Irving",
@@ -342,11 +342,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "adresse": "2728 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 178.1,
-      "lat": 48.435333,
-      "lon": -71.140604
+      "lat": 48.433492,
+      "lon": -71.175803
     },
     {
       "banniere": "Énergie DDF",
