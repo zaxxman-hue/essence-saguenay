@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "10/05/2026 16:15",
-  "derniere_verification": "10/05/2026 16:15:02",
-  "fichier_source": "stations-20260510161002.xlsx",
+  "mise_a_jour": "10/05/2026 16:50",
+  "derniere_verification": "10/05/2026 16:50:41",
+  "fichier_source": "stations-20260510165002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -333,6 +333,14 @@
       "lon": -71.259018
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 177.9,
+      "lat": 48.396671,
+      "lon": -71.252854
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "3997 boul. Harvey, Saguenay",
       "ville": "Saguenay",
@@ -349,14 +357,6 @@
       "lon": -71.180502
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 178.4,
-      "lat": 48.419808,
-      "lon": -71.100018
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
@@ -371,6 +371,14 @@
       "prix": 178.4,
       "lat": 48.373886,
       "lon": -71.091169
+    },
+    {
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 178.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Inconnue",
@@ -395,14 +403,6 @@
       "prix": 178.8,
       "lat": 48.317087,
       "lon": -71.134075
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.4,
-      "lat": 48.396671,
-      "lon": -71.252854
     },
     {
       "banniere": "Petro-Canada",
