@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "11/05/2026 13:48",
-  "derniere_verification": "11/05/2026 13:48:28",
-  "fichier_source": "stations-20260511134502.xlsx",
+  "mise_a_jour": "11/05/2026 14:02",
+  "derniere_verification": "11/05/2026 14:02:51",
+  "fichier_source": "stations-20260511140002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -157,6 +157,14 @@
       "lon": -71.05197
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 176.7,
+      "lat": 48.42592,
+      "lon": -71.068372
+    },
+    {
       "banniere": "Shell",
       "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -171,14 +179,6 @@
       "prix": 176.7,
       "lat": 48.411103,
       "lon": -71.052843
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 176.7,
-      "lat": 48.411254,
-      "lon": -71.261772
     },
     {
       "banniere": "R.L.",
@@ -206,6 +206,14 @@
     },
     {
       "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 176.7,
+      "lat": 48.411254,
+      "lon": -71.261772
+    },
+    {
+      "banniere": "Esso",
       "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
       "prix": 176.9,
@@ -219,14 +227,6 @@
       "prix": 176.9,
       "lat": 48.32626,
       "lon": -70.873104
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 177.4,
-      "lat": 48.424661,
-      "lon": -71.234995
     },
     {
       "banniere": "Irving",
@@ -246,19 +246,19 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "1960 rue De Montfort, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 177.4,
+      "lat": 48.424661,
+      "lon": -71.234995
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "1312 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 177.4,
       "lat": 48.408178,
       "lon": -71.093216
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "377 rue Sainte Anne, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 177.4,
-      "lat": 48.42592,
-      "lon": -71.068372
     },
     {
       "banniere": "Petro-Canada",
