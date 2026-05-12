@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "12/05/2026 12:00",
-  "derniere_verification": "12/05/2026 12:00:07",
-  "fichier_source": "stations-20260512115501.xlsx",
+  "mise_a_jour": "12/05/2026 12:22",
+  "derniere_verification": "12/05/2026 12:22:55",
+  "fichier_source": "stations-20260512122002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -53,20 +53,20 @@
       "lon": -71.055264
     },
     {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.3,
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
+    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.4,
       "lat": 48.412108,
       "lon": -71.231414
-    },
-    {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 175.9,
-      "lat": 48.400574,
-      "lon": -71.145998
     },
     {
       "banniere": "Shell",
@@ -125,12 +125,12 @@
       "lon": -71.233782
     },
     {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.9,
-      "lat": 48.413826,
-      "lon": -71.246977
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Petro-Canada",
@@ -229,12 +229,12 @@
       "lon": -71.234995
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 175.9,
-      "lat": 48.426389,
-      "lon": -71.259018
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
       "banniere": "Esso",
@@ -253,20 +253,20 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 175.9,
-      "lat": 48.406769,
-      "lon": -71.051965
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.9,
-      "lat": 48.421952,
-      "lon": -71.242838
+      "lat": 48.413826,
+      "lon": -71.246977
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 175.9,
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "Esso",
@@ -277,20 +277,20 @@
       "lon": -71.065681
     },
     {
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 175.9,
+      "lat": 48.421952,
+      "lon": -71.242838
+    },
+    {
       "banniere": "Couche-Tard",
       "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 176.0,
       "lat": 48.421176,
       "lon": -71.059061
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 176.0,
-      "lat": 48.403131,
-      "lon": -71.059187
     },
     {
       "banniere": "Nutrinor Énergies",
