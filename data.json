@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/05/2026 19:00",
-  "derniere_verification": "13/05/2026 19:00:09",
-  "fichier_source": "stations-20260513190002.xlsx",
+  "mise_a_jour": "13/05/2026 19:17",
+  "derniere_verification": "13/05/2026 19:17:40",
+  "fichier_source": "stations-20260513191501.xlsx",
   "total": 78,
   "stations": [
     {
@@ -624,7 +624,7 @@
       "banniere": "Harnois",
       "adresse": "3182 rue Saguenay, Rouyn-Noranda",
       "ville": "Saguenay",
-      "prix": 199.4,
+      "prix": 194.4,
       "lat": 48.291928,
       "lon": -79.03785
     }
