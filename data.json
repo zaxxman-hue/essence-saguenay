@@ -1,16 +1,16 @@
 {
-  "mise_a_jour": "13/05/2026 15:59",
-  "derniere_verification": "13/05/2026 15:59:57",
-  "fichier_source": "stations-20260513155501.xlsx",
+  "mise_a_jour": "13/05/2026 16:12",
+  "derniere_verification": "13/05/2026 16:12:57",
+  "fichier_source": "stations-20260513161002.xlsx",
   "total": 78,
   "stations": [
     {
       "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 175.9,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 175.1,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Irving",
@@ -27,6 +27,14 @@
       "prix": 175.9,
       "lat": 48.40314,
       "lon": -71.250599
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 175.9,
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Énergie Express BD",
@@ -59,14 +67,6 @@
       "prix": 179.6,
       "lat": 48.336551,
       "lon": -70.882167
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 179.6,
-      "lat": 48.337232,
-      "lon": -70.888533
     },
     {
       "banniere": "Shell",
