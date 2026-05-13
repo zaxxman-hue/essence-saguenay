@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/05/2026 14:39",
-  "derniere_verification": "13/05/2026 14:39:54",
-  "fichier_source": "stations-20260513143502.xlsx",
+  "mise_a_jour": "13/05/2026 15:20",
+  "derniere_verification": "13/05/2026 15:20:08",
+  "fichier_source": "stations-20260513152002.xlsx",
   "total": 78,
   "stations": [
     {
@@ -45,14 +45,6 @@
       "lon": -71.242838
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 176.6,
-      "lat": 48.337232,
-      "lon": -70.888533
-    },
-    {
       "banniere": "Esso",
       "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
@@ -67,6 +59,14 @@
       "prix": 179.6,
       "lat": 48.336551,
       "lon": -70.882167
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 179.6,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Shell",
