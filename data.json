@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/05/2026 08:50",
-  "derniere_verification": "13/05/2026 08:50:10",
-  "fichier_source": "stations-20260513085002.xlsx",
+  "mise_a_jour": "13/05/2026 10:12",
+  "derniere_verification": "13/05/2026 10:12:25",
+  "fichier_source": "stations-20260513101001.xlsx",
   "total": 79,
   "stations": [
     {
@@ -117,14 +117,6 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 176.4,
-      "lat": 48.316248,
-      "lon": -71.134685
-    },
-    {
       "banniere": "Esso",
       "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
@@ -166,6 +158,14 @@
     },
     {
       "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.9,
+      "lat": 48.209145,
+      "lon": -70.067898
+    },
+    {
+      "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
       "prix": 179.9,
@@ -173,12 +173,12 @@
       "lon": -70.890031
     },
     {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
       "ville": "Saguenay",
-      "prix": 179.9,
-      "lat": 48.209145,
-      "lon": -70.067898
+      "prix": 182.4,
+      "lat": 48.387452,
+      "lon": -71.114645
     },
     {
       "banniere": "Shell",
@@ -205,12 +205,12 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
-      "prix": 182.4,
-      "lat": 48.387452,
-      "lon": -71.114645
+      "prix": 184.4,
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Crevier",
