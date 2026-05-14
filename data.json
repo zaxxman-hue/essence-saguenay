@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "14/05/2026 12:10",
-  "derniere_verification": "14/05/2026 12:10:19",
-  "fichier_source": "stations-20260514121001.xlsx",
+  "mise_a_jour": "14/05/2026 12:25",
+  "derniere_verification": "14/05/2026 12:25:42",
+  "fichier_source": "stations-20260514122501.xlsx",
   "total": 79,
   "stations": [
     {
@@ -173,6 +173,22 @@
       "lon": -71.212988
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
+      "prix": 184.4,
+      "lat": 48.369606,
+      "lon": -71.28365
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
+      "prix": 184.4,
+      "lat": 48.414704,
+      "lon": -71.259124
+    },
+    {
       "banniere": "Esso",
       "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
@@ -189,14 +205,6 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 184.4,
-      "lat": 48.412108,
-      "lon": -71.231414
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
@@ -205,28 +213,20 @@
       "lon": -71.252854
     },
     {
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 184.4,
+      "lat": 48.412108,
+      "lon": -71.231414
+    },
+    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
       "prix": 184.8,
       "lat": 48.353958,
       "lon": -71.324386
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 184.9,
-      "lat": 48.337232,
-      "lon": -70.888533
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 184.9,
-      "lat": 48.425557,
-      "lon": -71.26138
     },
     {
       "banniere": "Irving",
@@ -309,20 +309,20 @@
       "lon": -71.114422
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3073 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 184.9,
-      "lat": 48.40886,
-      "lon": -71.19486
-    },
-    {
       "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 184.9,
-      "lat": 48.429329,
-      "lon": -71.065922
+      "lat": 48.441444,
+      "lon": -71.052232
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 184.9,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Petro-Canada",
@@ -342,19 +342,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 184.9,
-      "lat": 48.454509,
-      "lon": -71.111521
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "1201 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 184.9,
       "lat": 48.408298,
       "lon": -71.054487
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 184.9,
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "Petro-Canada",
@@ -382,11 +382,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "3073 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 184.9,
-      "lat": 48.414704,
-      "lon": -71.259124
+      "lat": 48.40886,
+      "lon": -71.19486
     },
     {
       "banniere": "R.L.",
@@ -405,12 +405,12 @@
       "lon": -71.05197
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "45 rue Du Pont, Saguenay",
       "ville": "Chicoutimi",
       "prix": 184.9,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "lat": 48.436903,
+      "lon": -71.067338
     },
     {
       "banniere": "Canadian Tire",
@@ -429,12 +429,12 @@
       "lon": -71.277321
     },
     {
-      "banniere": "R.L.",
-      "adresse": "45 rue Du Pont, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 184.9,
-      "lat": 48.436903,
-      "lon": -71.067338
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
       "banniere": "Ultramar",
@@ -461,12 +461,12 @@
       "lon": -71.187357
     },
     {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
       "prix": 184.9,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Irving",
@@ -550,11 +550,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 184.9,
-      "lat": 48.369606,
-      "lon": -71.28365
+      "lat": 48.450526,
+      "lon": -71.088774
     },
     {
       "banniere": "Énergie Express BD",
@@ -565,12 +565,12 @@
       "lon": -71.260593
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 184.9,
-      "lat": 48.450526,
-      "lon": -71.088774
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "Nutrinor Énergies",
