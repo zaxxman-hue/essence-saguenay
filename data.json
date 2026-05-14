@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "14/05/2026 15:38",
-  "derniere_verification": "14/05/2026 15:38:37",
-  "fichier_source": "stations-20260514153501.xlsx",
+  "mise_a_jour": "14/05/2026 16:03",
+  "derniere_verification": "14/05/2026 16:03:48",
+  "fichier_source": "stations-20260514160001.xlsx",
   "total": 79,
   "stations": [
     {
@@ -78,6 +78,14 @@
     },
     {
       "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 182.4,
+      "lat": 48.425557,
+      "lon": -71.26138
+    },
+    {
+      "banniere": "Irving",
       "adresse": "3754 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 182.4,
@@ -91,14 +99,6 @@
       "prix": 182.4,
       "lat": 48.421137,
       "lon": -71.234999
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 182.4,
-      "lat": 48.394683,
-      "lon": -71.070736
     },
     {
       "banniere": "Petro-Canada",
@@ -149,12 +149,12 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 182.4,
-      "lat": 48.412108,
-      "lon": -71.231414
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Esso",
@@ -181,20 +181,20 @@
       "lon": -71.100018
     },
     {
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 182.4,
+      "lat": 48.412108,
+      "lon": -71.231414
+    },
+    {
       "banniere": "Esso",
       "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
       "prix": 184.4,
       "lat": 48.373886,
       "lon": -71.091169
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 184.4,
-      "lat": 48.425557,
-      "lon": -71.26138
     },
     {
       "banniere": "Nutrinor Énergies",
