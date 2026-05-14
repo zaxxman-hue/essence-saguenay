@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "14/05/2026 17:03",
-  "derniere_verification": "14/05/2026 17:03:39",
-  "fichier_source": "stations-20260514170002.xlsx",
+  "mise_a_jour": "14/05/2026 17:17",
+  "derniere_verification": "14/05/2026 17:17:06",
+  "fichier_source": "stations-20260514171502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -205,12 +205,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 184.4,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 182.9,
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -221,12 +221,12 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 184.4,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Crevier",
