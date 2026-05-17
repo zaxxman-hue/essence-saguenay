@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/05/2026 18:01",
-  "derniere_verification": "17/05/2026 18:01:57",
-  "fichier_source": "stations-20260517180002.xlsx",
+  "mise_a_jour": "17/05/2026 18:33",
+  "derniere_verification": "17/05/2026 18:33:50",
+  "fichier_source": "stations-20260517183002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -37,20 +37,20 @@
       "lon": -71.234995
     },
     {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 178.9,
+      "lat": 48.40924,
+      "lon": -71.052572
+    },
+    {
       "banniere": "Esso",
       "adresse": "3820 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 179.6,
       "lat": 48.413826,
       "lon": -71.246977
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 179.6,
-      "lat": 48.39744,
-      "lon": -71.081011
     },
     {
       "banniere": "Harnois",
@@ -77,12 +77,12 @@
       "lon": -71.059187
     },
     {
-      "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 179.6,
-      "lat": 48.338231,
-      "lon": -70.990331
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
       "banniere": "Esso",
@@ -101,12 +101,12 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
       "prix": 179.6,
-      "lat": 48.40924,
-      "lon": -71.052572
+      "lat": 48.338231,
+      "lon": -70.990331
     },
     {
       "banniere": "Petro-Canada",
@@ -125,12 +125,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 179.6,
-      "lat": 48.406769,
-      "lon": -71.051965
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Petro-Canada",
