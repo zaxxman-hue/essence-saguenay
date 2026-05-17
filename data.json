@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/05/2026 12:10",
-  "derniere_verification": "17/05/2026 12:10:51",
-  "fichier_source": "stations-20260517121002.xlsx",
+  "mise_a_jour": "17/05/2026 13:25",
+  "derniere_verification": "17/05/2026 13:25:30",
+  "fichier_source": "stations-20260517132001.xlsx",
   "total": 79,
   "stations": [
     {
@@ -229,6 +229,14 @@
       "lon": -71.250599
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.9,
+      "lat": 48.426389,
+      "lon": -71.259018
+    },
+    {
       "banniere": "Shell",
       "adresse": "3761 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
@@ -269,28 +277,20 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3073 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 181.7,
-      "lat": 48.40886,
-      "lon": -71.19486
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 181.7,
-      "lat": 48.426389,
-      "lon": -71.259018
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
       "prix": 181.7,
       "lat": 48.396671,
       "lon": -71.252854
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "3073 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 181.7,
+      "lat": 48.40886,
+      "lon": -71.19486
     },
     {
       "banniere": "Petro-Canada",
