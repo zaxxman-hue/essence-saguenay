@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/05/2026 17:30",
-  "derniere_verification": "17/05/2026 17:30:40",
-  "fichier_source": "stations-20260517173001.xlsx",
+  "mise_a_jour": "17/05/2026 18:01",
+  "derniere_verification": "17/05/2026 18:01:57",
+  "fichier_source": "stations-20260517180002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -309,12 +309,12 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 181.7,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "Ultramar",
@@ -325,12 +325,12 @@
       "lon": -71.171977
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 182.4,
-      "lat": 48.425557,
-      "lon": -71.26138
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 181.7,
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Inconnue",
@@ -341,12 +341,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 183.9,
-      "lat": 48.404137,
-      "lon": -71.166787
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 182.4,
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Nutrinor Énergies",
