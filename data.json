@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "19/05/2026 18:02",
-  "derniere_verification": "19/05/2026 18:02:15",
-  "fichier_source": "stations-20260519180002.xlsx",
+  "mise_a_jour": "19/05/2026 18:19",
+  "derniere_verification": "19/05/2026 18:19:41",
+  "fichier_source": "stations-20260519181502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -45,22 +45,6 @@
       "lon": -70.890031
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 184.9,
-      "lat": 48.32626,
-      "lon": -70.873104
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 189.4,
-      "lat": 48.316248,
-      "lon": -71.134685
-    },
-    {
       "banniere": "Énergie DDF",
       "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
@@ -77,12 +61,28 @@
       "lon": -71.231414
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 189.4,
+      "lat": 48.316248,
+      "lon": -71.134685
+    },
+    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
       "prix": 189.8,
       "lat": 48.353958,
       "lon": -71.324386
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
+      "prix": 189.9,
+      "lat": 48.338231,
+      "lon": -70.990331
     },
     {
       "banniere": "Mobil",
@@ -101,12 +101,12 @@
       "lon": -71.020099
     },
     {
-      "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 189.9,
-      "lat": 48.338231,
-      "lon": -70.990331
+      "lat": 48.42632,
+      "lon": -71.023248
     },
     {
       "banniere": "Harnois",
@@ -229,12 +229,12 @@
       "lon": -71.26138
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 189.9,
-      "lat": 48.42632,
-      "lon": -71.023248
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "Esso",
@@ -485,12 +485,12 @@
       "lon": -71.23162
     },
     {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
       "prix": 189.9,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "lat": 48.369606,
+      "lon": -71.28365
     },
     {
       "banniere": "Shell",
@@ -541,12 +541,12 @@
       "lon": -71.212988
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 189.9,
-      "lat": 48.369606,
-      "lon": -71.28365
+      "lat": 48.407448,
+      "lon": -71.094182
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -557,12 +557,12 @@
       "lon": -70.889349
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "R.L.",
+      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 189.9,
-      "lat": 48.407448,
-      "lon": -71.094182
+      "lat": 48.396372,
+      "lon": -70.993907
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -589,20 +589,12 @@
       "lon": -71.061125
     },
     {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 189.9,
-      "lat": 48.415732,
-      "lon": -71.065681
-    },
-    {
       "banniere": "R.L.",
-      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
       "prix": 189.9,
-      "lat": 48.396372,
-      "lon": -70.993907
+      "lat": 48.32626,
+      "lon": -70.873104
     },
     {
       "banniere": "R.L.",
@@ -611,6 +603,14 @@
       "prix": 189.9,
       "lat": 48.441506,
       "lon": -71.051019
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 189.9,
+      "lat": 48.415732,
+      "lon": -71.065681
     },
     {
       "banniere": "Shell",
