@@ -1,17 +1,9 @@
 {
-  "mise_a_jour": "19/05/2026 15:29",
-  "derniere_verification": "19/05/2026 15:29:33",
-  "fichier_source": "stations-20260519152502.xlsx",
+  "mise_a_jour": "19/05/2026 15:54",
+  "derniere_verification": "19/05/2026 15:54:27",
+  "fichier_source": "stations-20260519155002.xlsx",
   "total": 79,
   "stations": [
-    {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.4,
-      "lat": 48.412108,
-      "lon": -71.231414
-    },
     {
       "banniere": "Irving",
       "adresse": "2005 boul. Mellon, Saguenay",
@@ -19,14 +11,6 @@
       "prix": 179.6,
       "lat": 48.424585,
       "lon": -71.180502
-    },
-    {
-      "banniere": "Énergie Express BD",
-      "adresse": "3421 rte Saint-Léonard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 179.9,
-      "lat": 48.458548,
-      "lon": -71.260593
     },
     {
       "banniere": "Petro-Canada",
@@ -37,12 +21,12 @@
       "lon": -71.114422
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 184.6,
-      "lat": 48.331986,
-      "lon": -70.881141
+      "banniere": "Énergie Express BD",
+      "adresse": "3421 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.9,
+      "lat": 48.458548,
+      "lon": -71.260593
     },
     {
       "banniere": "Irving",
@@ -51,6 +35,14 @@
       "prix": 184.6,
       "lat": 48.337232,
       "lon": -70.888533
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 184.6,
+      "lat": 48.331986,
+      "lon": -70.881141
     },
     {
       "banniere": "Crevier",
@@ -69,20 +61,20 @@
       "lon": -70.067898
     },
     {
-      "banniere": "Shell",
-      "adresse": "342 rue 6, Saguenay",
-      "ville": "LaBaie",
-      "prix": 184.9,
-      "lat": 48.330239,
-      "lon": -70.890031
-    },
-    {
       "banniere": "Canadian Tire",
       "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
       "ville": "LaBaie",
       "prix": 184.9,
       "lat": 48.336551,
       "lon": -70.882167
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "342 rue 6, Saguenay",
+      "ville": "LaBaie",
+      "prix": 184.9,
+      "lat": 48.330239,
+      "lon": -70.890031
     },
     {
       "banniere": "R.L.",
@@ -107,6 +99,14 @@
       "prix": 189.4,
       "lat": 48.419808,
       "lon": -71.100018
+    },
+    {
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 189.4,
+      "lat": 48.412108,
+      "lon": -71.231414
     },
     {
       "banniere": "Mobil",
