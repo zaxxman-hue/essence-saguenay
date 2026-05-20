@@ -1,17 +1,9 @@
 {
-  "mise_a_jour": "20/05/2026 20:09",
-  "derniere_verification": "20/05/2026 20:09:44",
-  "fichier_source": "stations-20260520200502.xlsx",
+  "mise_a_jour": "20/05/2026 20:32",
+  "derniere_verification": "20/05/2026 20:32:44",
+  "fichier_source": "stations-20260520203002.xlsx",
   "total": 79,
   "stations": [
-    {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 184.4,
-      "lat": 48.373886,
-      "lon": -71.091169
-    },
     {
       "banniere": "Shell",
       "adresse": "1916 boul. Talbot, Saguenay",
@@ -35,6 +27,14 @@
       "prix": 184.9,
       "lat": 48.330239,
       "lon": -70.890031
+    },
+    {
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 189.4,
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Esso",
@@ -61,12 +61,12 @@
       "lon": -71.233782
     },
     {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 189.4,
-      "lat": 48.400574,
-      "lon": -71.145998
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Irving",
@@ -93,12 +93,12 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
       "prix": 189.4,
-      "lat": 48.406769,
-      "lon": -71.051965
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Esso",
@@ -125,12 +125,12 @@
       "lon": -71.261772
     },
     {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 189.4,
-      "lat": 48.413826,
-      "lon": -71.246977
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
       "banniere": "Inconnue",
