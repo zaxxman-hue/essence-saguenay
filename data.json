@@ -1,17 +1,9 @@
 {
-  "mise_a_jour": "20/05/2026 22:21",
-  "derniere_verification": "20/05/2026 22:21:31",
-  "fichier_source": "stations-20260520222002.xlsx",
+  "mise_a_jour": "20/05/2026 22:50",
+  "derniere_verification": "20/05/2026 22:50:57",
+  "fichier_source": "stations-20260520225002.xlsx",
   "total": 79,
   "stations": [
-    {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 183.4,
-      "lat": 48.373886,
-      "lon": -71.091169
-    },
     {
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
@@ -35,6 +27,14 @@
       "prix": 189.4,
       "lat": 48.431009,
       "lon": -71.233782
+    },
+    {
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 189.4,
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Esso",
@@ -61,12 +61,12 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 189.4,
-      "lat": 48.400574,
-      "lon": -71.145998
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Irving",
@@ -93,12 +93,12 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 189.4,
-      "lat": 48.413826,
-      "lon": -71.246977
+      "lat": 48.412108,
+      "lon": -71.231414
     },
     {
       "banniere": "Esso",
@@ -133,20 +133,20 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 189.4,
-      "lat": 48.412108,
-      "lon": -71.231414
-    },
-    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
       "prix": 189.8,
       "lat": 48.353958,
       "lon": -71.324386
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 189.9,
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "Shell",
@@ -165,20 +165,20 @@
       "lon": -71.061332
     },
     {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 189.9,
-      "lat": 48.424585,
-      "lon": -71.180502
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 189.9,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "Esso",
@@ -189,12 +189,12 @@
       "lon": -70.861146
     },
     {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 189.9,
-      "lat": 48.395019,
-      "lon": -71.106094
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Irving",
@@ -221,20 +221,20 @@
       "lon": -71.166787
     },
     {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 189.9,
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
+    {
       "banniere": "Harnois",
       "adresse": "1476 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 189.9,
       "lat": 48.42632,
       "lon": -71.023248
-    },
-    {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 189.9,
-      "lat": 48.421176,
-      "lon": -71.059061
     },
     {
       "banniere": "Harnois",
