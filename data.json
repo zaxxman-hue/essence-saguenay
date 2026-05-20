@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "20/05/2026 10:40",
-  "derniere_verification": "20/05/2026 10:40:58",
-  "fichier_source": "stations-20260520104002.xlsx",
+  "mise_a_jour": "20/05/2026 12:28",
+  "derniere_verification": "20/05/2026 12:28:37",
+  "fichier_source": "stations-20260520122502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -13,20 +13,20 @@
       "lon": -71.260593
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
-      "prix": 184.9,
-      "lat": 48.336551,
-      "lon": -70.882167
-    },
-    {
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
       "prix": 184.9,
       "lat": 48.330239,
       "lon": -70.890031
+    },
+    {
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 189.4,
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -389,20 +389,20 @@
       "lon": -71.234995
     },
     {
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
+      "ville": "LaBaie",
+      "prix": 189.9,
+      "lat": 48.336551,
+      "lon": -70.882167
+    },
+    {
       "banniere": "R.L.",
       "adresse": "130 rue Arthur-Hamel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 189.9,
       "lat": 48.428994,
       "lon": -71.027496
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 189.9,
-      "lat": 48.394683,
-      "lon": -71.070736
     },
     {
       "banniere": "Petro-Canada",
@@ -422,19 +422,19 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 189.9,
-      "lat": 48.411756,
-      "lon": -71.05197
-    },
-    {
-      "banniere": "Ultramar",
       "adresse": "377 rue Sainte Anne, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 189.9,
       "lat": 48.42592,
       "lon": -71.068372
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 189.9,
+      "lat": 48.425808,
+      "lon": -71.071138
     },
     {
       "banniere": "R.L.",
@@ -445,12 +445,12 @@
       "lon": -71.067338
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 189.9,
-      "lat": 48.425808,
-      "lon": -71.071138
+      "lat": 48.411756,
+      "lon": -71.05197
     },
     {
       "banniere": "Crevier",
@@ -469,20 +469,20 @@
       "lon": -71.088774
     },
     {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 189.9,
+      "lat": 48.394683,
+      "lon": -71.070736
+    },
+    {
       "banniere": "Canadian Tire",
       "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 189.9,
       "lat": 48.411103,
       "lon": -71.052843
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 189.9,
-      "lat": 48.412676,
-      "lon": -71.23162
     },
     {
       "banniere": "Petro-Canada",
