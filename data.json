@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "20/05/2026 16:43",
-  "derniere_verification": "20/05/2026 16:43:45",
-  "fichier_source": "stations-20260520164002.xlsx",
+  "mise_a_jour": "20/05/2026 17:39",
+  "derniere_verification": "20/05/2026 17:39:40",
+  "fichier_source": "stations-20260520173502.xlsx",
   "total": 79,
   "stations": [
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 184.4,
+      "lat": 48.316248,
+      "lon": -71.134685
+    },
     {
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
@@ -11,14 +19,6 @@
       "prix": 184.9,
       "lat": 48.330239,
       "lon": -70.890031
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 189.4,
-      "lat": 48.40314,
-      "lon": -71.250599
     },
     {
       "banniere": "Irving",
@@ -30,11 +30,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
       "prix": 189.4,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Canadian Tire",
@@ -61,12 +61,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 189.4,
-      "lat": 48.316248,
-      "lon": -71.134685
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Énergie DDF",
@@ -422,11 +422,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "377 rue Sainte Anne, SAGUENAY",
-      "ville": "Jonquiere",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 189.9,
-      "lat": 48.42592,
-      "lon": -71.068372
+      "lat": 48.411756,
+      "lon": -71.05197
     },
     {
       "banniere": "Shell",
@@ -446,11 +446,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
+      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 189.9,
-      "lat": 48.411756,
-      "lon": -71.05197
+      "lat": 48.42592,
+      "lon": -71.068372
     },
     {
       "banniere": "Petro-Canada",
