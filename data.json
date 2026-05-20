@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "20/05/2026 18:03",
-  "derniere_verification": "20/05/2026 18:03:21",
-  "fichier_source": "stations-20260520180002.xlsx",
+  "mise_a_jour": "20/05/2026 18:13",
+  "derniere_verification": "20/05/2026 18:13:19",
+  "fichier_source": "stations-20260520181002.xlsx",
   "total": 79,
   "stations": [
+    {
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 184.4,
+      "lat": 48.373886,
+      "lon": -71.091169
+    },
     {
       "banniere": "Nutrinor Énergies",
       "adresse": "5850 boul. Talbot, Saguenay",
@@ -29,14 +37,6 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 189.4,
-      "lat": 48.40314,
-      "lon": -71.250599
-    },
-    {
       "banniere": "Canadian Tire",
       "adresse": "3580 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
@@ -45,12 +45,12 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 189.4,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Inconnue",
@@ -62,11 +62,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
       "prix": 189.4,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Énergie DDF",
