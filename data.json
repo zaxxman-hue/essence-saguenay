@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "22/05/2026 22:33",
-  "derniere_verification": "22/05/2026 22:33:07",
-  "fichier_source": "stations-20260522223002.xlsx",
+  "mise_a_jour": "22/05/2026 22:52",
+  "derniere_verification": "22/05/2026 22:52:39",
+  "fichier_source": "stations-20260522225002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -253,12 +253,12 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 184.1,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "prix": 182.9,
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Couche-Tard",
@@ -269,12 +269,12 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 184.1,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Crevier",
