@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "22/05/2026 23:37",
-  "derniere_verification": "22/05/2026 23:37:44",
-  "fichier_source": "stations-20260522233502.xlsx",
+  "mise_a_jour": "22/05/2026 23:58",
+  "derniere_verification": "22/05/2026 23:58:50",
+  "fichier_source": "stations-20260522235502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -261,6 +261,22 @@
       "lon": -71.26138
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 182.9,
+      "lat": 48.39744,
+      "lon": -71.081011
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 182.9,
+      "lat": 48.39309,
+      "lon": -71.070497
+    },
+    {
       "banniere": "Shell",
       "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -283,22 +299,6 @@
       "prix": 184.1,
       "lat": 48.421176,
       "lon": -71.059061
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 184.9,
-      "lat": 48.39744,
-      "lon": -71.081011
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 184.9,
-      "lat": 48.39309,
-      "lon": -71.070497
     },
     {
       "banniere": "Ultramar",
