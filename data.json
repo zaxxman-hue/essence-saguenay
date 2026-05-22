@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "22/05/2026 15:28",
-  "derniere_verification": "22/05/2026 15:28:18",
-  "fichier_source": "stations-20260522152502.xlsx",
+  "mise_a_jour": "22/05/2026 15:47",
+  "derniere_verification": "22/05/2026 15:47:21",
+  "fichier_source": "stations-20260522154502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -253,12 +253,28 @@
       "lon": -71.054487
     },
     {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 187.1,
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
+    {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 187.1,
       "lat": 48.40924,
       "lon": -71.052572
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 187.1,
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Petro-Canada",
@@ -277,20 +293,12 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 187.8,
-      "lat": 48.403131,
-      "lon": -71.059187
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 187.8,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Ultramar",
@@ -299,14 +307,6 @@
       "prix": 187.8,
       "lat": 48.39744,
       "lon": -71.081011
-    },
-    {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 187.8,
-      "lat": 48.421176,
-      "lon": -71.059061
     },
     {
       "banniere": "Ultramar",
