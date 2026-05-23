@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "23/05/2026 12:00",
-  "derniere_verification": "23/05/2026 12:00:11",
-  "fichier_source": "stations-20260523120002.xlsx",
+  "mise_a_jour": "23/05/2026 12:12",
+  "derniere_verification": "23/05/2026 12:12:09",
+  "fichier_source": "stations-20260523121002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -301,12 +301,12 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 187.1,
-      "lat": 48.411756,
-      "lon": -71.05197
+      "prix": 186.4,
+      "lat": 48.40924,
+      "lon": -71.052572
     },
     {
       "banniere": "Canadian Tire",
@@ -317,12 +317,12 @@
       "lon": -71.052843
     },
     {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 187.1,
-      "lat": 48.40924,
-      "lon": -71.052572
+      "lat": 48.411756,
+      "lon": -71.05197
     },
     {
       "banniere": "Petro-Canada",
