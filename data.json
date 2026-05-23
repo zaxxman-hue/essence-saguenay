@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "22/05/2026 23:58",
-  "derniere_verification": "22/05/2026 23:58:50",
-  "fichier_source": "stations-20260522235502.xlsx",
+  "mise_a_jour": "23/05/2026 01:21",
+  "derniere_verification": "23/05/2026 01:21:54",
+  "fichier_source": "stations-20260523012002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -352,7 +352,7 @@
       "banniere": "Nutrinor Énergies",
       "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
-      "prix": 189.4,
+      "prix": 188.9,
       "lat": 48.316248,
       "lon": -71.134685
     },
