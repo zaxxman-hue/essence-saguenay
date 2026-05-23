@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "23/05/2026 01:21",
-  "derniere_verification": "23/05/2026 01:21:54",
-  "fichier_source": "stations-20260523012002.xlsx",
+  "mise_a_jour": "23/05/2026 01:57",
+  "derniere_verification": "23/05/2026 01:57:21",
+  "fichier_source": "stations-20260523015502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -341,20 +341,20 @@
       "lon": -71.055264
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 188.4,
+      "lat": 48.316248,
+      "lon": -71.134685
+    },
+    {
       "banniere": "R.L.",
       "adresse": "5822 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 188.5,
       "lat": 48.317087,
       "lon": -71.134075
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 188.9,
-      "lat": 48.316248,
-      "lon": -71.134685
     },
     {
       "banniere": "Esso",
