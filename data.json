@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "25/05/2026 13:31",
-  "derniere_verification": "25/05/2026 13:31:48",
-  "fichier_source": "stations-20260525133002.xlsx",
+  "mise_a_jour": "25/05/2026 13:44",
+  "derniere_verification": "25/05/2026 13:44:51",
+  "fichier_source": "stations-20260525134002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -21,6 +21,14 @@
       "lon": -71.068372
     },
     {
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 179.2,
+      "lat": 48.406769,
+      "lon": -71.051965
+    },
+    {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -30,19 +38,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.2,
-      "lat": 48.408298,
-      "lon": -71.054487
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "2382 rte 170, Saguenay",
       "ville": "Saguenay",
       "prix": 179.2,
       "lat": 48.356563,
       "lon": -71.055264
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 179.2,
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Shell",
@@ -59,14 +67,6 @@
       "prix": 179.4,
       "lat": 48.431009,
       "lon": -71.233782
-    },
-    {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.4,
-      "lat": 48.400574,
-      "lon": -71.145998
     },
     {
       "banniere": "Irving",
@@ -93,12 +93,12 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
       "ville": "Jonquiere",
       "prix": 179.4,
-      "lat": 48.413826,
-      "lon": -71.246977
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Petro-Canada",
@@ -117,12 +117,12 @@
       "lon": -70.990331
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 179.4,
-      "lat": 48.406769,
-      "lon": -71.051965
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Irving",
