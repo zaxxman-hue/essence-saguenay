@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "25/05/2026 17:09",
-  "derniere_verification": "25/05/2026 17:09:42",
-  "fichier_source": "stations-20260525170502.xlsx",
+  "mise_a_jour": "25/05/2026 17:18",
+  "derniere_verification": "25/05/2026 17:18:32",
+  "fichier_source": "stations-20260525171502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -421,20 +421,20 @@
       "lon": -70.889349
     },
     {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 183.9,
+      "lat": 48.337232,
+      "lon": -70.888533
+    },
+    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 189.4,
       "lat": 48.412108,
       "lon": -71.231414
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 189.9,
-      "lat": 48.428994,
-      "lon": -71.027496
     },
     {
       "banniere": "R.L.",
@@ -461,12 +461,12 @@
       "lon": -71.076179
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 189.9,
-      "lat": 48.42632,
-      "lon": -71.023248
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Ultramar",
@@ -485,12 +485,12 @@
       "lon": -71.067443
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1476 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 189.9,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "lat": 48.42632,
+      "lon": -71.023248
     },
     {
       "banniere": "Shell",
@@ -510,11 +510,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 189.9,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
