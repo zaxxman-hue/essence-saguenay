@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "25/05/2026 21:47",
-  "derniere_verification": "25/05/2026 21:47:15",
-  "fichier_source": "stations-20260525214502.xlsx",
+  "mise_a_jour": "25/05/2026 22:04",
+  "derniere_verification": "25/05/2026 22:04:08",
+  "fichier_source": "stations-20260525220002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -485,12 +485,12 @@
       "lon": -70.067898
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
       "ville": "LaBaie",
       "prix": 182.9,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "lat": 48.336551,
+      "lon": -70.882167
     },
     {
       "banniere": "Petro-Canada",
@@ -533,20 +533,20 @@
       "lon": -70.993907
     },
     {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 182.9,
+      "lat": 48.337232,
+      "lon": -70.888533
+    },
+    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 189.4,
       "lat": 48.412108,
       "lon": -71.231414
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "342 rue 6, Saguenay",
-      "ville": "LaBaie",
-      "prix": 189.9,
-      "lat": 48.330239,
-      "lon": -70.890031
     },
     {
       "banniere": "Harnois",
@@ -573,12 +573,12 @@
       "lon": -71.114645
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Harnois",
+      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 189.9,
-      "lat": 48.336551,
-      "lon": -70.882167
+      "lat": 48.42632,
+      "lon": -71.023248
     },
     {
       "banniere": "Esso",
@@ -597,12 +597,12 @@
       "lon": -70.861146
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1476 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Shell",
+      "adresse": "342 rue 6, Saguenay",
+      "ville": "LaBaie",
       "prix": 189.9,
-      "lat": 48.42632,
-      "lon": -71.023248
+      "lat": 48.330239,
+      "lon": -70.890031
     },
     {
       "banniere": "Crevier",
