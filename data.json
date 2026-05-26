@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "26/05/2026 16:55",
-  "derniere_verification": "26/05/2026 16:55:10",
-  "fichier_source": "stations-20260526165002.xlsx",
+  "mise_a_jour": "26/05/2026 17:19",
+  "derniere_verification": "26/05/2026 17:19:13",
+  "fichier_source": "stations-20260526171502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -11,6 +11,14 @@
       "prix": 175.5,
       "lat": 48.421137,
       "lon": -71.234999
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 175.5,
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Irving",
@@ -30,14 +38,6 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.8,
-      "lat": 48.413826,
-      "lon": -71.246977
-    },
-    {
-      "banniere": "Esso",
       "adresse": "3 Rue Wing, Saguenay",
       "ville": "Saguenay",
       "prix": 176.8,
@@ -45,12 +45,12 @@
       "lon": -70.990331
     },
     {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 176.8,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Harnois",
