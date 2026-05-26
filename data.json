@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "26/05/2026 20:50",
-  "derniere_verification": "26/05/2026 20:50:06",
-  "fichier_source": "stations-20260526204502.xlsx",
+  "mise_a_jour": "26/05/2026 21:13",
+  "derniere_verification": "26/05/2026 21:13:40",
+  "fichier_source": "stations-20260526211002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -78,6 +78,14 @@
     },
     {
       "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 175.5,
+      "lat": 48.425557,
+      "lon": -71.26138
+    },
+    {
+      "banniere": "Irving",
       "adresse": "3754 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.5,
@@ -91,14 +99,6 @@
       "prix": 175.5,
       "lat": 48.421137,
       "lon": -71.234999
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 175.5,
-      "lat": 48.39309,
-      "lon": -71.070497
     },
     {
       "banniere": "Petro-Canada",
@@ -158,19 +158,19 @@
     },
     {
       "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 175.5,
+      "lat": 48.39309,
+      "lon": -71.070497
+    },
+    {
+      "banniere": "Ultramar",
       "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 175.5,
       "lat": 48.423109,
       "lon": -71.212988
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 175.5,
-      "lat": 48.415732,
-      "lon": -71.065681
     },
     {
       "banniere": "Shell",
@@ -197,20 +197,20 @@
       "lon": -71.259018
     },
     {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.5,
+      "lat": 48.415732,
+      "lon": -71.065681
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 176.8,
       "lat": 48.451071,
       "lon": -71.020099
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 176.8,
-      "lat": 48.425557,
-      "lon": -71.26138
     },
     {
       "banniere": "Ultramar",
