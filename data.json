@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "27/05/2026 08:08",
-  "derniere_verification": "27/05/2026 08:08:58",
-  "fichier_source": "stations-20260527080502.xlsx",
+  "mise_a_jour": "27/05/2026 10:01",
+  "derniere_verification": "27/05/2026 10:01:54",
+  "fichier_source": "stations-20260527095502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -197,12 +197,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Irving",
-      "adresse": "3635 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.8,
-      "lat": 48.421137,
-      "lon": -71.234999
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 175.9,
+      "lat": 48.317087,
+      "lon": -71.134075
     },
     {
       "banniere": "Irving",
@@ -213,12 +213,12 @@
       "lon": -71.250599
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 177.1,
-      "lat": 48.387452,
-      "lon": -71.114645
+      "banniere": "Irving",
+      "adresse": "3635 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 176.8,
+      "lat": 48.421137,
+      "lon": -71.234999
     },
     {
       "banniere": "Mobil",
@@ -229,12 +229,12 @@
       "lon": -71.052572
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 177.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 177.1,
+      "lat": 48.387452,
+      "lon": -71.114645
     },
     {
       "banniere": "Inconnue",
@@ -245,12 +245,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 177.8,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 177.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Canadian Tire",
@@ -261,12 +261,12 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 177.8,
-      "lat": 48.421176,
-      "lon": -71.059061
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "Esso",
@@ -277,20 +277,20 @@
       "lon": -71.106094
     },
     {
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 177.8,
+      "lat": 48.421176,
+      "lon": -71.059061
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 177.8,
       "lat": 48.411756,
       "lon": -71.05197
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3073 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 177.9,
-      "lat": 48.40886,
-      "lon": -71.19486
     },
     {
       "banniere": "Irving",
@@ -326,19 +326,19 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "3073 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 177.9,
+      "lat": 48.40886,
+      "lon": -71.19486
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "952 rue Du Boulevard, Saguenay",
       "ville": "Saguenay",
       "prix": 178.4,
       "lat": 48.307346,
       "lon": -71.114422
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 178.9,
-      "lat": 48.317087,
-      "lon": -71.134075
     },
     {
       "banniere": "Ultramar",
