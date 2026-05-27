@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "27/05/2026 16:47",
-  "derniere_verification": "27/05/2026 16:47:34",
-  "fichier_source": "stations-20260527164502.xlsx",
+  "mise_a_jour": "27/05/2026 16:56",
+  "derniere_verification": "27/05/2026 16:56:48",
+  "fichier_source": "stations-20260527165502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -109,12 +109,12 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 174.8,
-      "lat": 48.425557,
-      "lon": -71.26138
+      "lat": 48.411756,
+      "lon": -71.05197
     },
     {
       "banniere": "Ultramar",
@@ -141,12 +141,12 @@
       "lon": -71.114645
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
       "prix": 174.8,
-      "lat": 48.411756,
-      "lon": -71.05197
+      "lat": 48.369606,
+      "lon": -71.28365
     },
     {
       "banniere": "Shell",
@@ -197,20 +197,20 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 175.4,
-      "lat": 48.373886,
-      "lon": -71.091169
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "952 rue Du Boulevard, Saguenay",
       "ville": "Saguenay",
       "prix": 175.4,
       "lat": 48.307346,
       "lon": -71.114422
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.4,
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -253,12 +253,12 @@
       "lon": -71.212988
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 175.5,
-      "lat": 48.369606,
-      "lon": -71.28365
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -285,12 +285,12 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
       "prix": 175.5,
-      "lat": 48.412676,
-      "lon": -71.23162
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Petro-Canada",
