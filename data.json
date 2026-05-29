@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "29/05/2026 14:01",
-  "derniere_verification": "29/05/2026 14:01:33",
-  "fichier_source": "stations-20260529140002.xlsx",
+  "mise_a_jour": "29/05/2026 14:18",
+  "derniere_verification": "29/05/2026 14:18:47",
+  "fichier_source": "stations-20260529141502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -101,12 +101,12 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 171.2,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.411756,
+      "lon": -71.05197
     },
     {
       "banniere": "Ultramar",
@@ -141,12 +141,12 @@
       "lon": -71.052843
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 171.2,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Esso",
@@ -155,6 +155,14 @@
       "prix": 171.2,
       "lat": 48.415732,
       "lon": -71.065681
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 171.2,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Inconnue",
@@ -179,14 +187,6 @@
       "prix": 171.9,
       "lat": 48.373886,
       "lon": -71.091169
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 171.9,
-      "lat": 48.411756,
-      "lon": -71.05197
     },
     {
       "banniere": "Petro-Canada",
