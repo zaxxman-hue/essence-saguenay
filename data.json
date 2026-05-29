@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "29/05/2026 02:04",
-  "derniere_verification": "29/05/2026 02:04:12",
-  "fichier_source": "stations-20260529020002.xlsx",
+  "mise_a_jour": "29/05/2026 04:54",
+  "derniere_verification": "29/05/2026 04:54:05",
+  "fichier_source": "stations-20260529045002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -173,14 +173,6 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 172.7,
-      "lat": 48.425557,
-      "lon": -71.26138
-    },
-    {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -195,6 +187,14 @@
       "prix": 172.7,
       "lat": 48.369606,
       "lon": -71.28365
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 172.7,
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Shell",
@@ -214,19 +214,19 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 172.7,
-      "lat": 48.422936,
-      "lon": -71.243563
-    },
-    {
-      "banniere": "Irving",
       "adresse": "3635 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 172.7,
       "lat": 48.421137,
       "lon": -71.234999
+    },
+    {
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 173.4,
+      "lat": 48.412108,
+      "lon": -71.231414
     },
     {
       "banniere": "Ultramar",
@@ -253,12 +253,12 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 173.4,
-      "lat": 48.412108,
-      "lon": -71.231414
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 173.8,
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Nutrinor Énergies",
