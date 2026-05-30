@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "30/05/2026 19:46",
-  "derniere_verification": "30/05/2026 19:46:13",
-  "fichier_source": "stations-20260530194502.xlsx",
+  "mise_a_jour": "30/05/2026 20:01",
+  "derniere_verification": "30/05/2026 20:01:07",
+  "fichier_source": "stations-20260530200002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -93,6 +93,22 @@
       "lon": -71.065681
     },
     {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 169.2,
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
+      "prix": 169.2,
+      "lat": 48.356563,
+      "lon": -71.055264
+    },
+    {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -110,27 +126,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
-      "prix": 169.2,
-      "lat": 48.356563,
-      "lon": -71.055264
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 169.8,
       "lat": 48.451071,
       "lon": -71.020099
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 169.9,
-      "lat": 48.424661,
-      "lon": -71.234995
     },
     {
       "banniere": "Petro-Canada",
@@ -245,12 +245,12 @@
       "lon": -71.252854
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "1960 rue De Montfort, Saguenay",
+      "ville": "Jonquiere",
       "prix": 169.9,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Ultramar",
