@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "31/05/2026 16:39",
-  "derniere_verification": "31/05/2026 16:39:30",
-  "fichier_source": "stations-20260531163502.xlsx",
+  "mise_a_jour": "31/05/2026 17:02",
+  "derniere_verification": "31/05/2026 17:02:01",
+  "fichier_source": "stations-20260531170002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -293,12 +293,12 @@
       "lon": -71.252854
     },
     {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 171.4,
-      "lat": 48.412108,
-      "lon": -71.231414
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 169.9,
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -307,6 +307,14 @@
       "prix": 171.4,
       "lat": 48.316248,
       "lon": -71.134685
+    },
+    {
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 171.4,
+      "lat": 48.412108,
+      "lon": -71.231414
     },
     {
       "banniere": "Esso",
@@ -347,14 +355,6 @@
       "prix": 171.9,
       "lat": 48.317087,
       "lon": -71.134075
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 172.7,
-      "lat": 48.425557,
-      "lon": -71.26138
     },
     {
       "banniere": "Énergie DDF",
