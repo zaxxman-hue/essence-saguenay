@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "01/06/2026 22:58",
-  "derniere_verification": "01/06/2026 22:58:50",
-  "fichier_source": "stations-20260601225502.xlsx",
+  "mise_a_jour": "01/06/2026 23:13",
+  "derniere_verification": "01/06/2026 23:13:00",
+  "fichier_source": "stations-20260601231002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -485,20 +485,20 @@
       "lon": -71.07443
     },
     {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 167.9,
+      "lat": 48.438557,
+      "lon": -71.061332
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 167.9,
       "lat": 48.454509,
       "lon": -71.111521
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 168.9,
-      "lat": 48.438557,
-      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
