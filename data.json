@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "01/06/2026 19:15",
-  "derniere_verification": "01/06/2026 19:15:06",
-  "fichier_source": "stations-20260601191502.xlsx",
+  "mise_a_jour": "01/06/2026 19:28",
+  "derniere_verification": "01/06/2026 19:28:33",
+  "fichier_source": "stations-20260601192502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -221,12 +221,12 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 166.9,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Ultramar",
@@ -269,12 +269,12 @@
       "lon": -71.081011
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
-      "prix": 167.0,
-      "lat": 48.356563,
-      "lon": -71.055264
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 166.9,
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Canadian Tire",
@@ -285,12 +285,12 @@
       "lon": -71.052843
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
       "prix": 167.0,
-      "lat": 48.421176,
-      "lon": -71.059061
+      "lat": 48.356563,
+      "lon": -71.055264
     },
     {
       "banniere": "Petro-Canada",
