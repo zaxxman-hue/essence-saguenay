@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "02/06/2026 21:26",
-  "derniere_verification": "02/06/2026 21:26:52",
-  "fichier_source": "stations-20260602212502.xlsx",
+  "mise_a_jour": "02/06/2026 21:38",
+  "derniere_verification": "02/06/2026 21:38:36",
+  "fichier_source": "stations-20260602213502.xlsx",
   "total": 79,
   "stations": [
+    {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 162.6,
+      "lat": 48.40924,
+      "lon": -71.052572
+    },
     {
       "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
@@ -11,14 +19,6 @@
       "prix": 163.3,
       "lat": 48.39744,
       "lon": -71.081011
-    },
-    {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 163.3,
-      "lat": 48.40924,
-      "lon": -71.052572
     },
     {
       "banniere": "Couche-Tard",
