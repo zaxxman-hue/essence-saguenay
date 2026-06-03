@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "03/06/2026 19:03",
-  "derniere_verification": "03/06/2026 19:03:59",
-  "fichier_source": "stations-20260603190002.xlsx",
+  "mise_a_jour": "03/06/2026 19:44",
+  "derniere_verification": "03/06/2026 19:44:57",
+  "fichier_source": "stations-20260603194002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -94,14 +94,6 @@
     },
     {
       "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 163.9,
-      "lat": 48.426389,
-      "lon": -71.259018
-    },
-    {
-      "banniere": "Nutrinor Énergies",
       "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
       "prix": 163.9,
@@ -126,14 +118,6 @@
     },
     {
       "banniere": "Harnois",
-      "adresse": "950 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 171.9,
-      "lat": 48.41388,
-      "lon": -71.067443
-    },
-    {
-      "banniere": "Harnois",
       "adresse": "1476 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 171.9,
@@ -141,12 +125,12 @@
       "lon": -71.023248
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 174.8,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "banniere": "Harnois",
+      "adresse": "950 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 171.9,
+      "lat": 48.41388,
+      "lon": -71.067443
     },
     {
       "banniere": "Petro-Canada",
@@ -155,6 +139,14 @@
       "prix": 174.8,
       "lat": 48.331986,
       "lon": -70.881141
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 174.8,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Canadian Tire",
@@ -173,6 +165,14 @@
       "lon": -70.861146
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 174.9,
+      "lat": 48.336456,
+      "lon": -70.889349
+    },
+    {
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
@@ -189,12 +189,12 @@
       "lon": -70.873104
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 174.9,
-      "lat": 48.336456,
-      "lon": -70.889349
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 175.4,
+      "lat": 48.412108,
+      "lon": -71.231414
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -205,12 +205,12 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 175.4,
-      "lat": 48.412108,
-      "lon": -71.231414
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 175.9,
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Irving",
@@ -453,12 +453,12 @@
       "lon": -71.071138
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Crevier",
+      "adresse": "2922 boul. du Saguenay, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 175.9,
-      "lat": 48.425557,
-      "lon": -71.26138
+      "lat": 48.433314,
+      "lon": -71.187357
     },
     {
       "banniere": "Irving",
@@ -573,12 +573,12 @@
       "lon": -71.088774
     },
     {
-      "banniere": "Crevier",
-      "adresse": "2922 boul. du Saguenay, SAGUENAY",
-      "ville": "Jonquiere",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
       "prix": 175.9,
-      "lat": 48.433314,
-      "lon": -71.187357
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "Petro-Canada",
