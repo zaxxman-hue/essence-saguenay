@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "04/06/2026 21:21",
-  "derniere_verification": "04/06/2026 21:21:41",
-  "fichier_source": "stations-20260604212002.xlsx",
+  "mise_a_jour": "04/06/2026 22:06",
+  "derniere_verification": "04/06/2026 22:06:49",
+  "fichier_source": "stations-20260604220502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -213,20 +213,20 @@
       "lon": -71.081011
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 168.7,
+      "lat": 48.387452,
+      "lon": -71.114645
+    },
+    {
       "banniere": "Shell",
       "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 168.7,
       "lat": 48.394683,
       "lon": -71.070736
-    },
-    {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 169.4,
-      "lat": 48.419808,
-      "lon": -71.100018
     },
     {
       "banniere": "Ultramar",
@@ -253,12 +253,12 @@
       "lon": -71.106094
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
       "prix": 169.4,
-      "lat": 48.387452,
-      "lon": -71.114645
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Petro-Canada",
