@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "04/06/2026 15:20",
-  "derniere_verification": "04/06/2026 15:20:27",
-  "fichier_source": "stations-20260604152002.xlsx",
+  "mise_a_jour": "04/06/2026 15:52",
+  "derniere_verification": "04/06/2026 15:52:09",
+  "fichier_source": "stations-20260604155002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -37,6 +37,30 @@
       "lon": -71.242838
     },
     {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 168.7,
+      "lat": 48.40924,
+      "lon": -71.052572
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 169.4,
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 169.4,
+      "lat": 48.394683,
+      "lon": -71.070736
+    },
+    {
       "banniere": "Couche-Tard",
       "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
@@ -53,36 +77,12 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 169.4,
-      "lat": 48.394683,
-      "lon": -71.070736
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 169.4,
-      "lat": 48.403131,
-      "lon": -71.059187
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "952 rue Du Boulevard, Saguenay",
       "ville": "Saguenay",
       "prix": 169.9,
       "lat": 48.307346,
       "lon": -71.114422
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "950 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 171.9,
-      "lat": 48.41388,
-      "lon": -71.067443
     },
     {
       "banniere": "Harnois",
@@ -93,12 +93,12 @@
       "lon": -71.023248
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 174.8,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "banniere": "Harnois",
+      "adresse": "950 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 171.9,
+      "lat": 48.41388,
+      "lon": -71.067443
     },
     {
       "banniere": "Petro-Canada",
@@ -117,12 +117,12 @@
       "lon": -70.882167
     },
     {
-      "banniere": "Shell",
-      "adresse": "342 rue 6, Saguenay",
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
-      "prix": 174.9,
-      "lat": 48.330239,
-      "lon": -70.890031
+      "prix": 174.8,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Esso",
@@ -149,6 +149,22 @@
       "lon": -70.873104
     },
     {
+      "banniere": "Shell",
+      "adresse": "342 rue 6, Saguenay",
+      "ville": "LaBaie",
+      "prix": 174.9,
+      "lat": 48.330239,
+      "lon": -70.890031
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.4,
+      "lat": 48.373886,
+      "lon": -71.091169
+    },
+    {
       "banniere": "Nutrinor Énergies",
       "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
@@ -173,28 +189,12 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 175.4,
-      "lat": 48.373886,
-      "lon": -71.091169
-    },
-    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.8,
       "lat": 48.353958,
       "lon": -71.324386
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 175.9,
-      "lat": 48.406769,
-      "lon": -71.051965
     },
     {
       "banniere": "Irving",
@@ -229,12 +229,12 @@
       "lon": -71.061332
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
       "ville": "Chicoutimi",
       "prix": 175.9,
-      "lat": 48.442216,
-      "lon": -71.07443
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
       "banniere": "Harnois",
@@ -245,12 +245,12 @@
       "lon": -71.233782
     },
     {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 175.9,
-      "lat": 48.40924,
-      "lon": -71.052572
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Esso",
@@ -477,12 +477,12 @@
       "lon": -71.052232
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 175.9,
-      "lat": 48.451071,
-      "lon": -71.020099
+      "lat": 48.442216,
+      "lon": -71.07443
     },
     {
       "banniere": "Esso",
@@ -493,12 +493,12 @@
       "lon": -71.246977
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
+      "ville": "Jonquiere",
       "prix": 175.9,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Ultramar",
@@ -509,12 +509,12 @@
       "lon": -71.171977
     },
     {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 175.9,
-      "lat": 48.400574,
-      "lon": -71.145998
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Esso",
