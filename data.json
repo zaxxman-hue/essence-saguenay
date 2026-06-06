@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/06/2026 09:51",
-  "derniere_verification": "06/06/2026 09:51:53",
-  "fichier_source": "stations-20260606095002.xlsx",
+  "mise_a_jour": "06/06/2026 11:37",
+  "derniere_verification": "06/06/2026 11:37:16",
+  "fichier_source": "stations-20260606113502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -453,20 +453,20 @@
       "lon": -71.094182
     },
     {
+      "banniere": "Crevier",
+      "adresse": "5251 ch. du Quai, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 168.8,
+      "lat": 48.353958,
+      "lon": -71.324386
+    },
+    {
       "banniere": "R.L.",
       "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
       "ville": "Chicoutimi",
       "prix": 169.9,
       "lat": 48.396372,
       "lon": -70.993907
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "1476 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 171.9,
-      "lat": 48.42632,
-      "lon": -71.023248
     },
     {
       "banniere": "Harnois",
@@ -477,20 +477,20 @@
       "lon": -71.067443
     },
     {
+      "banniere": "Harnois",
+      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 171.9,
+      "lat": 48.42632,
+      "lon": -71.023248
+    },
+    {
       "banniere": "Irving",
       "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 174.8,
       "lat": 48.337232,
       "lon": -70.888533
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
-      "prix": 174.8,
-      "lat": 48.336551,
-      "lon": -70.882167
     },
     {
       "banniere": "Petro-Canada",
@@ -501,12 +501,12 @@
       "lon": -70.881141
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
       "ville": "LaBaie",
-      "prix": 174.9,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "prix": 174.8,
+      "lat": 48.336551,
+      "lon": -70.882167
     },
     {
       "banniere": "Shell",
@@ -533,12 +533,12 @@
       "lon": -70.873104
     },
     {
-      "banniere": "Crevier",
-      "adresse": "5251 ch. du Quai, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 175.8,
-      "lat": 48.353958,
-      "lon": -71.324386
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 174.9,
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "R.L.",
