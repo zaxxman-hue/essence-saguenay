@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/06/2026 22:58",
-  "derniere_verification": "06/06/2026 22:58:18",
-  "fichier_source": "stations-20260606225502.xlsx",
+  "mise_a_jour": "06/06/2026 23:34",
+  "derniere_verification": "06/06/2026 23:34:26",
+  "fichier_source": "stations-20260606233002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -230,6 +230,14 @@
     },
     {
       "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 159.9,
+      "lat": 48.411254,
+      "lon": -71.261772
+    },
+    {
+      "banniere": "Esso",
       "adresse": "138 rue Dubé, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.9,
@@ -237,12 +245,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 159.9,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "Petro-Canada",
@@ -254,6 +262,14 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 160.5,
+      "lat": 48.435333,
+      "lon": -71.140604
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "2728 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 160.5,
@@ -262,11 +278,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 160.5,
-      "lat": 48.435333,
-      "lon": -71.140604
+      "lat": 48.408178,
+      "lon": -71.093216
     },
     {
       "banniere": "Irving",
@@ -275,14 +291,6 @@
       "prix": 160.5,
       "lat": 48.424585,
       "lon": -71.180502
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 160.5,
-      "lat": 48.408178,
-      "lon": -71.093216
     },
     {
       "banniere": "Énergie DDF",
@@ -301,14 +309,6 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 161.9,
-      "lat": 48.402262,
-      "lon": -71.23757
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "2681 Boul. du Royaume, SAGUENAY",
       "ville": "Jonquiere",
@@ -317,20 +317,20 @@
       "lon": -71.171977
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "3667 rue Panet, Saguenay",
       "ville": "Jonquiere",
       "prix": 161.9,
-      "lat": 48.404137,
-      "lon": -71.166787
+      "lat": 48.402262,
+      "lon": -71.23757
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 161.9,
-      "lat": 48.426389,
-      "lon": -71.259018
+      "lat": 48.421952,
+      "lon": -71.242838
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -341,12 +341,12 @@
       "lon": -71.252854
     },
     {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 161.9,
-      "lat": 48.421952,
-      "lon": -71.242838
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "Petro-Canada",
