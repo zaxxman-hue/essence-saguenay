@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/06/2026 02:02",
-  "derniere_verification": "06/06/2026 02:02:45",
-  "fichier_source": "stations-20260606020002.xlsx",
+  "mise_a_jour": "06/06/2026 04:37",
+  "derniere_verification": "06/06/2026 04:37:56",
+  "fichier_source": "stations-20260606043502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -37,12 +37,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 160.5,
-      "lat": 48.356563,
-      "lon": -71.055264
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Canadian Tire",
@@ -53,12 +53,12 @@
       "lon": -71.052843
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
       "ville": "Saguenay",
-      "prix": 161.2,
-      "lat": 48.387452,
-      "lon": -71.114645
+      "prix": 160.5,
+      "lat": 48.356563,
+      "lon": -71.055264
     },
     {
       "banniere": "Esso",
@@ -69,12 +69,12 @@
       "lon": -71.106094
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
       "prix": 161.2,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.387452,
+      "lon": -71.114645
     },
     {
       "banniere": "Énergie DDF",
