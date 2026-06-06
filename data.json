@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/06/2026 17:06",
-  "derniere_verification": "06/06/2026 17:06:56",
-  "fichier_source": "stations-20260606170502.xlsx",
+  "mise_a_jour": "06/06/2026 17:38",
+  "derniere_verification": "06/06/2026 17:38:15",
+  "fichier_source": "stations-20260606173502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -205,12 +205,12 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 160.5,
-      "lat": 48.424585,
-      "lon": -71.180502
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "Petro-Canada",
@@ -229,20 +229,20 @@
       "lon": -71.070497
     },
     {
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 160.5,
+      "lat": 48.424585,
+      "lon": -71.180502
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 160.5,
       "lat": 48.39744,
       "lon": -71.081011
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 160.5,
-      "lat": 48.411756,
-      "lon": -71.05197
     },
     {
       "banniere": "Ultramar",
@@ -253,12 +253,12 @@
       "lon": -71.114645
     },
     {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 161.2,
-      "lat": 48.395019,
-      "lon": -71.106094
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 160.5,
+      "lat": 48.411756,
+      "lon": -71.05197
     },
     {
       "banniere": "Inconnue",
