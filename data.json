@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/06/2026 11:50",
-  "derniere_verification": "06/06/2026 11:50:31",
-  "fichier_source": "stations-20260606115002.xlsx",
+  "mise_a_jour": "06/06/2026 12:05",
+  "derniere_verification": "06/06/2026 12:05:22",
+  "fichier_source": "stations-20260606120502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -341,6 +341,14 @@
       "lon": -71.134685
     },
     {
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 165.4,
+      "lat": 48.373886,
+      "lon": -71.091169
+    },
+    {
       "banniere": "R.L.",
       "adresse": "68 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
@@ -355,14 +363,6 @@
       "prix": 165.9,
       "lat": 48.433314,
       "lon": -71.187357
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 165.9,
-      "lat": 48.373886,
-      "lon": -71.091169
     },
     {
       "banniere": "R.L.",
