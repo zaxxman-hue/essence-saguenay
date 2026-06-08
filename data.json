@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "08/06/2026 17:00",
-  "derniere_verification": "08/06/2026 17:00:06",
-  "fichier_source": "stations-20260608165502.xlsx",
+  "mise_a_jour": "08/06/2026 17:34",
+  "derniere_verification": "08/06/2026 17:34:38",
+  "fichier_source": "stations-20260608173002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -29,6 +29,14 @@
       "lon": -71.055264
     },
     {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 155.3,
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
+    {
       "banniere": "Énergie DDF",
       "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
@@ -45,14 +53,6 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 155.6,
-      "lat": 48.411103,
-      "lon": -71.052843
-    },
-    {
       "banniere": "Couche-Tard",
       "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
@@ -61,12 +61,12 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 155.6,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "Irving",
@@ -173,20 +173,20 @@
       "lon": -71.051965
     },
     {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 156.3,
-      "lat": 48.415732,
-      "lon": -71.065681
-    },
-    {
       "banniere": "R.L.",
       "adresse": "5822 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 156.3,
       "lat": 48.317087,
       "lon": -71.134075
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 156.3,
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "Harnois",
@@ -206,11 +206,11 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
+      "adresse": "138 rue Dubé, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 156.4,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "prix": 156.3,
+      "lat": 48.415732,
+      "lon": -71.065681
     },
     {
       "banniere": "Inconnue",
@@ -237,12 +237,12 @@
       "lon": -71.114422
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 156.9,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 156.4,
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Esso",
@@ -270,11 +270,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 156.9,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.423109,
+      "lon": -71.212988
     },
     {
       "banniere": "Ultramar",
@@ -285,20 +285,20 @@
       "lon": -71.070497
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 156.9,
+      "lat": 48.39744,
+      "lon": -71.081011
+    },
+    {
       "banniere": "Irving",
       "adresse": "2005 boul. Mellon, Saguenay",
       "ville": "Jonquiere",
       "prix": 157.7,
       "lat": 48.424585,
       "lon": -71.180502
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 158.4,
-      "lat": 48.426389,
-      "lon": -71.259018
     },
     {
       "banniere": "Nutrinor Énergies",
