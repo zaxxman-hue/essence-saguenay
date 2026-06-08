@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "08/06/2026 17:57",
-  "derniere_verification": "08/06/2026 17:57:53",
-  "fichier_source": "stations-20260608175502.xlsx",
+  "mise_a_jour": "08/06/2026 18:10",
+  "derniere_verification": "08/06/2026 18:10:17",
+  "fichier_source": "stations-20260608181002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -69,12 +69,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 154.9,
-      "lat": 48.415732,
-      "lon": -71.065681
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Esso",
@@ -83,6 +83,14 @@
       "prix": 154.9,
       "lat": 48.411254,
       "lon": -71.261772
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 154.9,
+      "lat": 48.415732,
+      "lon": -71.065681
     },
     {
       "banniere": "Esso",
@@ -99,14 +107,6 @@
       "prix": 155.4,
       "lat": 48.419808,
       "lon": -71.100018
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 155.6,
-      "lat": 48.394683,
-      "lon": -71.070736
     },
     {
       "banniere": "Canadian Tire",
