@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "09/06/2026 17:32",
-  "derniere_verification": "09/06/2026 17:32:32",
-  "fichier_source": "stations-20260609173002.xlsx",
+  "mise_a_jour": "09/06/2026 17:58",
+  "derniere_verification": "09/06/2026 17:58:37",
+  "fichier_source": "stations-20260609175502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -174,11 +174,11 @@
     },
     {
       "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "1821 rue Sainte-Famille, Saguenay",
+      "ville": "Jonquiere",
       "prix": 175.4,
-      "lat": 48.406769,
-      "lon": -71.051965
+      "lat": 48.431009,
+      "lon": -71.233782
     },
     {
       "banniere": "Esso",
@@ -189,12 +189,12 @@
       "lon": -71.246977
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1821 rue Sainte-Famille, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 175.4,
-      "lat": 48.431009,
-      "lon": -71.233782
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Esso",
@@ -245,20 +245,20 @@
       "lon": -71.259018
     },
     {
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.4,
+      "lat": 48.406769,
+      "lon": -71.051965
+    },
+    {
       "banniere": "Esso",
       "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
       "prix": 175.4,
       "lat": 48.373886,
       "lon": -71.091169
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 175.9,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Ultramar",
@@ -469,20 +469,20 @@
       "lon": -71.061332
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 175.9,
-      "lat": 48.451071,
-      "lon": -71.020099
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 175.9,
       "lat": 48.442216,
       "lon": -71.07443
+    },
+    {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.9,
+      "lat": 48.40924,
+      "lon": -71.052572
     },
     {
       "banniere": "Ultramar",
@@ -501,20 +501,20 @@
       "lon": -71.059187
     },
     {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 175.9,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "2681 Boul. du Royaume, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 175.9,
       "lat": 48.404702,
       "lon": -71.171977
-    },
-    {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 175.9,
-      "lat": 48.40924,
-      "lon": -71.052572
     },
     {
       "banniere": "R.L.",
