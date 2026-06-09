@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "08/06/2026 23:58",
-  "derniere_verification": "08/06/2026 23:58:25",
-  "fichier_source": "stations-20260608235502.xlsx",
+  "mise_a_jour": "09/06/2026 01:26",
+  "derniere_verification": "09/06/2026 01:26:58",
+  "fichier_source": "stations-20260609012502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -309,12 +309,12 @@
       "lon": -71.093216
     },
     {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
-      "prix": 157.7,
-      "lat": 48.424585,
-      "lon": -71.180502
+      "prix": 158.4,
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -323,14 +323,6 @@
       "prix": 158.4,
       "lat": 48.396671,
       "lon": -71.252854
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 158.4,
-      "lat": 48.412676,
-      "lon": -71.23162
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -347,6 +339,14 @@
       "prix": 159.9,
       "lat": 48.470796,
       "lon": -71.277321
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2728 boul. du Saguenay, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 161.9,
+      "lat": 48.433492,
+      "lon": -71.175803
     },
     {
       "banniere": "Petro-Canada",
@@ -374,11 +374,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2728 boul. du Saguenay, Saguenay",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 161.9,
-      "lat": 48.433492,
-      "lon": -71.175803
+      "lat": 48.435333,
+      "lon": -71.140604
     },
     {
       "banniere": "Petro-Canada",
@@ -389,12 +389,12 @@
       "lon": -71.270068
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
       "ville": "Jonquiere",
       "prix": 161.9,
-      "lat": 48.435333,
-      "lon": -71.140604
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "R.L.",
