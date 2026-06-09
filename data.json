@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "09/06/2026 23:15",
-  "derniere_verification": "09/06/2026 23:15:00",
-  "fichier_source": "stations-20260609231002.xlsx",
+  "mise_a_jour": "09/06/2026 23:49",
+  "derniere_verification": "09/06/2026 23:49:47",
+  "fichier_source": "stations-20260609234502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -13,20 +13,20 @@
       "lon": -70.067898
     },
     {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 173.0,
+      "lat": 48.40924,
+      "lon": -71.052572
+    },
+    {
       "banniere": "Énergie DDF",
       "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
       "prix": 173.4,
       "lat": 48.419808,
       "lon": -71.100018
-    },
-    {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 173.7,
-      "lat": 48.40924,
-      "lon": -71.052572
     },
     {
       "banniere": "Ultramar",
