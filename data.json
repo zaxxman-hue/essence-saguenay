@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "09/06/2026 18:26",
-  "derniere_verification": "09/06/2026 18:26:21",
-  "fichier_source": "stations-20260609182502.xlsx",
+  "mise_a_jour": "09/06/2026 19:21",
+  "derniere_verification": "09/06/2026 19:21:35",
+  "fichier_source": "stations-20260609192002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -86,14 +86,6 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 174.4,
-      "lat": 48.415732,
-      "lon": -71.065681
-    },
-    {
-      "banniere": "Esso",
       "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 174.4,
@@ -101,12 +93,20 @@
       "lon": -71.261772
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
-      "prix": 174.8,
-      "lat": 48.336551,
-      "lon": -70.882167
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 174.4,
+      "lat": 48.396671,
+      "lon": -71.252854
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 174.4,
+      "lat": 48.415732,
+      "lon": -71.065681
     },
     {
       "banniere": "Crevier",
@@ -133,12 +133,12 @@
       "lon": -70.881141
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 174.9,
-      "lat": 48.402262,
-      "lon": -71.23757
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
+      "ville": "LaBaie",
+      "prix": 174.8,
+      "lat": 48.336551,
+      "lon": -70.882167
     },
     {
       "banniere": "Petro-Canada",
@@ -166,11 +166,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "3667 rue Panet, Saguenay",
+      "ville": "Jonquiere",
       "prix": 174.9,
-      "lat": 48.414704,
-      "lon": -71.259124
+      "lat": 48.402262,
+      "lon": -71.23757
     },
     {
       "banniere": "Petro-Canada",
@@ -197,12 +197,12 @@
       "lon": -71.250599
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Petro-Canada",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
       "prix": 174.9,
-      "lat": 48.32626,
-      "lon": -70.873104
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Irving",
@@ -213,12 +213,12 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 175.4,
-      "lat": 48.426389,
-      "lon": -71.259018
+      "banniere": "R.L.",
+      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 174.9,
+      "lat": 48.32626,
+      "lon": -70.873104
     },
     {
       "banniere": "Énergie DDF",
@@ -230,11 +230,11 @@
     },
     {
       "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
       "prix": 175.4,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "Nutrinor Énergies",
