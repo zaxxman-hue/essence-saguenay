@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "10/06/2026 13:35",
-  "derniere_verification": "10/06/2026 13:35:14",
-  "fichier_source": "stations-20260610133502.xlsx",
+  "mise_a_jour": "10/06/2026 13:53",
+  "derniere_verification": "10/06/2026 13:53:28",
+  "fichier_source": "stations-20260610135002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -309,12 +309,12 @@
       "lon": -70.067898
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 172.9,
-      "lat": 48.404137,
-      "lon": -71.166787
+      "lat": 48.423109,
+      "lon": -71.212988
     },
     {
       "banniere": "Irving",
@@ -323,6 +323,14 @@
       "prix": 172.9,
       "lat": 48.425557,
       "lon": -71.26138
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 172.9,
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -341,14 +349,6 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 174.8,
-      "lat": 48.337232,
-      "lon": -70.888533
-    },
-    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
@@ -357,12 +357,12 @@
       "lon": -71.324386
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 174.8,
-      "lat": 48.336551,
-      "lon": -70.882167
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Petro-Canada",
@@ -373,12 +373,12 @@
       "lon": -70.881141
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 174.9,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
+      "ville": "LaBaie",
+      "prix": 174.8,
+      "lat": 48.336551,
+      "lon": -70.882167
     },
     {
       "banniere": "Shell",
