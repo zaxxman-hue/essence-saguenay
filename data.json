@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "11/06/2026 01:58",
-  "derniere_verification": "11/06/2026 01:58:48",
-  "fichier_source": "stations-20260611015502.xlsx",
+  "mise_a_jour": "11/06/2026 02:34",
+  "derniere_verification": "11/06/2026 02:34:55",
+  "fichier_source": "stations-20260611022505.xlsx",
   "total": 79,
   "stations": [
     {
@@ -21,12 +21,12 @@
       "lon": -71.052572
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 169.1,
-      "lat": 48.356563,
-      "lon": -71.055264
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Petro-Canada",
@@ -37,12 +37,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 169.2,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
+      "prix": 169.1,
+      "lat": 48.356563,
+      "lon": -71.055264
     },
     {
       "banniere": "Couche-Tard",
