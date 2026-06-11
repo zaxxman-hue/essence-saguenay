@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "11/06/2026 16:05",
-  "derniere_verification": "11/06/2026 16:05:48",
-  "fichier_source": "stations-20260611160502.xlsx",
+  "mise_a_jour": "11/06/2026 16:33",
+  "derniere_verification": "11/06/2026 16:33:17",
+  "fichier_source": "stations-20260611163002.xlsx",
   "total": 79,
   "stations": [
+    {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 165.1,
+      "lat": 48.40924,
+      "lon": -71.052572
+    },
     {
       "banniere": "Pétro-T",
       "adresse": "2320 rue Dubose, Saguenay",
@@ -11,14 +19,6 @@
       "prix": 165.8,
       "lat": 48.400574,
       "lon": -71.145998
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "1821 rue Sainte-Famille, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 165.8,
-      "lat": 48.431009,
-      "lon": -71.233782
     },
     {
       "banniere": "Esso",
@@ -30,11 +30,11 @@
     },
     {
       "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "1821 rue Sainte-Famille, Saguenay",
+      "ville": "Jonquiere",
       "prix": 165.8,
-      "lat": 48.406769,
-      "lon": -71.051965
+      "lat": 48.431009,
+      "lon": -71.233782
     },
     {
       "banniere": "Esso",
@@ -43,6 +43,38 @@
       "prix": 165.8,
       "lat": 48.338231,
       "lon": -70.990331
+    },
+    {
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 165.8,
+      "lat": 48.406769,
+      "lon": -71.051965
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "3635 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 165.8,
+      "lat": 48.421137,
+      "lon": -71.234999
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 165.8,
+      "lat": 48.422936,
+      "lon": -71.243563
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 165.8,
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Petro-Canada",
@@ -93,12 +125,12 @@
       "lon": -71.055264
     },
     {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 167.0,
-      "lat": 48.40924,
-      "lon": -71.052572
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Petro-Canada",
@@ -117,36 +149,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Irving",
-      "adresse": "3635 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 167.7,
-      "lat": 48.421137,
-      "lon": -71.234999
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 167.7,
       "lat": 48.423109,
       "lon": -71.212988
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 167.7,
-      "lat": 48.412676,
-      "lon": -71.23162
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 167.7,
-      "lat": 48.40314,
-      "lon": -71.250599
     },
     {
       "banniere": "Petro-Canada",
@@ -157,12 +165,12 @@
       "lon": -71.020099
     },
     {
-      "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 167.7,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Petro-Canada",
@@ -179,14 +187,6 @@
       "prix": 168.4,
       "lat": 48.424661,
       "lon": -71.234995
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
-      "prix": 168.4,
-      "lat": 48.414704,
-      "lon": -71.259124
     },
     {
       "banniere": "Shell",
@@ -213,12 +213,12 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
       "prix": 168.4,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Irving",
@@ -365,20 +365,20 @@
       "lon": -71.171977
     },
     {
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 169.8,
+      "lat": 48.404137,
+      "lon": -71.166787
+    },
+    {
       "banniere": "Énergie Express BD",
       "adresse": "3421 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
       "prix": 169.9,
       "lat": 48.458548,
       "lon": -71.260593
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 171.2,
-      "lat": 48.421952,
-      "lon": -71.242838
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -389,20 +389,20 @@
       "lon": -71.259018
     },
     {
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 171.2,
+      "lat": 48.421952,
+      "lon": -71.242838
+    },
+    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
       "prix": 171.8,
       "lat": 48.353958,
       "lon": -71.324386
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 172.9,
-      "lat": 48.404137,
-      "lon": -71.166787
     },
     {
       "banniere": "Shell",
