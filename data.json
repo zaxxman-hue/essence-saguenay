@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "11/06/2026 14:37",
-  "derniere_verification": "11/06/2026 14:37:14",
-  "fichier_source": "stations-20260611143502.xlsx",
+  "mise_a_jour": "11/06/2026 15:03",
+  "derniere_verification": "11/06/2026 15:03:15",
+  "fichier_source": "stations-20260611150002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -205,12 +205,12 @@
       "lon": -71.26138
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 168.4,
-      "lat": 48.424661,
-      "lon": -71.234995
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Petro-Canada",
@@ -221,12 +221,12 @@
       "lon": -71.055264
     },
     {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1960 rue De Montfort, Saguenay",
       "ville": "Jonquiere",
       "prix": 168.4,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Couche-Tard",
@@ -237,12 +237,12 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 169.1,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 168.4,
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Ultramar",
@@ -251,6 +251,14 @@
       "prix": 169.1,
       "lat": 48.411756,
       "lon": -71.05197
+    },
+    {
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 169.1,
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "R.L.",
@@ -269,20 +277,12 @@
       "lon": -71.134075
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 169.4,
-      "lat": 48.408178,
-      "lon": -71.093216
-    },
-    {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 169.4,
-      "lat": 48.412108,
-      "lon": -71.231414
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Énergie DDF",
@@ -301,12 +301,20 @@
       "lon": -71.094182
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 169.4,
-      "lat": 48.316248,
-      "lon": -71.134685
+      "lat": 48.408178,
+      "lon": -71.093216
+    },
+    {
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 169.4,
+      "lat": 48.412108,
+      "lon": -71.231414
     },
     {
       "banniere": "Petro-Canada",
@@ -317,12 +325,12 @@
       "lon": -71.114422
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
       "prix": 169.4,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -331,14 +339,6 @@
       "prix": 169.8,
       "lat": 48.396671,
       "lon": -71.252854
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 169.8,
-      "lat": 48.39744,
-      "lon": -71.081011
     },
     {
       "banniere": "Irving",
