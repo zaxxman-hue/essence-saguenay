@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "12/06/2026 23:58",
-  "derniere_verification": "12/06/2026 23:58:28",
-  "fichier_source": "stations-20260612235502.xlsx",
+  "mise_a_jour": "13/06/2026 00:14",
+  "derniere_verification": "13/06/2026 00:14:04",
+  "fichier_source": "stations-20260613001002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -166,11 +166,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
       "prix": 160.8,
-      "lat": 48.424661,
-      "lon": -71.234995
+      "lat": 48.369606,
+      "lon": -71.28365
     },
     {
       "banniere": "Shell",
@@ -181,12 +181,12 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 160.8,
-      "lat": 48.369606,
-      "lon": -71.28365
+      "lat": 48.423109,
+      "lon": -71.212988
     },
     {
       "banniere": "Canadian Tire",
@@ -198,11 +198,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "1960 rue De Montfort, Saguenay",
+      "ville": "Jonquiere",
       "prix": 160.8,
-      "lat": 48.414704,
-      "lon": -71.259124
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Petro-Canada",
@@ -214,11 +214,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
       "prix": 160.8,
-      "lat": 48.451071,
-      "lon": -71.020099
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Petro-Canada",
@@ -229,12 +229,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 161.4,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 160.8,
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Inconnue",
@@ -245,12 +245,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
-      "prix": 161.5,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "prix": 161.4,
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Nutrinor Énergies",
