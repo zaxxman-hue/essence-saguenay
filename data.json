@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/06/2026 00:14",
-  "derniere_verification": "13/06/2026 00:14:04",
-  "fichier_source": "stations-20260613001002.xlsx",
+  "mise_a_jour": "13/06/2026 01:36",
+  "derniere_verification": "13/06/2026 01:36:35",
+  "fichier_source": "stations-20260613013502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -45,12 +45,12 @@
       "lon": -70.990331
     },
     {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 159.9,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Irving",
@@ -69,12 +69,12 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
       "prix": 159.9,
-      "lat": 48.415732,
-      "lon": -71.065681
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Esso",
@@ -83,6 +83,14 @@
       "prix": 159.9,
       "lat": 48.411254,
       "lon": -71.261772
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 159.9,
+      "lat": 48.415732,
+      "lon": -71.065681
     },
     {
       "banniere": "Mobil",
@@ -94,19 +102,11 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 160.8,
-      "lat": 48.403131,
-      "lon": -71.059187
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 160.8,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "Couche-Tard",
@@ -118,11 +118,11 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 160.8,
-      "lat": 48.395019,
-      "lon": -71.106094
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Irving",
@@ -229,12 +229,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 160.8,
-      "lat": 48.451071,
-      "lon": -71.020099
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Inconnue",
