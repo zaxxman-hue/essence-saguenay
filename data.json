@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/06/2026 16:53",
-  "derniere_verification": "13/06/2026 16:53:51",
-  "fichier_source": "stations-20260613165002.xlsx",
+  "mise_a_jour": "13/06/2026 17:18",
+  "derniere_verification": "13/06/2026 17:18:55",
+  "fichier_source": "stations-20260613171502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -413,6 +413,14 @@
       "lon": -71.140604
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 165.8,
+      "lat": 48.404702,
+      "lon": -71.171977
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "4500 rte Mathias, Saguenay",
       "ville": "Saguenay",
@@ -421,20 +429,20 @@
       "lon": -71.270068
     },
     {
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 165.8,
+      "lat": 48.404137,
+      "lon": -71.166787
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "2728 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 165.8,
       "lat": 48.433492,
       "lon": -71.175803
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 165.8,
-      "lat": 48.404702,
-      "lon": -71.171977
     },
     {
       "banniere": "Petro-Canada",
@@ -483,14 +491,6 @@
       "prix": 169.8,
       "lat": 48.353958,
       "lon": -71.324386
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 169.8,
-      "lat": 48.404137,
-      "lon": -71.166787
     },
     {
       "banniere": "Harnois",
