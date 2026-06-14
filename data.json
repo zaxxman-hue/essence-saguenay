@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "14/06/2026 20:49",
-  "derniere_verification": "14/06/2026 20:49:18",
-  "fichier_source": "stations-20260614204502.xlsx",
+  "mise_a_jour": "14/06/2026 20:57",
+  "derniere_verification": "14/06/2026 20:57:56",
+  "fichier_source": "stations-20260614205502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -53,12 +53,12 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Irving",
-      "adresse": "3635 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 157.1,
-      "lat": 48.421137,
-      "lon": -71.234999
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Esso",
@@ -77,12 +77,12 @@
       "lon": -71.250599
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Irving",
+      "adresse": "3635 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 157.1,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.421137,
+      "lon": -71.234999
     },
     {
       "banniere": "Petro-Canada",
@@ -101,12 +101,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 157.1,
-      "lat": 48.415732,
-      "lon": -71.065681
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Esso",
@@ -117,20 +117,20 @@
       "lon": -71.261772
     },
     {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 157.1,
+      "lat": 48.415732,
+      "lon": -71.065681
+    },
+    {
       "banniere": "Canadian Tire",
       "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 157.8,
       "lat": 48.411103,
       "lon": -71.052843
-    },
-    {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 157.8,
-      "lat": 48.421176,
-      "lon": -71.059061
     },
     {
       "banniere": "Ultramar",
