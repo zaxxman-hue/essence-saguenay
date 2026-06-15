@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "15/06/2026 02:37",
-  "derniere_verification": "15/06/2026 02:37:57",
-  "fichier_source": "stations-20260615023502.xlsx",
+  "mise_a_jour": "15/06/2026 05:39",
+  "derniere_verification": "15/06/2026 05:39:37",
+  "fichier_source": "stations-20260615053502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -85,20 +85,20 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 157.1,
-      "lat": 48.421176,
-      "lon": -71.059061
-    },
-    {
       "banniere": "Irving",
       "adresse": "3635 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 157.1,
       "lat": 48.421137,
       "lon": -71.234999
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 157.1,
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Petro-Canada",
@@ -117,12 +117,12 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
       "ville": "Chicoutimi",
       "prix": 157.1,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.415732,
+      "lon": -71.065681
     },
     {
       "banniere": "Esso",
@@ -131,14 +131,6 @@
       "prix": 157.1,
       "lat": 48.411254,
       "lon": -71.261772
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 157.1,
-      "lat": 48.415732,
-      "lon": -71.065681
     },
     {
       "banniere": "Shell",
@@ -155,6 +147,14 @@
       "prix": 157.8,
       "lat": 48.411103,
       "lon": -71.052843
+    },
+    {
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 157.8,
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Esso",
