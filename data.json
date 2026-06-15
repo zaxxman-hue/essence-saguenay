@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "15/06/2026 20:51",
-  "derniere_verification": "15/06/2026 20:51:15",
-  "fichier_source": "stations-20260615205002.xlsx",
+  "mise_a_jour": "15/06/2026 21:28",
+  "derniere_verification": "15/06/2026 21:28:34",
+  "fichier_source": "stations-20260615212502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -85,12 +85,12 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Irving",
+      "adresse": "3635 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 149.6,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.421137,
+      "lon": -71.234999
     },
     {
       "banniere": "Petro-Canada",
@@ -117,12 +117,12 @@
       "lon": -71.055264
     },
     {
-      "banniere": "Irving",
-      "adresse": "3635 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 149.6,
-      "lat": 48.421137,
-      "lon": -71.234999
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Harnois",
@@ -133,20 +133,20 @@
       "lon": -71.051965
     },
     {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 149.6,
+      "lat": 48.394683,
+      "lon": -71.070736
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "3397 rue Saint-Dominique, Saguenay",
       "ville": "Saguenay",
       "prix": 149.6,
       "lat": 48.369606,
       "lon": -71.28365
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 149.6,
-      "lat": 48.411254,
-      "lon": -71.261772
     },
     {
       "banniere": "Petro-Canada",
@@ -171,6 +171,14 @@
       "prix": 149.6,
       "lat": 48.415732,
       "lon": -71.065681
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 149.6,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Ultramar",
@@ -203,14 +211,6 @@
       "prix": 150.3,
       "lat": 48.421176,
       "lon": -71.059061
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 150.3,
-      "lat": 48.451071,
-      "lon": -71.020099
     },
     {
       "banniere": "Nutrinor Énergies",
