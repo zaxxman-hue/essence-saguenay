@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/06/2026 17:50",
-  "derniere_verification": "17/06/2026 17:50:20",
-  "fichier_source": "stations-20260617175002.xlsx",
+  "mise_a_jour": "17/06/2026 18:01",
+  "derniere_verification": "17/06/2026 18:01:02",
+  "fichier_source": "stations-20260617180002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -61,12 +61,12 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1821 rue Sainte-Famille, Saguenay",
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
-      "prix": 169.2,
-      "lat": 48.431009,
-      "lon": -71.233782
+      "prix": 168.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Irving",
@@ -125,12 +125,12 @@
       "lon": -71.246977
     },
     {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1821 rue Sainte-Famille, Saguenay",
       "ville": "Jonquiere",
       "prix": 169.2,
-      "lat": 48.400574,
-      "lon": -71.145998
+      "lat": 48.431009,
+      "lon": -71.233782
     },
     {
       "banniere": "Ultramar",
@@ -150,19 +150,27 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 169.2,
-      "lat": 48.415732,
-      "lon": -71.065681
-    },
-    {
-      "banniere": "Esso",
       "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 169.2,
       "lat": 48.411254,
       "lon": -71.261772
+    },
+    {
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 169.2,
+      "lat": 48.400574,
+      "lon": -71.145998
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 169.2,
+      "lat": 48.415732,
+      "lon": -71.065681
     },
     {
       "banniere": "Énergie Express BD",
@@ -171,14 +179,6 @@
       "prix": 169.4,
       "lat": 48.458548,
       "lon": -71.260593
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
-      "prix": 169.4,
-      "lat": 48.369606,
-      "lon": -71.28365
     },
     {
       "banniere": "Petro-Canada",
@@ -221,12 +221,12 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
       "prix": 169.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -237,12 +237,12 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
       "prix": 169.4,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "lat": 48.369606,
+      "lon": -71.28365
     },
     {
       "banniere": "Petro-Canada",
