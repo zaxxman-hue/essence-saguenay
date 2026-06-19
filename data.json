@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "19/06/2026 15:45",
-  "derniere_verification": "19/06/2026 15:45:48",
-  "fichier_source": "stations-20260619154502.xlsx",
+  "mise_a_jour": "19/06/2026 15:58",
+  "derniere_verification": "19/06/2026 15:58:12",
+  "fichier_source": "stations-20260619155502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -198,14 +198,6 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 163.7,
-      "lat": 48.317087,
-      "lon": -71.134075
-    },
-    {
-      "banniere": "R.L.",
       "adresse": "68 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 163.7,
@@ -221,6 +213,14 @@
       "lon": -71.07443
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 163.7,
+      "lat": 48.39744,
+      "lon": -71.081011
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "641 rue Delisle, Saguenay",
       "ville": "Chicoutimi",
@@ -229,12 +229,20 @@
       "lon": -71.061125
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
       "prix": 163.7,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.317087,
+      "lon": -71.134075
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 163.7,
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "Petro-Canada",
@@ -251,14 +259,6 @@
       "prix": 164.4,
       "lat": 48.438557,
       "lon": -71.061332
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 164.4,
-      "lat": 48.452384,
-      "lon": -71.094392
     },
     {
       "banniere": "Ultramar",
@@ -365,6 +365,14 @@
       "lon": -71.052232
     },
     {
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 164.4,
+      "lat": 48.452384,
+      "lon": -71.094392
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
@@ -379,14 +387,6 @@
       "prix": 164.4,
       "lat": 48.425557,
       "lon": -71.26138
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 164.4,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Énergie DDF",
