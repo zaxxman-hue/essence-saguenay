@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "20/06/2026 20:00",
-  "derniere_verification": "20/06/2026 20:00:03",
-  "fichier_source": "stations-20260620195502.xlsx",
+  "mise_a_jour": "20/06/2026 20:09",
+  "derniere_verification": "20/06/2026 20:09:31",
+  "fichier_source": "stations-20260620200502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -453,20 +453,20 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 164.4,
-      "lat": 48.438557,
-      "lon": -71.061332
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "81 rue Price ouest, Saguenay",
       "ville": "Jonquiere",
       "prix": 164.9,
       "lat": 48.425808,
       "lon": -71.071138
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "3073 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 164.9,
+      "lat": 48.40886,
+      "lon": -71.19486
     },
     {
       "banniere": "Irving",
@@ -477,12 +477,12 @@
       "lon": -71.180502
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3073 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 164.9,
-      "lat": 48.40886,
-      "lon": -71.19486
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
