@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "20/06/2026 02:12",
-  "derniere_verification": "20/06/2026 02:12:13",
-  "fichier_source": "stations-20260620021002.xlsx",
+  "mise_a_jour": "20/06/2026 04:53",
+  "derniere_verification": "20/06/2026 04:53:22",
+  "fichier_source": "stations-20260620045002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -77,20 +77,12 @@
       "lon": -71.250599
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 162.9,
-      "lat": 48.425557,
-      "lon": -71.26138
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 162.9,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Irving",
@@ -101,6 +93,14 @@
       "lon": -71.234999
     },
     {
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 162.9,
+      "lat": 48.422936,
+      "lon": -71.243563
+    },
+    {
       "banniere": "Esso",
       "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
@@ -109,20 +109,20 @@
       "lon": -71.106094
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 162.9,
-      "lat": 48.421176,
-      "lon": -71.059061
-    },
-    {
       "banniere": "Esso",
       "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 162.9,
       "lat": 48.403131,
       "lon": -71.059187
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
+      "prix": 162.9,
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Harnois",
@@ -214,19 +214,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
-      "prix": 162.9,
-      "lat": 48.414704,
-      "lon": -71.259124
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "1312 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 162.9,
       "lat": 48.408178,
       "lon": -71.093216
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "641 rue Delisle, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 162.9,
+      "lat": 48.454243,
+      "lon": -71.061125
     },
     {
       "banniere": "Esso",
@@ -270,22 +270,6 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 162.9,
-      "lat": 48.454243,
-      "lon": -71.061125
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 163.0,
-      "lat": 48.408298,
-      "lon": -71.054487
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "2382 rte 170, Saguenay",
       "ville": "Saguenay",
       "prix": 163.0,
@@ -299,6 +283,22 @@
       "prix": 163.0,
       "lat": 48.40924,
       "lon": -71.052572
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 163.0,
+      "lat": 48.408298,
+      "lon": -71.054487
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 163.4,
+      "lat": 48.407448,
+      "lon": -71.094182
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -325,14 +325,6 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 163.4,
-      "lat": 48.407448,
-      "lon": -71.094182
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "952 rue Du Boulevard, Saguenay",
       "ville": "Saguenay",
@@ -349,6 +341,14 @@
       "lon": -71.05197
     },
     {
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 163.7,
+      "lat": 48.452384,
+      "lon": -71.094392
+    },
+    {
       "banniere": "Canadian Tire",
       "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -358,11 +358,11 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
       "prix": 163.7,
-      "lat": 48.452384,
-      "lon": -71.094392
+      "lat": 48.317087,
+      "lon": -71.134075
     },
     {
       "banniere": "R.L.",
@@ -371,14 +371,6 @@
       "prix": 163.7,
       "lat": 48.429329,
       "lon": -71.065922
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 163.7,
-      "lat": 48.317087,
-      "lon": -71.134075
     },
     {
       "banniere": "Petro-Canada",
@@ -390,19 +382,27 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 164.4,
-      "lat": 48.441444,
-      "lon": -71.052232
-    },
-    {
-      "banniere": "R.L.",
       "adresse": "130 rue Arthur-Hamel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 164.4,
       "lat": 48.428994,
       "lon": -71.027496
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 164.4,
+      "lat": 48.425557,
+      "lon": -71.26138
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 164.4,
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "Irving",
