@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "20/06/2026 15:57",
-  "derniere_verification": "20/06/2026 15:57:54",
-  "fichier_source": "stations-20260620155502.xlsx",
+  "mise_a_jour": "20/06/2026 16:23",
+  "derniere_verification": "20/06/2026 16:23:20",
+  "fichier_source": "stations-20260620162002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -405,12 +405,12 @@
       "lon": -71.027496
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "45 rue Du Pont, Saguenay",
       "ville": "Chicoutimi",
       "prix": 164.4,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "lat": 48.436903,
+      "lon": -71.067338
     },
     {
       "banniere": "R.L.",
@@ -437,20 +437,20 @@
       "lon": -71.252854
     },
     {
-      "banniere": "R.L.",
-      "adresse": "45 rue Du Pont, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 164.4,
-      "lat": 48.436903,
-      "lon": -71.067338
-    },
-    {
       "banniere": "Canadian Tire",
       "adresse": "3580 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 164.4,
       "lat": 48.412676,
       "lon": -71.23162
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 164.9,
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "Petro-Canada",
@@ -478,11 +478,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 164.9,
-      "lat": 48.424585,
-      "lon": -71.180502
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
