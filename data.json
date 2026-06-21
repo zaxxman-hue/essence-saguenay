@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "21/06/2026 20:54",
-  "derniere_verification": "21/06/2026 20:54:19",
-  "fichier_source": "stations-20260621205002.xlsx",
+  "mise_a_jour": "21/06/2026 21:02",
+  "derniere_verification": "21/06/2026 21:02:49",
+  "fichier_source": "stations-20260621210002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -61,6 +61,22 @@
       "lon": -71.020099
     },
     {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 160.9,
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 160.9,
+      "lat": 48.40314,
+      "lon": -71.250599
+    },
+    {
       "banniere": "Irving",
       "adresse": "3754 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
@@ -77,12 +93,12 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 160.9,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Petro-Canada",
@@ -93,12 +109,12 @@
       "lon": -71.055264
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
       "prix": 160.9,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Esso",
@@ -109,28 +125,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 160.9,
-      "lat": 48.411254,
-      "lon": -71.261772
-    },
-    {
       "banniere": "Énergie DDF",
       "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
       "prix": 161.4,
       "lat": 48.419808,
       "lon": -71.100018
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 161.6,
-      "lat": 48.403131,
-      "lon": -71.059187
     },
     {
       "banniere": "Ultramar",
