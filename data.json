@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "21/06/2026 10:58",
-  "derniere_verification": "21/06/2026 10:58:28",
-  "fichier_source": "stations-20260621105501.xlsx",
+  "mise_a_jour": "21/06/2026 12:12",
+  "derniere_verification": "21/06/2026 12:12:37",
+  "fichier_source": "stations-20260621121002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -253,12 +253,12 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 162.4,
-      "lat": 48.316248,
-      "lon": -71.134685
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Inconnue",
@@ -269,12 +269,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 162.9,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 162.4,
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Petro-Canada",
@@ -333,12 +333,12 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 162.9,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "lat": 48.423109,
+      "lon": -71.212988
     },
     {
       "banniere": "R.L.",
@@ -349,12 +349,12 @@
       "lon": -71.094392
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
       "ville": "Saguenay",
       "prix": 162.9,
-      "lat": 48.5064,
-      "lon": -71.270068
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Petro-Canada",
@@ -381,12 +381,12 @@
       "lon": -71.234995
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "4500 rte Mathias, Saguenay",
       "ville": "Saguenay",
       "prix": 162.9,
-      "lat": 48.425557,
-      "lon": -71.26138
+      "lat": 48.5064,
+      "lon": -71.270068
     },
     {
       "banniere": "Petro-Canada",
