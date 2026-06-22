@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "22/06/2026 20:18",
-  "derniere_verification": "22/06/2026 20:18:44",
-  "fichier_source": "stations-20260622201502.xlsx",
+  "mise_a_jour": "22/06/2026 20:40",
+  "derniere_verification": "22/06/2026 20:40:14",
+  "fichier_source": "stations-20260622204002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -317,28 +317,12 @@
       "lon": -71.088774
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 159.9,
-      "lat": 48.438557,
-      "lon": -71.061332
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "4500 rte Mathias, Saguenay",
       "ville": "Saguenay",
       "prix": 159.9,
       "lat": 48.5064,
       "lon": -71.270068
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 159.9,
-      "lat": 48.425808,
-      "lon": -71.071138
     },
     {
       "banniere": "Petro-Canada",
@@ -349,12 +333,12 @@
       "lon": -71.277321
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 160.3,
-      "lat": 48.452384,
-      "lon": -71.094392
+      "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 159.9,
+      "lat": 48.425808,
+      "lon": -71.071138
     },
     {
       "banniere": "Canadian Tire",
@@ -365,12 +349,28 @@
       "lon": -71.23162
     },
     {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 160.3,
+      "lat": 48.438557,
+      "lon": -71.061332
+    },
+    {
       "banniere": "R.L.",
       "adresse": "68 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 160.3,
       "lat": 48.429329,
       "lon": -71.065922
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 160.3,
+      "lat": 48.408178,
+      "lon": -71.093216
     },
     {
       "banniere": "R.L.",
@@ -381,12 +381,12 @@
       "lon": -71.067338
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 160.3,
-      "lat": 48.408178,
-      "lon": -71.093216
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -406,19 +406,19 @@
     },
     {
       "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 160.3,
+      "lat": 48.452384,
+      "lon": -71.094392
+    },
+    {
+      "banniere": "R.L.",
       "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 160.3,
       "lat": 48.441444,
       "lon": -71.052232
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 160.3,
-      "lat": 48.428994,
-      "lon": -71.027496
     },
     {
       "banniere": "R.L.",
