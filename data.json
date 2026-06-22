@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "22/06/2026 17:59",
-  "derniere_verification": "22/06/2026 17:59:11",
-  "fichier_source": "stations-20260622175502.xlsx",
+  "mise_a_jour": "22/06/2026 18:08",
+  "derniere_verification": "22/06/2026 18:08:29",
+  "fichier_source": "stations-20260622180002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -133,20 +133,20 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 159.6,
-      "lat": 48.387452,
-      "lon": -71.114645
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "3667 rue Panet, Saguenay",
       "ville": "Jonquiere",
       "prix": 159.6,
       "lat": 48.402262,
       "lon": -71.23757
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 159.6,
+      "lat": 48.387452,
+      "lon": -71.114645
     },
     {
       "banniere": "Shell",
@@ -206,11 +206,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 159.6,
-      "lat": 48.356563,
-      "lon": -71.055264
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
       "banniere": "Shell",
@@ -238,11 +238,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
       "prix": 159.6,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.356563,
+      "lon": -71.055264
     },
     {
       "banniere": "Esso",
@@ -278,19 +278,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "adresse": "1201 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 159.9,
-      "lat": 48.454509,
-      "lon": -71.111521
+      "prix": 159.6,
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 159.9,
-      "lat": 48.425808,
-      "lon": -71.071138
+      "adresse": "641 rue Delisle, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 159.6,
+      "lat": 48.454243,
+      "lon": -71.061125
     },
     {
       "banniere": "Petro-Canada",
@@ -325,20 +325,20 @@
       "lon": -71.270068
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 159.9,
+      "lat": 48.425808,
+      "lon": -71.071138
+    },
+    {
       "banniere": "Canadian Tire",
       "adresse": "3580 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 160.3,
       "lat": 48.412676,
       "lon": -71.23162
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 160.3,
-      "lat": 48.438557,
-      "lon": -71.061332
     },
     {
       "banniere": "R.L.",
@@ -349,12 +349,12 @@
       "lon": -71.094392
     },
     {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 160.3,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "R.L.",
@@ -414,6 +414,14 @@
     },
     {
       "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 160.3,
+      "lat": 48.441444,
+      "lon": -71.052232
+    },
+    {
+      "banniere": "R.L.",
       "adresse": "5822 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 160.3,
@@ -427,14 +435,6 @@
       "prix": 160.3,
       "lat": 48.441506,
       "lon": -71.051019
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 160.3,
-      "lat": 48.454243,
-      "lon": -71.061125
     },
     {
       "banniere": "Petro-Canada",
