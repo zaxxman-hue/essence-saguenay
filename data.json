@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "23/06/2026 16:59",
-  "derniere_verification": "23/06/2026 16:59:55",
-  "fichier_source": "stations-20260623165502.xlsx",
+  "mise_a_jour": "23/06/2026 17:19",
+  "derniere_verification": "23/06/2026 17:19:50",
+  "fichier_source": "stations-20260623171502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -302,11 +302,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "3073 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 159.9,
-      "lat": 48.5064,
-      "lon": -71.270068
+      "lat": 48.40886,
+      "lon": -71.19486
     },
     {
       "banniere": "Petro-Canada",
@@ -326,19 +326,19 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "4500 rte Mathias, Saguenay",
+      "ville": "Saguenay",
+      "prix": 159.9,
+      "lat": 48.5064,
+      "lon": -71.270068
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "81 rue Price ouest, Saguenay",
       "ville": "Jonquiere",
       "prix": 159.9,
       "lat": 48.425808,
       "lon": -71.071138
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3073 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 159.9,
-      "lat": 48.40886,
-      "lon": -71.19486
     },
     {
       "banniere": "Petro-Canada",
@@ -357,14 +357,6 @@
       "lon": -71.260593
     },
     {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 159.9,
-      "lat": 48.424585,
-      "lon": -71.180502
-    },
-    {
       "banniere": "R.L.",
       "adresse": "130 rue Arthur-Hamel, Saguenay",
       "ville": "Chicoutimi",
@@ -379,6 +371,14 @@
       "prix": 160.4,
       "lat": 48.307346,
       "lon": -71.114422
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 162.9,
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "Irving",
