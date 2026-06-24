@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "24/06/2026 21:55",
-  "derniere_verification": "24/06/2026 21:55:36",
-  "fichier_source": "stations-20260624215502.xlsx",
+  "mise_a_jour": "24/06/2026 22:11",
+  "derniere_verification": "24/06/2026 22:11:38",
+  "fichier_source": "stations-20260624221002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -13,12 +13,12 @@
       "lon": -71.052572
     },
     {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
-      "prix": 155.7,
-      "lat": 48.400574,
-      "lon": -71.145998
+      "prix": 155.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Harnois",
@@ -29,12 +29,12 @@
       "lon": -71.233782
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
+      "ville": "Jonquiere",
       "prix": 155.7,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Esso",
@@ -61,12 +61,12 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 155.7,
-      "lat": 48.406769,
-      "lon": -71.051965
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Esso",
@@ -125,12 +125,12 @@
       "lon": -71.106094
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
       "ville": "Chicoutimi",
       "prix": 155.7,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
       "banniere": "Ultramar",
@@ -182,14 +182,6 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 155.7,
-      "lat": 48.415732,
-      "lon": -71.065681
-    },
-    {
-      "banniere": "Esso",
       "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 155.7,
@@ -198,19 +190,27 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 155.7,
+      "lat": 48.408298,
+      "lon": -71.054487
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 155.7,
+      "lat": 48.415732,
+      "lon": -71.065681
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "3997 boul. Harvey, Saguenay",
       "ville": "Saguenay",
       "prix": 156.4,
       "lat": 48.414704,
       "lon": -71.259124
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 156.4,
-      "lat": 48.404137,
-      "lon": -71.166787
     },
     {
       "banniere": "Petro-Canada",
@@ -237,12 +237,12 @@
       "lon": -71.212988
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 156.4,
-      "lat": 48.435333,
-      "lon": -71.140604
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "Irving",
@@ -302,11 +302,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "ville": "Jonquiere",
       "prix": 156.4,
-      "lat": 48.454243,
-      "lon": -71.061125
+      "lat": 48.435333,
+      "lon": -71.140604
     },
     {
       "banniere": "Petro-Canada",
@@ -325,12 +325,12 @@
       "lon": -71.171977
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "641 rue Delisle, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 156.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "lat": 48.454243,
+      "lon": -71.061125
     },
     {
       "banniere": "Ultramar",
