@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "24/06/2026 21:15",
-  "derniere_verification": "24/06/2026 21:15:25",
-  "fichier_source": "stations-20260624211502.xlsx",
+  "mise_a_jour": "24/06/2026 21:55",
+  "derniere_verification": "24/06/2026 21:55:36",
+  "fichier_source": "stations-20260624215502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -365,12 +365,12 @@
       "lon": -71.134075
     },
     {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
       "prix": 156.9,
-      "lat": 48.428994,
-      "lon": -71.027496
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "R.L.",
@@ -379,6 +379,14 @@
       "prix": 156.9,
       "lat": 48.429329,
       "lon": -71.065922
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 156.9,
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Shell",
@@ -405,20 +413,20 @@
       "lon": -71.114422
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 159.6,
-      "lat": 48.426389,
-      "lon": -71.259018
-    },
-    {
       "banniere": "Irving",
       "adresse": "4024 boul. du Royaume, Saguenay",
       "ville": "Saguenay",
       "prix": 159.6,
       "lat": 48.425557,
       "lon": -71.26138
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 159.6,
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "Crevier",
@@ -429,14 +437,6 @@
       "lon": -71.324386
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
-      "ville": "Saguenay",
-      "prix": 159.9,
-      "lat": 48.5064,
-      "lon": -71.270068
-    },
-    {
       "banniere": "Crevier",
       "adresse": "2922 boul. du Saguenay, SAGUENAY",
       "ville": "Jonquiere",
@@ -445,12 +445,12 @@
       "lon": -71.187357
     },
     {
-      "banniere": "R.L.",
-      "adresse": "45 rue Du Pont, Saguenay",
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.9,
-      "lat": 48.436903,
-      "lon": -71.067338
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
@@ -477,12 +477,12 @@
       "lon": -71.260593
     },
     {
-      "banniere": "Harnois",
-      "adresse": "950 rue Bégin, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "45 rue Du Pont, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.9,
-      "lat": 48.41388,
-      "lon": -71.067443
+      "lat": 48.436903,
+      "lon": -71.067338
     },
     {
       "banniere": "Harnois",
@@ -493,12 +493,12 @@
       "lon": -71.023248
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
+      "banniere": "Harnois",
+      "adresse": "950 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.9,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "lat": 48.41388,
+      "lon": -71.067443
     },
     {
       "banniere": "R.L.",
@@ -517,12 +517,12 @@
       "lon": -71.094392
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "4500 rte Mathias, Saguenay",
+      "ville": "Saguenay",
       "prix": 159.9,
-      "lat": 48.407448,
-      "lon": -71.094182
+      "lat": 48.5064,
+      "lon": -71.270068
     },
     {
       "banniere": "Petro-Canada",
@@ -533,20 +533,20 @@
       "lon": -71.277321
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 159.9,
+      "lat": 48.407448,
+      "lon": -71.094182
+    },
+    {
       "banniere": "R.L.",
       "adresse": "1845 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.9,
       "lat": 48.441506,
       "lon": -71.051019
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 169.1,
-      "lat": 48.373886,
-      "lon": -71.091169
     },
     {
       "banniere": "Nutrinor Énergies",
