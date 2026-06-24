@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "24/06/2026 19:41",
-  "derniere_verification": "24/06/2026 19:41:20",
-  "fichier_source": "stations-20260624194002.xlsx",
+  "mise_a_jour": "24/06/2026 20:15",
+  "derniere_verification": "24/06/2026 20:15:03",
+  "fichier_source": "stations-20260624201002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -389,20 +389,20 @@
       "lon": -71.071138
     },
     {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 159.2,
+      "lat": 48.438557,
+      "lon": -71.061332
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "952 rue Du Boulevard, Saguenay",
       "ville": "Saguenay",
       "prix": 159.4,
       "lat": 48.307346,
       "lon": -71.114422
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 159.6,
-      "lat": 48.425557,
-      "lon": -71.26138
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -413,20 +413,20 @@
       "lon": -71.259018
     },
     {
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 159.6,
+      "lat": 48.425557,
+      "lon": -71.26138
+    },
+    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
       "prix": 159.8,
       "lat": 48.353958,
       "lon": -71.324386
-    },
-    {
-      "banniere": "Crevier",
-      "adresse": "2922 boul. du Saguenay, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 159.9,
-      "lat": 48.433314,
-      "lon": -71.187357
     },
     {
       "banniere": "Petro-Canada",
@@ -437,12 +437,12 @@
       "lon": -71.270068
     },
     {
-      "banniere": "Énergie Express BD",
-      "adresse": "3421 rte Saint-Léonard, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Crevier",
+      "adresse": "2922 boul. du Saguenay, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 159.9,
-      "lat": 48.458548,
-      "lon": -71.260593
+      "lat": 48.433314,
+      "lon": -71.187357
     },
     {
       "banniere": "R.L.",
@@ -469,12 +469,12 @@
       "lon": -71.076179
     },
     {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Énergie Express BD",
+      "adresse": "3421 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
       "prix": 159.9,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "lat": 48.458548,
+      "lon": -71.260593
     },
     {
       "banniere": "Harnois",
@@ -501,12 +501,12 @@
       "lon": -71.166787
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.9,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "R.L.",
