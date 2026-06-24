@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "24/06/2026 22:45",
-  "derniere_verification": "24/06/2026 22:45:08",
-  "fichier_source": "stations-20260624224002.xlsx",
+  "mise_a_jour": "24/06/2026 23:00",
+  "derniere_verification": "24/06/2026 23:00:26",
+  "fichier_source": "stations-20260624230002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -165,14 +165,6 @@
       "lon": -71.052843
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
-      "prix": 155.7,
-      "lat": 48.356563,
-      "lon": -71.055264
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
@@ -181,12 +173,20 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 155.7,
+      "lat": 48.408178,
+      "lon": -71.093216
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
       "ville": "Saguenay",
       "prix": 155.7,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.356563,
+      "lon": -71.055264
     },
     {
       "banniere": "Petro-Canada",
@@ -198,6 +198,14 @@
     },
     {
       "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 155.7,
+      "lat": 48.411254,
+      "lon": -71.261772
+    },
+    {
+      "banniere": "Esso",
       "adresse": "138 rue Dubé, Saguenay",
       "ville": "Chicoutimi",
       "prix": 155.7,
@@ -205,20 +213,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
-      "prix": 156.4,
-      "lat": 48.414704,
-      "lon": -71.259124
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "2728 boul. du Saguenay, Saguenay",
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
       "ville": "Jonquiere",
       "prix": 156.4,
-      "lat": 48.433492,
-      "lon": -71.175803
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "Petro-Canada",
@@ -245,20 +245,20 @@
       "lon": -71.166787
     },
     {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "2728 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 156.4,
-      "lat": 48.424585,
-      "lon": -71.180502
+      "lat": 48.433492,
+      "lon": -71.175803
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 156.4,
-      "lat": 48.408178,
-      "lon": -71.093216
+      "lat": 48.435333,
+      "lon": -71.140604
     },
     {
       "banniere": "Canadian Tire",
@@ -278,11 +278,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
       "prix": 156.4,
-      "lat": 48.402262,
-      "lon": -71.23757
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Petro-Canada",
@@ -302,11 +302,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "adresse": "3667 rue Panet, Saguenay",
       "ville": "Jonquiere",
       "prix": 156.4,
-      "lat": 48.435333,
-      "lon": -71.140604
+      "lat": 48.402262,
+      "lon": -71.23757
     },
     {
       "banniere": "Petro-Canada",
