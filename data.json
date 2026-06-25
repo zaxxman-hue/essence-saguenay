@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "25/06/2026 07:50",
-  "derniere_verification": "25/06/2026 07:50:58",
-  "fichier_source": "stations-20260625075002.xlsx",
+  "mise_a_jour": "25/06/2026 09:29",
+  "derniere_verification": "25/06/2026 09:29:53",
+  "fichier_source": "stations-20260625092502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -357,12 +357,12 @@
       "lon": -71.05197
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "952 rue Du Boulevard, Saguenay",
+      "ville": "Saguenay",
       "prix": 156.9,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "lat": 48.307346,
+      "lon": -71.114422
     },
     {
       "banniere": "Esso",
@@ -389,12 +389,12 @@
       "lon": -71.027496
     },
     {
-      "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
       "prix": 156.9,
-      "lat": 48.317087,
-      "lon": -71.134075
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "R.L.",
@@ -403,6 +403,14 @@
       "prix": 156.9,
       "lat": 48.396372,
       "lon": -70.993907
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 156.9,
+      "lat": 48.317087,
+      "lon": -71.134075
     },
     {
       "banniere": "Shell",
@@ -419,14 +427,6 @@
       "prix": 158.9,
       "lat": 48.425808,
       "lon": -71.071138
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "952 rue Du Boulevard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 159.4,
-      "lat": 48.307346,
-      "lon": -71.114422
     },
     {
       "banniere": "Nutrinor Énergies",
