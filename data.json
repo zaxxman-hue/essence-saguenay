@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "25/06/2026 20:50",
-  "derniere_verification": "25/06/2026 20:50:56",
-  "fichier_source": "stations-20260625205002.xlsx",
+  "mise_a_jour": "25/06/2026 21:14",
+  "derniere_verification": "25/06/2026 21:14:06",
+  "fichier_source": "stations-20260625211002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -51,6 +51,22 @@
       "prix": 152.9,
       "lat": 48.338231,
       "lon": -70.990331
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "3635 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 152.9,
+      "lat": 48.421137,
+      "lon": -71.234999
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 152.9,
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Irving",
@@ -109,28 +125,12 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 153.6,
-      "lat": 48.425557,
-      "lon": -71.26138
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 153.6,
-      "lat": 48.422936,
-      "lon": -71.243563
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "3635 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 153.6,
-      "lat": 48.421137,
-      "lon": -71.234999
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Petro-Canada",
@@ -165,12 +165,12 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 153.6,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Petro-Canada",
@@ -189,12 +189,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
       "prix": 153.6,
-      "lat": 48.451071,
-      "lon": -71.020099
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Shell",
