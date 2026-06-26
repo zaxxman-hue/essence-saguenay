@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "26/06/2026 01:35",
-  "derniere_verification": "26/06/2026 01:35:59",
-  "fichier_source": "stations-20260626013502.xlsx",
+  "mise_a_jour": "26/06/2026 02:09",
+  "derniere_verification": "26/06/2026 02:09:51",
+  "fichier_source": "stations-20260626020502.xlsx",
   "total": 79,
   "stations": [
+    {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 151.5,
+      "lat": 48.40924,
+      "lon": -71.052572
+    },
     {
       "banniere": "Pétro-T",
       "adresse": "2320 rue Dubose, Saguenay",
@@ -11,14 +19,6 @@
       "prix": 152.2,
       "lat": 48.400574,
       "lon": -71.145998
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 152.2,
-      "lat": 48.413826,
-      "lon": -71.246977
     },
     {
       "banniere": "Harnois",
@@ -29,20 +29,12 @@
       "lon": -71.233782
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 152.2,
-      "lat": 48.406769,
-      "lon": -71.051965
-    },
-    {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 152.2,
-      "lat": 48.40924,
-      "lon": -71.052572
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Esso",
@@ -51,6 +43,14 @@
       "prix": 152.2,
       "lat": 48.338231,
       "lon": -70.990331
+    },
+    {
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 152.2,
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
       "banniere": "Couche-Tard",
