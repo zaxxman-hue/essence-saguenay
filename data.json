@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "26/06/2026 21:11",
-  "derniere_verification": "26/06/2026 21:11:35",
-  "fichier_source": "stations-20260626211002.xlsx",
+  "mise_a_jour": "26/06/2026 21:49",
+  "derniere_verification": "26/06/2026 21:49:01",
+  "fichier_source": "stations-20260626214502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -117,12 +117,12 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 149.4,
-      "lat": 48.415732,
-      "lon": -71.065681
+      "lat": 48.421952,
+      "lon": -71.242838
     },
     {
       "banniere": "Esso",
@@ -133,20 +133,20 @@
       "lon": -71.261772
     },
     {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 149.4,
+      "lat": 48.415732,
+      "lon": -71.065681
+    },
+    {
       "banniere": "Énergie DDF",
       "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
       "prix": 149.4,
       "lat": 48.419808,
       "lon": -71.100018
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "377 rue Sainte Anne, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 149.9,
-      "lat": 48.42592,
-      "lon": -71.068372
     },
     {
       "banniere": "Ultramar",
@@ -166,19 +166,19 @@
     },
     {
       "banniere": "Ultramar",
+      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 149.9,
+      "lat": 48.42592,
+      "lon": -71.068372
+    },
+    {
+      "banniere": "Ultramar",
       "adresse": "1333 Boul. du Royaume est, SAGUENAY",
       "ville": "Saguenay",
       "prix": 149.9,
       "lat": 48.387452,
       "lon": -71.114645
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 150.1,
-      "lat": 48.425557,
-      "lon": -71.26138
     },
     {
       "banniere": "Petro-Canada",
@@ -197,12 +197,12 @@
       "lon": -71.259124
     },
     {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
       "prix": 150.1,
-      "lat": 48.421952,
-      "lon": -71.242838
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Petro-Canada",
