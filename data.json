@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "26/06/2026 18:56",
-  "derniere_verification": "26/06/2026 18:56:29",
-  "fichier_source": "stations-20260626185501.xlsx",
+  "mise_a_jour": "26/06/2026 19:14",
+  "derniere_verification": "26/06/2026 19:14:54",
+  "fichier_source": "stations-20260626191002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -173,12 +173,12 @@
       "lon": -71.242838
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 150.8,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "Petro-Canada",
@@ -198,11 +198,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 150.8,
-      "lat": 48.411756,
-      "lon": -71.05197
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Canadian Tire",
@@ -211,6 +211,14 @@
       "prix": 150.8,
       "lat": 48.411103,
       "lon": -71.052843
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 150.8,
+      "lat": 48.411756,
+      "lon": -71.05197
     },
     {
       "banniere": "Ultramar",
@@ -245,14 +253,6 @@
       "lon": -71.26138
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 151.4,
-      "lat": 48.419808,
-      "lon": -71.100018
-    },
-    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
@@ -261,12 +261,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
-      "prix": 151.9,
-      "lat": 48.395019,
-      "lon": -71.106094
+      "prix": 151.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Petro-Canada",
