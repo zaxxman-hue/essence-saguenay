@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "27/06/2026 02:05",
-  "derniere_verification": "27/06/2026 02:05:02",
-  "fichier_source": "stations-20260627020002.xlsx",
+  "mise_a_jour": "27/06/2026 04:35",
+  "derniere_verification": "27/06/2026 04:35:59",
+  "fichier_source": "stations-20260627043502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -37,20 +37,20 @@
       "lon": -71.059187
     },
     {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 148.7,
+      "lat": 48.394683,
+      "lon": -71.070736
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 149.4,
       "lat": 48.451071,
       "lon": -71.020099
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
-      "prix": 149.4,
-      "lat": 48.338231,
-      "lon": -70.990331
     },
     {
       "banniere": "Harnois",
@@ -85,12 +85,12 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Irving",
-      "adresse": "3635 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 149.4,
-      "lat": 48.421137,
-      "lon": -71.234999
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
       "banniere": "Esso",
@@ -101,20 +101,20 @@
       "lon": -71.246977
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
       "prix": 149.4,
-      "lat": 48.406769,
-      "lon": -71.051965
+      "lat": 48.338231,
+      "lon": -70.990331
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
       "prix": 149.4,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Shell",
@@ -141,20 +141,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 149.4,
-      "lat": 48.419808,
-      "lon": -71.100018
-    },
-    {
       "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 149.9,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Esso",
@@ -166,11 +158,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 149.9,
-      "lat": 48.39309,
-      "lon": -71.070497
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Ultramar",
@@ -179,6 +171,14 @@
       "prix": 149.9,
       "lat": 48.387452,
       "lon": -71.114645
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1960 rue De Montfort, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 150.1,
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Petro-Canada",
@@ -197,20 +197,20 @@
       "lon": -71.259124
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 150.1,
-      "lat": 48.424661,
-      "lon": -71.234995
-    },
-    {
       "banniere": "Irving",
       "adresse": "4024 boul. du Royaume, Saguenay",
       "ville": "Saguenay",
       "prix": 150.1,
       "lat": 48.425557,
       "lon": -71.26138
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "3635 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 150.1,
+      "lat": 48.421137,
+      "lon": -71.234999
     },
     {
       "banniere": "Inconnue",
