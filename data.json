@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "27/06/2026 01:27",
-  "derniere_verification": "27/06/2026 01:27:56",
-  "fichier_source": "stations-20260627012502.xlsx",
+  "mise_a_jour": "27/06/2026 02:05",
+  "derniere_verification": "27/06/2026 02:05:02",
+  "fichier_source": "stations-20260627020002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -13,28 +13,28 @@
       "lon": -71.052572
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 148.0,
+      "lat": 48.408298,
+      "lon": -71.054487
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
+      "prix": 148.0,
+      "lat": 48.356563,
+      "lon": -71.055264
+    },
+    {
       "banniere": "Esso",
       "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 148.7,
       "lat": 48.403131,
       "lon": -71.059187
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
-      "prix": 148.7,
-      "lat": 48.356563,
-      "lon": -71.055264
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 148.7,
-      "lat": 48.408298,
-      "lon": -71.054487
     },
     {
       "banniere": "Petro-Canada",
