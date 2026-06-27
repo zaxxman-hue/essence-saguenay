@@ -1,14 +1,14 @@
 {
-  "mise_a_jour": "27/06/2026 16:35",
-  "derniere_verification": "27/06/2026 16:35:45",
-  "fichier_source": "stations-20260627163501.xlsx",
+  "mise_a_jour": "27/06/2026 17:05",
+  "derniere_verification": "27/06/2026 17:05:07",
+  "fichier_source": "stations-20260627170002.xlsx",
   "total": 79,
   "stations": [
     {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 146.6,
+      "prix": 146.5,
       "lat": 48.40924,
       "lon": -71.052572
     },
@@ -157,14 +157,6 @@
       "lon": -71.259124
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 147.6,
-      "lat": 48.425557,
-      "lon": -71.26138
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "3397 rue Saint-Dominique, Saguenay",
       "ville": "Saguenay",
@@ -227,6 +219,14 @@
       "prix": 149.9,
       "lat": 48.387452,
       "lon": -71.114645
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 150.1,
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Petro-Canada",
