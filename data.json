@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "27/06/2026 20:02",
-  "derniere_verification": "27/06/2026 20:02:05",
-  "fichier_source": "stations-20260627200002.xlsx",
+  "mise_a_jour": "27/06/2026 20:39",
+  "derniere_verification": "27/06/2026 20:39:29",
+  "fichier_source": "stations-20260627203501.xlsx",
   "total": 79,
   "stations": [
     {
@@ -37,12 +37,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 146.5,
-      "lat": 48.356563,
-      "lon": -71.055264
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Canadian Tire",
@@ -53,12 +53,12 @@
       "lon": -71.052843
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 147.2,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
+      "prix": 146.5,
+      "lat": 48.356563,
+      "lon": -71.055264
     },
     {
       "banniere": "Pétro-T",
@@ -437,20 +437,20 @@
       "lon": -71.027496
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 155.7,
-      "lat": 48.438557,
-      "lon": -71.061332
-    },
-    {
       "banniere": "R.L.",
       "adresse": "45 rue Du Pont, Saguenay",
       "ville": "Chicoutimi",
       "prix": 155.7,
       "lat": 48.436903,
       "lon": -71.067338
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 155.9,
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
