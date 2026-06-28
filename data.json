@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "28/06/2026 22:57",
-  "derniere_verification": "28/06/2026 22:57:53",
-  "fichier_source": "stations-20260628225502.xlsx",
+  "mise_a_jour": "28/06/2026 23:36",
+  "derniere_verification": "28/06/2026 23:36:22",
+  "fichier_source": "stations-20260628233502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -134,19 +134,19 @@
     },
     {
       "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 145.1,
+      "lat": 48.421952,
+      "lon": -71.242838
+    },
+    {
+      "banniere": "Shell",
       "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 145.8,
       "lat": 48.394683,
       "lon": -71.070736
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 145.9,
-      "lat": 48.39744,
-      "lon": -71.081011
     },
     {
       "banniere": "Ultramar",
@@ -157,20 +157,20 @@
       "lon": -71.070497
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 145.9,
+      "lat": 48.39744,
+      "lon": -71.081011
+    },
+    {
       "banniere": "Énergie DDF",
       "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
       "prix": 146.4,
       "lat": 48.419808,
       "lon": -71.100018
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 146.5,
-      "lat": 48.421952,
-      "lon": -71.242838
     },
     {
       "banniere": "Canadian Tire",
