@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "28/06/2026 20:50",
-  "derniere_verification": "28/06/2026 20:50:19",
-  "fichier_source": "stations-20260628205002.xlsx",
+  "mise_a_jour": "28/06/2026 21:40",
+  "derniere_verification": "28/06/2026 21:40:51",
+  "fichier_source": "stations-20260628214002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -37,6 +37,14 @@
       "lon": -71.246977
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 145.1,
+      "lat": 48.451071,
+      "lon": -71.020099
+    },
+    {
       "banniere": "Esso",
       "adresse": "3 Rue Wing, Saguenay",
       "ville": "Saguenay",
@@ -51,14 +59,6 @@
       "prix": 145.1,
       "lat": 48.406769,
       "lon": -71.051965
-    },
-    {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 145.1,
-      "lat": 48.421176,
-      "lon": -71.059061
     },
     {
       "banniere": "Esso",
@@ -85,20 +85,20 @@
       "lon": -71.243563
     },
     {
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 145.1,
+      "lat": 48.421176,
+      "lon": -71.059061
+    },
+    {
       "banniere": "Irving",
       "adresse": "3635 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 145.1,
       "lat": 48.421137,
       "lon": -71.234999
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 145.1,
-      "lat": 48.408298,
-      "lon": -71.054487
     },
     {
       "banniere": "Petro-Canada",
@@ -109,12 +109,12 @@
       "lon": -71.055264
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 145.1,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Esso",
@@ -123,6 +123,14 @@
       "prix": 145.1,
       "lat": 48.415732,
       "lon": -71.065681
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 145.1,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Shell",
@@ -134,19 +142,19 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 145.9,
-      "lat": 48.39309,
-      "lon": -71.070497
-    },
-    {
-      "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 145.9,
       "lat": 48.39744,
       "lon": -71.081011
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 145.9,
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Énergie DDF",
@@ -155,14 +163,6 @@
       "prix": 146.4,
       "lat": 48.419808,
       "lon": -71.100018
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 146.5,
-      "lat": 48.451071,
-      "lon": -71.020099
     },
     {
       "banniere": "Shell",
