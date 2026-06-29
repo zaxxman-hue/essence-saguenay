@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "29/06/2026 19:19",
-  "derniere_verification": "29/06/2026 19:19:52",
-  "fichier_source": "stations-20260629191502.xlsx",
+  "mise_a_jour": "29/06/2026 19:50",
+  "derniere_verification": "29/06/2026 19:50:59",
+  "fichier_source": "stations-20260629195002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -341,12 +341,12 @@
       "lon": -71.114645
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 152.4,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "banniere": "R.L.",
+      "adresse": "1845 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 153.6,
+      "lat": 48.441506,
+      "lon": -71.051019
     },
     {
       "banniere": "R.L.",
@@ -357,20 +357,20 @@
       "lon": -71.067338
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1845 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 153.6,
-      "lat": 48.441506,
-      "lon": -71.051019
-    },
-    {
       "banniere": "Énergie Express BD",
       "adresse": "3421 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
       "prix": 154.9,
       "lat": 48.458548,
       "lon": -71.260593
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2728 boul. du Saguenay, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 156.4,
+      "lat": 48.433492,
+      "lon": -71.175803
     },
     {
       "banniere": "Petro-Canada",
@@ -429,12 +429,12 @@
       "lon": -71.187357
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2728 boul. du Saguenay, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
       "prix": 156.4,
-      "lat": 48.433492,
-      "lon": -71.175803
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Petro-Canada",
