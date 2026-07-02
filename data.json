@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "01/07/2026 23:50",
-  "derniere_verification": "01/07/2026 23:50:15",
-  "fichier_source": "stations-20260701235002.xlsx",
+  "mise_a_jour": "02/07/2026 00:01",
+  "derniere_verification": "02/07/2026 00:01:15",
+  "fichier_source": "stations-20260702000001.xlsx",
   "total": 79,
   "stations": [
     {
@@ -45,12 +45,12 @@
       "lon": -70.990331
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 155.4,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Harnois",
@@ -85,6 +85,22 @@
       "lon": -71.070736
     },
     {
+      "banniere": "Irving",
+      "adresse": "3635 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 155.4,
+      "lat": 48.421137,
+      "lon": -71.234999
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 155.4,
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
+    {
       "banniere": "Esso",
       "adresse": "138 rue Dubé, Saguenay",
       "ville": "Chicoutimi",
@@ -101,28 +117,12 @@
       "lon": -71.261772
     },
     {
-      "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 155.7,
-      "lat": 48.422936,
-      "lon": -71.243563
-    },
-    {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 155.7,
       "lat": 48.40924,
       "lon": -71.052572
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "3635 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 155.7,
-      "lat": 48.421137,
-      "lon": -71.234999
     },
     {
       "banniere": "Petro-Canada",
