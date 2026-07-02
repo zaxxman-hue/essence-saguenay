@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "02/07/2026 21:46",
-  "derniere_verification": "02/07/2026 21:46:42",
-  "fichier_source": "stations-20260702214502.xlsx",
+  "mise_a_jour": "02/07/2026 22:01",
+  "derniere_verification": "02/07/2026 22:01:57",
+  "fichier_source": "stations-20260702220002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -46,11 +46,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
       "prix": 154.4,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Couche-Tard",
@@ -70,11 +70,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
       "prix": 154.4,
-      "lat": 48.425557,
-      "lon": -71.26138
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Irving",
@@ -85,12 +85,12 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 154.4,
-      "lat": 48.424661,
-      "lon": -71.234995
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Petro-Canada",
@@ -117,12 +117,12 @@
       "lon": -71.28365
     },
     {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1960 rue De Montfort, Saguenay",
       "ville": "Jonquiere",
       "prix": 154.4,
-      "lat": 48.412108,
-      "lon": -71.231414
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Esso",
@@ -149,12 +149,12 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
-      "prix": 154.7,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "prix": 154.4,
+      "lat": 48.412108,
+      "lon": -71.231414
     },
     {
       "banniere": "Shell",
