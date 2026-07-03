@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "03/07/2026 21:41",
-  "derniere_verification": "03/07/2026 21:41:18",
-  "fichier_source": "stations-20260703214002.xlsx",
+  "mise_a_jour": "03/07/2026 22:00",
+  "derniere_verification": "03/07/2026 22:00:23",
+  "fichier_source": "stations-20260703220002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -70,11 +70,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "3635 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
       "prix": 153.4,
-      "lat": 48.421137,
-      "lon": -71.234999
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Irving",
@@ -85,12 +85,12 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "banniere": "Irving",
+      "adresse": "3635 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 153.4,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "lat": 48.421137,
+      "lon": -71.234999
     },
     {
       "banniere": "Petro-Canada",
@@ -133,20 +133,20 @@
       "lon": -71.054487
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 153.4,
+      "lat": 48.423109,
+      "lon": -71.212988
+    },
+    {
       "banniere": "Shell",
       "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 153.4,
       "lat": 48.394683,
       "lon": -71.070736
-    },
-    {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 153.4,
-      "lat": 48.419808,
-      "lon": -71.100018
     },
     {
       "banniere": "Inconnue",
@@ -173,20 +173,20 @@
       "lon": -71.065681
     },
     {
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 153.4,
+      "lat": 48.419808,
+      "lon": -71.100018
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "3667 rue Panet, Saguenay",
       "ville": "Jonquiere",
       "prix": 153.7,
       "lat": 48.402262,
       "lon": -71.23757
-    },
-    {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 153.7,
-      "lat": 48.40924,
-      "lon": -71.052572
     },
     {
       "banniere": "Irving",
@@ -197,20 +197,20 @@
       "lon": -71.250599
     },
     {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 153.7,
+      "lat": 48.40924,
+      "lon": -71.052572
+    },
+    {
       "banniere": "Shell",
       "adresse": "3761 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 153.7,
       "lat": 48.421952,
       "lon": -71.242838
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 154.4,
-      "lat": 48.425557,
-      "lon": -71.26138
     },
     {
       "banniere": "Ultramar",
