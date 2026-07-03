@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "03/07/2026 19:55",
-  "derniere_verification": "03/07/2026 19:55:04",
-  "fichier_source": "stations-20260703195002.xlsx",
+  "mise_a_jour": "03/07/2026 20:07",
+  "derniere_verification": "03/07/2026 20:07:25",
+  "fichier_source": "stations-20260703200502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -85,12 +85,12 @@
       "lon": -71.26138
     },
     {
-      "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 153.4,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.423109,
+      "lon": -71.212988
     },
     {
       "banniere": "Petro-Canada",
@@ -133,20 +133,20 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 153.4,
-      "lat": 48.423109,
-      "lon": -71.212988
-    },
-    {
       "banniere": "Shell",
       "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 153.4,
       "lat": 48.394683,
       "lon": -71.070736
+    },
+    {
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 153.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Inconnue",
@@ -173,20 +173,20 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 153.4,
-      "lat": 48.419808,
-      "lon": -71.100018
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "3667 rue Panet, Saguenay",
       "ville": "Jonquiere",
       "prix": 153.7,
       "lat": 48.402262,
       "lon": -71.23757
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 153.7,
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Irving",
