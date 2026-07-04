@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "04/07/2026 20:02",
-  "derniere_verification": "04/07/2026 20:02:35",
-  "fichier_source": "stations-20260704200002.xlsx",
+  "mise_a_jour": "04/07/2026 20:30",
+  "derniere_verification": "04/07/2026 20:30:26",
+  "fichier_source": "stations-20260704203002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -213,6 +213,14 @@
       "lon": -71.100018
     },
     {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 153.4,
+      "lat": 48.411254,
+      "lon": -71.261772
+    },
+    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
@@ -221,12 +229,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 153.4,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "Irving",
@@ -243,14 +251,6 @@
       "prix": 153.7,
       "lat": 48.421952,
       "lon": -71.242838
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "377 rue Sainte Anne, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 154.4,
-      "lat": 48.42592,
-      "lon": -71.068372
     },
     {
       "banniere": "Irving",
@@ -277,12 +277,12 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 154.4,
-      "lat": 48.426389,
-      "lon": -71.259018
+      "lat": 48.42592,
+      "lon": -71.068372
     },
     {
       "banniere": "R.L.",
