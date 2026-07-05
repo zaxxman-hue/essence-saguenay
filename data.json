@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "05/07/2026 01:56",
-  "derniere_verification": "05/07/2026 01:56:42",
-  "fichier_source": "stations-20260705015502.xlsx",
+  "mise_a_jour": "05/07/2026 04:41",
+  "derniere_verification": "05/07/2026 04:41:36",
+  "fichier_source": "stations-20260705044002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -357,12 +357,20 @@
       "lon": -71.076179
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 155.4,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "lat": 48.441444,
+      "lon": -71.052232
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "641 rue Delisle, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 155.4,
+      "lat": 48.454243,
+      "lon": -71.061125
     },
     {
       "banniere": "R.L.",
@@ -371,14 +379,6 @@
       "prix": 155.4,
       "lat": 48.452384,
       "lon": -71.094392
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 155.4,
-      "lat": 48.441444,
-      "lon": -71.052232
     },
     {
       "banniere": "Ultramar",
@@ -390,19 +390,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 155.4,
-      "lat": 48.454243,
-      "lon": -71.061125
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 155.9,
       "lat": 48.450526,
       "lon": -71.088774
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 155.9,
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Énergie Express BD",
