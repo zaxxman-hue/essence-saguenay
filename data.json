@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "05/07/2026 21:55",
-  "derniere_verification": "05/07/2026 21:55:56",
-  "fichier_source": "stations-20260705215502.xlsx",
+  "mise_a_jour": "05/07/2026 22:29",
+  "derniere_verification": "05/07/2026 22:29:39",
+  "fichier_source": "stations-20260705222502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -229,6 +229,14 @@
       "lon": -71.100018
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 153.4,
+      "lat": 48.396671,
+      "lon": -71.252854
+    },
+    {
       "banniere": "Esso",
       "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
@@ -253,28 +261,20 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 154.4,
-      "lat": 48.425557,
-      "lon": -71.26138
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 154.4,
-      "lat": 48.396671,
-      "lon": -71.252854
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 154.4,
       "lat": 48.316248,
       "lon": -71.134685
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 154.4,
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Ultramar",
