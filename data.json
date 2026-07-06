@@ -1,9 +1,25 @@
 {
-  "mise_a_jour": "06/07/2026 19:00",
-  "derniere_verification": "06/07/2026 19:00:08",
-  "fichier_source": "stations-20260706190002.xlsx",
+  "mise_a_jour": "06/07/2026 19:12",
+  "derniere_verification": "06/07/2026 19:12:56",
+  "fichier_source": "stations-20260706191002.xlsx",
   "total": 79,
   "stations": [
+    {
+      "banniere": "Harnois",
+      "adresse": "1821 rue Sainte-Famille, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 152.4,
+      "lat": 48.431009,
+      "lon": -71.233782
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 152.4,
+      "lat": 48.413826,
+      "lon": -71.246977
+    },
     {
       "banniere": "Irving",
       "adresse": "3635 boul. du Royaume, Saguenay",
@@ -14,6 +30,14 @@
     },
     {
       "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 152.4,
+      "lat": 48.422936,
+      "lon": -71.243563
+    },
+    {
+      "banniere": "Irving",
       "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
       "prix": 152.4,
@@ -21,12 +45,12 @@
       "lon": -71.250599
     },
     {
-      "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
       "prix": 152.4,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Inconnue",
@@ -43,30 +67,6 @@
       "prix": 152.7,
       "lat": 48.40924,
       "lon": -71.052572
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 152.7,
-      "lat": 48.413826,
-      "lon": -71.246977
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "1821 rue Sainte-Famille, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 152.7,
-      "lat": 48.431009,
-      "lon": -71.233782
-    },
-    {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 152.7,
-      "lat": 48.400574,
-      "lon": -71.145998
     },
     {
       "banniere": "Irving",
@@ -117,12 +117,12 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
       "ville": "Jonquiere",
       "prix": 152.7,
-      "lat": 48.424661,
-      "lon": -71.234995
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Harnois",
@@ -133,12 +133,12 @@
       "lon": -71.051965
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1960 rue De Montfort, Saguenay",
+      "ville": "Jonquiere",
       "prix": 152.7,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Esso",
