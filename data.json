@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/07/2026 18:23",
-  "derniere_verification": "06/07/2026 18:23:06",
-  "fichier_source": "stations-20260706182002.xlsx",
+  "mise_a_jour": "06/07/2026 19:00",
+  "derniere_verification": "06/07/2026 19:00:08",
+  "fichier_source": "stations-20260706190002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -237,12 +237,12 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 153.4,
-      "lat": 48.412676,
-      "lon": -71.23162
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Petro-Canada",
@@ -253,12 +253,12 @@
       "lon": -71.140604
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 153.4,
-      "lat": 48.39309,
-      "lon": -71.070497
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "Shell",
@@ -269,20 +269,20 @@
       "lon": -71.070736
     },
     {
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 153.4,
+      "lat": 48.412676,
+      "lon": -71.23162
+    },
+    {
       "banniere": "R.L.",
       "adresse": "68 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 153.4,
       "lat": 48.429329,
       "lon": -71.065922
-    },
-    {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 153.4,
-      "lat": 48.419808,
-      "lon": -71.100018
     },
     {
       "banniere": "R.L.",
@@ -341,6 +341,14 @@
       "lon": -71.134685
     },
     {
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 153.4,
+      "lat": 48.419808,
+      "lon": -71.100018
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
@@ -366,14 +374,6 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 155.4,
-      "lat": 48.441444,
-      "lon": -71.052232
-    },
-    {
-      "banniere": "R.L.",
       "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 155.4,
@@ -382,11 +382,11 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "45 rue Du Pont, Saguenay",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 155.4,
-      "lat": 48.436903,
-      "lon": -71.067338
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "R.L.",
@@ -405,12 +405,12 @@
       "lon": -71.061125
     },
     {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "45 rue Du Pont, Saguenay",
       "ville": "Chicoutimi",
       "prix": 155.4,
-      "lat": 48.44285,
-      "lon": -71.076179
+      "lat": 48.436903,
+      "lon": -71.067338
     },
     {
       "banniere": "Irving",
