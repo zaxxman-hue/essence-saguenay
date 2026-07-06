@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/07/2026 20:18",
-  "derniere_verification": "06/07/2026 20:18:48",
-  "fichier_source": "stations-20260706201502.xlsx",
+  "mise_a_jour": "06/07/2026 20:45",
+  "derniere_verification": "06/07/2026 20:45:31",
+  "fichier_source": "stations-20260706204502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -158,11 +158,11 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 153.4,
-      "lat": 48.452384,
-      "lon": -71.094392
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "Canadian Tire",
@@ -182,19 +182,19 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 153.4,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "lat": 48.452384,
+      "lon": -71.094392
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
       "prix": 153.4,
-      "lat": 48.39309,
-      "lon": -71.070497
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Petro-Canada",
@@ -261,12 +261,12 @@
       "lon": -71.05197
     },
     {
-      "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 153.4,
-      "lat": 48.429329,
-      "lon": -71.065922
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Ultramar",
@@ -277,12 +277,12 @@
       "lon": -71.068372
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "R.L.",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 153.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "R.L.",
@@ -301,12 +301,12 @@
       "lon": -71.259018
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 153.4,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Couche-Tard",
@@ -341,6 +341,14 @@
       "lon": -71.134685
     },
     {
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 153.4,
+      "lat": 48.419808,
+      "lon": -71.100018
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
@@ -355,6 +363,22 @@
       "prix": 153.9,
       "lat": 48.425808,
       "lon": -71.071138
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "45 rue Du Pont, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 155.4,
+      "lat": 48.436903,
+      "lon": -71.067338
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "1845 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 155.4,
+      "lat": 48.441506,
+      "lon": -71.051019
     },
     {
       "banniere": "Petro-Canada",
@@ -373,36 +397,12 @@
       "lon": -71.061125
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1845 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 155.4,
-      "lat": 48.441506,
-      "lon": -71.051019
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "45 rue Du Pont, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 155.4,
-      "lat": 48.436903,
-      "lon": -71.067338
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 155.9,
       "lat": 48.450526,
       "lon": -71.088774
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 155.9,
-      "lat": 48.438557,
-      "lon": -71.061332
     },
     {
       "banniere": "Énergie Express BD",
