@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/07/2026 14:03",
-  "derniere_verification": "06/07/2026 14:03:46",
-  "fichier_source": "stations-20260706140002.xlsx",
+  "mise_a_jour": "06/07/2026 14:25",
+  "derniere_verification": "06/07/2026 14:25:16",
+  "fichier_source": "stations-20260706142502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -269,12 +269,12 @@
       "lon": -71.252854
     },
     {
-      "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 153.4,
-      "lat": 48.317087,
-      "lon": -71.134075
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Énergie DDF",
@@ -285,12 +285,12 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
       "prix": 153.4,
-      "lat": 48.421952,
-      "lon": -71.242838
+      "lat": 48.317087,
+      "lon": -71.134075
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -317,12 +317,12 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 154.4,
-      "lat": 48.316248,
-      "lon": -71.134685
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 153.4,
+      "lat": 48.421952,
+      "lon": -71.242838
     },
     {
       "banniere": "Esso",
