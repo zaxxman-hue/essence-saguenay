@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/07/2026 17:20",
-  "derniere_verification": "06/07/2026 17:20:29",
-  "fichier_source": "stations-20260706172002.xlsx",
+  "mise_a_jour": "06/07/2026 17:46",
+  "derniere_verification": "06/07/2026 17:46:27",
+  "fichier_source": "stations-20260706174002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -157,12 +157,12 @@
       "lon": -71.259124
     },
     {
-      "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "952 rue Du Boulevard, Saguenay",
+      "ville": "Saguenay",
       "prix": 153.4,
-      "lat": 48.429329,
-      "lon": -71.065922
+      "lat": 48.307346,
+      "lon": -71.114422
     },
     {
       "banniere": "Canadian Tire",
@@ -229,12 +229,12 @@
       "lon": -71.059187
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "952 rue Du Boulevard, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 153.4,
-      "lat": 48.307346,
-      "lon": -71.114422
+      "lat": 48.442216,
+      "lon": -71.07443
     },
     {
       "banniere": "Canadian Tire",
@@ -269,12 +269,12 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "R.L.",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 153.4,
-      "lat": 48.316248,
-      "lon": -71.134685
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "Énergie DDF",
@@ -333,6 +333,14 @@
       "lon": -71.252854
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 153.4,
+      "lat": 48.316248,
+      "lon": -71.134685
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
@@ -349,28 +357,12 @@
       "lon": -71.071138
     },
     {
-      "banniere": "R.L.",
-      "adresse": "45 rue Du Pont, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 155.4,
-      "lat": 48.436903,
-      "lon": -71.067338
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 155.4,
       "lat": 48.454509,
       "lon": -71.111521
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 155.4,
-      "lat": 48.442216,
-      "lon": -71.07443
     },
     {
       "banniere": "R.L.",
@@ -381,12 +373,20 @@
       "lon": -71.052232
     },
     {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 155.4,
-      "lat": 48.44285,
-      "lon": -71.076179
+      "lat": 48.452384,
+      "lon": -71.094392
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "45 rue Du Pont, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 155.4,
+      "lat": 48.436903,
+      "lon": -71.067338
     },
     {
       "banniere": "R.L.",
@@ -405,12 +405,12 @@
       "lon": -71.061125
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 155.4,
-      "lat": 48.452384,
-      "lon": -71.094392
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "Irving",
