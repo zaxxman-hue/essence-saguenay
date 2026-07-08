@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "08/07/2026 16:54",
-  "derniere_verification": "08/07/2026 16:54:39",
-  "fichier_source": "stations-20260708165002.xlsx",
+  "mise_a_jour": "08/07/2026 17:25",
+  "derniere_verification": "08/07/2026 17:25:24",
+  "fichier_source": "stations-20260708172502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -573,20 +573,20 @@
       "lon": -70.881141
     },
     {
+      "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "ville": "Saguenay",
+      "prix": 169.4,
+      "lat": 48.209145,
+      "lon": -70.067898
+    },
+    {
       "banniere": "Irving",
       "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 169.4,
       "lat": 48.337232,
       "lon": -70.888533
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
-      "ville": "Saguenay",
-      "prix": 169.9,
-      "lat": 48.209145,
-      "lon": -70.067898
     },
     {
       "banniere": "Nutrinor Énergies",
