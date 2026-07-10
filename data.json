@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "10/07/2026 13:11",
-  "derniere_verification": "10/07/2026 13:11:54",
-  "fichier_source": "stations-20260710131002.xlsx",
+  "mise_a_jour": "10/07/2026 13:27",
+  "derniere_verification": "10/07/2026 13:27:22",
+  "fichier_source": "stations-20260710132002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -205,6 +205,22 @@
       "lon": -71.065681
     },
     {
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 173.4,
+      "lat": 48.317087,
+      "lon": -71.134075
+    },
+    {
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 173.4,
+      "lat": 48.412108,
+      "lon": -71.231414
+    },
+    {
       "banniere": "Énergie DDF",
       "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
@@ -221,20 +237,12 @@
       "lon": -71.261772
     },
     {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 173.4,
-      "lat": 48.412108,
-      "lon": -71.231414
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 173.4,
-      "lat": 48.317087,
-      "lon": -71.134075
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Shell",
@@ -243,14 +251,6 @@
       "prix": 174.9,
       "lat": 48.209145,
       "lon": -70.067898
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.4,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Irving",
@@ -469,12 +469,12 @@
       "lon": -71.28365
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 176.4,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "Irving",
@@ -534,11 +534,11 @@
     },
     {
       "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
       "prix": 176.4,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "R.L.",
@@ -557,12 +557,20 @@
       "lon": -71.242838
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 176.4,
-      "lat": 48.316248,
-      "lon": -71.134685
+      "lat": 48.411103,
+      "lon": -71.052843
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 176.4,
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -571,14 +579,6 @@
       "prix": 176.4,
       "lat": 48.407448,
       "lon": -71.094182
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 176.4,
-      "lat": 48.426389,
-      "lon": -71.259018
     },
     {
       "banniere": "R.L.",
