@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "10/07/2026 18:55",
-  "derniere_verification": "10/07/2026 18:55:44",
-  "fichier_source": "stations-20260710185502.xlsx",
+  "mise_a_jour": "10/07/2026 19:21",
+  "derniere_verification": "10/07/2026 19:21:30",
+  "fichier_source": "stations-20260710192002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -365,20 +365,20 @@
       "lon": -71.23757
     },
     {
-      "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 173.4,
-      "lat": 48.317087,
-      "lon": -71.134075
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 173.4,
       "lat": 48.316248,
       "lon": -71.134685
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 173.4,
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -413,12 +413,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
       "prix": 173.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "lat": 48.317087,
+      "lon": -71.134075
     },
     {
       "banniere": "Esso",
@@ -437,20 +437,20 @@
       "lon": -71.242838
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
-      "prix": 176.4,
-      "lat": 48.404137,
-      "lon": -71.166787
+      "prix": 173.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 176.4,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 173.9,
+      "lat": 48.336456,
+      "lon": -70.889349
     },
     {
       "banniere": "Petro-Canada",
@@ -525,12 +525,20 @@
       "lon": -71.061332
     },
     {
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 176.4,
+      "lat": 48.404137,
+      "lon": -71.166787
+    },
+    {
       "banniere": "R.L.",
-      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 176.4,
-      "lat": 48.396372,
-      "lon": -70.993907
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -541,20 +549,12 @@
       "lon": -71.094182
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.4,
-      "lat": 48.396671,
-      "lon": -71.252854
-    },
-    {
       "banniere": "R.L.",
-      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
+      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 176.4,
-      "lat": 48.32626,
-      "lon": -70.873104
+      "lat": 48.396372,
+      "lon": -70.993907
     },
     {
       "banniere": "Ultramar",
@@ -582,6 +582,14 @@
     },
     {
       "banniere": "R.L.",
+      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 176.4,
+      "lat": 48.32626,
+      "lon": -70.873104
+    },
+    {
+      "banniere": "R.L.",
       "adresse": "1845 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 176.4,
@@ -595,14 +603,6 @@
       "prix": 176.8,
       "lat": 48.353958,
       "lon": -71.324386
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "950 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 176.9,
-      "lat": 48.41388,
-      "lon": -71.067443
     },
     {
       "banniere": "Harnois",
@@ -629,12 +629,12 @@
       "lon": -71.071138
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Harnois",
+      "adresse": "950 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 176.9,
-      "lat": 48.336456,
-      "lon": -70.889349
+      "lat": 48.41388,
+      "lon": -71.067443
     }
   ]
 }
