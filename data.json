@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "10/07/2026 16:59",
-  "derniere_verification": "10/07/2026 16:59:22",
-  "fichier_source": "stations-20260710165502.xlsx",
+  "mise_a_jour": "10/07/2026 17:14",
+  "derniere_verification": "10/07/2026 17:14:50",
+  "fichier_source": "stations-20260710171002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -93,20 +93,20 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "952 rue Du Boulevard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 173.4,
-      "lat": 48.307346,
-      "lon": -71.114422
-    },
-    {
       "banniere": "Irving",
       "adresse": "2005 boul. Mellon, Saguenay",
       "ville": "Jonquiere",
       "prix": 173.4,
       "lat": 48.424585,
       "lon": -71.180502
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 173.4,
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Couche-Tard",
@@ -133,20 +133,20 @@
       "lon": -71.051965
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "952 rue Du Boulevard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 173.4,
+      "lat": 48.307346,
+      "lon": -71.114422
+    },
+    {
       "banniere": "Irving",
       "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
       "prix": 173.4,
       "lat": 48.40314,
       "lon": -71.250599
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "377 rue Sainte Anne, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 173.4,
-      "lat": 48.42592,
-      "lon": -71.068372
     },
     {
       "banniere": "Shell",
@@ -309,20 +309,20 @@
       "lon": -71.212988
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 173.4,
+      "lat": 48.42592,
+      "lon": -71.068372
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "3667 rue Panet, Saguenay",
       "ville": "Jonquiere",
       "prix": 173.4,
       "lat": 48.402262,
       "lon": -71.23757
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 173.4,
-      "lat": 48.426389,
-      "lon": -71.259018
     },
     {
       "banniere": "Esso",
@@ -381,12 +381,12 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 176.4,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 173.4,
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "Petro-Canada",
@@ -422,11 +422,11 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
+      "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 176.4,
-      "lat": 48.395019,
-      "lon": -71.106094
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "R.L.",
@@ -485,28 +485,28 @@
       "lon": -79.03785
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.4,
-      "lat": 48.404137,
-      "lon": -71.166787
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 176.4,
-      "lat": 48.373886,
-      "lon": -71.091169
-    },
-    {
       "banniere": "Irving",
       "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 176.4,
       "lat": 48.438557,
       "lon": -71.061332
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 176.4,
+      "lat": 48.395019,
+      "lon": -71.106094
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 176.4,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Irving",
