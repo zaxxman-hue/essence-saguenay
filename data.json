@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "11/07/2026 19:37",
-  "derniere_verification": "11/07/2026 19:37:05",
-  "fichier_source": "stations-20260711193502.xlsx",
+  "mise_a_jour": "11/07/2026 19:56",
+  "derniere_verification": "11/07/2026 19:56:41",
+  "fichier_source": "stations-20260711195502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -517,6 +517,14 @@
       "lon": -71.171977
     },
     {
+      "banniere": "Crevier",
+      "adresse": "5251 ch. du Quai, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 173.8,
+      "lat": 48.353958,
+      "lon": -71.324386
+    },
+    {
       "banniere": "Nutrinor Énergies",
       "adresse": "1623 rue Bagot, Saguenay",
       "ville": "LaBaie",
@@ -525,12 +533,20 @@
       "lon": -70.889349
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Harnois",
+      "adresse": "3182 rue Saguenay, Rouyn-Noranda",
+      "ville": "Saguenay",
       "prix": 176.4,
-      "lat": 48.331986,
-      "lon": -70.881141
+      "lat": 48.291928,
+      "lon": -79.03785
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2350 boul. Saguenay, Rouyn-Noranda",
+      "ville": "Saguenay",
+      "prix": 176.4,
+      "lat": 48.271731,
+      "lon": -79.027249
     },
     {
       "banniere": "Esso",
@@ -542,27 +558,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2350 boul. Saguenay, Rouyn-Noranda",
-      "ville": "Saguenay",
-      "prix": 176.4,
-      "lat": 48.271731,
-      "lon": -79.027249
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "1312 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 176.4,
       "lat": 48.408178,
       "lon": -71.093216
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "3182 rue Saguenay, Rouyn-Noranda",
-      "ville": "Saguenay",
-      "prix": 176.4,
-      "lat": 48.291928,
-      "lon": -79.03785
     },
     {
       "banniere": "Ultramar",
@@ -589,12 +589,12 @@
       "lon": -71.094182
     },
     {
-      "banniere": "Crevier",
-      "adresse": "5251 ch. du Quai, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.8,
-      "lat": 48.353958,
-      "lon": -71.324386
+      "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 176.4,
+      "lat": 48.331986,
+      "lon": -70.881141
     },
     {
       "banniere": "Petro-Canada",
