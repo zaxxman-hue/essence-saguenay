@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "12/07/2026 14:46",
-  "derniere_verification": "12/07/2026 14:46:10",
-  "fichier_source": "stations-20260712144502.xlsx",
+  "mise_a_jour": "12/07/2026 15:33",
+  "derniere_verification": "12/07/2026 15:33:11",
+  "fichier_source": "stations-20260712153002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -101,12 +101,12 @@
       "lon": -71.052232
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 169.9,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Couche-Tard",
@@ -117,12 +117,12 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
       "prix": 169.9,
-      "lat": 48.44285,
-      "lon": -71.076179
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Ultramar",
@@ -150,19 +150,19 @@
     },
     {
       "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 169.9,
+      "lat": 48.44285,
+      "lon": -71.076179
+    },
+    {
+      "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
       "prix": 169.9,
       "lat": 48.330239,
       "lon": -70.890031
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 169.9,
-      "lat": 48.396671,
-      "lon": -71.252854
     },
     {
       "banniere": "Esso",
@@ -181,20 +181,20 @@
       "lon": -71.065681
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 169.9,
+      "lat": 48.396671,
+      "lon": -71.252854
+    },
+    {
       "banniere": "Irving",
       "adresse": "3754 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 172.7,
       "lat": 48.422936,
       "lon": -71.243563
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 172.7,
-      "lat": 48.411756,
-      "lon": -71.05197
     },
     {
       "banniere": "Shell",
@@ -213,20 +213,20 @@
       "lon": -71.052572
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 172.7,
+      "lat": 48.411756,
+      "lon": -71.05197
+    },
+    {
       "banniere": "Esso",
       "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 173.4,
       "lat": 48.404137,
       "lon": -71.166787
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 173.4,
-      "lat": 48.438557,
-      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
