@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/07/2026 01:02",
-  "derniere_verification": "13/07/2026 01:02:52",
-  "fichier_source": "stations-20260713010002.xlsx",
+  "mise_a_jour": "13/07/2026 01:44",
+  "derniere_verification": "13/07/2026 01:44:08",
+  "fichier_source": "stations-20260713014002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -213,12 +213,12 @@
       "lon": -71.261772
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 169.9,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "lat": 48.421952,
+      "lon": -71.242838
     },
     {
       "banniere": "Petro-Canada",
@@ -245,12 +245,12 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
-      "prix": 172.7,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "prix": 169.9,
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Ultramar",
@@ -261,12 +261,12 @@
       "lon": -71.05197
     },
     {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 172.7,
-      "lat": 48.421952,
-      "lon": -71.242838
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Mobil",
