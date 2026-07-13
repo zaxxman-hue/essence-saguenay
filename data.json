@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/07/2026 15:43",
-  "derniere_verification": "13/07/2026 15:43:14",
-  "fichier_source": "stations-20260713154002.xlsx",
+  "mise_a_jour": "13/07/2026 16:01",
+  "derniere_verification": "13/07/2026 16:01:36",
+  "fichier_source": "stations-20260713160002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -93,12 +93,12 @@
       "lon": -71.145998
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
       "prix": 169.2,
-      "lat": 48.451071,
-      "lon": -71.020099
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Irving",
@@ -109,12 +109,12 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 169.2,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Esso",
@@ -126,11 +126,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "adresse": "3754 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
-      "prix": 169.4,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "prix": 169.2,
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Énergie Express BD",
