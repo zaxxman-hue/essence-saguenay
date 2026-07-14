@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "14/07/2026 20:02",
-  "derniere_verification": "14/07/2026 20:02:05",
-  "fichier_source": "stations-20260714200002.xlsx",
+  "mise_a_jour": "14/07/2026 20:39",
+  "derniere_verification": "14/07/2026 20:39:46",
+  "fichier_source": "stations-20260714203502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -189,14 +189,6 @@
       "lon": -71.134075
     },
     {
-      "banniere": "Crevier",
-      "adresse": "5251 ch. du Quai, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 174.8,
-      "lat": 48.353958,
-      "lon": -71.324386
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "81 rue Price ouest, Saguenay",
       "ville": "Jonquiere",
@@ -214,19 +206,19 @@
     },
     {
       "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.4,
-      "lat": 48.396671,
-      "lon": -71.252854
-    },
-    {
-      "banniere": "Nutrinor Énergies",
       "adresse": "1360 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 179.4,
       "lat": 48.407448,
       "lon": -71.094182
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 179.4,
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Petro-Canada",
@@ -237,6 +229,14 @@
       "lon": -71.114422
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.4,
+      "lat": 48.316248,
+      "lon": -71.134685
+    },
+    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
@@ -245,12 +245,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 179.4,
-      "lat": 48.316248,
-      "lon": -71.134685
+      "banniere": "Crevier",
+      "adresse": "5251 ch. du Quai, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 179.8,
+      "lat": 48.353958,
+      "lon": -71.324386
     },
     {
       "banniere": "Irving",
