@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "14/07/2026 11:27",
-  "derniere_verification": "14/07/2026 11:27:49",
-  "fichier_source": "stations-20260714112501.xlsx",
+  "mise_a_jour": "14/07/2026 11:51",
+  "derniere_verification": "14/07/2026 11:51:18",
+  "fichier_source": "stations-20260714115002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -237,12 +237,12 @@
       "lon": -71.067338
     },
     {
-      "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
-      "prix": 174.4,
-      "lat": 48.338231,
-      "lon": -70.990331
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 173.9,
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Irving",
@@ -333,20 +333,20 @@
       "lon": -70.861146
     },
     {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 174.4,
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
+    {
       "banniere": "Couche-Tard",
       "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 174.4,
       "lat": 48.421176,
       "lon": -71.059061
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 174.4,
-      "lat": 48.373886,
-      "lon": -71.091169
     },
     {
       "banniere": "Irving",
@@ -477,20 +477,20 @@
       "lon": -71.233782
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
       "prix": 174.4,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
       "prix": 174.4,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.338231,
+      "lon": -70.990331
     },
     {
       "banniere": "Esso",
