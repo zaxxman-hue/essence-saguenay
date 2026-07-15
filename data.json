@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "15/07/2026 08:20",
-  "derniere_verification": "15/07/2026 08:20:35",
-  "fichier_source": "stations-20260715082001.xlsx",
+  "mise_a_jour": "15/07/2026 09:48",
+  "derniere_verification": "15/07/2026 09:48:30",
+  "fichier_source": "stations-20260715094501.xlsx",
   "total": 79,
   "stations": [
     {
@@ -165,20 +165,20 @@
       "lon": -70.873104
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 174.4,
+      "lat": 48.316248,
+      "lon": -71.134685
+    },
+    {
       "banniere": "R.L.",
       "adresse": "5822 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 174.4,
       "lat": 48.317087,
       "lon": -71.134075
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 174.9,
-      "lat": 48.450526,
-      "lon": -71.088774
     },
     {
       "banniere": "Petro-Canada",
@@ -190,19 +190,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "952 rue Du Boulevard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 179.4,
-      "lat": 48.307346,
-      "lon": -71.114422
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.4,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 174.9,
+      "lat": 48.450526,
+      "lon": -71.088774
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -211,6 +203,14 @@
       "prix": 179.4,
       "lat": 48.407448,
       "lon": -71.094182
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "952 rue Du Boulevard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.4,
+      "lat": 48.307346,
+      "lon": -71.114422
     },
     {
       "banniere": "Petro-Canada",
@@ -230,11 +230,11 @@
     },
     {
       "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
       "prix": 179.4,
-      "lat": 48.316248,
-      "lon": -71.134685
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Inconnue",
