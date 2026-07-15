@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "15/07/2026 19:59",
-  "derniere_verification": "15/07/2026 19:59:23",
-  "fichier_source": "stations-20260715195502.xlsx",
+  "mise_a_jour": "15/07/2026 20:35",
+  "derniere_verification": "15/07/2026 20:35:45",
+  "fichier_source": "stations-20260715203502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -11,6 +11,14 @@
       "prix": 169.9,
       "lat": 48.337232,
       "lon": -70.888533
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 169.9,
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Canadian Tire",
@@ -29,14 +37,6 @@
       "lon": -70.889349
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1821 rue Sainte-Famille, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 174.4,
-      "lat": 48.431009,
-      "lon": -71.233782
-    },
-    {
       "banniere": "Esso",
       "adresse": "3820 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
@@ -53,12 +53,12 @@
       "lon": -70.990331
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Harnois",
+      "adresse": "1821 rue Sainte-Famille, Saguenay",
+      "ville": "Jonquiere",
       "prix": 174.4,
-      "lat": 48.451071,
-      "lon": -71.020099
+      "lat": 48.431009,
+      "lon": -71.233782
     },
     {
       "banniere": "Pétro-T",
@@ -102,11 +102,11 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 174.4,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Couche-Tard",
@@ -117,12 +117,12 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 174.4,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Ultramar",
