@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "15/07/2026 15:16",
-  "derniere_verification": "15/07/2026 15:16:31",
-  "fichier_source": "stations-20260715151502.xlsx",
+  "mise_a_jour": "15/07/2026 16:01",
+  "derniere_verification": "15/07/2026 16:01:00",
+  "fichier_source": "stations-20260715160002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -269,14 +269,6 @@
       "lon": -71.051019
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 174.9,
-      "lat": 48.373886,
-      "lon": -71.091169
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "81 rue Price ouest, Saguenay",
       "ville": "Jonquiere",
@@ -291,6 +283,14 @@
       "prix": 174.9,
       "lat": 48.450526,
       "lon": -71.088774
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.4,
+      "lat": 48.209145,
+      "lon": -70.067898
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -333,12 +333,12 @@
       "lon": -71.28365
     },
     {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 179.4,
-      "lat": 48.209145,
-      "lon": -70.067898
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Petro-Canada",
