@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "15/07/2026 18:36",
-  "derniere_verification": "15/07/2026 18:36:03",
-  "fichier_source": "stations-20260715183502.xlsx",
+  "mise_a_jour": "15/07/2026 19:04",
+  "derniere_verification": "15/07/2026 19:04:31",
+  "fichier_source": "stations-20260715190002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -70,11 +70,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "2005 boul. Mellon, Saguenay",
+      "ville": "Jonquiere",
       "prix": 174.4,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "Irving",
@@ -94,11 +94,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 174.4,
-      "lat": 48.425557,
-      "lon": -71.26138
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Esso",
@@ -157,12 +157,12 @@
       "lon": -71.094392
     },
     {
-      "banniere": "R.L.",
-      "adresse": "45 rue Du Pont, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
       "prix": 174.4,
-      "lat": 48.436903,
-      "lon": -71.067338
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "R.L.",
@@ -293,12 +293,12 @@
       "lon": -71.277321
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "R.L.",
+      "adresse": "45 rue Du Pont, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 174.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "lat": 48.436903,
+      "lon": -71.067338
     },
     {
       "banniere": "Inconnue",
@@ -357,12 +357,12 @@
       "lon": -71.061125
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 174.9,
-      "lat": 48.450526,
-      "lon": -71.088774
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 174.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Petro-Canada",
@@ -371,6 +371,14 @@
       "prix": 174.9,
       "lat": 48.425808,
       "lon": -71.071138
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 174.9,
+      "lat": 48.450526,
+      "lon": -71.088774
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -389,14 +397,6 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.4,
-      "lat": 48.373886,
-      "lon": -71.091169
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "1312 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
@@ -413,12 +413,12 @@
       "lon": -70.067898
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 179.4,
-      "lat": 48.412676,
-      "lon": -71.23162
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -445,20 +445,20 @@
       "lon": -71.094182
     },
     {
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 179.4,
+      "lat": 48.412676,
+      "lon": -71.23162
+    },
+    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
       "prix": 179.8,
       "lat": 48.353958,
       "lon": -71.324386
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
-      "ville": "Saguenay",
-      "prix": 179.9,
-      "lat": 48.5064,
-      "lon": -71.270068
     },
     {
       "banniere": "Petro-Canada",
@@ -478,11 +478,19 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
+      "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 179.9,
-      "lat": 48.395019,
-      "lon": -71.106094
+      "lat": 48.404137,
+      "lon": -71.166787
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "4500 rte Mathias, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.9,
+      "lat": 48.5064,
+      "lon": -71.270068
     },
     {
       "banniere": "Ultramar",
@@ -493,28 +501,20 @@
       "lon": -71.171977
     },
     {
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 179.9,
+      "lat": 48.395019,
+      "lon": -71.106094
+    },
+    {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 179.9,
       "lat": 48.40924,
       "lon": -71.052572
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.9,
-      "lat": 48.404137,
-      "lon": -71.166787
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.9,
-      "lat": 48.424585,
-      "lon": -71.180502
     },
     {
       "banniere": "Petro-Canada",
