@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/07/2026 17:34",
-  "derniere_verification": "17/07/2026 17:34:58",
-  "fichier_source": "stations-20260717173002.xlsx",
+  "mise_a_jour": "17/07/2026 18:11",
+  "derniere_verification": "17/07/2026 18:11:04",
+  "fichier_source": "stations-20260717181002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -221,20 +221,20 @@
       "lon": -71.070736
     },
     {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 173.0,
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
+    {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 173.0,
       "lat": 48.40924,
       "lon": -71.052572
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 173.4,
-      "lat": 48.412676,
-      "lon": -71.23162
     },
     {
       "banniere": "Énergie DDF",
@@ -245,20 +245,20 @@
       "lon": -71.100018
     },
     {
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 173.4,
+      "lat": 48.412676,
+      "lon": -71.23162
+    },
+    {
       "banniere": "Irving",
       "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 173.7,
       "lat": 48.438557,
       "lon": -71.061332
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 173.7,
-      "lat": 48.44285,
-      "lon": -71.076179
     },
     {
       "banniere": "R.L.",
@@ -349,20 +349,20 @@
       "lon": -71.094392
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 173.7,
-      "lat": 48.403131,
-      "lon": -71.059187
-    },
-    {
       "banniere": "Couche-Tard",
       "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 173.7,
       "lat": 48.421176,
       "lon": -71.059061
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 173.7,
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Ultramar",
@@ -373,20 +373,20 @@
       "lon": -71.05197
     },
     {
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 173.7,
+      "lat": 48.44285,
+      "lon": -71.076179
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 173.7,
       "lat": 48.442216,
       "lon": -71.07443
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 173.7,
-      "lat": 48.39744,
-      "lon": -71.081011
     },
     {
       "banniere": "R.L.",
