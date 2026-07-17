@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/07/2026 01:30",
-  "derniere_verification": "17/07/2026 01:30:00",
-  "fichier_source": "stations-20260717012502.xlsx",
+  "mise_a_jour": "17/07/2026 03:47",
+  "derniere_verification": "17/07/2026 03:47:47",
+  "fichier_source": "stations-20260717034502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -141,12 +141,12 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Ultramar",
+      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 173.7,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.42592,
+      "lon": -71.068372
     },
     {
       "banniere": "Harnois",
@@ -157,12 +157,12 @@
       "lon": -71.051965
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 173.7,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Esso",
@@ -189,12 +189,12 @@
       "lon": -71.233782
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
-      "prix": 174.4,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "prix": 173.7,
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "R.L.",
@@ -214,19 +214,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2728 boul. du Saguenay, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 174.4,
-      "lat": 48.433492,
-      "lon": -71.175803
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "3997 boul. Harvey, Saguenay",
       "ville": "Saguenay",
       "prix": 174.4,
       "lat": 48.414704,
       "lon": -71.259124
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 174.4,
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
@@ -365,12 +365,12 @@
       "lon": -71.076179
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "banniere": "Petro-Canada",
+      "adresse": "2728 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 174.4,
-      "lat": 48.42592,
-      "lon": -71.068372
+      "lat": 48.433492,
+      "lon": -71.175803
     },
     {
       "banniere": "Petro-Canada",
