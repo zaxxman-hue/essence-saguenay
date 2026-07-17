@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/07/2026 18:31",
-  "derniere_verification": "17/07/2026 18:31:55",
-  "fichier_source": "stations-20260717183002.xlsx",
+  "mise_a_jour": "17/07/2026 19:00",
+  "derniere_verification": "17/07/2026 19:00:52",
+  "fichier_source": "stations-20260717190002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -205,12 +205,20 @@
       "lon": -71.020099
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
       "prix": 172.9,
-      "lat": 48.406769,
-      "lon": -71.051965
+      "lat": 48.411254,
+      "lon": -71.261772
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 172.9,
+      "lat": 48.421952,
+      "lon": -71.242838
     },
     {
       "banniere": "Esso",
@@ -221,12 +229,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 172.9,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
       "banniere": "Esso",
@@ -235,14 +243,6 @@
       "prix": 173.0,
       "lat": 48.403131,
       "lon": -71.059187
-    },
-    {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 173.0,
-      "lat": 48.421176,
-      "lon": -71.059061
     },
     {
       "banniere": "Mobil",
@@ -261,12 +261,12 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 173.4,
-      "lat": 48.412676,
-      "lon": -71.23162
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 173.0,
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Énergie DDF",
@@ -277,12 +277,12 @@
       "lon": -71.100018
     },
     {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 173.7,
-      "lat": 48.428994,
-      "lon": -71.027496
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 173.4,
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "R.L.",
@@ -325,12 +325,12 @@
       "lon": -71.065922
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 173.7,
-      "lat": 48.454509,
-      "lon": -71.111521
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Canadian Tire",
@@ -389,20 +389,20 @@
       "lon": -71.052232
     },
     {
-      "banniere": "R.L.",
-      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 173.7,
-      "lat": 48.396372,
-      "lon": -70.993907
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "641 rue Delisle, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 173.7,
-      "lat": 48.421952,
-      "lon": -71.242838
+      "lat": 48.454243,
+      "lon": -71.061125
     },
     {
       "banniere": "R.L.",
@@ -413,12 +413,12 @@
       "lon": -71.051019
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
       "ville": "Chicoutimi",
       "prix": 173.7,
-      "lat": 48.454243,
-      "lon": -71.061125
+      "lat": 48.396372,
+      "lon": -70.993907
     },
     {
       "banniere": "R.L.",
