@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/07/2026 17:07",
-  "derniere_verification": "17/07/2026 17:07:09",
-  "fichier_source": "stations-20260717170502.xlsx",
+  "mise_a_jour": "17/07/2026 17:34",
+  "derniere_verification": "17/07/2026 17:34:58",
+  "fichier_source": "stations-20260717173002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -213,20 +213,20 @@
       "lon": -71.261772
     },
     {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 173.0,
+      "lat": 48.394683,
+      "lon": -71.070736
+    },
+    {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 173.0,
       "lat": 48.40924,
       "lon": -71.052572
-    },
-    {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 173.4,
-      "lat": 48.419808,
-      "lon": -71.100018
     },
     {
       "banniere": "Canadian Tire",
@@ -237,20 +237,20 @@
       "lon": -71.23162
     },
     {
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 173.4,
+      "lat": 48.419808,
+      "lon": -71.100018
+    },
+    {
       "banniere": "Irving",
       "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 173.7,
       "lat": 48.438557,
       "lon": -71.061332
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 173.7,
-      "lat": 48.39309,
-      "lon": -71.070497
     },
     {
       "banniere": "Shell",
@@ -278,11 +278,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
+      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 173.7,
-      "lat": 48.411756,
-      "lon": -71.05197
+      "lat": 48.42592,
+      "lon": -71.068372
     },
     {
       "banniere": "R.L.",
@@ -325,12 +325,12 @@
       "lon": -71.065922
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 173.7,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "R.L.",
@@ -366,11 +366,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "377 rue Sainte Anne, SAGUENAY",
-      "ville": "Jonquiere",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 173.7,
-      "lat": 48.42592,
-      "lon": -71.068372
+      "lat": 48.411756,
+      "lon": -71.05197
     },
     {
       "banniere": "Ultramar",
