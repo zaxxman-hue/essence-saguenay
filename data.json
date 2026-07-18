@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/07/2026 14:42",
-  "derniere_verification": "18/07/2026 14:42:55",
-  "fichier_source": "stations-20260718144002.xlsx",
+  "mise_a_jour": "18/07/2026 15:29",
+  "derniere_verification": "18/07/2026 15:29:27",
+  "fichier_source": "stations-20260718152502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -565,20 +565,20 @@
       "lon": -71.277321
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 174.9,
+      "lat": 48.387452,
+      "lon": -71.114645
+    },
+    {
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
       "prix": 176.9,
       "lat": 48.330239,
       "lon": -70.890031
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.4,
-      "lat": 48.408178,
-      "lon": -71.093216
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -589,20 +589,20 @@
       "lon": -71.094182
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 179.4,
+      "lat": 48.408178,
+      "lon": -71.093216
+    },
+    {
       "banniere": "Harnois",
       "adresse": "1476 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 179.9,
       "lat": 48.42632,
       "lon": -71.023248
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "950 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.9,
-      "lat": 48.41388,
-      "lon": -71.067443
     },
     {
       "banniere": "Esso",
@@ -613,12 +613,12 @@
       "lon": -71.106094
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
+      "banniere": "Harnois",
+      "adresse": "950 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 179.9,
-      "lat": 48.387452,
-      "lon": -71.114645
+      "lat": 48.41388,
+      "lon": -71.067443
     },
     {
       "banniere": "Petro-Canada",
