@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/07/2026 16:00",
-  "derniere_verification": "18/07/2026 16:00:22",
-  "fichier_source": "stations-20260718155502.xlsx",
+  "mise_a_jour": "18/07/2026 16:24",
+  "derniere_verification": "18/07/2026 16:24:18",
+  "fichier_source": "stations-20260718162002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -389,20 +389,20 @@
       "lon": -71.067338
     },
     {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 173.7,
+      "lat": 48.438557,
+      "lon": -71.061332
+    },
+    {
       "banniere": "R.L.",
       "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 173.7,
       "lat": 48.441444,
       "lon": -71.052232
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 173.7,
-      "lat": 48.396372,
-      "lon": -70.993907
     },
     {
       "banniere": "R.L.",
@@ -429,12 +429,12 @@
       "lon": -71.134075
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
       "ville": "Chicoutimi",
       "prix": 173.7,
-      "lat": 48.454509,
-      "lon": -71.111521
+      "lat": 48.396372,
+      "lon": -70.993907
     },
     {
       "banniere": "R.L.",
@@ -446,19 +446,19 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 173.7,
+      "lat": 48.454509,
+      "lon": -71.111521
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 173.9,
       "lat": 48.450526,
       "lon": -71.088774
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 173.9,
-      "lat": 48.438557,
-      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
