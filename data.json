@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/07/2026 13:54",
-  "derniere_verification": "18/07/2026 13:54:39",
-  "fichier_source": "stations-20260718135002.xlsx",
+  "mise_a_jour": "18/07/2026 14:18",
+  "derniere_verification": "18/07/2026 14:18:45",
+  "fichier_source": "stations-20260718141502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -101,20 +101,20 @@
       "lon": -71.243563
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 171.5,
+      "lat": 48.451071,
+      "lon": -71.020099
+    },
+    {
       "banniere": "Esso",
       "adresse": "3 Rue Wing, Saguenay",
       "ville": "Saguenay",
       "prix": 171.5,
       "lat": 48.338231,
       "lon": -70.990331
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 171.5,
-      "lat": 48.406769,
-      "lon": -71.051965
     },
     {
       "banniere": "Esso",
@@ -173,6 +173,14 @@
       "lon": -71.261772
     },
     {
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 171.5,
+      "lat": 48.406769,
+      "lon": -71.051965
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
@@ -187,14 +195,6 @@
       "prix": 172.2,
       "lat": 48.40924,
       "lon": -71.052572
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 172.4,
-      "lat": 48.425557,
-      "lon": -71.26138
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -221,12 +221,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
       "ville": "Saguenay",
-      "prix": 172.9,
-      "lat": 48.414704,
-      "lon": -71.259124
+      "prix": 172.4,
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "R.L.",
@@ -245,20 +245,20 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 172.9,
-      "lat": 48.451071,
-      "lon": -71.020099
+      "lat": 48.442216,
+      "lon": -71.07443
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "adresse": "3997 boul. Harvey, Saguenay",
       "ville": "Saguenay",
       "prix": 172.9,
-      "lat": 48.369606,
-      "lon": -71.28365
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Petro-Canada",
@@ -325,12 +325,12 @@
       "lon": -71.242838
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
       "prix": 172.9,
-      "lat": 48.442216,
-      "lon": -71.07443
+      "lat": 48.369606,
+      "lon": -71.28365
     },
     {
       "banniere": "Esso",
