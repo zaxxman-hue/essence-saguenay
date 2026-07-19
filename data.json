@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "19/07/2026 13:57",
-  "derniere_verification": "19/07/2026 13:57:55",
-  "fichier_source": "stations-20260719135502.xlsx",
+  "mise_a_jour": "19/07/2026 14:22",
+  "derniere_verification": "19/07/2026 14:22:43",
+  "fichier_source": "stations-20260719142002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -581,6 +581,14 @@
       "lon": -71.093216
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 174.9,
+      "lat": 48.407448,
+      "lon": -71.094182
+    },
+    {
       "banniere": "Énergie Express BD",
       "adresse": "3421 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
@@ -595,14 +603,6 @@
       "prix": 176.9,
       "lat": 48.330239,
       "lon": -70.890031
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.4,
-      "lat": 48.407448,
-      "lon": -71.094182
     },
     {
       "banniere": "Harnois",
