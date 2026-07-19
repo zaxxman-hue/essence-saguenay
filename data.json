@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "19/07/2026 20:24",
-  "derniere_verification": "19/07/2026 20:24:32",
-  "fichier_source": "stations-20260719201502.xlsx",
+  "mise_a_jour": "19/07/2026 20:36",
+  "derniere_verification": "19/07/2026 20:36:25",
+  "fichier_source": "stations-20260719203502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -126,11 +126,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 170.8,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "R.L.",
@@ -150,27 +150,27 @@
     },
     {
       "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 170.8,
+      "lat": 48.422936,
+      "lon": -71.243563
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 170.8,
+      "lat": 48.373886,
+      "lon": -71.091169
+    },
+    {
+      "banniere": "Irving",
       "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
       "prix": 170.8,
       "lat": 48.40314,
       "lon": -71.250599
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 170.8,
-      "lat": 48.438557,
-      "lon": -71.061332
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 170.8,
-      "lat": 48.423109,
-      "lon": -71.212988
     },
     {
       "banniere": "Canadian Tire",
@@ -269,12 +269,12 @@
       "lon": -71.070497
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1845 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 170.8,
-      "lat": 48.441506,
-      "lon": -71.051019
+      "lat": 48.423109,
+      "lon": -71.212988
     },
     {
       "banniere": "Esso",
@@ -333,12 +333,12 @@
       "lon": -71.134075
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "1845 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 170.9,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "prix": 170.8,
+      "lat": 48.441506,
+      "lon": -71.051019
     },
     {
       "banniere": "Shell",
