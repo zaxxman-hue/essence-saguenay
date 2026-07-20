@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "20/07/2026 15:25",
-  "derniere_verification": "20/07/2026 15:25:58",
-  "fichier_source": "stations-20260720151502.xlsx",
+  "mise_a_jour": "20/07/2026 15:43",
+  "derniere_verification": "20/07/2026 15:43:13",
+  "fichier_source": "stations-20260720154002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -78,19 +78,19 @@
     },
     {
       "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 169.2,
+      "lat": 48.425557,
+      "lon": -71.26138
+    },
+    {
+      "banniere": "Irving",
       "adresse": "3754 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 169.2,
       "lat": 48.422936,
       "lon": -71.243563
-    },
-    {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 169.2,
-      "lat": 48.421176,
-      "lon": -71.059061
     },
     {
       "banniere": "Irving",
@@ -101,12 +101,12 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 169.2,
-      "lat": 48.424661,
-      "lon": -71.234995
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Petro-Canada",
@@ -165,12 +165,12 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "1960 rue De Montfort, Saguenay",
+      "ville": "Jonquiere",
       "prix": 169.2,
-      "lat": 48.415732,
-      "lon": -71.065681
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Esso",
@@ -181,12 +181,12 @@
       "lon": -71.261772
     },
     {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 169.4,
-      "lat": 48.412108,
-      "lon": -71.231414
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 169.2,
+      "lat": 48.415732,
+      "lon": -71.065681
     },
     {
       "banniere": "Énergie DDF",
@@ -197,12 +197,12 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 169.9,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 169.4,
+      "lat": 48.412108,
+      "lon": -71.231414
     },
     {
       "banniere": "Irving",
@@ -229,12 +229,12 @@
       "lon": -70.881141
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
       "prix": 169.9,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Shell",
@@ -309,12 +309,12 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
+      "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
       "ville": "Saguenay",
       "prix": 169.9,
-      "lat": 48.425557,
-      "lon": -71.26138
+      "lat": 48.209145,
+      "lon": -70.067898
     },
     {
       "banniere": "Ultramar",
@@ -357,12 +357,12 @@
       "lon": -70.873104
     },
     {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 169.9,
-      "lat": 48.209145,
-      "lon": -70.067898
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "Esso",
