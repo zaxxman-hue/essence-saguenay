@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "20/07/2026 18:57",
-  "derniere_verification": "20/07/2026 18:57:10",
-  "fichier_source": "stations-20260720185502.xlsx",
+  "mise_a_jour": "20/07/2026 19:12",
+  "derniere_verification": "20/07/2026 19:12:03",
+  "fichier_source": "stations-20260720191002.xlsx",
   "total": 78,
   "stations": [
     {
@@ -293,28 +293,28 @@
       "lon": -71.067338
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "4391 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 169.9,
+      "lat": 48.470796,
+      "lon": -71.277321
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 169.9,
+      "lat": 48.454509,
+      "lon": -71.111521
+    },
+    {
       "banniere": "Canadian Tire",
       "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
       "ville": "LaBaie",
       "prix": 169.9,
       "lat": 48.336551,
       "lon": -70.882167
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 169.9,
-      "lat": 48.331986,
-      "lon": -70.881141
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 169.9,
-      "lat": 48.402262,
-      "lon": -71.23757
     },
     {
       "banniere": "R.L.",
@@ -334,27 +334,27 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 169.9,
-      "lat": 48.454509,
-      "lon": -71.111521
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
       "ville": "LaBaie",
       "prix": 169.9,
-      "lat": 48.336456,
-      "lon": -70.889349
+      "lat": 48.331986,
+      "lon": -70.881141
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Petro-Canada",
+      "adresse": "3667 rue Panet, Saguenay",
+      "ville": "Jonquiere",
       "prix": 169.9,
-      "lat": 48.32626,
-      "lon": -70.873104
+      "lat": 48.402262,
+      "lon": -71.23757
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "4500 rte Mathias, Saguenay",
+      "ville": "Saguenay",
+      "prix": 169.9,
+      "lat": 48.5064,
+      "lon": -71.270068
     },
     {
       "banniere": "Esso",
@@ -405,6 +405,22 @@
       "lon": -71.134075
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 169.9,
+      "lat": 48.336456,
+      "lon": -70.889349
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 169.9,
+      "lat": 48.32626,
+      "lon": -70.873104
+    },
+    {
       "banniere": "Shell",
       "adresse": "3761 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
@@ -453,12 +469,12 @@
       "lon": -71.114422
     },
     {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
       "prix": 170.8,
-      "lat": 48.428994,
-      "lon": -71.027496
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "R.L.",
@@ -469,12 +485,12 @@
       "lon": -70.993907
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 170.8,
-      "lat": 48.426389,
-      "lon": -71.259018
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Énergie Express BD",
@@ -483,22 +499,6 @@
       "prix": 172.4,
       "lat": 48.458548,
       "lon": -71.260593
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "4391 rte Saint-Léonard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 172.4,
-      "lat": 48.470796,
-      "lon": -71.277321
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
-      "ville": "Saguenay",
-      "prix": 172.4,
-      "lat": 48.5064,
-      "lon": -71.270068
     },
     {
       "banniere": "Ultramar",
