@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "23/07/2026 20:37",
-  "derniere_verification": "23/07/2026 20:37:39",
-  "fichier_source": "stations-20260723203502.xlsx",
+  "mise_a_jour": "23/07/2026 20:49",
+  "derniere_verification": "23/07/2026 20:49:53",
+  "fichier_source": "stations-20260723204502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -86,11 +86,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "3667 rue Panet, Saguenay",
+      "ville": "Jonquiere",
       "prix": 182.7,
-      "lat": 48.369606,
-      "lon": -71.28365
+      "lat": 48.402262,
+      "lon": -71.23757
     },
     {
       "banniere": "Petro-Canada",
@@ -101,12 +101,12 @@
       "lon": -71.259124
     },
     {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
       "prix": 182.7,
-      "lat": 48.421952,
-      "lon": -71.242838
+      "lat": 48.369606,
+      "lon": -71.28365
     },
     {
       "banniere": "Esso",
@@ -133,20 +133,20 @@
       "lon": -71.234999
     },
     {
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 182.7,
+      "lat": 48.421952,
+      "lon": -71.242838
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "1960 rue De Montfort, Saguenay",
       "ville": "Jonquiere",
       "prix": 182.9,
       "lat": 48.424661,
       "lon": -71.234995
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 182.9,
-      "lat": 48.39309,
-      "lon": -71.070497
     },
     {
       "banniere": "Shell",
@@ -166,19 +166,19 @@
     },
     {
       "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 182.9,
+      "lat": 48.39309,
+      "lon": -71.070497
+    },
+    {
+      "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 182.9,
       "lat": 48.39744,
       "lon": -71.081011
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 182.9,
-      "lat": 48.451071,
-      "lon": -71.020099
     },
     {
       "banniere": "Couche-Tard",
@@ -195,6 +195,14 @@
       "prix": 182.9,
       "lat": 48.403131,
       "lon": -71.059187
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 182.9,
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Canadian Tire",
@@ -221,14 +229,6 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 183.7,
-      "lat": 48.423109,
-      "lon": -71.212988
-    },
-    {
       "banniere": "Canadian Tire",
       "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -237,12 +237,12 @@
       "lon": -71.052843
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 183.7,
-      "lat": 48.356563,
-      "lon": -71.055264
+      "lat": 48.423109,
+      "lon": -71.212988
     },
     {
       "banniere": "Ultramar",
@@ -254,11 +254,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
       "prix": 183.7,
-      "lat": 48.402262,
-      "lon": -71.23757
+      "lat": 48.356563,
+      "lon": -71.055264
     },
     {
       "banniere": "Nutrinor Énergies",
