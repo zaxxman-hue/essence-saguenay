@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "23/07/2026 16:38",
-  "derniere_verification": "23/07/2026 16:38:52",
-  "fichier_source": "stations-20260723163502.xlsx",
+  "mise_a_jour": "23/07/2026 16:52",
+  "derniere_verification": "23/07/2026 16:52:51",
+  "fichier_source": "stations-20260723165002.xlsx",
   "total": 78,
   "stations": [
+    {
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 182.4,
+      "lat": 48.412108,
+      "lon": -71.231414
+    },
     {
       "banniere": "Pétro-T",
       "adresse": "2320 rue Dubose, Saguenay",
@@ -11,14 +19,6 @@
       "prix": 182.9,
       "lat": 48.400574,
       "lon": -71.145998
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 182.9,
-      "lat": 48.413826,
-      "lon": -71.246977
     },
     {
       "banniere": "Harnois",
@@ -29,12 +29,12 @@
       "lon": -71.233782
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 182.9,
-      "lat": 48.406769,
-      "lon": -71.051965
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Esso",
@@ -53,20 +53,20 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Irving",
-      "adresse": "3635 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 182.9,
-      "lat": 48.421137,
-      "lon": -71.234999
-    },
-    {
       "banniere": "Esso",
       "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 182.9,
       "lat": 48.411254,
       "lon": -71.261772
+    },
+    {
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 182.9,
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
       "banniere": "Esso",
@@ -86,27 +86,19 @@
     },
     {
       "banniere": "Irving",
+      "adresse": "3635 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 183.4,
+      "lat": 48.421137,
+      "lon": -71.234999
+    },
+    {
+      "banniere": "Irving",
       "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
       "prix": 183.4,
       "lat": 48.40314,
       "lon": -71.250599
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 183.4,
-      "lat": 48.412676,
-      "lon": -71.23162
-    },
-    {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 183.4,
-      "lat": 48.412108,
-      "lon": -71.231414
     },
     {
       "banniere": "Énergie DDF",
@@ -115,6 +107,14 @@
       "prix": 183.4,
       "lat": 48.419808,
       "lon": -71.100018
+    },
+    {
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 183.4,
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Couche-Tard",
