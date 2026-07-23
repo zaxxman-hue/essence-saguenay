@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "23/07/2026 22:29",
-  "derniere_verification": "23/07/2026 22:29:36",
-  "fichier_source": "stations-20260723222502.xlsx",
+  "mise_a_jour": "23/07/2026 22:50",
+  "derniere_verification": "23/07/2026 22:50:37",
+  "fichier_source": "stations-20260723225002.xlsx",
   "total": 78,
   "stations": [
     {
@@ -181,20 +181,20 @@
       "lon": -71.05197
     },
     {
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 182.9,
+      "lat": 48.411103,
+      "lon": -71.052843
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 182.9,
       "lat": 48.423109,
       "lon": -71.212988
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 182.9,
-      "lat": 48.403131,
-      "lon": -71.059187
     },
     {
       "banniere": "Ultramar",
@@ -221,12 +221,12 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 183.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 182.9,
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Canadian Tire",
@@ -237,12 +237,12 @@
       "lon": -71.23162
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 183.7,
-      "lat": 48.452384,
-      "lon": -71.094392
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 183.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Shell",
@@ -254,11 +254,11 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 183.7,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "lat": 48.452384,
+      "lon": -71.094392
     },
     {
       "banniere": "Petro-Canada",
@@ -301,12 +301,12 @@
       "lon": -71.067338
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 183.7,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "Ultramar",
