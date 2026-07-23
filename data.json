@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "23/07/2026 16:06",
-  "derniere_verification": "23/07/2026 16:06:49",
-  "fichier_source": "stations-20260723160502.xlsx",
+  "mise_a_jour": "23/07/2026 16:38",
+  "derniere_verification": "23/07/2026 16:38:52",
+  "fichier_source": "stations-20260723163502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -45,6 +45,22 @@
       "lon": -70.990331
     },
     {
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 182.9,
+      "lat": 48.422936,
+      "lon": -71.243563
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "3635 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 182.9,
+      "lat": 48.421137,
+      "lon": -71.234999
+    },
+    {
       "banniere": "Esso",
       "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
@@ -83,22 +99,6 @@
       "prix": 183.4,
       "lat": 48.412676,
       "lon": -71.23162
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "3635 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 183.4,
-      "lat": 48.421137,
-      "lon": -71.234999
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 183.4,
-      "lat": 48.422936,
-      "lon": -71.243563
     },
     {
       "banniere": "Inconnue",
