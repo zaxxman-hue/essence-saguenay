@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "23/07/2026 16:52",
-  "derniere_verification": "23/07/2026 16:52:51",
-  "fichier_source": "stations-20260723165002.xlsx",
+  "mise_a_jour": "23/07/2026 17:16",
+  "derniere_verification": "23/07/2026 17:16:23",
+  "fichier_source": "stations-20260723171502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -46,19 +46,19 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
       "prix": 182.9,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Irving",
+      "adresse": "3635 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 182.9,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.421137,
+      "lon": -71.234999
     },
     {
       "banniere": "Harnois",
@@ -70,11 +70,27 @@
     },
     {
       "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 182.9,
+      "lat": 48.411254,
+      "lon": -71.261772
+    },
+    {
+      "banniere": "Esso",
       "adresse": "138 rue Dubé, Saguenay",
       "ville": "Chicoutimi",
       "prix": 182.9,
       "lat": 48.415732,
       "lon": -71.065681
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 182.9,
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Mobil",
@@ -83,22 +99,6 @@
       "prix": 183.0,
       "lat": 48.40924,
       "lon": -71.052572
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "3635 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 183.4,
-      "lat": 48.421137,
-      "lon": -71.234999
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 183.4,
-      "lat": 48.40314,
-      "lon": -71.250599
     },
     {
       "banniere": "Énergie DDF",
