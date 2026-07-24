@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "24/07/2026 01:30",
-  "derniere_verification": "24/07/2026 01:30:17",
-  "fichier_source": "stations-20260724013002.xlsx",
+  "mise_a_jour": "24/07/2026 03:54",
+  "derniere_verification": "24/07/2026 03:54:50",
+  "fichier_source": "stations-20260724035002.xlsx",
   "total": 78,
   "stations": [
     {
@@ -53,12 +53,12 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Irving",
+      "adresse": "3635 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 181.9,
-      "lat": 48.421176,
-      "lon": -71.059061
+      "lat": 48.421137,
+      "lon": -71.234999
     },
     {
       "banniere": "Esso",
@@ -77,28 +77,12 @@
       "lon": -71.250599
     },
     {
-      "banniere": "Irving",
-      "adresse": "3635 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 181.9,
-      "lat": 48.421137,
-      "lon": -71.234999
-    },
-    {
       "banniere": "Shell",
       "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 181.9,
       "lat": 48.394683,
       "lon": -71.070736
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 181.9,
-      "lat": 48.411254,
-      "lon": -71.261772
     },
     {
       "banniere": "Esso",
@@ -109,12 +93,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 182.2,
-      "lat": 48.40924,
-      "lon": -71.052572
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 181.9,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Ultramar",
@@ -123,6 +107,14 @@
       "prix": 182.2,
       "lat": 48.411756,
       "lon": -71.05197
+    },
+    {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 182.2,
+      "lat": 48.40924,
+      "lon": -71.052572
     },
     {
       "banniere": "Inconnue",
@@ -150,6 +142,14 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
+      "prix": 182.7,
+      "lat": 48.414704,
+      "lon": -71.259124
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 182.7,
@@ -174,11 +174,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
-      "prix": 182.7,
-      "lat": 48.414704,
-      "lon": -71.259124
+      "adresse": "1960 rue De Montfort, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 182.9,
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Ultramar",
@@ -197,12 +197,12 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 182.9,
-      "lat": 48.424661,
-      "lon": -71.234995
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Ultramar",
