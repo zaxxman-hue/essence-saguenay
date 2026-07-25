@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "25/07/2026 11:40",
-  "derniere_verification": "25/07/2026 11:40:15",
-  "fichier_source": "stations-20260725114002.xlsx",
+  "mise_a_jour": "25/07/2026 12:02",
+  "derniere_verification": "25/07/2026 12:02:31",
+  "fichier_source": "stations-20260725120002.xlsx",
   "total": 78,
   "stations": [
     {
@@ -229,14 +229,6 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 181.7,
-      "lat": 48.425557,
-      "lon": -71.26138
-    },
-    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
@@ -253,14 +245,6 @@
       "lon": -71.28365
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "377 rue Sainte Anne, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 181.9,
-      "lat": 48.42592,
-      "lon": -71.068372
-    },
-    {
       "banniere": "Canadian Tire",
       "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -270,11 +254,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "adresse": "377 rue Sainte Anne, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 181.9,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "lat": 48.42592,
+      "lon": -71.068372
     },
     {
       "banniere": "Ultramar",
@@ -285,12 +269,28 @@
       "lon": -71.05197
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 181.9,
+      "lat": 48.423109,
+      "lon": -71.212988
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "3997 boul. Harvey, Saguenay",
       "ville": "Saguenay",
       "prix": 181.9,
       "lat": 48.414704,
       "lon": -71.259124
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 182.4,
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Petro-Canada",
@@ -325,20 +325,20 @@
       "lon": -71.061125
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 182.4,
-      "lat": 48.316248,
-      "lon": -71.134685
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 182.4,
       "lat": 48.442216,
       "lon": -71.07443
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 182.7,
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "R.L.",
