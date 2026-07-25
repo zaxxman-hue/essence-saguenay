@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "25/07/2026 22:47",
-  "derniere_verification": "25/07/2026 22:47:09",
-  "fichier_source": "stations-20260725224502.xlsx",
+  "mise_a_jour": "25/07/2026 23:28",
+  "derniere_verification": "25/07/2026 23:28:37",
+  "fichier_source": "stations-20260725232502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -109,12 +109,28 @@
       "lon": -71.059187
     },
     {
-      "banniere": "Énergie Express BD",
-      "adresse": "3421 rte Saint-Léonard, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 179.9,
+      "lat": 48.39309,
+      "lon": -71.070497
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
       "ville": "Saguenay",
       "prix": 179.9,
-      "lat": 48.458548,
-      "lon": -71.260593
+      "lat": 48.356563,
+      "lon": -71.055264
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 179.9,
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Shell",
@@ -125,12 +141,12 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Énergie Express BD",
+      "adresse": "3421 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
       "prix": 179.9,
-      "lat": 48.39309,
-      "lon": -71.070497
+      "lat": 48.458548,
+      "lon": -71.260593
     },
     {
       "banniere": "Esso",
@@ -147,22 +163,6 @@
       "prix": 179.9,
       "lat": 48.411254,
       "lon": -71.261772
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 181.2,
-      "lat": 48.408298,
-      "lon": -71.054487
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
-      "prix": 181.2,
-      "lat": 48.356563,
-      "lon": -71.055264
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -605,12 +605,12 @@
       "lon": -79.03785
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1476 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 189.9,
-      "lat": 48.42632,
-      "lon": -71.023248
+      "banniere": "Petro-Canada",
+      "adresse": "2350 boul. Saguenay, Rouyn-Noranda",
+      "ville": "Saguenay",
+      "prix": 189.4,
+      "lat": 48.271731,
+      "lon": -79.027249
     },
     {
       "banniere": "Harnois",
@@ -621,12 +621,12 @@
       "lon": -71.067443
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2350 boul. Saguenay, Rouyn-Noranda",
-      "ville": "Saguenay",
-      "prix": 199.4,
-      "lat": 48.271731,
-      "lon": -79.027249
+      "banniere": "Harnois",
+      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 189.9,
+      "lat": 48.42632,
+      "lon": -71.023248
     }
   ]
 }
