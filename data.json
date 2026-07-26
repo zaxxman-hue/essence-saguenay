@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "26/07/2026 14:55",
-  "derniere_verification": "26/07/2026 14:55:13",
-  "fichier_source": "stations-20260726145502.xlsx",
+  "mise_a_jour": "26/07/2026 15:38",
+  "derniere_verification": "26/07/2026 15:38:29",
+  "fichier_source": "stations-20260726153502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -341,14 +341,6 @@
       "lon": -71.076179
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 182.4,
-      "lat": 48.452384,
-      "lon": -71.094392
-    },
-    {
       "banniere": "Esso",
       "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
@@ -358,11 +350,19 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 182.4,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "lat": 48.452384,
+      "lon": -71.094392
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 182.4,
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -371,6 +371,14 @@
       "prix": 182.4,
       "lat": 48.316248,
       "lon": -71.134685
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 182.4,
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "Ultramar",
@@ -387,14 +395,6 @@
       "prix": 182.7,
       "lat": 48.425557,
       "lon": -71.26138
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 182.9,
-      "lat": 48.438557,
-      "lon": -71.061332
     },
     {
       "banniere": "R.L.",
