@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "26/07/2026 14:05",
-  "derniere_verification": "26/07/2026 14:05:09",
-  "fichier_source": "stations-20260726140502.xlsx",
+  "mise_a_jour": "26/07/2026 14:27",
+  "derniere_verification": "26/07/2026 14:27:00",
+  "fichier_source": "stations-20260726142502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -341,6 +341,14 @@
       "lon": -71.076179
     },
     {
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 182.4,
+      "lat": 48.452384,
+      "lon": -71.094392
+    },
+    {
       "banniere": "Esso",
       "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
@@ -349,12 +357,12 @@
       "lon": -71.091169
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 182.4,
-      "lat": 48.442216,
-      "lon": -71.07443
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -365,12 +373,28 @@
       "lon": -71.134685
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 182.4,
+      "lat": 48.442216,
+      "lon": -71.07443
+    },
+    {
       "banniere": "Irving",
       "adresse": "4024 boul. du Royaume, Saguenay",
       "ville": "Saguenay",
       "prix": 182.7,
       "lat": 48.425557,
       "lon": -71.26138
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 182.9,
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "R.L.",
@@ -387,30 +411,6 @@
       "prix": 182.9,
       "lat": 48.450526,
       "lon": -71.088774
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 182.9,
-      "lat": 48.438557,
-      "lon": -71.061332
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 182.9,
-      "lat": 48.441444,
-      "lon": -71.052232
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 182.9,
-      "lat": 48.452384,
-      "lon": -71.094392
     },
     {
       "banniere": "R.L.",
