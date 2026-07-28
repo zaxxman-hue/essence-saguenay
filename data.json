@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "28/07/2026 08:40",
-  "derniere_verification": "28/07/2026 08:40:22",
-  "fichier_source": "stations-20260728084002.xlsx",
+  "mise_a_jour": "28/07/2026 10:21",
+  "derniere_verification": "28/07/2026 10:21:59",
+  "fichier_source": "stations-20260728102002.xlsx",
   "total": 78,
   "stations": [
     {
@@ -357,14 +357,6 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 181.4,
-      "lat": 48.40314,
-      "lon": -71.250599
-    },
-    {
       "banniere": "Shell",
       "adresse": "3761 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
@@ -379,6 +371,14 @@
       "prix": 181.8,
       "lat": 48.353958,
       "lon": -71.324386
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 181.9,
+      "lat": 48.423109,
+      "lon": -71.212988
     },
     {
       "banniere": "R.L.",
@@ -397,28 +397,12 @@
       "lon": -70.993907
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 181.9,
-      "lat": 48.423109,
-      "lon": -71.212988
-    },
-    {
       "banniere": "R.L.",
       "adresse": "130 rue Arthur-Hamel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 182.9,
       "lat": 48.428994,
       "lon": -71.027496
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 184.4,
-      "lat": 48.404702,
-      "lon": -71.171977
     },
     {
       "banniere": "Irving",
@@ -429,12 +413,28 @@
       "lon": -71.180502
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 184.4,
+      "lat": 48.404702,
+      "lon": -71.171977
+    },
+    {
       "banniere": "Esso",
       "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 184.4,
       "lat": 48.404137,
       "lon": -71.166787
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 184.9,
+      "lat": 48.331986,
+      "lon": -70.881141
     },
     {
       "banniere": "Petro-Canada",
@@ -461,22 +461,6 @@
       "lon": -71.106094
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 184.9,
-      "lat": 48.331986,
-      "lon": -70.881141
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 184.9,
-      "lat": 48.373886,
-      "lon": -71.091169
-    },
-    {
       "banniere": "Esso",
       "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -493,6 +477,22 @@
       "lon": -71.059061
     },
     {
+      "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "ville": "Saguenay",
+      "prix": 184.9,
+      "lat": 48.209145,
+      "lon": -70.067898
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 184.9,
+      "lat": 48.40314,
+      "lon": -71.250599
+    },
+    {
       "banniere": "Esso",
       "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
@@ -501,20 +501,20 @@
       "lon": -70.861146
     },
     {
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 184.9,
+      "lat": 48.373886,
+      "lon": -71.091169
+    },
+    {
       "banniere": "Irving",
       "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 184.9,
       "lat": 48.438557,
       "lon": -71.061332
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
-      "ville": "Saguenay",
-      "prix": 184.9,
-      "lat": 48.209145,
-      "lon": -70.067898
     },
     {
       "banniere": "Irving",
