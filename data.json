@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "30/07/2026 16:05",
-  "derniere_verification": "30/07/2026 16:05:50",
-  "fichier_source": "stations-20260730160502.xlsx",
+  "mise_a_jour": "30/07/2026 16:38",
+  "derniere_verification": "30/07/2026 16:38:26",
+  "fichier_source": "stations-20260730163502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -205,12 +205,12 @@
       "lon": -71.055264
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
       "prix": 178.4,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Esso",
@@ -219,6 +219,14 @@
       "prix": 178.4,
       "lat": 48.415732,
       "lon": -71.065681
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 178.4,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Crevier",
@@ -230,14 +238,6 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.1,
-      "lat": 48.429329,
-      "lon": -71.065922
-    },
-    {
-      "banniere": "R.L.",
       "adresse": "5822 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 179.1,
@@ -245,12 +245,12 @@
       "lon": -71.134075
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3073 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.4,
-      "lat": 48.40886,
-      "lon": -71.19486
+      "banniere": "R.L.",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 179.1,
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "Petro-Canada",
@@ -269,12 +269,12 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
       "prix": 179.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "Shell",
@@ -293,12 +293,12 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "3073 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 179.4,
-      "lat": 48.426389,
-      "lon": -71.259018
+      "lat": 48.40886,
+      "lon": -71.19486
     },
     {
       "banniere": "Petro-Canada",
