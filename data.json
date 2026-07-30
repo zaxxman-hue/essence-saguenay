@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "30/07/2026 16:57",
-  "derniere_verification": "30/07/2026 16:57:18",
-  "fichier_source": "stations-20260730165002.xlsx",
+  "mise_a_jour": "30/07/2026 17:21",
+  "derniere_verification": "30/07/2026 17:21:42",
+  "fichier_source": "stations-20260730172002.xlsx",
   "total": 78,
   "stations": [
     {
@@ -213,12 +213,12 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 178.4,
-      "lat": 48.415732,
-      "lon": -71.065681
+      "lat": 48.412108,
+      "lon": -71.231414
     },
     {
       "banniere": "Esso",
@@ -227,6 +227,14 @@
       "prix": 178.4,
       "lat": 48.411254,
       "lon": -71.261772
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 178.4,
+      "lat": 48.415732,
+      "lon": -71.065681
     },
     {
       "banniere": "Crevier",
@@ -238,14 +246,6 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 179.1,
-      "lat": 48.317087,
-      "lon": -71.134075
-    },
-    {
-      "banniere": "R.L.",
       "adresse": "68 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 179.1,
@@ -253,12 +253,12 @@
       "lon": -71.065922
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.4,
-      "lat": 48.435333,
-      "lon": -71.140604
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.1,
+      "lat": 48.317087,
+      "lon": -71.134075
     },
     {
       "banniere": "Canadian Tire",
@@ -277,20 +277,20 @@
       "lon": -71.19486
     },
     {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.4,
-      "lat": 48.421952,
-      "lon": -71.242838
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 179.4,
       "lat": 48.316248,
       "lon": -71.134685
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 179.4,
+      "lat": 48.435333,
+      "lon": -71.140604
     },
     {
       "banniere": "Esso",
@@ -317,12 +317,12 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 179.4,
-      "lat": 48.412108,
-      "lon": -71.231414
+      "lat": 48.421952,
+      "lon": -71.242838
     },
     {
       "banniere": "Nutrinor Énergies",
