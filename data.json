@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "31/07/2026 18:51",
-  "derniere_verification": "31/07/2026 18:51:10",
-  "fichier_source": "stations-20260731185002.xlsx",
+  "mise_a_jour": "31/07/2026 19:18",
+  "derniere_verification": "31/07/2026 19:18:28",
+  "fichier_source": "stations-20260731191502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -109,12 +109,12 @@
       "lon": -71.05197
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 176.9,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Esso",
@@ -125,12 +125,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 177.4,
-      "lat": 48.402262,
-      "lon": -71.23757
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 176.9,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -173,12 +173,12 @@
       "lon": -71.28365
     },
     {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 177.7,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "banniere": "Petro-Canada",
+      "adresse": "3667 rue Panet, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 177.4,
+      "lat": 48.402262,
+      "lon": -71.23757
     },
     {
       "banniere": "R.L.",
@@ -189,12 +189,12 @@
       "lon": -71.094392
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 177.7,
-      "lat": 48.39309,
-      "lon": -71.070497
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "Petro-Canada",
@@ -213,20 +213,20 @@
       "lon": -71.234995
     },
     {
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 177.7,
+      "lat": 48.44285,
+      "lon": -71.076179
+    },
+    {
       "banniere": "R.L.",
       "adresse": "130 rue Arthur-Hamel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 177.7,
       "lat": 48.428994,
       "lon": -71.027496
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "377 rue Sainte Anne, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 177.7,
-      "lat": 48.42592,
-      "lon": -71.068372
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -254,11 +254,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 177.7,
-      "lat": 48.442216,
-      "lon": -71.07443
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Canadian Tire",
@@ -269,12 +269,12 @@
       "lon": -71.052843
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Ultramar",
+      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 177.7,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.42592,
+      "lon": -71.068372
     },
     {
       "banniere": "Petro-Canada",
@@ -341,12 +341,12 @@
       "lon": -71.134075
     },
     {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 177.7,
-      "lat": 48.44285,
-      "lon": -71.076179
+      "lat": 48.442216,
+      "lon": -71.07443
     },
     {
       "banniere": "Irving",
