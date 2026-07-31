@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "31/07/2026 17:00",
-  "derniere_verification": "31/07/2026 17:00:08",
-  "fichier_source": "stations-20260731165502.xlsx",
+  "mise_a_jour": "31/07/2026 17:25",
+  "derniere_verification": "31/07/2026 17:25:04",
+  "fichier_source": "stations-20260731172003.xlsx",
   "total": 78,
   "stations": [
+    {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 176.2,
+      "lat": 48.40924,
+      "lon": -71.052572
+    },
     {
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
@@ -11,14 +19,6 @@
       "prix": 176.9,
       "lat": 48.411756,
       "lon": -71.05197
-    },
-    {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 177.0,
-      "lat": 48.40924,
-      "lon": -71.052572
     },
     {
       "banniere": "Petro-Canada",
