@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "01/08/2026 18:27",
-  "derniere_verification": "01/08/2026 18:27:21",
-  "fichier_source": "stations-20260801182502.xlsx",
+  "mise_a_jour": "01/08/2026 19:02",
+  "derniere_verification": "01/08/2026 19:02:24",
+  "fichier_source": "stations-20260801185503.xlsx",
   "total": 78,
   "stations": [
     {
@@ -13,20 +13,20 @@
       "lon": -71.052572
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 175.5,
+      "lat": 48.411756,
+      "lon": -71.05197
+    },
+    {
       "banniere": "Énergie Express BD",
       "adresse": "3421 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
       "prix": 175.9,
       "lat": 48.458548,
       "lon": -71.260593
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.2,
-      "lat": 48.413826,
-      "lon": -71.246977
     },
     {
       "banniere": "Pétro-T",
@@ -53,12 +53,12 @@
       "lon": -71.051965
     },
     {
-      "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 176.2,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Harnois",
@@ -110,19 +110,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.2,
-      "lat": 48.402262,
-      "lon": -71.23757
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "3997 boul. Harvey, Saguenay",
       "ville": "Saguenay",
       "prix": 176.2,
       "lat": 48.414704,
       "lon": -71.259124
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 176.2,
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Irving",
@@ -133,12 +133,12 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "3667 rue Panet, Saguenay",
+      "ville": "Jonquiere",
       "prix": 176.2,
-      "lat": 48.411756,
-      "lon": -71.05197
+      "lat": 48.402262,
+      "lon": -71.23757
     },
     {
       "banniere": "Shell",
