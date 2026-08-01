@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "01/08/2026 22:47",
-  "derniere_verification": "01/08/2026 22:47:53",
-  "fichier_source": "stations-20260801224502.xlsx",
+  "mise_a_jour": "01/08/2026 23:27",
+  "derniere_verification": "01/08/2026 23:27:00",
+  "fichier_source": "stations-20260801232502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -77,12 +77,28 @@
       "lon": -71.250599
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
+      "prix": 175.5,
+      "lat": 48.369606,
+      "lon": -71.28365
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 175.5,
       "lat": 48.411756,
       "lon": -71.05197
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
+      "prix": 175.5,
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Esso",
@@ -107,22 +123,6 @@
       "prix": 175.9,
       "lat": 48.458548,
       "lon": -71.260593
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
-      "prix": 176.2,
-      "lat": 48.414704,
-      "lon": -71.259124
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.2,
-      "lat": 48.424661,
-      "lon": -71.234995
     },
     {
       "banniere": "Irving",
@@ -150,11 +150,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "1960 rue De Montfort, Saguenay",
+      "ville": "Jonquiere",
       "prix": 176.2,
-      "lat": 48.369606,
-      "lon": -71.28365
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Ultramar",
