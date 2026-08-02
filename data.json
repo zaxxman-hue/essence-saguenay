@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "02/08/2026 16:53",
-  "derniere_verification": "02/08/2026 16:53:57",
-  "fichier_source": "stations-20260802165002.xlsx",
+  "mise_a_jour": "02/08/2026 17:29",
+  "derniere_verification": "02/08/2026 17:29:36",
+  "fichier_source": "stations-20260802172502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -69,28 +69,28 @@
       "lon": -71.051965
     },
     {
+      "banniere": "Irving",
+      "adresse": "3635 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 175.5,
+      "lat": 48.421137,
+      "lon": -71.234999
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 175.5,
+      "lat": 48.422936,
+      "lon": -71.243563
+    },
+    {
       "banniere": "Couche-Tard",
       "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 175.5,
       "lat": 48.421176,
       "lon": -71.059061
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 175.5,
-      "lat": 48.40314,
-      "lon": -71.250599
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
-      "prix": 175.5,
-      "lat": 48.369606,
-      "lon": -71.28365
     },
     {
       "banniere": "Ultramar",
@@ -149,12 +149,12 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
       "prix": 175.5,
-      "lat": 48.415732,
-      "lon": -71.065681
+      "lat": 48.369606,
+      "lon": -71.28365
     },
     {
       "banniere": "Esso",
@@ -165,20 +165,20 @@
       "lon": -71.261772
     },
     {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.5,
+      "lat": 48.415732,
+      "lon": -71.065681
+    },
+    {
       "banniere": "Énergie Express BD",
       "adresse": "3421 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
       "prix": 175.9,
       "lat": 48.458548,
       "lon": -71.260593
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "3635 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.2,
-      "lat": 48.421137,
-      "lon": -71.234999
     },
     {
       "banniere": "Ultramar",
@@ -190,11 +190,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
       "prix": 176.2,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Shell",
