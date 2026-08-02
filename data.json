@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "02/08/2026 15:37",
-  "derniere_verification": "02/08/2026 15:37:46",
-  "fichier_source": "stations-20260802153503.xlsx",
+  "mise_a_jour": "02/08/2026 16:03",
+  "derniere_verification": "02/08/2026 16:03:04",
+  "fichier_source": "stations-20260802160003.xlsx",
   "total": 78,
   "stations": [
     {
@@ -542,11 +542,27 @@
     },
     {
       "banniere": "Shell",
+      "adresse": "342 rue 6, Saguenay",
+      "ville": "LaBaie",
+      "prix": 184.9,
+      "lat": 48.330239,
+      "lon": -70.890031
+    },
+    {
+      "banniere": "Shell",
       "adresse": "60 rue Dumas, Petit-Saguenay",
       "ville": "Saguenay",
       "prix": 184.9,
       "lat": 48.209145,
       "lon": -70.067898
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 184.9,
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Irving",
@@ -565,6 +581,22 @@
       "lon": -71.114422
     },
     {
+      "banniere": "Harnois",
+      "adresse": "950 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 184.9,
+      "lat": 48.41388,
+      "lon": -71.067443
+    },
+    {
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
+      "ville": "LaBaie",
+      "prix": 184.9,
+      "lat": 48.336551,
+      "lon": -70.882167
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
       "ville": "LaBaie",
@@ -573,12 +605,12 @@
       "lon": -70.881141
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Harnois",
+      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 184.9,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "lat": 48.42632,
+      "lon": -71.023248
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -595,38 +627,6 @@
       "prix": 184.9,
       "lat": 48.32626,
       "lon": -70.873104
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "342 rue 6, Saguenay",
-      "ville": "LaBaie",
-      "prix": 184.9,
-      "lat": 48.330239,
-      "lon": -70.890031
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
-      "prix": 184.9,
-      "lat": 48.336551,
-      "lon": -70.882167
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "950 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 189.9,
-      "lat": 48.41388,
-      "lon": -71.067443
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "1476 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 189.9,
-      "lat": 48.42632,
-      "lon": -71.023248
     }
   ]
 }
