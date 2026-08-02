@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "02/08/2026 12:02",
-  "derniere_verification": "02/08/2026 12:02:25",
-  "fichier_source": "stations-20260802120002.xlsx",
+  "mise_a_jour": "02/08/2026 12:34",
+  "derniere_verification": "02/08/2026 12:34:36",
+  "fichier_source": "stations-20260802123002.xlsx",
   "total": 78,
   "stations": [
     {
@@ -221,12 +221,12 @@
       "lon": -71.061332
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 176.9,
-      "lat": 48.356563,
-      "lon": -71.055264
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Petro-Canada",
@@ -294,19 +294,19 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
+      "prix": 176.9,
+      "lat": 48.356563,
+      "lon": -71.055264
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "1312 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 176.9,
       "lat": 48.408178,
       "lon": -71.093216
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.9,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Ultramar",
@@ -333,6 +333,14 @@
       "lon": -71.134075
     },
     {
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 176.9,
+      "lat": 48.395019,
+      "lon": -71.106094
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "641 rue Delisle, Saguenay",
       "ville": "Chicoutimi",
@@ -350,14 +358,6 @@
     },
     {
       "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 177.4,
-      "lat": 48.396671,
-      "lon": -71.252854
-    },
-    {
-      "banniere": "Nutrinor Énergies",
       "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 177.4,
@@ -365,12 +365,12 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
       "prix": 177.4,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Inconnue",
