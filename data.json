@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "04/08/2026 00:00",
-  "derniere_verification": "04/08/2026 00:00:33",
-  "fichier_source": "stations-20260804000003.xlsx",
+  "mise_a_jour": "04/08/2026 00:58",
+  "derniere_verification": "04/08/2026 00:58:18",
+  "fichier_source": "stations-20260804005502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -69,20 +69,20 @@
       "lon": -71.243563
     },
     {
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 173.4,
+      "lat": 48.40314,
+      "lon": -71.250599
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 173.4,
       "lat": 48.411756,
       "lon": -71.05197
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 173.4,
-      "lat": 48.411254,
-      "lon": -71.261772
     },
     {
       "banniere": "Esso",
@@ -93,12 +93,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
-      "prix": 173.9,
-      "lat": 48.425557,
-      "lon": -71.26138
+      "prix": 173.4,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Petro-Canada",
@@ -190,11 +190,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
       "prix": 173.9,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Esso",
