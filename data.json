@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "04/08/2026 20:51",
-  "derniere_verification": "04/08/2026 20:51:54",
-  "fichier_source": "stations-20260804205003.xlsx",
+  "mise_a_jour": "04/08/2026 21:02",
+  "derniere_verification": "04/08/2026 21:02:42",
+  "fichier_source": "stations-20260804210003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -16,7 +16,7 @@
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
-      "prix": 171.2,
+      "prix": 170.5,
       "lat": 48.411756,
       "lon": -71.05197
     },
