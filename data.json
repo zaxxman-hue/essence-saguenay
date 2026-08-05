@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "05/08/2026 20:00",
-  "derniere_verification": "05/08/2026 20:00:24",
-  "fichier_source": "stations-20260805200003.xlsx",
+  "mise_a_jour": "05/08/2026 20:19",
+  "derniere_verification": "05/08/2026 20:19:41",
+  "fichier_source": "stations-20260805201502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -11,6 +11,22 @@
       "prix": 166.2,
       "lat": 48.40924,
       "lon": -71.052572
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 166.2,
+      "lat": 48.411756,
+      "lon": -71.05197
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 166.9,
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Esso",
@@ -27,22 +43,6 @@
       "prix": 166.9,
       "lat": 48.356563,
       "lon": -71.055264
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 166.9,
-      "lat": 48.408298,
-      "lon": -71.054487
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 166.9,
-      "lat": 48.411756,
-      "lon": -71.05197
     },
     {
       "banniere": "Shell",
