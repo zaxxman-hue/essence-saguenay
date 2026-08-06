@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/08/2026 12:56",
-  "derniere_verification": "06/08/2026 12:56:11",
-  "fichier_source": "stations-20260806125503.xlsx",
+  "mise_a_jour": "06/08/2026 13:09",
+  "derniere_verification": "06/08/2026 13:09:43",
+  "fichier_source": "stations-20260806130503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -232,17 +232,17 @@
       "banniere": "Ultramar",
       "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
       "ville": "Chicoutimi",
-      "prix": 166.4,
+      "prix": 165.9,
       "lat": 48.442216,
       "lon": -71.07443
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 166.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -253,12 +253,12 @@
       "lon": -71.252854
     },
     {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
       "prix": 166.4,
-      "lat": 48.44285,
-      "lon": -71.076179
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Ultramar",
