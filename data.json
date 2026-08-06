@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/08/2026 01:24",
-  "derniere_verification": "06/08/2026 01:24:11",
-  "fichier_source": "stations-20260806012003.xlsx",
+  "mise_a_jour": "06/08/2026 03:50",
+  "derniere_verification": "06/08/2026 03:50:37",
+  "fichier_source": "stations-20260806035003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -77,20 +77,20 @@
       "lon": -71.234999
     },
     {
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 165.5,
+      "lat": 48.40314,
+      "lon": -71.250599
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 165.5,
       "lat": 48.411756,
       "lon": -71.05197
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 165.5,
-      "lat": 48.415732,
-      "lon": -71.065681
     },
     {
       "banniere": "Esso",
@@ -101,12 +101,12 @@
       "lon": -71.261772
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 166.9,
-      "lat": 48.421176,
-      "lon": -71.059061
+      "prix": 165.5,
+      "lat": 48.415732,
+      "lon": -71.065681
     },
     {
       "banniere": "Ultramar",
@@ -117,20 +117,20 @@
       "lon": -71.081011
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 166.9,
-      "lat": 48.442216,
-      "lon": -71.07443
-    },
-    {
       "banniere": "Esso",
       "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 166.9,
       "lat": 48.403131,
       "lon": -71.059187
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 166.9,
+      "lat": 48.442216,
+      "lon": -71.07443
     },
     {
       "banniere": "Petro-Canada",
@@ -173,12 +173,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 166.9,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Petro-Canada",
