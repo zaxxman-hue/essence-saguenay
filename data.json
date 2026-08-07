@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "07/08/2026 00:49",
-  "derniere_verification": "07/08/2026 00:49:43",
-  "fichier_source": "stations-20260807004503.xlsx",
+  "mise_a_jour": "07/08/2026 00:56",
+  "derniere_verification": "07/08/2026 00:56:58",
+  "fichier_source": "stations-20260807005503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -389,6 +389,14 @@
       "lon": -71.088774
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 164.9,
+      "lat": 48.387452,
+      "lon": -71.114645
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "81 rue Price ouest, Saguenay",
       "ville": "Jonquiere",
@@ -411,14 +419,6 @@
       "prix": 165.5,
       "lat": 48.412676,
       "lon": -71.23162
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 165.9,
-      "lat": 48.387452,
-      "lon": -71.114645
     },
     {
       "banniere": "Esso",
