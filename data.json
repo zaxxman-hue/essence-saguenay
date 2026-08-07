@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "07/08/2026 23:25",
-  "derniere_verification": "07/08/2026 23:25:57",
-  "fichier_source": "stations-20260807232503.xlsx",
+  "mise_a_jour": "07/08/2026 23:56",
+  "derniere_verification": "07/08/2026 23:56:41",
+  "fichier_source": "stations-20260807235503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -16,7 +16,7 @@
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
-      "prix": 159.5,
+      "prix": 158.8,
       "lat": 48.411756,
       "lon": -71.05197
     },
@@ -341,6 +341,14 @@
       "lon": -71.231414
     },
     {
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 161.9,
+      "lat": 48.395019,
+      "lon": -71.106094
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1333 Boul. du Royaume est, SAGUENAY",
       "ville": "Saguenay",
@@ -363,14 +371,6 @@
       "prix": 162.9,
       "lat": 48.450526,
       "lon": -71.088774
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 162.9,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Petro-Canada",
