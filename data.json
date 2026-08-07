@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "07/08/2026 00:34",
-  "derniere_verification": "07/08/2026 00:34:48",
-  "fichier_source": "stations-20260807003003.xlsx",
+  "mise_a_jour": "07/08/2026 00:48",
+  "derniere_verification": "07/08/2026 00:48:33",
+  "fichier_source": "stations-20260807004503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -213,6 +213,14 @@
       "lon": -71.07443
     },
     {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 163.4,
+      "lat": 48.394683,
+      "lon": -71.070736
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "377 rue Sainte Anne, SAGUENAY",
       "ville": "Jonquiere",
@@ -222,19 +230,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 164.4,
-      "lat": 48.454243,
-      "lon": -71.061125
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 164.4,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
       "banniere": "Shell",
@@ -245,20 +245,20 @@
       "lon": -71.076179
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 164.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "adresse": "641 rue Delisle, Saguenay",
       "ville": "Chicoutimi",
       "prix": 164.4,
-      "lat": 48.454509,
-      "lon": -71.111521
+      "lat": 48.454243,
+      "lon": -71.061125
     },
     {
       "banniere": "Inconnue",
@@ -277,12 +277,12 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 164.8,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 164.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "R.L.",
@@ -294,11 +294,11 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 164.8,
-      "lat": 48.428994,
-      "lon": -71.027496
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "R.L.",
@@ -333,20 +333,20 @@
       "lon": -71.067338
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 164.8,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 164.8,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "Ultramar",
