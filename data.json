@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "07/08/2026 14:10",
-  "derniere_verification": "07/08/2026 14:10:56",
-  "fichier_source": "stations-20260807141003.xlsx",
+  "mise_a_jour": "07/08/2026 14:29",
+  "derniere_verification": "07/08/2026 14:29:25",
+  "fichier_source": "stations-20260807142502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -445,12 +445,12 @@
       "lon": -71.106094
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 164.9,
-      "lat": 48.425808,
-      "lon": -71.071138
+      "lat": 48.407448,
+      "lon": -71.094182
     },
     {
       "banniere": "Ultramar",
@@ -467,6 +467,14 @@
       "prix": 164.9,
       "lat": 48.408178,
       "lon": -71.093216
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 164.9,
+      "lat": 48.425808,
+      "lon": -71.071138
     },
     {
       "banniere": "Canadian Tire",
@@ -493,14 +501,6 @@
       "lon": -71.171977
     },
     {
-      "banniere": "Crevier",
-      "adresse": "2922 boul. du Saguenay, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 167.9,
-      "lat": 48.433314,
-      "lon": -71.187357
-    },
-    {
       "banniere": "Esso",
       "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
@@ -509,12 +509,12 @@
       "lon": -71.166787
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "banniere": "Crevier",
+      "adresse": "2922 boul. du Saguenay, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 167.9,
-      "lat": 48.407448,
-      "lon": -71.094182
+      "lat": 48.433314,
+      "lon": -71.187357
     },
     {
       "banniere": "Petro-Canada",
