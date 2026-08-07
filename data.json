@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "07/08/2026 14:29",
-  "derniere_verification": "07/08/2026 14:29:25",
-  "fichier_source": "stations-20260807142502.xlsx",
+  "mise_a_jour": "07/08/2026 14:43",
+  "derniere_verification": "07/08/2026 14:43:28",
+  "fichier_source": "stations-20260807144003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -301,12 +301,20 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 162.9,
-      "lat": 48.44285,
-      "lon": -71.076179
+      "lat": 48.450526,
+      "lon": -71.088774
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 162.9,
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
       "banniere": "Ultramar",
@@ -317,28 +325,20 @@
       "lon": -71.07443
     },
     {
-      "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 163.4,
-      "lat": 48.429329,
-      "lon": -71.065922
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 163.4,
-      "lat": 48.396372,
-      "lon": -70.993907
-    },
-    {
       "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "adresse": "641 rue Delisle, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 163.4,
-      "lat": 48.454509,
-      "lon": -71.111521
+      "prix": 162.9,
+      "lat": 48.454243,
+      "lon": -71.061125
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 162.9,
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "R.L.",
@@ -358,11 +358,11 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 163.4,
-      "lat": 48.452384,
-      "lon": -71.094392
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "Irving",
@@ -371,6 +371,14 @@
       "prix": 163.4,
       "lat": 48.438557,
       "lon": -71.061332
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 163.4,
+      "lat": 48.452384,
+      "lon": -71.094392
     },
     {
       "banniere": "R.L.",
@@ -389,14 +397,6 @@
       "lon": -71.051019
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 163.4,
-      "lat": 48.454243,
-      "lon": -71.061125
-    },
-    {
       "banniere": "R.L.",
       "adresse": "5822 boul. Talbot, Saguenay",
       "ville": "Saguenay",
@@ -405,12 +405,12 @@
       "lon": -71.134075
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 163.9,
-      "lat": 48.450526,
-      "lon": -71.088774
+      "prix": 163.4,
+      "lat": 48.396372,
+      "lon": -70.993907
     },
     {
       "banniere": "Petro-Canada",
