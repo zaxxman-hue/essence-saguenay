@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "07/08/2026 00:20",
-  "derniere_verification": "07/08/2026 00:20:01",
-  "fichier_source": "stations-20260807001503.xlsx",
+  "mise_a_jour": "07/08/2026 00:34",
+  "derniere_verification": "07/08/2026 00:34:48",
+  "fichier_source": "stations-20260807003003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -421,6 +421,14 @@
       "lon": -71.114645
     },
     {
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 165.9,
+      "lat": 48.395019,
+      "lon": -71.106094
+    },
+    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
@@ -435,14 +443,6 @@
       "prix": 166.9,
       "lat": 48.307346,
       "lon": -71.114422
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 166.9,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Nutrinor Énergies",
