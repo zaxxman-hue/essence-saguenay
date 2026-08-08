@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "08/08/2026 08:26",
-  "derniere_verification": "08/08/2026 08:26:24",
-  "fichier_source": "stations-20260808082503.xlsx",
+  "mise_a_jour": "08/08/2026 10:37",
+  "derniere_verification": "08/08/2026 10:37:32",
+  "fichier_source": "stations-20260808103502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -557,12 +557,12 @@
       "lon": -70.881141
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
       "ville": "LaBaie",
-      "prix": 174.9,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "prix": 169.9,
+      "lat": 48.336551,
+      "lon": -70.882167
     },
     {
       "banniere": "Harnois",
@@ -605,12 +605,12 @@
       "lon": -70.873104
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2350 boul. Saguenay, Rouyn-Noranda",
-      "ville": "Saguenay",
-      "prix": 179.4,
-      "lat": 48.271731,
-      "lon": -79.027249
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 174.9,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Harnois",
@@ -621,12 +621,12 @@
       "lon": -79.03785
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
-      "prix": 184.9,
-      "lat": 48.336551,
-      "lon": -70.882167
+      "banniere": "Petro-Canada",
+      "adresse": "2350 boul. Saguenay, Rouyn-Noranda",
+      "ville": "Saguenay",
+      "prix": 179.4,
+      "lat": 48.271731,
+      "lon": -79.027249
     },
     {
       "banniere": "Shell",
