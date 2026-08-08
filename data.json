@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "08/08/2026 19:05",
-  "derniere_verification": "08/08/2026 19:05:00",
-  "fichier_source": "stations-20260808185503.xlsx",
+  "mise_a_jour": "08/08/2026 19:19",
+  "derniere_verification": "08/08/2026 19:19:40",
+  "fichier_source": "stations-20260808191502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -134,19 +134,19 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 158.8,
-      "lat": 48.411254,
-      "lon": -71.261772
-    },
-    {
-      "banniere": "Esso",
       "adresse": "138 rue Dubé, Saguenay",
       "ville": "Chicoutimi",
       "prix": 158.8,
       "lat": 48.415732,
       "lon": -71.065681
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 158.8,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -155,6 +155,14 @@
       "prix": 158.8,
       "lat": 48.396671,
       "lon": -71.252854
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 158.8,
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "Ultramar",
@@ -171,14 +179,6 @@
       "prix": 158.9,
       "lat": 48.39744,
       "lon": -71.081011
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 160.2,
-      "lat": 48.442216,
-      "lon": -71.07443
     },
     {
       "banniere": "R.L.",
@@ -213,12 +213,12 @@
       "lon": -71.061332
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "R.L.",
+      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 160.2,
-      "lat": 48.426389,
-      "lon": -71.259018
+      "lat": 48.396372,
+      "lon": -70.993907
     },
     {
       "banniere": "R.L.",
@@ -229,12 +229,12 @@
       "lon": -71.134075
     },
     {
-      "banniere": "R.L.",
-      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 160.2,
-      "lat": 48.396372,
-      "lon": -70.993907
+      "lat": 48.442216,
+      "lon": -71.07443
     },
     {
       "banniere": "R.L.",
