@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "08/08/2026 14:58",
-  "derniere_verification": "08/08/2026 14:58:35",
-  "fichier_source": "stations-20260808145503.xlsx",
+  "mise_a_jour": "08/08/2026 15:33",
+  "derniere_verification": "08/08/2026 15:33:47",
+  "fichier_source": "stations-20260808153005.xlsx",
   "total": 79,
   "stations": [
     {
@@ -253,12 +253,12 @@
       "lon": -71.076179
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
       "prix": 160.4,
-      "lat": 48.454509,
-      "lon": -71.111521
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Énergie DDF",
@@ -286,11 +286,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 160.9,
-      "lat": 48.424661,
-      "lon": -71.234995
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 160.4,
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
       "banniere": "Ultramar",
@@ -326,11 +326,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2728 boul. du Saguenay, Saguenay",
+      "adresse": "1960 rue De Montfort, Saguenay",
       "ville": "Jonquiere",
-      "prix": 161.3,
-      "lat": 48.433492,
-      "lon": -71.175803
+      "prix": 160.9,
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Petro-Canada",
@@ -341,12 +341,12 @@
       "lon": -71.19486
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "2728 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 161.3,
-      "lat": 48.404137,
-      "lon": -71.166787
+      "lat": 48.433492,
+      "lon": -71.175803
     },
     {
       "banniere": "Ultramar",
@@ -371,6 +371,14 @@
       "prix": 161.3,
       "lat": 48.424585,
       "lon": -71.180502
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 161.3,
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "Petro-Canada",
@@ -443,14 +451,6 @@
       "prix": 163.4,
       "lat": 48.441506,
       "lon": -71.051019
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 163.4,
-      "lat": 48.373886,
-      "lon": -71.091169
     },
     {
       "banniere": "R.L.",
