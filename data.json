@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "09/08/2026 02:36",
-  "derniere_verification": "09/08/2026 02:36:05",
-  "fichier_source": "stations-20260809023005.xlsx",
+  "mise_a_jour": "09/08/2026 03:28",
+  "derniere_verification": "09/08/2026 03:28:03",
+  "fichier_source": "stations-20260809032503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -549,12 +549,12 @@
       "lon": -70.067898
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
       "ville": "LaBaie",
       "prix": 169.9,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "lat": 48.331986,
+      "lon": -70.881141
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -563,14 +563,6 @@
       "prix": 169.9,
       "lat": 48.336456,
       "lon": -70.889349
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 169.9,
-      "lat": 48.331986,
-      "lon": -70.881141
     },
     {
       "banniere": "Canadian Tire",
@@ -589,6 +581,14 @@
       "lon": -71.067443
     },
     {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 174.9,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "Harnois",
       "adresse": "1476 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
@@ -605,12 +605,12 @@
       "lon": -70.873104
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 174.9,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Harnois",
