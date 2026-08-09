@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "09/08/2026 12:53",
-  "derniere_verification": "09/08/2026 12:53:35",
-  "fichier_source": "stations-20260809125003.xlsx",
+  "mise_a_jour": "09/08/2026 13:27",
+  "derniere_verification": "09/08/2026 13:27:53",
+  "fichier_source": "stations-20260809132502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -589,12 +589,12 @@
       "lon": -70.873104
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1476 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 174.9,
-      "lat": 48.42632,
-      "lon": -71.023248
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 172.4,
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Harnois",
@@ -605,12 +605,12 @@
       "lon": -71.067443
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Harnois",
+      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 174.9,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "lat": 48.42632,
+      "lon": -71.023248
     },
     {
       "banniere": "Harnois",
