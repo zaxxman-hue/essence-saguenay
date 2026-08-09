@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "09/08/2026 00:50",
-  "derniere_verification": "09/08/2026 00:50:18",
-  "fichier_source": "stations-20260809005003.xlsx",
+  "mise_a_jour": "09/08/2026 02:36",
+  "derniere_verification": "09/08/2026 02:36:05",
+  "fichier_source": "stations-20260809023005.xlsx",
   "total": 79,
   "stations": [
     {
@@ -421,12 +421,12 @@
       "lon": -71.114645
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 161.9,
-      "lat": 48.408178,
-      "lon": -71.093216
+      "lat": 48.407448,
+      "lon": -71.094182
     },
     {
       "banniere": "Esso",
@@ -438,11 +438,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
-      "prix": 162.9,
-      "lat": 48.425808,
-      "lon": -71.071138
+      "prix": 161.9,
+      "lat": 48.408178,
+      "lon": -71.093216
     },
     {
       "banniere": "Petro-Canada",
@@ -453,12 +453,12 @@
       "lon": -71.088774
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1845 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 163.4,
-      "lat": 48.441506,
-      "lon": -71.051019
+      "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 162.9,
+      "lat": 48.425808,
+      "lon": -71.071138
     },
     {
       "banniere": "R.L.",
@@ -477,12 +477,12 @@
       "lon": -71.067338
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 163.9,
-      "lat": 48.407448,
-      "lon": -71.094182
+      "banniere": "R.L.",
+      "adresse": "1845 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 163.4,
+      "lat": 48.441506,
+      "lon": -71.051019
     },
     {
       "banniere": "Petro-Canada",
