@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "10/08/2026 16:50",
-  "derniere_verification": "10/08/2026 16:50:06",
-  "fichier_source": "stations-20260810165003.xlsx",
+  "mise_a_jour": "10/08/2026 17:14",
+  "derniere_verification": "10/08/2026 17:14:53",
+  "fichier_source": "stations-20260810171003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -549,28 +549,12 @@
       "lon": -70.067898
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
       "prix": 169.9,
-      "lat": 48.337232,
-      "lon": -70.888533
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 169.9,
-      "lat": 48.336456,
-      "lon": -70.889349
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 169.9,
-      "lat": 48.331986,
-      "lon": -70.881141
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Canadian Tire",
@@ -581,6 +565,22 @@
       "lon": -70.882167
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 169.9,
+      "lat": 48.331986,
+      "lon": -70.881141
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 169.9,
+      "lat": 48.337232,
+      "lon": -70.888533
+    },
+    {
       "banniere": "R.L.",
       "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
@@ -589,12 +589,12 @@
       "lon": -70.873104
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1476 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 174.9,
-      "lat": 48.42632,
-      "lon": -71.023248
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 169.9,
+      "lat": 48.336456,
+      "lon": -70.889349
     },
     {
       "banniere": "Harnois",
@@ -605,12 +605,12 @@
       "lon": -71.067443
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Harnois",
+      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 174.9,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "lat": 48.42632,
+      "lon": -71.023248
     },
     {
       "banniere": "Harnois",
