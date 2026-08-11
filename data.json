@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "11/08/2026 17:59",
-  "derniere_verification": "11/08/2026 17:59:57",
-  "fichier_source": "stations-20260811175503.xlsx",
+  "mise_a_jour": "11/08/2026 18:13",
+  "derniere_verification": "11/08/2026 18:13:35",
+  "fichier_source": "stations-20260811181003.xlsx",
   "total": 79,
   "stations": [
+    {
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 156.4,
+      "lat": 48.442216,
+      "lon": -71.07443
+    },
     {
       "banniere": "Shell",
       "adresse": "487 boul. Sainte-Geneviève, Saguenay",
@@ -27,14 +35,6 @@
       "prix": 156.5,
       "lat": 48.451071,
       "lon": -71.020099
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 156.5,
-      "lat": 48.39744,
-      "lon": -71.081011
     },
     {
       "banniere": "Petro-Canada",
@@ -62,11 +62,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 156.5,
-      "lat": 48.442216,
-      "lon": -71.07443
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Ultramar",
@@ -189,6 +189,14 @@
       "lon": -71.134685
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "952 rue Du Boulevard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 157.4,
+      "lat": 48.307346,
+      "lon": -71.114422
+    },
+    {
       "banniere": "Énergie DDF",
       "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
@@ -203,14 +211,6 @@
       "prix": 157.9,
       "lat": 48.425808,
       "lon": -71.071138
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "952 rue Du Boulevard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 158.4,
-      "lat": 48.307346,
-      "lon": -71.114422
     },
     {
       "banniere": "R.L.",
