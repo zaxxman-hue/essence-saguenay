@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "12/08/2026 14:33",
-  "derniere_verification": "12/08/2026 14:33:44",
-  "fichier_source": "stations-20260812143005.xlsx",
+  "mise_a_jour": "12/08/2026 14:48",
+  "derniere_verification": "12/08/2026 14:48:58",
+  "fichier_source": "stations-20260812144503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -29,20 +29,20 @@
       "lon": -71.070736
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 162.9,
+      "lat": 48.387452,
+      "lon": -71.114645
+    },
+    {
       "banniere": "Esso",
       "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 163.9,
       "lat": 48.395019,
       "lon": -71.106094
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 163.9,
-      "lat": 48.387452,
-      "lon": -71.114645
     },
     {
       "banniere": "Énergie DDF",
