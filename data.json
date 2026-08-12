@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "12/08/2026 16:53",
-  "derniere_verification": "12/08/2026 16:53:08",
-  "fichier_source": "stations-20260812165003.xlsx",
+  "mise_a_jour": "12/08/2026 17:24",
+  "derniere_verification": "12/08/2026 17:24:18",
+  "fichier_source": "stations-20260812172003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -197,20 +197,20 @@
       "lon": -71.140604
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 165.4,
-      "lat": 48.373886,
-      "lon": -71.091169
-    },
-    {
       "banniere": "Irving",
       "adresse": "2005 boul. Mellon, Saguenay",
       "ville": "Jonquiere",
       "prix": 165.4,
       "lat": 48.424585,
       "lon": -71.180502
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 165.4,
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Petro-Canada",
@@ -229,12 +229,12 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 165.4,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -293,12 +293,12 @@
       "lon": -71.061125
     },
     {
-      "banniere": "Crevier",
-      "adresse": "2922 boul. du Saguenay, SAGUENAY",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
-      "prix": 165.5,
-      "lat": 48.433314,
-      "lon": -71.187357
+      "prix": 165.4,
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Petro-Canada",
@@ -309,12 +309,12 @@
       "lon": -71.270068
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
+      "banniere": "Crevier",
+      "adresse": "2922 boul. du Saguenay, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 165.5,
-      "lat": 48.404137,
-      "lon": -71.166787
+      "lat": 48.433314,
+      "lon": -71.187357
     },
     {
       "banniere": "Ultramar",
