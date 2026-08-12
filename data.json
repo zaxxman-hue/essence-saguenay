@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "12/08/2026 16:00",
-  "derniere_verification": "12/08/2026 16:00:54",
-  "fichier_source": "stations-20260812160003.xlsx",
+  "mise_a_jour": "12/08/2026 16:15",
+  "derniere_verification": "12/08/2026 16:15:00",
+  "fichier_source": "stations-20260812161003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -150,14 +150,6 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 165.4,
-      "lat": 48.454509,
-      "lon": -71.111521
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "3667 rue Panet, Saguenay",
       "ville": "Jonquiere",
       "prix": 165.4,
@@ -166,19 +158,27 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
+      "prix": 165.4,
+      "lat": 48.369606,
+      "lon": -71.28365
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 165.4,
+      "lat": 48.454509,
+      "lon": -71.111521
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "2245 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 165.4,
       "lat": 48.435333,
       "lon": -71.140604
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 165.4,
-      "lat": 48.316248,
-      "lon": -71.134685
     },
     {
       "banniere": "Esso",
@@ -237,20 +237,20 @@
       "lon": -71.252854
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 165.4,
+      "lat": 48.316248,
+      "lon": -71.134685
+    },
+    {
       "banniere": "Crevier",
       "adresse": "2922 boul. du Saguenay, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 165.5,
       "lat": 48.433314,
       "lon": -71.187357
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 165.5,
-      "lat": 48.412676,
-      "lon": -71.23162
     },
     {
       "banniere": "Petro-Canada",
@@ -261,12 +261,12 @@
       "lon": -71.270068
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 165.5,
-      "lat": 48.369606,
-      "lon": -71.28365
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Irving",
