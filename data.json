@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/08/2026 13:14",
-  "derniere_verification": "13/08/2026 13:14:32",
-  "fichier_source": "stations-20260813131003.xlsx",
+  "mise_a_jour": "13/08/2026 13:53",
+  "derniere_verification": "13/08/2026 13:53:52",
+  "fichier_source": "stations-20260813135003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -157,12 +157,12 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 164.7,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.423109,
+      "lon": -71.212988
     },
     {
       "banniere": "Irving",
@@ -197,6 +197,14 @@
       "lon": -71.145998
     },
     {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 164.7,
+      "lat": 48.411254,
+      "lon": -71.261772
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "1312 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
@@ -205,20 +213,20 @@
       "lon": -71.093216
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "4391 rte Saint-Léonard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 164.9,
-      "lat": 48.470796,
-      "lon": -71.277321
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "1360 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 164.9,
       "lat": 48.407448,
       "lon": -71.094182
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "4391 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 164.9,
+      "lat": 48.470796,
+      "lon": -71.277321
     },
     {
       "banniere": "Petro-Canada",
@@ -238,14 +246,6 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3073 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 165.4,
-      "lat": 48.40886,
-      "lon": -71.19486
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "952 rue Du Boulevard, Saguenay",
       "ville": "Saguenay",
       "prix": 165.4,
@@ -254,19 +254,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "adresse": "3073 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 165.4,
-      "lat": 48.435333,
-      "lon": -71.140604
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 165.4,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "lat": 48.40886,
+      "lon": -71.19486
     },
     {
       "banniere": "Petro-Canada",
@@ -275,6 +267,14 @@
       "prix": 165.4,
       "lat": 48.369606,
       "lon": -71.28365
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 165.4,
+      "lat": 48.435333,
+      "lon": -71.140604
     },
     {
       "banniere": "Petro-Canada",
