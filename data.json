@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/08/2026 18:15",
-  "derniere_verification": "13/08/2026 18:15:13",
-  "fichier_source": "stations-20260813181503.xlsx",
+  "mise_a_jour": "13/08/2026 18:56",
+  "derniere_verification": "13/08/2026 18:56:48",
+  "fichier_source": "stations-20260813185503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -29,6 +29,38 @@
       "lon": -71.231414
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 156.4,
+      "lat": 48.316248,
+      "lon": -71.134685
+    },
+    {
+      "banniere": "Harnois",
+      "adresse": "1821 rue Sainte-Famille, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 156.5,
+      "lat": 48.431009,
+      "lon": -71.233782
+    },
+    {
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 156.5,
+      "lat": 48.400574,
+      "lon": -71.145998
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 156.5,
+      "lat": 48.413826,
+      "lon": -71.246977
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
@@ -38,43 +70,11 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
-      "prix": 156.5,
-      "lat": 48.338231,
-      "lon": -70.990331
-    },
-    {
-      "banniere": "Esso",
       "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 156.5,
       "lat": 48.403131,
       "lon": -71.059187
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 156.5,
-      "lat": 48.451071,
-      "lon": -71.020099
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 156.5,
-      "lat": 48.406769,
-      "lon": -71.051965
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 156.5,
-      "lat": 48.394683,
-      "lon": -71.070736
     },
     {
       "banniere": "Ultramar",
@@ -101,12 +101,60 @@
       "lon": -71.23162
     },
     {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 156.5,
+      "lat": 48.394683,
+      "lon": -71.070736
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
+      "prix": 156.5,
+      "lat": 48.338231,
+      "lon": -70.990331
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 156.5,
+      "lat": 48.451071,
+      "lon": -71.020099
+    },
+    {
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 156.5,
+      "lat": 48.406769,
+      "lon": -71.051965
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 156.5,
+      "lat": 48.411254,
+      "lon": -71.261772
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 156.5,
       "lat": 48.39309,
       "lon": -71.070497
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
+      "prix": 156.5,
+      "lat": 48.356563,
+      "lon": -71.055264
     },
     {
       "banniere": "Esso",
@@ -118,27 +166,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
-      "prix": 156.5,
-      "lat": 48.356563,
-      "lon": -71.055264
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "1201 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 156.5,
       "lat": 48.408298,
       "lon": -71.054487
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 156.9,
-      "lat": 48.317087,
-      "lon": -71.134075
     },
     {
       "banniere": "R.L.",
@@ -149,12 +181,20 @@
       "lon": -71.065922
     },
     {
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 156.9,
+      "lat": 48.317087,
+      "lon": -71.134075
+    },
+    {
       "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
       "prix": 164.7,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Irving",
@@ -165,12 +205,20 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 164.7,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "lat": 48.423109,
+      "lon": -71.212988
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 164.7,
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Irving",
@@ -197,46 +245,6 @@
       "lon": -71.234995
     },
     {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 164.7,
-      "lat": 48.400574,
-      "lon": -71.145998
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 164.7,
-      "lat": 48.423109,
-      "lon": -71.212988
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 164.7,
-      "lat": 48.413826,
-      "lon": -71.246977
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 164.7,
-      "lat": 48.411254,
-      "lon": -71.261772
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "1821 rue Sainte-Famille, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 164.7,
-      "lat": 48.431009,
-      "lon": -71.233782
-    },
-    {
       "banniere": "Énergie Express BD",
       "adresse": "3421 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
@@ -246,19 +254,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 164.9,
-      "lat": 48.408178,
-      "lon": -71.093216
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "4391 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
       "prix": 164.9,
       "lat": 48.470796,
       "lon": -71.277321
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 164.9,
+      "lat": 48.408178,
+      "lon": -71.093216
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -283,14 +291,6 @@
       "prix": 165.4,
       "lat": 48.433492,
       "lon": -71.175803
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3073 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 165.4,
-      "lat": 48.40886,
-      "lon": -71.19486
     },
     {
       "banniere": "Esso",
@@ -333,12 +333,12 @@
       "lon": -71.252854
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "3073 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 165.4,
-      "lat": 48.316248,
-      "lon": -71.134685
+      "lat": 48.40886,
+      "lon": -71.19486
     },
     {
       "banniere": "Petro-Canada",
