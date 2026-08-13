@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/08/2026 18:00",
-  "derniere_verification": "13/08/2026 18:00:01",
-  "fichier_source": "stations-20260813175003.xlsx",
+  "mise_a_jour": "13/08/2026 18:15",
+  "derniere_verification": "13/08/2026 18:15:13",
+  "fichier_source": "stations-20260813181503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -150,11 +150,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "adresse": "3754 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
-      "prix": 158.7,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "prix": 164.7,
+      "lat": 48.422936,
+      "lon": -71.243563
     },
     {
       "banniere": "Irving",
@@ -166,11 +166,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
       "prix": 164.7,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Irving",
@@ -181,12 +181,12 @@
       "lon": -71.26138
     },
     {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
       "prix": 164.7,
-      "lat": 48.413826,
-      "lon": -71.246977
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Petro-Canada",
@@ -213,12 +213,12 @@
       "lon": -71.212988
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 164.7,
-      "lat": 48.414704,
-      "lon": -71.259124
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Esso",
