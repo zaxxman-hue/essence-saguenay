@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/08/2026 21:38",
-  "derniere_verification": "13/08/2026 21:38:02",
-  "fichier_source": "stations-20260813213503.xlsx",
+  "mise_a_jour": "13/08/2026 22:09",
+  "derniere_verification": "13/08/2026 22:09:45",
+  "fichier_source": "stations-20260813220503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -197,20 +197,20 @@
       "lon": -71.054487
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 156.5,
+      "lat": 48.426389,
+      "lon": -71.259018
+    },
+    {
       "banniere": "Esso",
       "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 156.5,
       "lat": 48.411254,
       "lon": -71.261772
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
-      "ville": "Saguenay",
-      "prix": 156.5,
-      "lat": 48.356563,
-      "lon": -71.055264
     },
     {
       "banniere": "Esso",
@@ -237,6 +237,14 @@
       "lon": -71.259124
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
+      "prix": 156.5,
+      "lat": 48.356563,
+      "lon": -71.055264
+    },
+    {
       "banniere": "R.L.",
       "adresse": "5822 boul. Talbot, Saguenay",
       "ville": "Saguenay",
@@ -261,14 +269,6 @@
       "lon": -71.212988
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 164.7,
-      "lat": 48.424661,
-      "lon": -71.234995
-    },
-    {
       "banniere": "Irving",
       "adresse": "4024 boul. du Royaume, Saguenay",
       "ville": "Saguenay",
@@ -277,12 +277,12 @@
       "lon": -71.26138
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1960 rue De Montfort, Saguenay",
       "ville": "Jonquiere",
-      "prix": 164.9,
-      "lat": 48.407448,
-      "lon": -71.094182
+      "prix": 164.7,
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Petro-Canada",
@@ -318,11 +318,11 @@
     },
     {
       "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
-      "prix": 165.4,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "prix": 164.9,
+      "lat": 48.407448,
+      "lon": -71.094182
     },
     {
       "banniere": "Esso",
@@ -373,6 +373,14 @@
       "lon": -71.114422
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 165.4,
+      "lat": 48.396671,
+      "lon": -71.252854
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "2681 Boul. du Royaume, SAGUENAY",
       "ville": "Jonquiere",
@@ -406,14 +414,6 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "45 rue Du Pont, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 165.9,
-      "lat": 48.436903,
-      "lon": -71.067338
-    },
-    {
-      "banniere": "R.L.",
       "adresse": "130 rue Arthur-Hamel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 165.9,
@@ -438,11 +438,11 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "1845 boul. Tadoussac, Saguenay",
+      "adresse": "45 rue Du Pont, Saguenay",
       "ville": "Chicoutimi",
       "prix": 165.9,
-      "lat": 48.441506,
-      "lon": -71.051019
+      "lat": 48.436903,
+      "lon": -71.067338
     },
     {
       "banniere": "Ultramar",
@@ -533,12 +533,12 @@
       "lon": -70.993907
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "R.L.",
+      "adresse": "1845 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 165.9,
-      "lat": 48.426389,
-      "lon": -71.259018
+      "lat": 48.441506,
+      "lon": -71.051019
     },
     {
       "banniere": "Shell",
