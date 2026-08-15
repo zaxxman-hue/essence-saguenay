@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "15/08/2026 11:45",
-  "derniere_verification": "15/08/2026 11:45:00",
-  "fichier_source": "stations-20260815114002.xlsx",
+  "mise_a_jour": "15/08/2026 12:39",
+  "derniere_verification": "15/08/2026 12:39:49",
+  "fichier_source": "stations-20260815123503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -421,12 +421,12 @@
       "lon": -71.027496
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
       "prix": 162.9,
-      "lat": 48.408178,
-      "lon": -71.093216
+      "lat": 48.387452,
+      "lon": -71.114645
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -437,18 +437,18 @@
       "lon": -71.094182
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 162.9,
-      "lat": 48.387452,
-      "lon": -71.114645
+      "lat": 48.408178,
+      "lon": -71.093216
     },
     {
       "banniere": "Esso",
       "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
-      "prix": 162.9,
+      "prix": 164.9,
       "lat": 48.395019,
       "lon": -71.106094
     },
