@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "15/08/2026 00:35",
-  "derniere_verification": "15/08/2026 00:35:15",
-  "fichier_source": "stations-20260815002505.xlsx",
+  "mise_a_jour": "15/08/2026 01:57",
+  "derniere_verification": "15/08/2026 01:57:17",
+  "fichier_source": "stations-20260815015503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -341,20 +341,20 @@
       "lon": -71.19486
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 159.5,
-      "lat": 48.435333,
-      "lon": -71.140604
-    },
-    {
       "banniere": "Crevier",
       "adresse": "2922 boul. du Saguenay, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 159.5,
       "lat": 48.433314,
       "lon": -71.187357
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 159.5,
+      "lat": 48.435333,
+      "lon": -71.140604
     },
     {
       "banniere": "Esso",
@@ -373,22 +373,6 @@
       "lon": -71.171977
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 159.5,
-      "lat": 48.408178,
-      "lon": -71.093216
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 159.5,
-      "lat": 48.424585,
-      "lon": -71.180502
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "1360 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
@@ -397,12 +381,12 @@
       "lon": -71.094182
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
       "ville": "Jonquiere",
-      "prix": 159.9,
-      "lat": 48.42592,
-      "lon": -71.068372
+      "prix": 159.5,
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "Couche-Tard",
@@ -414,9 +398,25 @@
     },
     {
       "banniere": "Ultramar",
+      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 159.9,
+      "lat": 48.42592,
+      "lon": -71.068372
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 162.9,
+      "lat": 48.408178,
+      "lon": -71.093216
+    },
+    {
+      "banniere": "Ultramar",
       "adresse": "1333 Boul. du Royaume est, SAGUENAY",
       "ville": "Saguenay",
-      "prix": 163.9,
+      "prix": 162.9,
       "lat": 48.387452,
       "lon": -71.114645
     },
@@ -424,7 +424,7 @@
       "banniere": "Esso",
       "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
-      "prix": 163.9,
+      "prix": 162.9,
       "lat": 48.395019,
       "lon": -71.106094
     },
