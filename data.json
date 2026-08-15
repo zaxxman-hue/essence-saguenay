@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "15/08/2026 14:48",
-  "derniere_verification": "15/08/2026 14:48:31",
-  "fichier_source": "stations-20260815144503.xlsx",
+  "mise_a_jour": "15/08/2026 15:24",
+  "derniere_verification": "15/08/2026 15:24:55",
+  "fichier_source": "stations-20260815152003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -277,14 +277,6 @@
       "lon": -71.134075
     },
     {
-      "banniere": "Crevier",
-      "adresse": "5251 ch. du Quai, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 156.8,
-      "lat": 48.353958,
-      "lon": -71.324386
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
@@ -302,6 +294,14 @@
     },
     {
       "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 158.7,
+      "lat": 48.422936,
+      "lon": -71.243563
+    },
+    {
+      "banniere": "Irving",
       "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
       "prix": 158.7,
@@ -310,11 +310,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
       "prix": 158.7,
-      "lat": 48.422936,
-      "lon": -71.243563
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Ultramar",
@@ -325,12 +325,12 @@
       "lon": -71.212988
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 158.7,
-      "lat": 48.425557,
-      "lon": -71.26138
+      "banniere": "Crevier",
+      "adresse": "5251 ch. du Quai, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 158.8,
+      "lat": 48.353958,
+      "lon": -71.324386
     },
     {
       "banniere": "Énergie Express BD",
@@ -448,7 +448,7 @@
       "banniere": "Esso",
       "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
-      "prix": 164.9,
+      "prix": 163.9,
       "lat": 48.395019,
       "lon": -71.106094
     },
