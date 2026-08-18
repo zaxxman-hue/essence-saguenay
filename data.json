@@ -1,17 +1,9 @@
 {
-  "mise_a_jour": "18/08/2026 16:25",
-  "derniere_verification": "18/08/2026 16:25:10",
-  "fichier_source": "stations-20260818162503.xlsx",
+  "mise_a_jour": "18/08/2026 16:53",
+  "derniere_verification": "18/08/2026 16:53:54",
+  "fichier_source": "stations-20260818165003.xlsx",
   "total": 79,
   "stations": [
-    {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 156.4,
-      "lat": 48.412108,
-      "lon": -71.231414
-    },
     {
       "banniere": "Énergie DDF",
       "adresse": "972 ch. de la Réserve, Saguenay",
@@ -38,6 +30,14 @@
     },
     {
       "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 156.5,
+      "lat": 48.441444,
+      "lon": -71.052232
+    },
+    {
+      "banniere": "R.L.",
       "adresse": "45 rue Du Pont, Saguenay",
       "ville": "Chicoutimi",
       "prix": 156.5,
@@ -45,12 +45,12 @@
       "lon": -71.067338
     },
     {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 156.5,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "R.L.",
@@ -75,22 +75,6 @@
       "prix": 156.5,
       "lat": 48.317087,
       "lon": -71.134075
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 156.5,
-      "lat": 48.394683,
-      "lon": -71.070736
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 156.5,
-      "lat": 48.412676,
-      "lon": -71.23162
     },
     {
       "banniere": "R.L.",
@@ -134,14 +118,6 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 159.9,
-      "lat": 48.396372,
-      "lon": -70.993907
-    },
-    {
-      "banniere": "R.L.",
       "adresse": "68 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.9,
@@ -157,12 +133,36 @@
       "lon": -71.027496
     },
     {
+      "banniere": "R.L.",
+      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 159.9,
+      "lat": 48.396372,
+      "lon": -70.993907
+    },
+    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
       "prix": 160.8,
       "lat": 48.353958,
       "lon": -71.324386
+    },
+    {
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 169.4,
+      "lat": 48.412108,
+      "lon": -71.231414
+    },
+    {
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 169.4,
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Shell",
