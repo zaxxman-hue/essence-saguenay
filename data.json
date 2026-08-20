@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "20/08/2026 16:28",
-  "derniere_verification": "20/08/2026 16:28:52",
-  "fichier_source": "stations-20260820162503.xlsx",
+  "mise_a_jour": "20/08/2026 16:57",
+  "derniere_verification": "20/08/2026 16:57:24",
+  "fichier_source": "stations-20260820165503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -606,14 +606,6 @@
     },
     {
       "banniere": "Harnois",
-      "adresse": "3182 rue Saguenay, Rouyn-Noranda",
-      "ville": "Saguenay",
-      "prix": 179.4,
-      "lat": 48.291928,
-      "lon": -79.03785
-    },
-    {
-      "banniere": "Harnois",
       "adresse": "1476 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 179.9,
@@ -635,6 +627,14 @@
       "prix": 184.4,
       "lat": 48.271731,
       "lon": -79.027249
+    },
+    {
+      "banniere": "Harnois",
+      "adresse": "3182 rue Saguenay, Rouyn-Noranda",
+      "ville": "Saguenay",
+      "prix": 184.4,
+      "lat": 48.291928,
+      "lon": -79.03785
     }
   ]
 }
