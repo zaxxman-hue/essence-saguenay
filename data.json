@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "22/08/2026 13:28",
-  "derniere_verification": "22/08/2026 13:28:33",
-  "fichier_source": "stations-20260822132503.xlsx",
+  "mise_a_jour": "22/08/2026 13:48",
+  "derniere_verification": "22/08/2026 13:48:56",
+  "fichier_source": "stations-20260822134503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -157,12 +157,12 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 166.7,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "lat": 48.411756,
+      "lon": -71.05197
     },
     {
       "banniere": "Petro-Canada",
@@ -181,12 +181,12 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 166.7,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "Ultramar",
@@ -195,6 +195,14 @@
       "prix": 166.7,
       "lat": 48.39744,
       "lon": -71.081011
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 166.7,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Esso",
@@ -213,14 +221,6 @@
       "lon": -71.052232
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 167.4,
-      "lat": 48.452384,
-      "lon": -71.094392
-    },
-    {
       "banniere": "Irving",
       "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
@@ -229,12 +229,12 @@
       "lon": -71.061332
     },
     {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 167.4,
-      "lat": 48.428994,
-      "lon": -71.027496
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
       "banniere": "Petro-Canada",
@@ -245,12 +245,12 @@
       "lon": -71.114422
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 167.4,
-      "lat": 48.454509,
-      "lon": -71.111521
+      "lat": 48.452384,
+      "lon": -71.094392
     },
     {
       "banniere": "Petro-Canada",
@@ -293,12 +293,12 @@
       "lon": -71.067338
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 167.4,
-      "lat": 48.411756,
-      "lon": -71.05197
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Petro-Canada",
