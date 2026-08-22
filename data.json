@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "22/08/2026 17:26",
-  "derniere_verification": "22/08/2026 17:26:09",
-  "fichier_source": "stations-20260822172503.xlsx",
+  "mise_a_jour": "22/08/2026 17:43",
+  "derniere_verification": "22/08/2026 17:43:06",
+  "fichier_source": "stations-20260822174003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -158,11 +158,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 166.7,
-      "lat": 48.411756,
-      "lon": -71.05197
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Petro-Canada",
@@ -173,12 +173,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "3667 rue Panet, Saguenay",
+      "ville": "Jonquiere",
       "prix": 166.7,
-      "lat": 48.39309,
-      "lon": -71.070497
+      "lat": 48.402262,
+      "lon": -71.23757
     },
     {
       "banniere": "Canadian Tire",
@@ -190,11 +190,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 166.7,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.411756,
+      "lon": -71.05197
     },
     {
       "banniere": "Shell",
@@ -221,12 +221,12 @@
       "lon": -71.261772
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
-      "prix": 167.4,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "prix": 166.7,
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "R.L.",
@@ -253,12 +253,12 @@
       "lon": -71.094392
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 167.4,
-      "lat": 48.5064,
-      "lon": -71.270068
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
@@ -302,11 +302,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
+      "adresse": "1960 rue De Montfort, Saguenay",
       "ville": "Jonquiere",
       "prix": 167.4,
-      "lat": 48.402262,
-      "lon": -71.23757
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Petro-Canada",
@@ -326,11 +326,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "4500 rte Mathias, Saguenay",
+      "ville": "Saguenay",
       "prix": 167.4,
-      "lat": 48.424661,
-      "lon": -71.234995
+      "lat": 48.5064,
+      "lon": -71.270068
     },
     {
       "banniere": "R.L.",
