@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "23/08/2026 12:42",
-  "derniere_verification": "23/08/2026 12:42:15",
-  "fichier_source": "stations-20260823124003.xlsx",
+  "mise_a_jour": "23/08/2026 13:07",
+  "derniere_verification": "23/08/2026 13:07:14",
+  "fichier_source": "stations-20260823130503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -77,6 +77,14 @@
       "lon": -70.990331
     },
     {
+      "banniere": "Irving",
+      "adresse": "3754 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 166.7,
+      "lat": 48.422936,
+      "lon": -71.243563
+    },
+    {
       "banniere": "Couche-Tard",
       "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
@@ -91,14 +99,6 @@
       "prix": 166.7,
       "lat": 48.421137,
       "lon": -71.234999
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "3754 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 166.7,
-      "lat": 48.422936,
-      "lon": -71.243563
     },
     {
       "banniere": "Irving",
@@ -197,20 +197,20 @@
       "lon": -71.05197
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 166.7,
-      "lat": 48.403131,
-      "lon": -71.059187
-    },
-    {
       "banniere": "Harnois",
       "adresse": "1285 rue Des Champs-Élysées, Saguenay",
       "ville": "Chicoutimi",
       "prix": 166.7,
       "lat": 48.406769,
       "lon": -71.051965
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 166.7,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Esso",
@@ -237,20 +237,20 @@
       "lon": -71.242838
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 166.7,
-      "lat": 48.411254,
-      "lon": -71.261772
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 166.7,
       "lat": 48.39744,
       "lon": -71.081011
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 167.4,
+      "lat": 48.452384,
+      "lon": -71.094392
     },
     {
       "banniere": "R.L.",
@@ -373,20 +373,20 @@
       "lon": -71.114422
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 167.4,
-      "lat": 48.452384,
-      "lon": -71.094392
-    },
-    {
       "banniere": "Irving",
       "adresse": "4024 boul. du Royaume, Saguenay",
       "ville": "Saguenay",
       "prix": 167.4,
       "lat": 48.425557,
       "lon": -71.26138
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 167.4,
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Nutrinor Énergies",
