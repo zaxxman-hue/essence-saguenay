@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "24/08/2026 10:40",
-  "derniere_verification": "24/08/2026 10:40:29",
-  "fichier_source": "stations-20260824104002.xlsx",
+  "mise_a_jour": "24/08/2026 11:00",
+  "derniere_verification": "24/08/2026 11:00:23",
+  "fichier_source": "stations-20260824105502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -53,12 +53,12 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
       "prix": 166.4,
-      "lat": 48.454243,
-      "lon": -71.061125
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Shell",
@@ -69,20 +69,20 @@
       "lon": -71.076179
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "641 rue Delisle, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 166.4,
+      "lat": 48.454243,
+      "lon": -71.061125
+    },
+    {
       "banniere": "Énergie DDF",
       "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
       "prix": 166.4,
       "lat": 48.419808,
       "lon": -71.100018
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
-      "prix": 166.7,
-      "lat": 48.338231,
-      "lon": -70.990331
     },
     {
       "banniere": "Esso",
@@ -101,12 +101,12 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
       "prix": 166.7,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "lat": 48.338231,
+      "lon": -70.990331
     },
     {
       "banniere": "Irving",
@@ -205,12 +205,12 @@
       "lon": -71.051965
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
       "prix": 166.7,
-      "lat": 48.451071,
-      "lon": -71.020099
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Shell",
@@ -229,20 +229,20 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
       "prix": 166.7,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 166.7,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Esso",
@@ -253,12 +253,12 @@
       "lon": -71.246977
     },
     {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
-      "prix": 167.4,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "prix": 166.7,
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Petro-Canada",
@@ -397,12 +397,12 @@
       "lon": -71.259018
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 167.4,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "R.L.",
