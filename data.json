@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "25/08/2026 18:33",
-  "derniere_verification": "25/08/2026 18:33:21",
-  "fichier_source": "stations-20260825182503.xlsx",
+  "mise_a_jour": "25/08/2026 19:05",
+  "derniere_verification": "25/08/2026 19:05:07",
+  "fichier_source": "stations-20260825190503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -45,28 +45,12 @@
       "lon": -71.260593
     },
     {
-      "banniere": "Crevier",
-      "adresse": "5251 ch. du Quai, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 167.8,
-      "lat": 48.353958,
-      "lon": -71.324386
-    },
-    {
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
       "prix": 169.9,
       "lat": 48.330239,
       "lon": -70.890031
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 169.9,
-      "lat": 48.331986,
-      "lon": -70.881141
     },
     {
       "banniere": "R.L.",
@@ -117,12 +101,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
+      "banniere": "Crevier",
+      "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
-      "prix": 179.9,
-      "lat": 48.404702,
-      "lon": -71.171977
+      "prix": 179.8,
+      "lat": 48.353958,
+      "lon": -71.324386
     },
     {
       "banniere": "Esso",
@@ -131,6 +115,22 @@
       "prix": 179.9,
       "lat": 48.338231,
       "lon": -70.990331
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 179.9,
+      "lat": 48.404702,
+      "lon": -71.171977
+    },
+    {
+      "banniere": "Harnois",
+      "adresse": "950 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 179.9,
+      "lat": 48.41388,
+      "lon": -71.067443
     },
     {
       "banniere": "Irving",
@@ -205,12 +205,12 @@
       "lon": -70.888533
     },
     {
-      "banniere": "Harnois",
-      "adresse": "950 rue Bégin, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 179.9,
-      "lat": 48.41388,
-      "lon": -71.067443
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "Mobil",
@@ -309,20 +309,20 @@
       "lon": -71.243563
     },
     {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.9,
-      "lat": 48.441444,
-      "lon": -71.052232
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "3073 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 179.9,
       "lat": 48.40886,
       "lon": -71.19486
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 179.9,
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "Petro-Canada",
@@ -349,20 +349,12 @@
       "lon": -71.111521
     },
     {
-      "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 179.9,
-      "lat": 48.429329,
-      "lon": -71.065922
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
-      "prix": 179.9,
-      "lat": 48.414704,
-      "lon": -71.259124
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Petro-Canada",
@@ -374,6 +366,14 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 179.9,
+      "lat": 48.331986,
+      "lon": -70.881141
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "2382 rte 170, Saguenay",
       "ville": "Saguenay",
       "prix": 179.9,
@@ -382,11 +382,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
       "prix": 179.9,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "R.L.",
