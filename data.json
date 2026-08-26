@@ -1,17 +1,9 @@
 {
-  "mise_a_jour": "26/08/2026 08:29",
-  "derniere_verification": "26/08/2026 08:29:38",
-  "fichier_source": "stations-20260826082503.xlsx",
+  "mise_a_jour": "26/08/2026 10:38",
+  "derniere_verification": "26/08/2026 10:38:54",
+  "fichier_source": "stations-20260826103502.xlsx",
   "total": 79,
   "stations": [
-    {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 166.4,
-      "lat": 48.419808,
-      "lon": -71.100018
-    },
     {
       "banniere": "Énergie Express BD",
       "adresse": "3421 rte Saint-Léonard, Saguenay",
@@ -19,14 +11,6 @@
       "prix": 167.4,
       "lat": 48.458548,
       "lon": -71.260593
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "342 rue 6, Saguenay",
-      "ville": "LaBaie",
-      "prix": 169.9,
-      "lat": 48.330239,
-      "lon": -70.890031
     },
     {
       "banniere": "Canadian Tire",
@@ -37,12 +21,28 @@
       "lon": -70.882167
     },
     {
+      "banniere": "Shell",
+      "adresse": "342 rue 6, Saguenay",
+      "ville": "LaBaie",
+      "prix": 169.9,
+      "lat": 48.330239,
+      "lon": -70.890031
+    },
+    {
       "banniere": "R.L.",
       "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
       "prix": 169.9,
       "lat": 48.32626,
       "lon": -70.873104
+    },
+    {
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 177.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Shell",
