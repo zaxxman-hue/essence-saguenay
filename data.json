@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "27/08/2026 22:26",
-  "derniere_verification": "27/08/2026 22:26:45",
-  "fichier_source": "stations-20260827222505.xlsx",
+  "mise_a_jour": "27/08/2026 22:46",
+  "derniere_verification": "27/08/2026 22:46:26",
+  "fichier_source": "stations-20260827224003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -13,20 +13,20 @@
       "lon": -71.052572
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 173.1,
+      "lat": 48.411756,
+      "lon": -71.05197
+    },
+    {
       "banniere": "Canadian Tire",
       "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 173.8,
       "lat": 48.411103,
       "lon": -71.052843
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 173.8,
-      "lat": 48.411756,
-      "lon": -71.05197
     },
     {
       "banniere": "Pétro-T",
@@ -109,6 +109,14 @@
       "lon": -71.065681
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 174.2,
+      "lat": 48.442216,
+      "lon": -71.07443
+    },
+    {
       "banniere": "Shell",
       "adresse": "487 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
@@ -118,19 +126,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 174.5,
-      "lat": 48.442216,
-      "lon": -71.07443
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 174.5,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Petro-Canada",
@@ -181,12 +181,12 @@
       "lon": -71.068372
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 174.5,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Couche-Tard",
