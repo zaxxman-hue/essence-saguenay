@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "28/08/2026 22:52",
-  "derniere_verification": "28/08/2026 22:52:20",
-  "fichier_source": "stations-20260828225003.xlsx",
+  "mise_a_jour": "28/08/2026 23:06",
+  "derniere_verification": "28/08/2026 23:06:22",
+  "fichier_source": "stations-20260828230503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -408,7 +408,7 @@
       "banniere": "Ultramar",
       "adresse": "1333 Boul. du Royaume est, SAGUENAY",
       "ville": "Saguenay",
-      "prix": 172.9,
+      "prix": 171.9,
       "lat": 48.387452,
       "lon": -71.114645
     },
