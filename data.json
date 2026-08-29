@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "29/08/2026 20:20",
-  "derniere_verification": "29/08/2026 20:20:04",
-  "fichier_source": "stations-20260829201503.xlsx",
+  "mise_a_jour": "29/08/2026 21:01",
+  "derniere_verification": "29/08/2026 21:01:01",
+  "fichier_source": "stations-20260829210003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -11,6 +11,22 @@
       "prix": 169.5,
       "lat": 48.40924,
       "lon": -71.052572
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 169.5,
+      "lat": 48.411756,
+      "lon": -71.05197
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "4500 rte Mathias, Saguenay",
+      "ville": "Saguenay",
+      "prix": 169.9,
+      "lat": 48.5064,
+      "lon": -71.270068
     },
     {
       "banniere": "Énergie Express BD",
@@ -27,22 +43,6 @@
       "prix": 169.9,
       "lat": 48.470796,
       "lon": -71.277321
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
-      "ville": "Saguenay",
-      "prix": 169.9,
-      "lat": 48.5064,
-      "lon": -71.270068
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 170.2,
-      "lat": 48.411756,
-      "lon": -71.05197
     },
     {
       "banniere": "Pétro-T",
