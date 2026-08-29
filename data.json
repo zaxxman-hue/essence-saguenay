@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "29/08/2026 00:02",
-  "derniere_verification": "29/08/2026 00:02:46",
-  "fichier_source": "stations-20260828235503.xlsx",
+  "mise_a_jour": "29/08/2026 00:21",
+  "derniere_verification": "29/08/2026 00:21:24",
+  "fichier_source": "stations-20260829002003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -416,7 +416,7 @@
       "banniere": "Esso",
       "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
-      "prix": 172.9,
+      "prix": 171.9,
       "lat": 48.395019,
       "lon": -71.106094
     },
