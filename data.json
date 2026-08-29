@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "29/08/2026 03:13",
-  "derniere_verification": "29/08/2026 03:13:42",
-  "fichier_source": "stations-20260829031003.xlsx",
+  "mise_a_jour": "29/08/2026 03:26",
+  "derniere_verification": "29/08/2026 03:26:43",
+  "fichier_source": "stations-20260829032503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -493,12 +493,12 @@
       "lon": -71.067338
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 173.8,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "prix": 173.9,
+      "lat": 48.450526,
+      "lon": -71.088774
     },
     {
       "banniere": "Petro-Canada",
@@ -509,20 +509,20 @@
       "lon": -71.071138
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 173.9,
-      "lat": 48.450526,
-      "lon": -71.088774
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
       "prix": 173.9,
       "lat": 48.396671,
       "lon": -71.252854
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.2,
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Esso",
