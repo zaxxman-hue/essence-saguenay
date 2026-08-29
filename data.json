@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "29/08/2026 17:26",
-  "derniere_verification": "29/08/2026 17:26:05",
-  "fichier_source": "stations-20260829172003.xlsx",
+  "mise_a_jour": "29/08/2026 17:46",
+  "derniere_verification": "29/08/2026 17:46:32",
+  "fichier_source": "stations-20260829174503.xlsx",
   "total": 79,
   "stations": [
+    {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 169.5,
+      "lat": 48.40924,
+      "lon": -71.052572
+    },
     {
       "banniere": "Énergie Express BD",
       "adresse": "3421 rte Saint-Léonard, Saguenay",
@@ -11,14 +19,6 @@
       "prix": 169.9,
       "lat": 48.458548,
       "lon": -71.260593
-    },
-    {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 170.2,
-      "lat": 48.40924,
-      "lon": -71.052572
     },
     {
       "banniere": "Ultramar",
