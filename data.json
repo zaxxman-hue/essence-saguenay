@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "30/08/2026 00:30",
-  "derniere_verification": "30/08/2026 00:30:05",
-  "fichier_source": "stations-20260830002503.xlsx",
+  "mise_a_jour": "30/08/2026 00:55",
+  "derniere_verification": "30/08/2026 00:55:16",
+  "fichier_source": "stations-20260830005503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -29,6 +29,14 @@
       "lon": -71.059061
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 168.8,
+      "lat": 48.411756,
+      "lon": -71.05197
+    },
+    {
       "banniere": "Canadian Tire",
       "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -38,11 +46,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
+      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 168.8,
-      "lat": 48.411756,
-      "lon": -71.05197
+      "lat": 48.42592,
+      "lon": -71.068372
     },
     {
       "banniere": "Petro-Canada",
@@ -53,14 +61,6 @@
       "lon": -71.270068
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "4391 rte Saint-Léonard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 169.9,
-      "lat": 48.470796,
-      "lon": -71.277321
-    },
-    {
       "banniere": "Énergie Express BD",
       "adresse": "3421 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
@@ -69,12 +69,12 @@
       "lon": -71.260593
     },
     {
-      "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "4391 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
-      "prix": 170.9,
-      "lat": 48.338231,
-      "lon": -70.990331
+      "prix": 169.9,
+      "lat": 48.470796,
+      "lon": -71.277321
     },
     {
       "banniere": "Irving",
@@ -85,12 +85,12 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
       "prix": 170.9,
-      "lat": 48.442216,
-      "lon": -71.07443
+      "lat": 48.338231,
+      "lon": -70.990331
     },
     {
       "banniere": "Pétro-T",
@@ -150,11 +150,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 170.9,
-      "lat": 48.39309,
-      "lon": -71.070497
+      "lat": 48.442216,
+      "lon": -71.07443
     },
     {
       "banniere": "Petro-Canada",
@@ -190,11 +190,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "377 rue Sainte Anne, SAGUENAY",
-      "ville": "Jonquiere",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 170.9,
-      "lat": 48.42592,
-      "lon": -71.068372
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Irving",
