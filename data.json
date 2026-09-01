@@ -1,17 +1,9 @@
 {
-  "mise_a_jour": "01/09/2026 18:15",
-  "derniere_verification": "01/09/2026 18:15:58",
-  "fichier_source": "stations-20260901181503.xlsx",
+  "mise_a_jour": "01/09/2026 18:39",
+  "derniere_verification": "01/09/2026 18:39:56",
+  "fichier_source": "stations-20260901183502.xlsx",
   "total": 79,
   "stations": [
-    {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 168.4,
-      "lat": 48.419808,
-      "lon": -71.100018
-    },
     {
       "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
@@ -21,20 +13,20 @@
       "lon": -71.081011
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 168.8,
-      "lat": 48.394683,
-      "lon": -71.070736
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 168.8,
       "lat": 48.39309,
       "lon": -71.070497
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 168.8,
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Énergie Express BD",
@@ -53,14 +45,6 @@
       "lon": -71.324386
     },
     {
-      "banniere": "Harnois",
-      "adresse": "950 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.9,
-      "lat": 48.41388,
-      "lon": -71.067443
-    },
-    {
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
@@ -69,12 +53,12 @@
       "lon": -70.890031
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Harnois",
+      "adresse": "950 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 179.9,
-      "lat": 48.32626,
-      "lon": -70.873104
+      "lat": 48.41388,
+      "lon": -71.067443
     },
     {
       "banniere": "Harnois",
@@ -83,6 +67,14 @@
       "prix": 179.9,
       "lat": 48.42632,
       "lon": -71.023248
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 179.9,
+      "lat": 48.32626,
+      "lon": -70.873104
     },
     {
       "banniere": "Shell",
@@ -99,6 +91,14 @@
       "prix": 189.4,
       "lat": 48.316248,
       "lon": -71.134685
+    },
+    {
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 189.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Nutrinor Énergies",
