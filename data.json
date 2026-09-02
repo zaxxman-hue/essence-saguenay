@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "02/09/2026 00:42",
-  "derniere_verification": "02/09/2026 00:42:05",
-  "fichier_source": "stations-20260902004003.xlsx",
+  "mise_a_jour": "02/09/2026 01:11",
+  "derniere_verification": "02/09/2026 01:11:32",
+  "fichier_source": "stations-20260902011003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -29,14 +29,6 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Crevier",
-      "adresse": "5251 ch. du Quai, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 171.8,
-      "lat": 48.353958,
-      "lon": -71.324386
-    },
-    {
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
@@ -59,6 +51,14 @@
       "prix": 188.9,
       "lat": 48.387452,
       "lon": -71.114645
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 189.4,
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Shell",
@@ -85,20 +85,20 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 189.4,
-      "lat": 48.316248,
-      "lon": -71.134685
-    },
-    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 189.4,
       "lat": 48.412108,
       "lon": -71.231414
+    },
+    {
+      "banniere": "Crevier",
+      "adresse": "5251 ch. du Quai, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 189.8,
+      "lat": 48.353958,
+      "lon": -71.324386
     },
     {
       "banniere": "Esso",
