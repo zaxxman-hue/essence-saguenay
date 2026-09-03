@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "03/09/2026 17:05",
-  "derniere_verification": "03/09/2026 17:05:04",
-  "fichier_source": "stations-20260903170005.xlsx",
+  "mise_a_jour": "03/09/2026 17:21",
+  "derniere_verification": "03/09/2026 17:21:54",
+  "fichier_source": "stations-20260903172003.xlsx",
   "total": 79,
   "stations": [
+    {
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 184.9,
+      "lat": 48.411756,
+      "lon": -71.05197
+    },
     {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
@@ -29,14 +37,6 @@
       "lon": -71.233782
     },
     {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 185.7,
-      "lat": 48.400574,
-      "lon": -71.145998
-    },
-    {
       "banniere": "Esso",
       "adresse": "3 Rue Wing, Saguenay",
       "ville": "Saguenay",
@@ -53,20 +53,20 @@
       "lon": -71.051965
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 185.7,
-      "lat": 48.411756,
-      "lon": -71.05197
-    },
-    {
       "banniere": "Esso",
       "adresse": "3820 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 185.7,
       "lat": 48.413826,
       "lon": -71.246977
+    },
+    {
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 185.7,
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Esso",
