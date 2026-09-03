@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "03/09/2026 23:23",
-  "derniere_verification": "03/09/2026 23:23:33",
-  "fichier_source": "stations-20260903232003.xlsx",
+  "mise_a_jour": "03/09/2026 23:44",
+  "derniere_verification": "03/09/2026 23:44:16",
+  "fichier_source": "stations-20260903234002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -301,28 +301,28 @@
       "lon": -71.26138
     },
     {
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 185.9,
+      "lat": 48.395019,
+      "lon": -71.106094
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
+      "prix": 186.4,
+      "lat": 48.369606,
+      "lon": -71.28365
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "1312 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 186.4,
       "lat": 48.408178,
       "lon": -71.093216
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 186.4,
-      "lat": 48.454509,
-      "lon": -71.111521
-    },
-    {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 186.4,
-      "lat": 48.419808,
-      "lon": -71.100018
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -342,6 +342,14 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 186.4,
+      "lat": 48.454509,
+      "lon": -71.111521
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "3997 boul. Harvey, Saguenay",
       "ville": "Saguenay",
       "prix": 186.4,
@@ -349,12 +357,12 @@
       "lon": -71.259124
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
       "prix": 186.4,
-      "lat": 48.369606,
-      "lon": -71.28365
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Crevier",
@@ -371,14 +379,6 @@
       "prix": 186.9,
       "lat": 48.450526,
       "lon": -71.088774
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 186.9,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Esso",
