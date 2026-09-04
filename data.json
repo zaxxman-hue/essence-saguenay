@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "04/09/2026 18:12",
-  "derniere_verification": "04/09/2026 18:12:02",
-  "fichier_source": "stations-20260904181003.xlsx",
+  "mise_a_jour": "04/09/2026 18:30",
+  "derniere_verification": "04/09/2026 18:30:49",
+  "fichier_source": "stations-20260904182503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -557,6 +557,14 @@
       "lon": -70.873104
     },
     {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 186.2,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
@@ -582,27 +590,19 @@
     },
     {
       "banniere": "Harnois",
+      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 189.9,
+      "lat": 48.42632,
+      "lon": -71.023248
+    },
+    {
+      "banniere": "Harnois",
       "adresse": "950 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 189.9,
       "lat": 48.41388,
       "lon": -71.067443
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 189.9,
-      "lat": 48.317822,
-      "lon": -70.861146
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "342 rue 6, Saguenay",
-      "ville": "LaBaie",
-      "prix": 189.9,
-      "lat": 48.330239,
-      "lon": -70.890031
     },
     {
       "banniere": "Petro-Canada",
@@ -613,12 +613,12 @@
       "lon": -70.881141
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1476 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Shell",
+      "adresse": "342 rue 6, Saguenay",
+      "ville": "LaBaie",
       "prix": 189.9,
-      "lat": 48.42632,
-      "lon": -71.023248
+      "lat": 48.330239,
+      "lon": -70.890031
     },
     {
       "banniere": "Petro-Canada",
