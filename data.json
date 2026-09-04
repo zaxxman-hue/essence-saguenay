@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "04/09/2026 14:49",
-  "derniere_verification": "04/09/2026 14:49:29",
-  "fichier_source": "stations-20260904144503.xlsx",
+  "mise_a_jour": "04/09/2026 15:02",
+  "derniere_verification": "04/09/2026 15:02:53",
+  "fichier_source": "stations-20260904150002.xlsx",
   "total": 79,
   "stations": [
     {
@@ -270,11 +270,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
       "prix": 182.9,
-      "lat": 48.450526,
-      "lon": -71.088774
+      "lat": 48.425808,
+      "lon": -71.071138
     },
     {
       "banniere": "Ultramar",
@@ -382,11 +382,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 183.9,
-      "lat": 48.425808,
-      "lon": -71.071138
+      "lat": 48.450526,
+      "lon": -71.088774
     },
     {
       "banniere": "Shell",
