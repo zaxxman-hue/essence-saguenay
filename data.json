@@ -1,14 +1,14 @@
 {
-  "mise_a_jour": "05/09/2026 18:26",
-  "derniere_verification": "05/09/2026 18:26:23",
-  "fichier_source": "stations-20260905182503.xlsx",
+  "mise_a_jour": "05/09/2026 18:56",
+  "derniere_verification": "05/09/2026 18:56:08",
+  "fichier_source": "stations-20260905185503.xlsx",
   "total": 79,
   "stations": [
     {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 178.5,
+      "prix": 179.0,
       "lat": 48.40924,
       "lon": -71.052572
     },
