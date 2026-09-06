@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "05/09/2026 23:29",
-  "derniere_verification": "05/09/2026 23:29:09",
-  "fichier_source": "stations-20260905232503.xlsx",
+  "mise_a_jour": "06/09/2026 00:05",
+  "derniere_verification": "06/09/2026 00:05:20",
+  "fichier_source": "stations-20260906000503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -533,6 +533,14 @@
       "lon": -71.19486
     },
     {
+      "banniere": "Crevier",
+      "adresse": "2922 boul. du Saguenay, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 183.4,
+      "lat": 48.433314,
+      "lon": -71.187357
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "2245 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
@@ -565,14 +573,6 @@
       "lon": -71.166787
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 186.2,
-      "lat": 48.32626,
-      "lon": -70.873104
-    },
-    {
       "banniere": "Esso",
       "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
@@ -581,12 +581,12 @@
       "lon": -70.861146
     },
     {
-      "banniere": "Crevier",
-      "adresse": "2922 boul. du Saguenay, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 187.1,
-      "lat": 48.433314,
-      "lon": -71.187357
+      "banniere": "R.L.",
+      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 186.2,
+      "lat": 48.32626,
+      "lon": -70.873104
     },
     {
       "banniere": "Petro-Canada",
