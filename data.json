@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/09/2026 11:48",
-  "derniere_verification": "06/09/2026 11:48:25",
-  "fichier_source": "stations-20260906114503.xlsx",
+  "mise_a_jour": "06/09/2026 13:28",
+  "derniere_verification": "06/09/2026 13:28:52",
+  "fichier_source": "stations-20260906132502.xlsx",
   "total": 79,
   "stations": [
     {
@@ -381,12 +381,12 @@
       "lon": -70.882167
     },
     {
-      "banniere": "R.L.",
-      "adresse": "45 rue Du Pont, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 182.5,
-      "lat": 48.436903,
-      "lon": -71.067338
+      "lat": 48.408178,
+      "lon": -71.093216
     },
     {
       "banniere": "Irving",
@@ -453,12 +453,12 @@
       "lon": -71.134075
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "R.L.",
+      "adresse": "45 rue Du Pont, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 182.5,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "lat": 48.436903,
+      "lon": -71.067338
     },
     {
       "banniere": "R.L.",
@@ -469,12 +469,12 @@
       "lon": -71.052232
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 182.9,
-      "lat": 48.387452,
-      "lon": -71.114645
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 182.5,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Esso",
@@ -485,20 +485,20 @@
       "lon": -71.106094
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 182.9,
+      "lat": 48.387452,
+      "lon": -71.114645
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "81 rue Price ouest, Saguenay",
       "ville": "Jonquiere",
       "prix": 182.9,
       "lat": 48.425808,
       "lon": -71.071138
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 182.9,
-      "lat": 48.408178,
-      "lon": -71.093216
     },
     {
       "banniere": "Canadian Tire",
