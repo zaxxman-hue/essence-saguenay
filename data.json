@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/09/2026 10:35",
-  "derniere_verification": "06/09/2026 10:35:39",
-  "fichier_source": "stations-20260906103503.xlsx",
+  "mise_a_jour": "06/09/2026 11:48",
+  "derniere_verification": "06/09/2026 11:48:25",
+  "fichier_source": "stations-20260906114503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -285,14 +285,6 @@
       "lon": -71.068372
     },
     {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 181.1,
-      "lat": 48.44285,
-      "lon": -71.076179
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
@@ -301,12 +293,20 @@
       "lon": -71.111521
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 181.1,
-      "lat": 48.442216,
-      "lon": -71.07443
+      "lat": 48.452384,
+      "lon": -71.094392
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 181.1,
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "Couche-Tard",
@@ -317,12 +317,12 @@
       "lon": -71.059061
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
       "ville": "Chicoutimi",
-      "prix": 181.9,
-      "lat": 48.452384,
-      "lon": -71.094392
+      "prix": 181.1,
+      "lat": 48.442216,
+      "lon": -71.07443
     },
     {
       "banniere": "Nutrinor Énergies",
