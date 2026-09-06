@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/09/2026 14:20",
-  "derniere_verification": "06/09/2026 14:20:18",
-  "fichier_source": "stations-20260906141503.xlsx",
+  "mise_a_jour": "06/09/2026 15:06",
+  "derniere_verification": "06/09/2026 15:06:05",
+  "fichier_source": "stations-20260906150503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -29,12 +29,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
-      "prix": 179.7,
-      "lat": 48.400574,
-      "lon": -71.145998
+      "prix": 179.4,
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Esso",
@@ -45,12 +45,12 @@
       "lon": -71.246977
     },
     {
-      "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
+      "ville": "Jonquiere",
       "prix": 179.7,
-      "lat": 48.338231,
-      "lon": -70.990331
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Harnois",
@@ -109,12 +109,12 @@
       "lon": -71.059187
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2382 rte 170, Saguenay",
+      "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
       "ville": "Saguenay",
       "prix": 179.7,
-      "lat": 48.356563,
-      "lon": -71.055264
+      "lat": 48.338231,
+      "lon": -70.990331
     },
     {
       "banniere": "Petro-Canada",
@@ -229,20 +229,20 @@
       "lon": -71.242838
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 179.7,
-      "lat": 48.411254,
-      "lon": -71.261772
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 179.7,
       "lat": 48.426389,
       "lon": -71.259018
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "2382 rte 170, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.7,
+      "lat": 48.356563,
+      "lon": -71.055264
     },
     {
       "banniere": "Petro-Canada",
@@ -259,6 +259,14 @@
       "prix": 179.7,
       "lat": 48.408298,
       "lon": -71.054487
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.7,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Crevier",
@@ -283,14 +291,6 @@
       "prix": 181.1,
       "lat": 48.42592,
       "lon": -71.068372
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 181.1,
-      "lat": 48.454509,
-      "lon": -71.111521
     },
     {
       "banniere": "R.L.",
@@ -325,12 +325,12 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 182.4,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 181.1,
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
       "banniere": "Nutrinor Énergies",
