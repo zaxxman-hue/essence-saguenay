@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "07/09/2026 16:35",
-  "derniere_verification": "07/09/2026 16:35:58",
-  "fichier_source": "stations-20260907163503.xlsx",
+  "mise_a_jour": "07/09/2026 17:28",
+  "derniere_verification": "07/09/2026 17:28:03",
+  "fichier_source": "stations-20260907172503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -389,12 +389,12 @@
       "lon": -71.093216
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
       "prix": 182.5,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "R.L.",
@@ -461,12 +461,12 @@
       "lon": -71.067338
     },
     {
-      "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 182.5,
-      "lat": 48.429329,
-      "lon": -71.065922
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Irving",
@@ -483,6 +483,14 @@
       "prix": 182.5,
       "lat": 48.441444,
       "lon": -71.052232
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 182.5,
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "Ultramar",
@@ -517,6 +525,14 @@
       "lon": -71.23162
     },
     {
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 183.4,
+      "lat": 48.424585,
+      "lon": -71.180502
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "2728 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
@@ -526,11 +542,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3073 boul. du Royaume, Saguenay",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 183.4,
-      "lat": 48.40886,
-      "lon": -71.19486
+      "lat": 48.435333,
+      "lon": -71.140604
     },
     {
       "banniere": "Crevier",
@@ -542,19 +558,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "adresse": "3073 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 183.4,
-      "lat": 48.435333,
-      "lon": -71.140604
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 183.4,
-      "lat": 48.424585,
-      "lon": -71.180502
+      "lat": 48.40886,
+      "lon": -71.19486
     },
     {
       "banniere": "Petro-Canada",
@@ -579,14 +587,6 @@
       "prix": 185.9,
       "lat": 48.404137,
       "lon": -71.166787
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 186.2,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Petro-Canada",
