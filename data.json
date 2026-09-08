@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "08/09/2026 14:16",
-  "derniere_verification": "08/09/2026 14:16:31",
-  "fichier_source": "stations-20260908141503.xlsx",
+  "mise_a_jour": "08/09/2026 14:40",
+  "derniere_verification": "08/09/2026 14:40:07",
+  "fichier_source": "stations-20260908143503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -445,12 +445,12 @@
       "lon": -70.067898
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 182.5,
-      "lat": 48.336456,
-      "lon": -70.889349
+      "banniere": "Petro-Canada",
+      "adresse": "952 rue Du Boulevard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 182.4,
+      "lat": 48.307346,
+      "lon": -71.114422
     },
     {
       "banniere": "Canadian Tire",
@@ -477,6 +477,22 @@
       "lon": -71.094182
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 182.5,
+      "lat": 48.336456,
+      "lon": -70.889349
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 182.5,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "Irving",
       "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
@@ -491,14 +507,6 @@
       "prix": 182.5,
       "lat": 48.331986,
       "lon": -70.881141
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 182.5,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Petro-Canada",
@@ -517,20 +525,20 @@
       "lon": -71.106094
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 182.9,
-      "lat": 48.387452,
-      "lon": -71.114645
-    },
-    {
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
       "prix": 182.9,
       "lat": 48.330239,
       "lon": -70.890031
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 182.9,
+      "lat": 48.387452,
+      "lon": -71.114645
     },
     {
       "banniere": "Canadian Tire",
@@ -542,11 +550,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "adresse": "2728 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 183.4,
-      "lat": 48.435333,
-      "lon": -71.140604
+      "lat": 48.433492,
+      "lon": -71.175803
     },
     {
       "banniere": "Irving",
@@ -558,19 +566,19 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 183.4,
+      "lat": 48.435333,
+      "lon": -71.140604
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "3073 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 183.4,
       "lat": 48.40886,
       "lon": -71.19486
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "2728 boul. du Saguenay, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 183.4,
-      "lat": 48.433492,
-      "lon": -71.175803
     },
     {
       "banniere": "Crevier",
@@ -581,14 +589,6 @@
       "lon": -71.187357
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 185.9,
-      "lat": 48.404702,
-      "lon": -71.171977
-    },
-    {
       "banniere": "Esso",
       "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
@@ -597,12 +597,12 @@
       "lon": -71.166787
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "952 rue Du Boulevard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 187.8,
-      "lat": 48.307346,
-      "lon": -71.114422
+      "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 185.9,
+      "lat": 48.404702,
+      "lon": -71.171977
     },
     {
       "banniere": "Harnois",
