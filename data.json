@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "08/09/2026 18:50",
-  "derniere_verification": "08/09/2026 18:50:18",
-  "fichier_source": "stations-20260908185003.xlsx",
+  "mise_a_jour": "08/09/2026 19:13",
+  "derniere_verification": "08/09/2026 19:13:19",
+  "fichier_source": "stations-20260908191003.xlsx",
   "total": 79,
   "stations": [
     {
@@ -413,6 +413,14 @@
       "lon": -71.134685
     },
     {
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 181.4,
+      "lat": 48.373886,
+      "lon": -71.091169
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "81 rue Price ouest, Saguenay",
       "ville": "Jonquiere",
@@ -427,14 +435,6 @@
       "prix": 181.9,
       "lat": 48.450526,
       "lon": -71.088774
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 182.4,
-      "lat": 48.373886,
-      "lon": -71.091169
     },
     {
       "banniere": "Shell",
