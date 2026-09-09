@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "09/09/2026 23:24",
-  "derniere_verification": "09/09/2026 23:24:00",
-  "fichier_source": "stations-20260909232002.xlsx",
+  "mise_a_jour": "09/09/2026 23:45",
+  "derniere_verification": "09/09/2026 23:45:22",
+  "fichier_source": "stations-20260909234503.xlsx",
   "total": 79,
   "stations": [
     {
@@ -21,20 +21,20 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.7,
-      "lat": 48.394683,
-      "lon": -71.070736
-    },
-    {
       "banniere": "Canadian Tire",
       "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
       "ville": "LaBaie",
       "prix": 182.5,
       "lat": 48.336551,
       "lon": -70.882167
+    },
+    {
+      "banniere": "Harnois",
+      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 189.9,
+      "lat": 48.42632,
+      "lon": -71.023248
     },
     {
       "banniere": "Harnois",
@@ -45,12 +45,12 @@
       "lon": -71.067443
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 189.9,
-      "lat": 48.42632,
-      "lon": -71.023248
+      "prix": 194.4,
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Ultramar",
