@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "11/09/2026 19:53",
-  "derniere_verification": "11/09/2026 19:53:51",
-  "fichier_source": "stations-20260911195002.xlsx",
+  "mise_a_jour": "11/09/2026 20:22",
+  "derniere_verification": "11/09/2026 20:22:38",
+  "fichier_source": "stations-20260911202003.xlsx",
   "total": 78,
   "stations": [
     {
@@ -78,11 +78,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
       "prix": 193.7,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Irving",
@@ -102,11 +102,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
       "prix": 193.7,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Esso",
@@ -237,12 +237,12 @@
       "lon": -71.259124
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 193.7,
-      "lat": 48.425557,
-      "lon": -71.26138
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
       "banniere": "Esso",
@@ -253,12 +253,12 @@
       "lon": -71.059187
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 193.7,
-      "lat": 48.406769,
-      "lon": -71.051965
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "R.L.",
@@ -293,14 +293,6 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 193.7,
-      "lat": 48.408298,
-      "lon": -71.054487
-    },
-    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
@@ -323,6 +315,14 @@
       "prix": 193.9,
       "lat": 48.395019,
       "lon": -71.106094
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 193.9,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Nutrinor Énergies",
