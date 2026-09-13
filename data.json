@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/09/2026 01:53",
-  "derniere_verification": "13/09/2026 01:53:24",
-  "fichier_source": "stations-20260913015003.xlsx",
+  "mise_a_jour": "13/09/2026 05:14",
+  "derniere_verification": "13/09/2026 05:14:55",
+  "fichier_source": "stations-20260913051003.xlsx",
   "total": 78,
   "stations": [
     {
@@ -158,27 +158,19 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 192.9,
-      "lat": 48.442216,
-      "lon": -71.07443
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 192.9,
-      "lat": 48.39744,
-      "lon": -71.081011
-    },
-    {
-      "banniere": "Ultramar",
       "adresse": "377 rue Sainte Anne, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 192.9,
       "lat": 48.42592,
       "lon": -71.068372
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 192.9,
+      "lat": 48.442216,
+      "lon": -71.07443
     },
     {
       "banniere": "Ultramar",
@@ -189,6 +181,14 @@
       "lon": -71.070497
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 192.9,
+      "lat": 48.454509,
+      "lon": -71.111521
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
@@ -197,20 +197,20 @@
       "lon": -71.05197
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 192.9,
+      "lat": 48.39744,
+      "lon": -71.081011
+    },
+    {
       "banniere": "Shell",
       "adresse": "60 rue Dumas, Petit-Saguenay",
       "ville": "Saguenay",
       "prix": 193.4,
       "lat": 48.209145,
       "lon": -70.067898
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 193.4,
-      "lat": 48.454243,
-      "lon": -71.061125
     },
     {
       "banniere": "Énergie DDF",
@@ -238,11 +238,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "adresse": "641 rue Delisle, Saguenay",
       "ville": "Chicoutimi",
       "prix": 193.4,
-      "lat": 48.454509,
-      "lon": -71.111521
+      "lat": 48.454243,
+      "lon": -71.061125
     },
     {
       "banniere": "Esso",
