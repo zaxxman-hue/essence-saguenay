@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "14/09/2026 16:25",
-  "derniere_verification": "14/09/2026 16:25:06",
-  "fichier_source": "stations-20260914162502.xlsx",
+  "mise_a_jour": "14/09/2026 16:48",
+  "derniere_verification": "14/09/2026 16:48:20",
+  "fichier_source": "stations-20260914163503.xlsx",
   "total": 78,
   "stations": [
     {
@@ -245,12 +245,12 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
       "prix": 192.9,
-      "lat": 48.454509,
-      "lon": -71.111521
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Shell",
@@ -325,12 +325,12 @@
       "lon": -71.065922
     },
     {
-      "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 192.9,
-      "lat": 48.317087,
-      "lon": -71.134075
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
       "banniere": "R.L.",
@@ -358,19 +358,19 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 192.9,
-      "lat": 48.452384,
-      "lon": -71.094392
-    },
-    {
-      "banniere": "R.L.",
       "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 192.9,
       "lat": 48.441444,
       "lon": -71.052232
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 192.9,
+      "lat": 48.452384,
+      "lon": -71.094392
     },
     {
       "banniere": "Ultramar",
@@ -389,12 +389,12 @@
       "lon": -71.061332
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 193.4,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 192.9,
+      "lat": 48.317087,
+      "lon": -71.134075
     },
     {
       "banniere": "Petro-Canada",
