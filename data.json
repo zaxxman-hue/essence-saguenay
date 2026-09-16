@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "16/09/2026 21:27",
-  "derniere_verification": "16/09/2026 21:27:42",
-  "fichier_source": "stations-20260916212503.xlsx",
+  "mise_a_jour": "16/09/2026 21:46",
+  "derniere_verification": "16/09/2026 21:46:41",
+  "fichier_source": "stations-20260916214003.xlsx",
   "total": 78,
   "stations": [
     {
@@ -413,20 +413,12 @@
       "lon": -71.094392
     },
     {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 189.9,
-      "lat": 48.424585,
-      "lon": -71.180502
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "1845 boul. Tadoussac, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "641 rue Delisle, Saguenay",
       "ville": "Chicoutimi",
       "prix": 189.9,
-      "lat": 48.441506,
-      "lon": -71.051019
+      "lat": 48.454243,
+      "lon": -71.061125
     },
     {
       "banniere": "R.L.",
@@ -437,12 +429,20 @@
       "lon": -70.993907
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 189.9,
+      "lat": 48.336456,
+      "lon": -70.889349
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "1845 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 189.9,
-      "lat": 48.454243,
-      "lon": -71.061125
+      "lat": 48.441506,
+      "lon": -71.051019
     },
     {
       "banniere": "Petro-Canada",
@@ -477,12 +477,12 @@
       "lon": -71.277321
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
       "ville": "Jonquiere",
-      "prix": 190.2,
-      "lat": 48.412676,
-      "lon": -71.23162
+      "prix": 189.9,
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "Crevier",
@@ -491,6 +491,14 @@
       "prix": 190.2,
       "lat": 48.433314,
       "lon": -71.187357
+    },
+    {
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 190.2,
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Crevier",
@@ -539,14 +547,6 @@
       "prix": 192.6,
       "lat": 48.32626,
       "lon": -70.873104
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 192.9,
-      "lat": 48.336456,
-      "lon": -70.889349
     },
     {
       "banniere": "Esso",
