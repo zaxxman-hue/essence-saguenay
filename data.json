@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "16/09/2026 02:10",
-  "derniere_verification": "16/09/2026 02:10:41",
-  "fichier_source": "stations-20260916021003.xlsx",
+  "mise_a_jour": "16/09/2026 05:06",
+  "derniere_verification": "16/09/2026 05:06:23",
+  "fichier_source": "stations-20260916050503.xlsx",
   "total": 78,
   "stations": [
     {
@@ -469,12 +469,12 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
+      "ville": "LaBaie",
       "prix": 192.9,
-      "lat": 48.209145,
-      "lon": -70.067898
+      "lat": 48.331986,
+      "lon": -70.881141
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -485,20 +485,12 @@
       "lon": -70.889349
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "ville": "Saguenay",
       "prix": 192.9,
-      "lat": 48.331986,
-      "lon": -70.881141
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 192.9,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "lat": 48.209145,
+      "lon": -70.067898
     },
     {
       "banniere": "R.L.",
@@ -507,6 +499,14 @@
       "prix": 193.3,
       "lat": 48.32626,
       "lon": -70.873104
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 193.7,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Canadian Tire",
