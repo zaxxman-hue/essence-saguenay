@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "16/09/2026 19:56",
-  "derniere_verification": "16/09/2026 19:56:26",
-  "fichier_source": "stations-20260916195503.xlsx",
+  "mise_a_jour": "16/09/2026 20:17",
+  "derniere_verification": "16/09/2026 20:17:53",
+  "fichier_source": "stations-20260916201503.xlsx",
   "total": 78,
   "stations": [
     {
@@ -349,20 +349,20 @@
       "lon": -71.277321
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 189.9,
-      "lat": 48.438557,
-      "lon": -71.061332
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 189.9,
       "lat": 48.454509,
       "lon": -71.111521
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 189.9,
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
@@ -389,6 +389,14 @@
       "lon": -71.180502
     },
     {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 189.9,
+      "lat": 48.337232,
+      "lon": -70.888533
+    },
+    {
       "banniere": "R.L.",
       "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
@@ -413,14 +421,6 @@
       "lon": -71.26138
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 189.9,
-      "lat": 48.454243,
-      "lon": -71.061125
-    },
-    {
       "banniere": "R.L.",
       "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
       "ville": "Chicoutimi",
@@ -435,6 +435,14 @@
       "prix": 189.9,
       "lat": 48.441506,
       "lon": -71.051019
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "641 rue Delisle, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 189.9,
+      "lat": 48.454243,
+      "lon": -71.061125
     },
     {
       "banniere": "Crevier",
@@ -515,14 +523,6 @@
       "prix": 192.3,
       "lat": 48.336551,
       "lon": -70.882167
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 192.3,
-      "lat": 48.337232,
-      "lon": -70.888533
     },
     {
       "banniere": "Shell",
