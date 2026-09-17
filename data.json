@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "17/09/2026 22:30",
-  "derniere_verification": "17/09/2026 22:30:33",
-  "fichier_source": "stations-20260917223003.xlsx",
+  "mise_a_jour": "17/09/2026 23:00",
+  "derniere_verification": "17/09/2026 23:00:58",
+  "fichier_source": "stations-20260917230003.xlsx",
   "total": 78,
   "stations": [
+    {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 184.4,
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
     {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
@@ -19,14 +27,6 @@
       "prix": 188.4,
       "lat": 48.373886,
       "lon": -71.091169
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 188.4,
-      "lat": 48.316248,
-      "lon": -71.134685
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -53,20 +53,20 @@
       "lon": -71.231414
     },
     {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 188.4,
+      "lat": 48.316248,
+      "lon": -71.134685
+    },
+    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
       "prix": 188.8,
       "lat": 48.353958,
       "lon": -71.324386
-    },
-    {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 188.9,
-      "lat": 48.400574,
-      "lon": -71.145998
     },
     {
       "banniere": "Esso",
@@ -117,12 +117,12 @@
       "lon": -71.020099
     },
     {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
       "ville": "Jonquiere",
       "prix": 188.9,
-      "lat": 48.413826,
-      "lon": -71.246977
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Ultramar",
@@ -246,11 +246,11 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "3820 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 188.9,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Harnois",
