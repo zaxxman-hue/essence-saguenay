@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/09/2026 17:46",
-  "derniere_verification": "18/09/2026 17:46:12",
-  "fichier_source": "stations-20260918174502.xlsx",
+  "mise_a_jour": "18/09/2026 18:10",
+  "derniere_verification": "18/09/2026 18:10:41",
+  "fichier_source": "stations-20260918181002.xlsx",
   "total": 78,
   "stations": [
     {
@@ -493,12 +493,12 @@
       "lon": -70.993907
     },
     {
-      "banniere": "Énergie Express BD",
-      "adresse": "3421 rte Saint-Léonard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 184.9,
-      "lat": 48.458548,
-      "lon": -71.260593
+      "banniere": "Crevier",
+      "adresse": "5251 ch. du Quai, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 184.8,
+      "lat": 48.353958,
+      "lon": -71.324386
     },
     {
       "banniere": "Petro-Canada",
@@ -517,12 +517,12 @@
       "lon": -71.088774
     },
     {
-      "banniere": "Crevier",
-      "adresse": "5251 ch. du Quai, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 188.8,
-      "lat": 48.353958,
-      "lon": -71.324386
+      "banniere": "Énergie Express BD",
+      "adresse": "3421 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 184.9,
+      "lat": 48.458548,
+      "lon": -71.260593
     },
     {
       "banniere": "Shell",
