@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "19/09/2026 17:21",
-  "derniere_verification": "19/09/2026 17:21:45",
-  "fichier_source": "stations-20260919172002.xlsx",
+  "mise_a_jour": "19/09/2026 17:51",
+  "derniere_verification": "19/09/2026 17:51:10",
+  "fichier_source": "stations-20260919175003.xlsx",
   "total": 78,
   "stations": [
     {
@@ -565,12 +565,12 @@
       "lon": -70.873104
     },
     {
-      "banniere": "Harnois",
-      "adresse": "950 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 189.9,
-      "lat": 48.41388,
-      "lon": -71.067443
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 187.9,
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "Harnois",
@@ -581,12 +581,12 @@
       "lon": -71.023248
     },
     {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 193.9,
-      "lat": 48.395019,
-      "lon": -71.106094
+      "banniere": "Harnois",
+      "adresse": "950 rue Bégin, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 189.9,
+      "lat": 48.41388,
+      "lon": -71.067443
     },
     {
       "banniere": "Esso",
