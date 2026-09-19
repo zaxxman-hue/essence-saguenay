@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "19/09/2026 10:34",
-  "derniere_verification": "19/09/2026 10:34:47",
-  "fichier_source": "stations-20260919103005.xlsx",
+  "mise_a_jour": "19/09/2026 12:07",
+  "derniere_verification": "19/09/2026 12:07:55",
+  "fichier_source": "stations-20260919120503.xlsx",
   "total": 78,
   "stations": [
     {
@@ -69,12 +69,12 @@
       "lon": -71.051965
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "ville": "Saguenay",
       "prix": 184.4,
-      "lat": 48.451071,
-      "lon": -71.020099
+      "lat": 48.209145,
+      "lon": -70.067898
     },
     {
       "banniere": "Esso",
@@ -85,12 +85,12 @@
       "lon": -70.990331
     },
     {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "677 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 184.4,
-      "lat": 48.424585,
-      "lon": -71.180502
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Irving",
@@ -133,20 +133,20 @@
       "lon": -71.059187
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 184.4,
-      "lat": 48.337232,
-      "lon": -70.888533
-    },
-    {
       "banniere": "R.L.",
       "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 184.4,
       "lat": 48.441444,
       "lon": -71.052232
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "952 rue Du Boulevard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 184.4,
+      "lat": 48.307346,
+      "lon": -71.114422
     },
     {
       "banniere": "Irving",
@@ -165,20 +165,20 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "952 rue Du Boulevard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 184.4,
-      "lat": 48.307346,
-      "lon": -71.114422
-    },
-    {
       "banniere": "R.L.",
       "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 184.4,
       "lat": 48.452384,
       "lon": -71.094392
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 184.4,
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "Irving",
@@ -541,12 +541,20 @@
       "lon": -71.260593
     },
     {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
-      "ville": "Saguenay",
+      "banniere": "R.L.",
+      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 186.7,
+      "lat": 48.32626,
+      "lon": -70.873104
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
       "prix": 188.9,
-      "lat": 48.209145,
-      "lon": -70.067898
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -555,14 +563,6 @@
       "prix": 188.9,
       "lat": 48.336456,
       "lon": -70.889349
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 188.9,
-      "lat": 48.32626,
-      "lon": -70.873104
     },
     {
       "banniere": "Harnois",
