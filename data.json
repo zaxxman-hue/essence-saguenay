@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "20/09/2026 15:38",
-  "derniere_verification": "20/09/2026 15:38:55",
-  "fichier_source": "stations-20260920153503.xlsx",
+  "mise_a_jour": "20/09/2026 16:18",
+  "derniere_verification": "20/09/2026 16:18:46",
+  "fichier_source": "stations-20260920161503.xlsx",
   "total": 78,
   "stations": [
     {
@@ -581,20 +581,20 @@
       "lon": -71.023248
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 190.9,
+      "lat": 48.387452,
+      "lon": -71.114645
+    },
+    {
       "banniere": "Esso",
       "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 191.9,
       "lat": 48.395019,
       "lon": -71.106094
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 191.9,
-      "lat": 48.387452,
-      "lon": -71.114645
     },
     {
       "banniere": "Shell",
