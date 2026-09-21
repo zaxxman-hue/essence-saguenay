@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "21/09/2026 18:14",
-  "derniere_verification": "21/09/2026 18:14:32",
-  "fichier_source": "stations-20260921181003.xlsx",
+  "mise_a_jour": "21/09/2026 18:27",
+  "derniere_verification": "21/09/2026 18:27:56",
+  "fichier_source": "stations-20260921182503.xlsx",
   "total": 78,
   "stations": [
     {
@@ -600,7 +600,7 @@
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
-      "prix": 193.9,
+      "prix": 190.9,
       "lat": 48.330239,
       "lon": -70.890031
     },
