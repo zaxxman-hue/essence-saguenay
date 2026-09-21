@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "21/09/2026 12:23",
-  "derniere_verification": "21/09/2026 12:23:52",
-  "fichier_source": "stations-20260921122003.xlsx",
+  "mise_a_jour": "21/09/2026 14:39",
+  "derniere_verification": "21/09/2026 14:39:29",
+  "fichier_source": "stations-20260921143503.xlsx",
   "total": 78,
   "stations": [
     {
@@ -261,12 +261,12 @@
       "lon": -71.065922
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "R.L.",
+      "adresse": "45 rue Du Pont, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 184.4,
-      "lat": 48.407448,
-      "lon": -71.094182
+      "lat": 48.436903,
+      "lon": -71.067338
     },
     {
       "banniere": "Ultramar",
@@ -326,6 +326,14 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "4391 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 184.4,
+      "lat": 48.470796,
+      "lon": -71.277321
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 184.4,
@@ -357,20 +365,20 @@
       "lon": -71.270068
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 184.4,
-      "lat": 48.39309,
-      "lon": -71.070497
-    },
-    {
       "banniere": "Shell",
       "adresse": "487 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 184.4,
       "lat": 48.44285,
       "lon": -71.076179
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 184.4,
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Ultramar",
@@ -381,20 +389,12 @@
       "lon": -71.114645
     },
     {
-      "banniere": "R.L.",
-      "adresse": "45 rue Du Pont, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 184.4,
-      "lat": 48.436903,
-      "lon": -71.067338
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 184.4,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "lat": 48.407448,
+      "lon": -71.094182
     },
     {
       "banniere": "Crevier",
@@ -403,6 +403,14 @@
       "prix": 184.4,
       "lat": 48.433314,
       "lon": -71.187357
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 184.4,
+      "lat": 48.423109,
+      "lon": -71.212988
     },
     {
       "banniere": "Petro-Canada",
@@ -419,14 +427,6 @@
       "prix": 184.4,
       "lat": 48.411103,
       "lon": -71.052843
-    },
-    {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 184.4,
-      "lat": 48.412108,
-      "lon": -71.231414
     },
     {
       "banniere": "Énergie DDF",
@@ -525,20 +525,20 @@
       "lon": -71.242838
     },
     {
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 184.4,
+      "lat": 48.412108,
+      "lon": -71.231414
+    },
+    {
       "banniere": "Crevier",
       "adresse": "5251 ch. du Quai, Saguenay",
       "ville": "Jonquiere",
       "prix": 184.8,
       "lat": 48.353958,
       "lon": -71.324386
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 184.9,
-      "lat": 48.450526,
-      "lon": -71.088774
     },
     {
       "banniere": "Petro-Canada",
@@ -550,11 +550,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "4391 rte Saint-Léonard, Saguenay",
-      "ville": "Saguenay",
+      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 184.9,
-      "lat": 48.470796,
-      "lon": -71.277321
+      "lat": 48.450526,
+      "lon": -71.088774
     },
     {
       "banniere": "Énergie Express BD",
