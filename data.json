@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "23/09/2026 20:06",
-  "derniere_verification": "23/09/2026 20:06:11",
-  "fichier_source": "stations-20260923200503.xlsx",
+  "mise_a_jour": "23/09/2026 20:34",
+  "derniere_verification": "23/09/2026 20:34:17",
+  "fichier_source": "stations-20260923203003.xlsx",
   "total": 78,
   "stations": [
     {
@@ -445,6 +445,14 @@
       "lon": -71.088774
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 180.9,
+      "lat": 48.425808,
+      "lon": -71.071138
+    },
+    {
       "banniere": "Nutrinor Énergies",
       "adresse": "1360 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
@@ -462,27 +470,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 182.9,
-      "lat": 48.425808,
-      "lon": -71.071138
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 182.9,
-      "lat": 48.428994,
-      "lon": -71.027496
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "3073 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 182.9,
       "lat": 48.40886,
       "lon": -71.19486
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 182.9,
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "Crevier",
@@ -493,12 +493,12 @@
       "lon": -71.187357
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 182.9,
-      "lat": 48.404137,
-      "lon": -71.166787
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Ultramar",
