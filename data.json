@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "25/09/2026 19:47",
-  "derniere_verification": "25/09/2026 19:47:09",
-  "fichier_source": "stations-20260925194503.xlsx",
+  "mise_a_jour": "25/09/2026 20:03",
+  "derniere_verification": "25/09/2026 20:03:53",
+  "fichier_source": "stations-20260925200003.xlsx",
   "total": 78,
   "stations": [
     {
@@ -109,14 +109,6 @@
       "lon": -71.091169
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 179.4,
-      "lat": 48.316248,
-      "lon": -71.134685
-    },
-    {
       "banniere": "Énergie DDF",
       "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
@@ -149,6 +141,14 @@
       "lon": -70.888533
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 184.9,
+      "lat": 48.331986,
+      "lon": -70.881141
+    },
+    {
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
@@ -165,20 +165,20 @@
       "lon": -70.882167
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 184.9,
-      "lat": 48.331986,
-      "lon": -70.881141
-    },
-    {
       "banniere": "Esso",
       "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
       "prix": 193.9,
       "lat": 48.317822,
       "lon": -70.861146
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 194.4,
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "Esso",
@@ -205,12 +205,12 @@
       "lon": -71.252854
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
       "prix": 194.4,
-      "lat": 48.404137,
-      "lon": -71.166787
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Ultramar",
