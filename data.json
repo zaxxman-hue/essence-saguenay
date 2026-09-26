@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "26/09/2026 19:16",
-  "derniere_verification": "26/09/2026 19:16:08",
-  "fichier_source": "stations-20260926191503.xlsx",
+  "mise_a_jour": "26/09/2026 19:38",
+  "derniere_verification": "26/09/2026 19:38:40",
+  "fichier_source": "stations-20260926193503.xlsx",
   "total": 78,
   "stations": [
     {
@@ -469,20 +469,20 @@
       "lon": -71.093216
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 194.4,
-      "lat": 48.438557,
-      "lon": -71.061332
-    },
-    {
       "banniere": "Esso",
       "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
       "prix": 194.4,
       "lat": 48.373886,
       "lon": -71.091169
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 194.9,
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Harnois",
@@ -509,14 +509,6 @@
       "lon": -71.114422
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 194.9,
-      "lat": 48.408298,
-      "lon": -71.054487
-    },
-    {
       "banniere": "R.L.",
       "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
@@ -531,6 +523,14 @@
       "prix": 194.9,
       "lat": 48.451071,
       "lon": -71.020099
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 194.9,
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
