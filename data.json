@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "26/09/2026 02:26",
-  "derniere_verification": "26/09/2026 02:26:16",
-  "fichier_source": "stations-20260926002503.xlsx",
+  "mise_a_jour": "26/09/2026 05:20",
+  "derniere_verification": "26/09/2026 05:20:02",
+  "fichier_source": "stations-20260926051503.xlsx",
   "total": 78,
   "stations": [
     {
@@ -46,11 +46,11 @@
     },
     {
       "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 179.2,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "Ultramar",
@@ -59,14 +59,6 @@
       "prix": 179.2,
       "lat": 48.39309,
       "lon": -71.070497
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.2,
-      "lat": 48.44285,
-      "lon": -71.076179
     },
     {
       "banniere": "Énergie DDF",
@@ -85,14 +77,6 @@
       "lon": -70.889349
     },
     {
-      "banniere": "Énergie Express BD",
-      "adresse": "3421 rte Saint-Léonard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 179.9,
-      "lat": 48.458548,
-      "lon": -71.260593
-    },
-    {
       "banniere": "Irving",
       "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
@@ -101,12 +85,12 @@
       "lon": -70.888533
     },
     {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
+      "ville": "LaBaie",
       "prix": 184.9,
-      "lat": 48.209145,
-      "lon": -70.067898
+      "lat": 48.336551,
+      "lon": -70.882167
     },
     {
       "banniere": "Petro-Canada",
@@ -118,6 +102,14 @@
     },
     {
       "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "ville": "Saguenay",
+      "prix": 184.9,
+      "lat": 48.209145,
+      "lon": -70.067898
+    },
+    {
+      "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
       "prix": 184.9,
@@ -125,12 +117,20 @@
       "lon": -70.890031
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
-      "prix": 184.9,
-      "lat": 48.336551,
-      "lon": -70.882167
+      "banniere": "Énergie Express BD",
+      "adresse": "3421 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 188.9,
+      "lat": 48.458548,
+      "lon": -71.260593
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 189.4,
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Esso",
