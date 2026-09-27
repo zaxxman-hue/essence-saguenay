@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "27/09/2026 19:06",
-  "derniere_verification": "27/09/2026 19:06:28",
-  "fichier_source": "stations-20260927190503.xlsx",
+  "mise_a_jour": "27/09/2026 19:28",
+  "derniere_verification": "27/09/2026 19:28:58",
+  "fichier_source": "stations-20260927192503.xlsx",
   "total": 78,
   "stations": [
     {
@@ -118,19 +118,27 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.2,
-      "lat": 48.415732,
-      "lon": -71.065681
-    },
-    {
-      "banniere": "Esso",
       "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 179.2,
       "lat": 48.411254,
       "lon": -71.261772
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.2,
+      "lat": 48.426389,
+      "lon": -71.259018
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 179.2,
+      "lat": 48.415732,
+      "lon": -71.065681
     },
     {
       "banniere": "Petro-Canada",
@@ -149,20 +157,20 @@
       "lon": -71.252854
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 184.4,
-      "lat": 48.331986,
-      "lon": -70.881141
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "1623 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 184.4,
       "lat": 48.336456,
       "lon": -70.889349
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 184.4,
+      "lat": 48.331986,
+      "lon": -70.881141
     },
     {
       "banniere": "Irving",
@@ -181,20 +189,20 @@
       "lon": -70.067898
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
-      "prix": 184.9,
-      "lat": 48.336551,
-      "lon": -70.882167
-    },
-    {
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
       "prix": 184.9,
       "lat": 48.330239,
       "lon": -70.890031
+    },
+    {
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
+      "ville": "LaBaie",
+      "prix": 184.9,
+      "lat": 48.336551,
+      "lon": -70.882167
     },
     {
       "banniere": "Mobil",
@@ -219,14 +227,6 @@
       "prix": 188.4,
       "lat": 48.470796,
       "lon": -71.277321
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 188.7,
-      "lat": 48.441444,
-      "lon": -71.052232
     },
     {
       "banniere": "Irving",
@@ -406,11 +406,11 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "1845 boul. Tadoussac, Saguenay",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 188.7,
-      "lat": 48.441506,
-      "lon": -71.051019
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "R.L.",
@@ -419,6 +419,14 @@
       "prix": 188.7,
       "lat": 48.32626,
       "lon": -70.873104
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "1845 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 188.7,
+      "lat": 48.441506,
+      "lon": -71.051019
     },
     {
       "banniere": "Petro-Canada",
@@ -443,14 +451,6 @@
       "prix": 189.4,
       "lat": 48.316248,
       "lon": -71.134685
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 189.4,
-      "lat": 48.426389,
-      "lon": -71.259018
     },
     {
       "banniere": "Petro-Canada",
