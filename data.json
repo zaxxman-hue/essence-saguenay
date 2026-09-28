@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "28/09/2026 20:10",
-  "derniere_verification": "28/09/2026 20:10:00",
-  "fichier_source": "stations-20260928200502.xlsx",
+  "mise_a_jour": "28/09/2026 20:18",
+  "derniere_verification": "28/09/2026 20:18:06",
+  "fichier_source": "stations-20260928201502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -469,20 +469,20 @@
       "lon": -71.324386
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.9,
-      "lat": 48.425808,
-      "lon": -71.071138
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "1333 Boul. du Royaume est, SAGUENAY",
       "ville": "Saguenay",
       "prix": 179.9,
       "lat": 48.387452,
       "lon": -71.114645
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 179.9,
+      "lat": 48.407448,
+      "lon": -71.094182
     },
     {
       "banniere": "Petro-Canada",
@@ -493,12 +493,20 @@
       "lon": -71.277321
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 179.9,
-      "lat": 48.407448,
-      "lon": -71.094182
+      "lat": 48.395019,
+      "lon": -71.106094
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 179.9,
+      "lat": 48.425808,
+      "lon": -71.071138
     },
     {
       "banniere": "Petro-Canada",
@@ -517,20 +525,20 @@
       "lon": -71.171977
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 183.4,
-      "lat": 48.404137,
-      "lon": -71.166787
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "3073 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 183.4,
       "lat": 48.40886,
       "lon": -71.19486
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 183.4,
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "Shell",
@@ -587,14 +595,6 @@
       "prix": 189.9,
       "lat": 48.42632,
       "lon": -71.023248
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 191.4,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Petro-Canada",
