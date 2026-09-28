@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "27/09/2026 23:51",
-  "derniere_verification": "27/09/2026 23:51:42",
-  "fichier_source": "stations-20260927235003.xlsx",
+  "mise_a_jour": "28/09/2026 00:14",
+  "derniere_verification": "28/09/2026 00:14:25",
+  "fichier_source": "stations-20260928001003.xlsx",
   "total": 78,
   "stations": [
     {
@@ -541,6 +541,14 @@
       "lon": -71.067443
     },
     {
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 192.4,
+      "lat": 48.395019,
+      "lon": -71.106094
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1333 Boul. du Royaume est, SAGUENAY",
       "ville": "Saguenay",
@@ -555,14 +563,6 @@
       "prix": 193.4,
       "lat": 48.408178,
       "lon": -71.093216
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 193.4,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Nutrinor Énergies",
