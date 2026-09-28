@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "28/09/2026 05:44",
-  "derniere_verification": "28/09/2026 05:44:35",
-  "fichier_source": "stations-20260928054003.xlsx",
+  "mise_a_jour": "28/09/2026 08:05",
+  "derniere_verification": "28/09/2026 08:05:53",
+  "fichier_source": "stations-20260928080503.xlsx",
   "total": 78,
   "stations": [
     {
@@ -245,20 +245,20 @@
       "lon": -71.252854
     },
     {
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.7,
+      "lat": 48.425557,
+      "lon": -71.26138
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "4391 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
       "prix": 181.2,
       "lat": 48.470796,
       "lon": -71.277321
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 182.7,
-      "lat": 48.425557,
-      "lon": -71.26138
     },
     {
       "banniere": "Irving",
