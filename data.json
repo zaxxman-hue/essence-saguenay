@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "28/09/2026 18:01",
-  "derniere_verification": "28/09/2026 18:01:07",
-  "fichier_source": "stations-20260928180003.xlsx",
+  "mise_a_jour": "28/09/2026 18:12",
+  "derniere_verification": "28/09/2026 18:12:30",
+  "fichier_source": "stations-20260928181003.xlsx",
   "total": 78,
   "stations": [
     {
@@ -213,28 +213,28 @@
       "lon": -71.065681
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 179.1,
+      "lat": 48.442216,
+      "lon": -71.07443
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 179.1,
+      "lat": 48.42592,
+      "lon": -71.068372
+    },
+    {
       "banniere": "Irving",
       "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 179.2,
       "lat": 48.337232,
       "lon": -70.888533
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 179.2,
-      "lat": 48.424585,
-      "lon": -71.180502
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 179.2,
-      "lat": 48.442216,
-      "lon": -71.07443
     },
     {
       "banniere": "R.L.",
@@ -253,12 +253,12 @@
       "lon": -71.094392
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
+      "ville": "Jonquiere",
       "prix": 179.2,
-      "lat": 48.454509,
-      "lon": -71.111521
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "R.L.",
@@ -293,20 +293,20 @@
       "lon": -71.067338
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "377 rue Sainte Anne, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 179.2,
-      "lat": 48.42592,
-      "lon": -71.068372
-    },
-    {
       "banniere": "Canadian Tire",
       "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
       "ville": "LaBaie",
       "prix": 179.2,
       "lat": 48.336551,
       "lon": -70.882167
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 179.2,
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
       "banniere": "Petro-Canada",
