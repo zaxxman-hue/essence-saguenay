@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "29/09/2026 21:19",
-  "derniere_verification": "29/09/2026 21:19:29",
-  "fichier_source": "stations-20260929211502.xlsx",
+  "mise_a_jour": "29/09/2026 21:28",
+  "derniere_verification": "29/09/2026 21:28:43",
+  "fichier_source": "stations-20260929212502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -573,6 +573,14 @@
       "lon": -71.277321
     },
     {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 184.9,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
@@ -590,14 +598,6 @@
     },
     {
       "banniere": "Harnois",
-      "adresse": "1476 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 189.9,
-      "lat": 48.42632,
-      "lon": -71.023248
-    },
-    {
-      "banniere": "Harnois",
       "adresse": "950 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 189.9,
@@ -606,19 +606,19 @@
     },
     {
       "banniere": "Harnois",
+      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 189.9,
+      "lat": 48.42632,
+      "lon": -71.023248
+    },
+    {
+      "banniere": "Harnois",
       "adresse": "3182 rue Saguenay, Rouyn-Noranda",
       "ville": "Saguenay",
       "prix": 193.4,
       "lat": 48.291928,
       "lon": -79.03785
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 193.9,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Petro-Canada",
