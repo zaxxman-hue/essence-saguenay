@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "30/09/2026 14:23",
-  "derniere_verification": "30/09/2026 14:23:13",
-  "fichier_source": "stations-20260930142002.xlsx",
+  "mise_a_jour": "30/09/2026 16:19",
+  "derniere_verification": "30/09/2026 16:19:29",
+  "fichier_source": "stations-20260930161502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -270,19 +270,27 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 178.3,
-      "lat": 48.415732,
-      "lon": -71.065681
-    },
-    {
-      "banniere": "Esso",
       "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
       "ville": "Saguenay",
       "prix": 178.3,
       "lat": 48.411254,
       "lon": -71.261772
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 178.3,
+      "lat": 48.421952,
+      "lon": -71.242838
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 178.3,
+      "lat": 48.415732,
+      "lon": -71.065681
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -301,12 +309,12 @@
       "lon": -71.252854
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
       "prix": 178.4,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Inconnue",
@@ -317,12 +325,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 178.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -331,14 +339,6 @@
       "prix": 178.9,
       "lat": 48.407448,
       "lon": -71.094182
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 178.9,
-      "lat": 48.450526,
-      "lon": -71.088774
     },
     {
       "banniere": "Canadian Tire",
@@ -365,12 +365,12 @@
       "lon": -71.068372
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 178.9,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.450526,
+      "lon": -71.088774
     },
     {
       "banniere": "Ultramar",
@@ -430,11 +430,11 @@
     },
     {
       "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 178.9,
-      "lat": 48.421952,
-      "lon": -71.242838
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Petro-Canada",
