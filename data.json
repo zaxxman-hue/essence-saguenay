@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "30/09/2026 07:49",
-  "derniere_verification": "30/09/2026 07:49:49",
-  "fichier_source": "stations-20260930074502.xlsx",
+  "mise_a_jour": "30/09/2026 10:24",
+  "derniere_verification": "30/09/2026 10:24:04",
+  "fichier_source": "stations-20260930102002.xlsx",
   "total": 78,
   "stations": [
     {
@@ -624,7 +624,7 @@
       "banniere": "Petro-Canada",
       "adresse": "2350 boul. Saguenay, Rouyn-Noranda",
       "ville": "Saguenay",
-      "prix": 195.4,
+      "prix": 193.4,
       "lat": 48.271731,
       "lon": -79.027249
     }
