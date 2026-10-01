@@ -1,14 +1,14 @@
 {
-  "mise_a_jour": "01/10/2026 20:24",
-  "derniere_verification": "01/10/2026 20:24:00",
-  "fichier_source": "stations-20261001202002.xlsx",
+  "mise_a_jour": "01/10/2026 20:45",
+  "derniere_verification": "01/10/2026 20:45:29",
+  "fichier_source": "stations-20261001204502.xlsx",
   "total": 78,
   "stations": [
     {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 176.2,
+      "prix": 175.7,
       "lat": 48.40924,
       "lon": -71.052572
     },
@@ -589,18 +589,10 @@
       "lon": -70.890031
     },
     {
-      "banniere": "Énergie Express BD",
-      "adresse": "3421 rte Saint-Léonard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 188.4,
-      "lat": 48.458548,
-      "lon": -71.260593
-    },
-    {
       "banniere": "Harnois",
       "adresse": "950 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 189.9,
+      "prix": 184.9,
       "lat": 48.41388,
       "lon": -71.067443
     },
@@ -608,9 +600,17 @@
       "banniere": "Harnois",
       "adresse": "1476 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 189.9,
+      "prix": 184.9,
       "lat": 48.42632,
       "lon": -71.023248
+    },
+    {
+      "banniere": "Énergie Express BD",
+      "adresse": "3421 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 188.4,
+      "lat": 48.458548,
+      "lon": -71.260593
     },
     {
       "banniere": "Harnois",
