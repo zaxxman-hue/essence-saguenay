@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "03/10/2026 16:32",
-  "derniere_verification": "03/10/2026 16:32:57",
-  "fichier_source": "stations-20261003163001.xlsx",
+  "mise_a_jour": "03/10/2026 16:57",
+  "derniere_verification": "03/10/2026 16:57:22",
+  "fichier_source": "stations-20261003165501.xlsx",
   "total": 78,
   "stations": [
     {
@@ -389,12 +389,12 @@
       "lon": -71.027496
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 176.9,
-      "lat": 48.452384,
-      "lon": -71.094392
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "Irving",
@@ -405,12 +405,12 @@
       "lon": -71.061332
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 176.9,
-      "lat": 48.425808,
-      "lon": -71.071138
+      "lat": 48.452384,
+      "lon": -71.094392
     },
     {
       "banniere": "R.L.",
@@ -435,6 +435,14 @@
       "prix": 176.9,
       "lat": 48.396372,
       "lon": -70.993907
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 176.9,
+      "lat": 48.425808,
+      "lon": -71.071138
     },
     {
       "banniere": "Petro-Canada",
@@ -467,14 +475,6 @@
       "prix": 177.7,
       "lat": 48.470796,
       "lon": -71.277321
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 177.9,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Nutrinor Énergies",
