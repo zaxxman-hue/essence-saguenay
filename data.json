@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "03/10/2026 17:40",
-  "derniere_verification": "03/10/2026 17:40:19",
-  "fichier_source": "stations-20261003174001.xlsx",
+  "mise_a_jour": "03/10/2026 18:08",
+  "derniere_verification": "03/10/2026 18:08:01",
+  "fichier_source": "stations-20261003180501.xlsx",
   "total": 78,
   "stations": [
     {
@@ -157,12 +157,12 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 175.7,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "Ultramar",
@@ -181,12 +181,12 @@
       "lon": -71.23757
     },
     {
-      "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 175.7,
-      "lat": 48.317087,
-      "lon": -71.134075
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "Petro-Canada",
@@ -213,6 +213,14 @@
       "lon": -71.261772
     },
     {
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 175.7,
+      "lat": 48.317087,
+      "lon": -71.134075
+    },
+    {
       "banniere": "Shell",
       "adresse": "3761 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
@@ -221,20 +229,20 @@
       "lon": -71.242838
     },
     {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 176.4,
-      "lat": 48.44285,
-      "lon": -71.076179
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "2728 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 176.4,
       "lat": 48.433492,
       "lon": -71.175803
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1960 rue De Montfort, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 176.4,
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Petro-Canada",
@@ -251,14 +259,6 @@
       "prix": 176.4,
       "lat": 48.433314,
       "lon": -71.187357
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 176.4,
-      "lat": 48.435333,
-      "lon": -71.140604
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -286,11 +286,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 176.4,
-      "lat": 48.424661,
-      "lon": -71.234995
+      "lat": 48.435333,
+      "lon": -71.140604
     },
     {
       "banniere": "Petro-Canada",
