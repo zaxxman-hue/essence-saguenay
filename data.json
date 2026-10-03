@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "03/10/2026 15:11",
-  "derniere_verification": "03/10/2026 15:11:39",
-  "fichier_source": "stations-20261003151001.xlsx",
+  "mise_a_jour": "03/10/2026 15:53",
+  "derniere_verification": "03/10/2026 15:53:32",
+  "fichier_source": "stations-20261003155002.xlsx",
   "total": 78,
   "stations": [
     {
@@ -117,12 +117,12 @@
       "lon": -71.051965
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "3667 rue Panet, Saguenay",
+      "ville": "Jonquiere",
       "prix": 175.7,
-      "lat": 48.39309,
-      "lon": -71.070497
+      "lat": 48.402262,
+      "lon": -71.23757
     },
     {
       "banniere": "Ultramar",
@@ -165,12 +165,12 @@
       "lon": -71.052843
     },
     {
-      "banniere": "Esso",
-      "adresse": "138 rue Dubé, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 175.7,
-      "lat": 48.415732,
-      "lon": -71.065681
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Esso",
@@ -197,20 +197,20 @@
       "lon": -71.054487
     },
     {
+      "banniere": "Esso",
+      "adresse": "138 rue Dubé, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.7,
+      "lat": 48.415732,
+      "lon": -71.065681
+    },
+    {
       "banniere": "Shell",
       "adresse": "3761 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.7,
       "lat": 48.421952,
       "lon": -71.242838
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
-      "prix": 176.4,
-      "lat": 48.414704,
-      "lon": -71.259124
     },
     {
       "banniere": "Shell",
@@ -222,11 +222,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 176.4,
-      "lat": 48.424661,
-      "lon": -71.234995
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
       "banniere": "Petro-Canada",
@@ -238,11 +238,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
       "prix": 176.4,
-      "lat": 48.454509,
-      "lon": -71.111521
+      "lat": 48.414704,
+      "lon": -71.259124
     },
     {
       "banniere": "Crevier",
@@ -286,11 +286,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "3667 rue Panet, Saguenay",
+      "adresse": "1960 rue De Montfort, Saguenay",
       "ville": "Jonquiere",
       "prix": 176.4,
-      "lat": 48.402262,
-      "lon": -71.23757
+      "lat": 48.424661,
+      "lon": -71.234995
     },
     {
       "banniere": "Petro-Canada",
