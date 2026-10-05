@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "05/10/2026 08:07",
-  "derniere_verification": "05/10/2026 08:07:20",
-  "fichier_source": "stations-20261005080501.xlsx",
+  "mise_a_jour": "05/10/2026 11:20",
+  "derniere_verification": "05/10/2026 11:20:37",
+  "fichier_source": "stations-20261005112000.xlsx",
   "total": 78,
   "stations": [
     {
@@ -453,20 +453,20 @@
       "lon": -71.180502
     },
     {
-      "banniere": "Crevier",
-      "adresse": "2922 boul. du Saguenay, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 177.6,
-      "lat": 48.433314,
-      "lon": -71.187357
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "2245 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 177.6,
       "lat": 48.435333,
       "lon": -71.140604
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 177.6,
+      "lat": 48.404702,
+      "lon": -71.171977
     },
     {
       "banniere": "Petro-Canada",
@@ -483,6 +483,14 @@
       "prix": 177.6,
       "lat": 48.40886,
       "lon": -71.19486
+    },
+    {
+      "banniere": "Crevier",
+      "adresse": "2922 boul. du Saguenay, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 177.6,
+      "lat": 48.433314,
+      "lon": -71.187357
     },
     {
       "banniere": "Petro-Canada",
@@ -507,14 +515,6 @@
       "prix": 178.3,
       "lat": 48.404137,
       "lon": -71.166787
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 178.3,
-      "lat": 48.404702,
-      "lon": -71.171977
     },
     {
       "banniere": "Irving",
