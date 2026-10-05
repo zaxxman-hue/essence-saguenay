@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "05/10/2026 20:57",
-  "derniere_verification": "05/10/2026 20:57:10",
-  "fichier_source": "stations-20261005205501.xlsx",
+  "mise_a_jour": "05/10/2026 21:09",
+  "derniere_verification": "05/10/2026 21:09:51",
+  "fichier_source": "stations-20261005210501.xlsx",
   "total": 77,
   "stations": [
     {
@@ -605,20 +605,20 @@
       "lon": -71.067443
     },
     {
-      "banniere": "Harnois",
-      "adresse": "3182 rue Saguenay, Rouyn-Noranda",
-      "ville": "Saguenay",
-      "prix": 193.4,
-      "lat": 48.291928,
-      "lon": -79.03785
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "2350 boul. Saguenay, Rouyn-Noranda",
       "ville": "Saguenay",
       "prix": 195.4,
       "lat": 48.271731,
       "lon": -79.027249
+    },
+    {
+      "banniere": "Harnois",
+      "adresse": "3182 rue Saguenay, Rouyn-Noranda",
+      "ville": "Saguenay",
+      "prix": 195.4,
+      "lat": 48.291928,
+      "lon": -79.03785
     }
   ]
 }
