@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/10/2026 21:46",
-  "derniere_verification": "06/10/2026 21:46:10",
-  "fichier_source": "stations-20261006214501.xlsx",
+  "mise_a_jour": "06/10/2026 22:14",
+  "derniere_verification": "06/10/2026 22:14:13",
+  "fichier_source": "stations-20261006221001.xlsx",
   "total": 78,
   "stations": [
     {
@@ -13,12 +13,12 @@
       "lon": -71.260593
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 175.4,
-      "lat": 48.316248,
-      "lon": -71.134685
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "Énergie DDF",
@@ -29,20 +29,20 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 175.7,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 175.4,
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 175.7,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Canadian Tire",
@@ -54,11 +54,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 175.7,
-      "lat": 48.39309,
-      "lon": -71.070497
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Ultramar",
@@ -67,6 +67,14 @@
       "prix": 175.7,
       "lat": 48.442216,
       "lon": -71.07443
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.7,
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Esso",
@@ -91,14 +99,6 @@
       "prix": 179.9,
       "lat": 48.330239,
       "lon": -70.890031
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 181.4,
-      "lat": 48.44285,
-      "lon": -71.076179
     },
     {
       "banniere": "R.L.",
