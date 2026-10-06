@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "06/10/2026 18:30",
-  "derniere_verification": "06/10/2026 18:30:08",
-  "fichier_source": "stations-20261006182501.xlsx",
+  "mise_a_jour": "06/10/2026 18:45",
+  "derniere_verification": "06/10/2026 18:45:19",
+  "fichier_source": "stations-20261006184501.xlsx",
   "total": 77,
   "stations": [
     {
@@ -37,14 +37,6 @@
       "lon": -71.260593
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 175.4,
-      "lat": 48.419808,
-      "lon": -71.100018
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
@@ -53,12 +45,12 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
       "prix": 175.4,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "R.L.",
@@ -67,6 +59,14 @@
       "prix": 175.5,
       "lat": 48.32626,
       "lon": -70.873104
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 175.7,
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Canadian Tire",
@@ -93,12 +93,12 @@
       "lon": -71.027496
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
+      "banniere": "R.L.",
+      "adresse": "45 rue Du Pont, Saguenay",
       "ville": "Chicoutimi",
       "prix": 175.7,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.436903,
+      "lon": -71.067338
     },
     {
       "banniere": "R.L.",
@@ -134,6 +134,14 @@
     },
     {
       "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 175.7,
+      "lat": 48.317087,
+      "lon": -71.134075
+    },
+    {
+      "banniere": "R.L.",
       "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
       "ville": "Chicoutimi",
       "prix": 175.7,
@@ -141,12 +149,12 @@
       "lon": -70.993907
     },
     {
-      "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 175.7,
-      "lat": 48.317087,
-      "lon": -71.134075
+      "lat": 48.421952,
+      "lon": -71.242838
     },
     {
       "banniere": "R.L.",
@@ -157,28 +165,12 @@
       "lon": -71.051019
     },
     {
-      "banniere": "R.L.",
-      "adresse": "45 rue Du Pont, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 175.7,
-      "lat": 48.436903,
-      "lon": -71.067338
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 175.7,
       "lat": 48.39309,
       "lon": -71.070497
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 175.7,
-      "lat": 48.421952,
-      "lon": -71.242838
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -243,6 +235,14 @@
       "prix": 185.4,
       "lat": 48.209145,
       "lon": -70.067898
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 185.4,
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Inconnue",
