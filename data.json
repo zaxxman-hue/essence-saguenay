@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "07/10/2026 01:54",
-  "derniere_verification": "07/10/2026 01:54:56",
-  "fichier_source": "stations-20261007015001.xlsx",
+  "mise_a_jour": "07/10/2026 02:33",
+  "derniere_verification": "07/10/2026 02:33:51",
+  "fichier_source": "stations-20261007023001.xlsx",
   "total": 78,
   "stations": [
     {
@@ -37,12 +37,12 @@
       "lon": -71.081011
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 175.7,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Canadian Tire",
@@ -51,14 +51,6 @@
       "prix": 175.7,
       "lat": 48.336551,
       "lon": -70.882167
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 175.7,
-      "lat": 48.39309,
-      "lon": -71.070497
     },
     {
       "banniere": "Esso",
@@ -85,14 +77,6 @@
       "lon": -70.890031
     },
     {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 181.4,
-      "lat": 48.44285,
-      "lon": -71.076179
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
       "ville": "Chicoutimi",
@@ -101,12 +85,28 @@
       "lon": -71.07443
     },
     {
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 181.4,
+      "lat": 48.44285,
+      "lon": -71.076179
+    },
+    {
       "banniere": "R.L.",
       "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
       "prix": 182.9,
       "lat": 48.32626,
       "lon": -70.873104
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 184.4,
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Harnois",
