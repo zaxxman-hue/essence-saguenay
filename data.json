@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "09/10/2026 01:38",
-  "derniere_verification": "09/10/2026 01:38:19",
-  "fichier_source": "stations-20261009013501.xlsx",
+  "mise_a_jour": "09/10/2026 02:22",
+  "derniere_verification": "09/10/2026 02:22:21",
+  "fichier_source": "stations-20261009022001.xlsx",
   "total": 78,
   "stations": [
     {
@@ -117,6 +117,14 @@
       "lon": -71.061125
     },
     {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 181.5,
+      "lat": 48.394683,
+      "lon": -71.070736
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
@@ -139,14 +147,6 @@
       "prix": 182.9,
       "lat": 48.422936,
       "lon": -71.243563
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 182.9,
-      "lat": 48.40314,
-      "lon": -71.250599
     },
     {
       "banniere": "Couche-Tard",
@@ -173,12 +173,12 @@
       "lon": -71.052843
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
       "prix": 182.9,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Ultramar",
@@ -213,12 +213,12 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 182.9,
-      "lat": 48.39309,
-      "lon": -71.070497
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Irving",
@@ -237,20 +237,20 @@
       "lon": -71.059187
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 182.9,
+      "lat": 48.423109,
+      "lon": -71.212988
+    },
+    {
       "banniere": "Harnois",
       "adresse": "1285 rue Des Champs-Élysées, Saguenay",
       "ville": "Chicoutimi",
       "prix": 182.9,
       "lat": 48.406769,
       "lon": -71.051965
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 182.9,
-      "lat": 48.413826,
-      "lon": -71.246977
     },
     {
       "banniere": "Esso",
@@ -269,12 +269,12 @@
       "lon": -71.234995
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 182.9,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Petro-Canada",
