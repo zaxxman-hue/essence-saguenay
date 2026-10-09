@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "09/10/2026 00:01",
-  "derniere_verification": "09/10/2026 00:01:13",
-  "fichier_source": "stations-20261008235501.xlsx",
+  "mise_a_jour": "09/10/2026 00:35",
+  "derniere_verification": "09/10/2026 00:35:09",
+  "fichier_source": "stations-20261009003502.xlsx",
   "total": 78,
   "stations": [
     {
@@ -213,12 +213,12 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3997 boul. Harvey, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 182.9,
-      "lat": 48.414704,
-      "lon": -71.259124
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Irving",
@@ -261,20 +261,20 @@
       "lon": -70.990331
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "3997 boul. Harvey, Saguenay",
+      "ville": "Saguenay",
+      "prix": 182.9,
+      "lat": 48.414704,
+      "lon": -71.259124
+    },
+    {
       "banniere": "Shell",
       "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 182.9,
       "lat": 48.394683,
       "lon": -71.070736
-    },
-    {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 182.9,
-      "lat": 48.400574,
-      "lon": -71.145998
     },
     {
       "banniere": "Harnois",
@@ -301,20 +301,20 @@
       "lon": -71.261772
     },
     {
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 182.9,
+      "lat": 48.400574,
+      "lon": -71.145998
+    },
+    {
       "banniere": "Esso",
       "adresse": "3820 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 182.9,
       "lat": 48.413826,
       "lon": -71.246977
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
-      "prix": 183.4,
-      "lat": 48.369606,
-      "lon": -71.28365
     },
     {
       "banniere": "Esso",
@@ -357,20 +357,20 @@
       "lon": -71.114422
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
+      "prix": 183.4,
+      "lat": 48.369606,
+      "lon": -71.28365
+    },
+    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
       "prix": 183.4,
       "lat": 48.412108,
       "lon": -71.231414
-    },
-    {
-      "banniere": "Crevier",
-      "adresse": "2922 boul. du Saguenay, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 183.7,
-      "lat": 48.433314,
-      "lon": -71.187357
     },
     {
       "banniere": "R.L.",
@@ -381,12 +381,12 @@
       "lon": -71.067338
     },
     {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Crevier",
+      "adresse": "2922 boul. du Saguenay, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 183.7,
-      "lat": 48.428994,
-      "lon": -71.027496
+      "lat": 48.433314,
+      "lon": -71.187357
     },
     {
       "banniere": "Irving",
@@ -446,11 +446,11 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 183.7,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Petro-Canada",
@@ -461,12 +461,12 @@
       "lon": -71.140604
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "banniere": "R.L.",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 183.7,
-      "lat": 48.39309,
-      "lon": -71.070497
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "Ultramar",
@@ -494,11 +494,11 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 183.7,
-      "lat": 48.429329,
-      "lon": -71.065922
+      "lat": 48.441444,
+      "lon": -71.052232
     },
     {
       "banniere": "Petro-Canada",
