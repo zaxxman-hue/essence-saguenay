@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "09/10/2026 23:38",
-  "derniere_verification": "09/10/2026 23:38:47",
-  "fichier_source": "stations-20261009233501.xlsx",
+  "mise_a_jour": "10/10/2026 00:16",
+  "derniere_verification": "10/10/2026 00:16:16",
+  "fichier_source": "stations-20261010001501.xlsx",
   "total": 78,
   "stations": [
     {
@@ -285,12 +285,12 @@
       "lon": -71.091169
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 179.6,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Canadian Tire",
@@ -309,12 +309,12 @@
       "lon": -70.881141
     },
     {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.9,
-      "lat": 48.44285,
-      "lon": -71.076179
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 179.6,
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Énergie Express BD",
@@ -341,12 +341,12 @@
       "lon": -71.180502
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Petro-Canada",
+      "adresse": "4500 rte Mathias, Saguenay",
+      "ville": "Saguenay",
       "prix": 179.9,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "lat": 48.5064,
+      "lon": -71.270068
     },
     {
       "banniere": "Petro-Canada",
@@ -373,12 +373,12 @@
       "lon": -71.111521
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 179.9,
-      "lat": 48.5064,
-      "lon": -71.270068
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "Shell",
