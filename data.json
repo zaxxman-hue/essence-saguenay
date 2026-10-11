@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "11/10/2026 20:51",
-  "derniere_verification": "11/10/2026 20:51:36",
-  "fichier_source": "stations-20261011205000.xlsx",
+  "mise_a_jour": "11/10/2026 21:00",
+  "derniere_verification": "11/10/2026 21:00:43",
+  "fichier_source": "stations-20261011210001.xlsx",
   "total": 78,
   "stations": [
     {
@@ -341,12 +341,12 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
       "prix": 179.6,
-      "lat": 48.331986,
-      "lon": -70.881141
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Canadian Tire",
@@ -357,18 +357,18 @@
       "lon": -70.882167
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
       "ville": "LaBaie",
       "prix": 179.6,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "lat": 48.331986,
+      "lon": -70.881141
     },
     {
       "banniere": "Irving",
       "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
-      "prix": 179.9,
+      "prix": 179.6,
       "lat": 48.337232,
       "lon": -70.888533
     },
