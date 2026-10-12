@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "12/10/2026 08:26",
-  "derniere_verification": "12/10/2026 08:26:22",
-  "fichier_source": "stations-20261012082500.xlsx",
+  "mise_a_jour": "12/10/2026 11:49",
+  "derniere_verification": "12/10/2026 11:49:35",
+  "fichier_source": "stations-20261012114501.xlsx",
   "total": 78,
   "stations": [
+    {
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 177.9,
+      "lat": 48.387452,
+      "lon": -71.114645
+    },
     {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
@@ -19,14 +27,6 @@
       "prix": 178.9,
       "lat": 48.395019,
       "lon": -71.106094
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 178.9,
-      "lat": 48.387452,
-      "lon": -71.114645
     },
     {
       "banniere": "Harnois",
