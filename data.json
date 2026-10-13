@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/10/2026 17:26",
-  "derniere_verification": "13/10/2026 17:26:22",
-  "fichier_source": "stations-20261013172500.xlsx",
+  "mise_a_jour": "13/10/2026 17:41",
+  "derniere_verification": "13/10/2026 17:41:13",
+  "fichier_source": "stations-20261013174000.xlsx",
   "total": 78,
   "stations": [
     {
@@ -205,22 +205,6 @@
       "lon": -70.890031
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 179.9,
-      "lat": 48.32626,
-      "lon": -70.873104
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 179.9,
-      "lat": 48.336456,
-      "lon": -70.889349
-    },
-    {
       "banniere": "Énergie Express BD",
       "adresse": "3421 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
@@ -229,12 +213,12 @@
       "lon": -71.260593
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1476 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 184.9,
-      "lat": 48.42632,
-      "lon": -71.023248
+      "banniere": "R.L.",
+      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 179.9,
+      "lat": 48.32626,
+      "lon": -70.873104
     },
     {
       "banniere": "Harnois",
@@ -243,6 +227,14 @@
       "prix": 184.9,
       "lat": 48.41388,
       "lon": -71.067443
+    },
+    {
+      "banniere": "Harnois",
+      "adresse": "1476 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 184.9,
+      "lat": 48.42632,
+      "lon": -71.023248
     },
     {
       "banniere": "Inconnue",
@@ -259,6 +251,14 @@
       "prix": 189.8,
       "lat": 48.353958,
       "lon": -71.324386
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 189.9,
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "Ultramar",
@@ -453,12 +453,12 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 189.9,
-      "lat": 48.424585,
-      "lon": -71.180502
+      "lat": 48.450526,
+      "lon": -71.088774
     },
     {
       "banniere": "Irving",
@@ -573,12 +573,12 @@
       "lon": -71.28365
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
+      "ville": "LaBaie",
       "prix": 189.9,
-      "lat": 48.450526,
-      "lon": -71.088774
+      "lat": 48.336456,
+      "lon": -70.889349
     },
     {
       "banniere": "Petro-Canada",
