@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "13/10/2026 20:18",
-  "derniere_verification": "13/10/2026 20:18:22",
-  "fichier_source": "stations-20261013201500.xlsx",
+  "mise_a_jour": "13/10/2026 20:33",
+  "derniere_verification": "13/10/2026 20:33:15",
+  "fichier_source": "stations-20261013203000.xlsx",
   "total": 78,
   "stations": [
     {
@@ -21,20 +21,20 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 177.8,
-      "lat": 48.394683,
-      "lon": -71.070736
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 178.4,
       "lat": 48.316248,
       "lon": -71.134685
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 178.5,
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Esso",
