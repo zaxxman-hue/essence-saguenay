@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "16/10/2026 14:40",
-  "derniere_verification": "16/10/2026 14:40:09",
-  "fichier_source": "stations-20261016144000.xlsx",
+  "mise_a_jour": "16/10/2026 14:56",
+  "derniere_verification": "16/10/2026 14:56:23",
+  "fichier_source": "stations-20261016145500.xlsx",
   "total": 78,
   "stations": [
     {
@@ -117,12 +117,12 @@
       "lon": -71.242838
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 183.2,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "prix": 189.2,
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Mobil",
@@ -205,12 +205,12 @@
       "lon": -71.054487
     },
     {
-      "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
+      "ville": "LaBaie",
       "prix": 189.2,
-      "lat": 48.429329,
-      "lon": -71.065922
+      "lat": 48.331986,
+      "lon": -70.881141
     },
     {
       "banniere": "Petro-Canada",
@@ -229,12 +229,12 @@
       "lon": -71.259124
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 189.2,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "Irving",
@@ -285,20 +285,20 @@
       "lon": -71.187357
     },
     {
-      "banniere": "R.L.",
-      "adresse": "45 rue Du Pont, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 189.2,
-      "lat": 48.436903,
-      "lon": -71.067338
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 189.2,
       "lat": 48.411756,
       "lon": -71.05197
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 189.2,
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "R.L.",
@@ -309,12 +309,12 @@
       "lon": -71.027496
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "R.L.",
+      "adresse": "45 rue Du Pont, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 189.2,
-      "lat": 48.331986,
-      "lon": -70.881141
+      "lat": 48.436903,
+      "lon": -71.067338
     },
     {
       "banniere": "Petro-Canada",
