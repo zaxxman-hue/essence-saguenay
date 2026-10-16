@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "16/10/2026 18:41",
-  "derniere_verification": "16/10/2026 18:41:09",
-  "fichier_source": "stations-20261016184000.xlsx",
+  "mise_a_jour": "16/10/2026 18:51",
+  "derniere_verification": "16/10/2026 18:51:51",
+  "fichier_source": "stations-20261016185000.xlsx",
   "total": 78,
   "stations": [
     {
@@ -301,20 +301,20 @@
       "lon": -71.231414
     },
     {
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 183.2,
+      "lat": 48.441444,
+      "lon": -71.052232
+    },
+    {
       "banniere": "Irving",
       "adresse": "2005 boul. Mellon, Saguenay",
       "ville": "Jonquiere",
       "prix": 183.2,
       "lat": 48.424585,
       "lon": -71.180502
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 183.2,
-      "lat": 48.317087,
-      "lon": -71.134075
     },
     {
       "banniere": "R.L.",
@@ -381,12 +381,20 @@
       "lon": -71.059187
     },
     {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 183.2,
-      "lat": 48.441444,
-      "lon": -71.052232
+      "lat": 48.438557,
+      "lon": -71.061332
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 183.2,
+      "lat": 48.317087,
+      "lon": -71.134075
     },
     {
       "banniere": "Crevier",
@@ -406,19 +414,11 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
       "prix": 189.2,
-      "lat": 48.404137,
-      "lon": -71.166787
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 189.2,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "R.L.",
@@ -462,11 +462,11 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
       "prix": 189.2,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "Canadian Tire",
