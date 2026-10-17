@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/10/2026 16:31",
-  "derniere_verification": "17/10/2026 16:31:43",
-  "fichier_source": "stations-20261017163000.xlsx",
+  "mise_a_jour": "17/10/2026 16:43",
+  "derniere_verification": "17/10/2026 16:43:48",
+  "fichier_source": "stations-20261017164000.xlsx",
   "total": 78,
   "stations": [
     {
@@ -405,14 +405,6 @@
       "lon": -70.889349
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 181.9,
-      "lat": 48.373886,
-      "lon": -71.091169
-    },
-    {
       "banniere": "Shell",
       "adresse": "487 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
@@ -491,6 +483,14 @@
       "prix": 183.4,
       "lat": 48.316248,
       "lon": -71.134685
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 183.4,
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Crevier",
