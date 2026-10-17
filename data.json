@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/10/2026 00:39",
-  "derniere_verification": "17/10/2026 00:39:51",
-  "fichier_source": "stations-20261017003500.xlsx",
+  "mise_a_jour": "17/10/2026 00:55",
+  "derniere_verification": "17/10/2026 00:55:13",
+  "fichier_source": "stations-20261017005000.xlsx",
   "total": 78,
   "stations": [
     {
@@ -325,20 +325,20 @@
       "lon": -71.065922
     },
     {
+      "banniere": "Shell",
+      "adresse": "3761 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 181.6,
+      "lat": 48.421952,
+      "lon": -71.242838
+    },
+    {
       "banniere": "Nutrinor Énergies",
       "adresse": "1623 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 181.9,
       "lat": 48.336456,
       "lon": -70.889349
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 182.2,
-      "lat": 48.442216,
-      "lon": -71.07443
     },
     {
       "banniere": "R.L.",
@@ -389,14 +389,6 @@
       "lon": -71.067338
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 182.2,
-      "lat": 48.454243,
-      "lon": -71.061125
-    },
-    {
       "banniere": "R.L.",
       "adresse": "1845 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
@@ -405,12 +397,20 @@
       "lon": -71.051019
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "3899 rue des Mouettes, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 182.3,
-      "lat": 48.396671,
-      "lon": -71.252854
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 182.2,
+      "lat": 48.442216,
+      "lon": -71.07443
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "641 rue Delisle, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 182.2,
+      "lat": 48.454243,
+      "lon": -71.061125
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -421,12 +421,12 @@
       "lon": -71.259018
     },
     {
-      "banniere": "Shell",
-      "adresse": "3761 boul. du Royaume, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
       "prix": 182.3,
-      "lat": 48.421952,
-      "lon": -71.242838
+      "lat": 48.396671,
+      "lon": -71.252854
     },
     {
       "banniere": "Énergie DDF",
