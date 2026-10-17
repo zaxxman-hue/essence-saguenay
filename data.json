@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/10/2026 21:49",
-  "derniere_verification": "17/10/2026 21:49:28",
-  "fichier_source": "stations-20261017214500.xlsx",
+  "mise_a_jour": "17/10/2026 22:34",
+  "derniere_verification": "17/10/2026 22:34:31",
+  "fichier_source": "stations-20261017223001.xlsx",
   "total": 78,
   "stations": [
     {
@@ -421,14 +421,6 @@
       "lon": -71.242838
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 181.9,
-      "lat": 48.336456,
-      "lon": -70.889349
-    },
-    {
       "banniere": "Esso",
       "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
@@ -437,12 +429,20 @@
       "lon": -71.091169
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 182.2,
-      "lat": 48.454509,
-      "lon": -71.111521
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 181.9,
+      "lat": 48.395019,
+      "lon": -71.106094
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 181.9,
+      "lat": 48.336456,
+      "lon": -70.889349
     },
     {
       "banniere": "Petro-Canada",
@@ -451,6 +451,14 @@
       "prix": 182.2,
       "lat": 48.454243,
       "lon": -71.061125
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 182.2,
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
       "banniere": "Énergie DDF",
@@ -462,19 +470,19 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
-      "ville": "Saguenay",
-      "prix": 182.9,
-      "lat": 48.5064,
-      "lon": -71.270068
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "4391 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
       "prix": 182.9,
       "lat": 48.470796,
       "lon": -71.277321
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "4500 rte Mathias, Saguenay",
+      "ville": "Saguenay",
+      "prix": 182.9,
+      "lat": 48.5064,
+      "lon": -71.270068
     },
     {
       "banniere": "Petro-Canada",
@@ -531,14 +539,6 @@
       "prix": 187.9,
       "lat": 48.408178,
       "lon": -71.093216
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 187.9,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Petro-Canada",
