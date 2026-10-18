@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/10/2026 21:59",
-  "derniere_verification": "18/10/2026 21:59:57",
-  "fichier_source": "stations-20261018215501.xlsx",
+  "mise_a_jour": "18/10/2026 22:32",
+  "derniere_verification": "18/10/2026 22:32:32",
+  "fichier_source": "stations-20261018223000.xlsx",
   "total": 78,
   "stations": [
     {
@@ -293,20 +293,28 @@
       "lon": -71.242838
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.9,
-      "lat": 48.452384,
-      "lon": -71.094392
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "1333 Boul. du Royaume est, SAGUENAY",
       "ville": "Saguenay",
       "prix": 179.9,
       "lat": 48.387452,
       "lon": -71.114645
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 179.9,
+      "lat": 48.395019,
+      "lon": -71.106094
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 179.9,
+      "lat": 48.452384,
+      "lon": -71.094392
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -342,14 +350,6 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 180.9,
-      "lat": 48.435333,
-      "lon": -71.140604
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "2728 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 180.9,
@@ -373,12 +373,12 @@
       "lon": -71.067338
     },
     {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 180.9,
-      "lat": 48.395019,
-      "lon": -71.106094
+      "lat": 48.435333,
+      "lon": -71.140604
     },
     {
       "banniere": "Petro-Canada",
