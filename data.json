@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/10/2026 21:45",
-  "derniere_verification": "18/10/2026 21:45:20",
-  "fichier_source": "stations-20261018214500.xlsx",
+  "mise_a_jour": "18/10/2026 21:59",
+  "derniere_verification": "18/10/2026 21:59:57",
+  "fichier_source": "stations-20261018215501.xlsx",
   "total": 78,
   "stations": [
     {
@@ -512,7 +512,7 @@
       "banniere": "Esso",
       "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
-      "prix": 181.9,
+      "prix": 181.8,
       "lat": 48.317822,
       "lon": -70.861146
     },
