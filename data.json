@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/10/2026 16:20",
-  "derniere_verification": "18/10/2026 16:20:13",
-  "fichier_source": "stations-20261018162000.xlsx",
+  "mise_a_jour": "18/10/2026 16:37",
+  "derniere_verification": "18/10/2026 16:37:45",
+  "fichier_source": "stations-20261018163500.xlsx",
   "total": 78,
   "stations": [
     {
@@ -101,12 +101,12 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
-      "ville": "Jonquiere",
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 179.2,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "Petro-Canada",
@@ -134,19 +134,19 @@
     },
     {
       "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 179.2,
+      "lat": 48.423109,
+      "lon": -71.212988
+    },
+    {
+      "banniere": "Ultramar",
       "adresse": "377 rue Sainte Anne, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 179.2,
       "lat": 48.42592,
       "lon": -71.068372
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 179.2,
-      "lat": 48.411254,
-      "lon": -71.261772
     },
     {
       "banniere": "Esso",
@@ -157,12 +157,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.9,
-      "lat": 48.454509,
-      "lon": -71.111521
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 179.2,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Petro-Canada",
@@ -189,12 +189,12 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 179.9,
-      "lat": 48.44285,
-      "lon": -71.076179
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
       "banniere": "Shell",
@@ -213,20 +213,20 @@
       "lon": -71.061125
     },
     {
+      "banniere": "R.L.",
+      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 179.9,
+      "lat": 48.452384,
+      "lon": -71.094392
+    },
+    {
       "banniere": "Shell",
       "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 179.9,
       "lat": 48.394683,
       "lon": -71.070736
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 180.4,
-      "lat": 48.316248,
-      "lon": -71.134685
     },
     {
       "banniere": "Esso",
@@ -237,12 +237,12 @@
       "lon": -71.091169
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 180.9,
-      "lat": 48.452384,
-      "lon": -71.094392
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 180.4,
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Irving",
@@ -349,12 +349,12 @@
       "lon": -71.134075
     },
     {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
       "ville": "Jonquiere",
       "prix": 180.9,
-      "lat": 48.395019,
-      "lon": -71.106094
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "Petro-Canada",
@@ -381,12 +381,12 @@
       "lon": -71.114645
     },
     {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 180.9,
-      "lat": 48.424585,
-      "lon": -71.180502
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "R.L.",
