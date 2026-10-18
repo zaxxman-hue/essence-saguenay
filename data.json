@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/10/2026 17:54",
-  "derniere_verification": "18/10/2026 17:54:40",
-  "fichier_source": "stations-20261018175001.xlsx",
+  "mise_a_jour": "18/10/2026 18:12",
+  "derniere_verification": "18/10/2026 18:12:46",
+  "fichier_source": "stations-20261018181000.xlsx",
   "total": 78,
   "stations": [
     {
@@ -29,6 +29,14 @@
       "lon": -71.059061
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "377 rue Sainte Anne, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 178.5,
+      "lat": 48.42592,
+      "lon": -71.068372
+    },
+    {
       "banniere": "Canadian Tire",
       "adresse": "1050 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
@@ -43,14 +51,6 @@
       "prix": 178.5,
       "lat": 48.411756,
       "lon": -71.05197
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "677 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 179.2,
-      "lat": 48.451071,
-      "lon": -71.020099
     },
     {
       "banniere": "Esso",
@@ -110,11 +110,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
+      "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 179.2,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.451071,
+      "lon": -71.020099
     },
     {
       "banniere": "Harnois",
@@ -133,20 +133,12 @@
       "lon": -71.246977
     },
     {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 179.2,
-      "lat": 48.44285,
-      "lon": -71.076179
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "377 rue Sainte Anne, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 179.2,
-      "lat": 48.42592,
-      "lon": -71.068372
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Ultramar",
@@ -155,6 +147,14 @@
       "prix": 179.2,
       "lat": 48.423109,
       "lon": -71.212988
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 179.2,
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "Esso",
