@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "19/10/2026 21:23",
-  "derniere_verification": "19/10/2026 21:23:38",
-  "fichier_source": "stations-20261019212000.xlsx",
+  "mise_a_jour": "19/10/2026 21:38",
+  "derniere_verification": "19/10/2026 21:38:24",
+  "fichier_source": "stations-20261019213501.xlsx",
   "total": 78,
   "stations": [
     {
@@ -469,6 +469,14 @@
       "lon": -70.888533
     },
     {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 177.1,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "Shell",
       "adresse": "60 rue Dumas, Petit-Saguenay",
       "ville": "Saguenay",
@@ -549,14 +557,6 @@
       "lon": -71.260593
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 180.3,
-      "lat": 48.404137,
-      "lon": -71.166787
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "2681 Boul. du Royaume, SAGUENAY",
       "ville": "Jonquiere",
@@ -565,20 +565,20 @@
       "lon": -71.171977
     },
     {
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 180.3,
+      "lat": 48.404137,
+      "lon": -71.166787
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "3073 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 180.9,
       "lat": 48.40886,
       "lon": -71.19486
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 181.8,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Shell",
