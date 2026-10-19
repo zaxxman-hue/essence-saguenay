@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "19/10/2026 18:45",
-  "derniere_verification": "19/10/2026 18:45:39",
-  "fichier_source": "stations-20261019184500.xlsx",
+  "mise_a_jour": "19/10/2026 18:58",
+  "derniere_verification": "19/10/2026 18:58:54",
+  "fichier_source": "stations-20261019185500.xlsx",
   "total": 78,
   "stations": [
     {
@@ -69,14 +69,6 @@
       "lon": -71.059187
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 175.7,
-      "lat": 48.411103,
-      "lon": -71.052843
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
@@ -93,12 +85,20 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 175.7,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.411103,
+      "lon": -71.052843
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 175.7,
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Esso",
@@ -109,20 +109,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 176.4,
-      "lat": 48.425557,
-      "lon": -71.26138
-    },
-    {
       "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 176.4,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 175.7,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Ultramar",
@@ -131,6 +123,14 @@
       "prix": 176.4,
       "lat": 48.442216,
       "lon": -71.07443
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 176.4,
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Irving",
@@ -213,12 +213,12 @@
       "lon": -71.259124
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 176.4,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "Petro-Canada",
@@ -229,12 +229,12 @@
       "lon": -71.23757
     },
     {
-      "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
       "prix": 176.4,
-      "lat": 48.429329,
-      "lon": -71.065922
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Irving",
@@ -565,20 +565,20 @@
       "lon": -70.873104
     },
     {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 181.8,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "Shell",
       "adresse": "342 rue 6, Saguenay",
       "ville": "LaBaie",
       "prix": 181.9,
       "lat": 48.330239,
       "lon": -70.890031
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 181.9,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Petro-Canada",
