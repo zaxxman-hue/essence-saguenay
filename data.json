@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "20/10/2026 00:29",
-  "derniere_verification": "20/10/2026 00:29:26",
-  "fichier_source": "stations-20261020002500.xlsx",
+  "mise_a_jour": "20/10/2026 00:52",
+  "derniere_verification": "20/10/2026 00:52:04",
+  "fichier_source": "stations-20261020005000.xlsx",
   "total": 78,
   "stations": [
     {
@@ -437,12 +437,12 @@
       "lon": -71.071138
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 177.1,
-      "lat": 48.32626,
-      "lon": -70.873104
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 176.9,
+      "lat": 48.387452,
+      "lon": -71.114645
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -453,20 +453,28 @@
       "lon": -70.889349
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
-      "prix": 177.1,
-      "lat": 48.336551,
-      "lon": -70.882167
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
       "ville": "LaBaie",
       "prix": 177.1,
       "lat": 48.331986,
       "lon": -70.881141
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 177.1,
+      "lat": 48.337232,
+      "lon": -70.888533
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 177.1,
+      "lat": 48.32626,
+      "lon": -70.873104
     },
     {
       "banniere": "Esso",
@@ -477,12 +485,12 @@
       "lon": -70.861146
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
       "ville": "LaBaie",
       "prix": 177.1,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "lat": 48.336551,
+      "lon": -70.882167
     },
     {
       "banniere": "Shell",
@@ -507,14 +515,6 @@
       "prix": 177.9,
       "lat": 48.408178,
       "lon": -71.093216
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 177.9,
-      "lat": 48.387452,
-      "lon": -71.114645
     },
     {
       "banniere": "Esso",
