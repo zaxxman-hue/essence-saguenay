@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "20/10/2026 01:23",
-  "derniere_verification": "20/10/2026 01:23:16",
-  "fichier_source": "stations-20261020012000.xlsx",
+  "mise_a_jour": "20/10/2026 01:58",
+  "derniere_verification": "20/10/2026 01:58:28",
+  "fichier_source": "stations-20261020015501.xlsx",
   "total": 78,
   "stations": [
     {
@@ -437,6 +437,14 @@
       "lon": -71.071138
     },
     {
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 176.9,
+      "lat": 48.395019,
+      "lon": -71.106094
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1333 Boul. du Royaume est, SAGUENAY",
       "ville": "Saguenay",
@@ -445,20 +453,12 @@
       "lon": -71.114645
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
       "prix": 177.1,
-      "lat": 48.336456,
-      "lon": -70.889349
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 177.1,
-      "lat": 48.331986,
-      "lon": -70.881141
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Irving",
@@ -477,12 +477,20 @@
       "lon": -70.873104
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 177.1,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "lat": 48.336456,
+      "lon": -70.889349
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 177.1,
+      "lat": 48.331986,
+      "lon": -70.881141
     },
     {
       "banniere": "Canadian Tire",
@@ -515,14 +523,6 @@
       "prix": 177.9,
       "lat": 48.408178,
       "lon": -71.093216
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 177.9,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Petro-Canada",
