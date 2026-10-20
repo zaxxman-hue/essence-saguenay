@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "19/10/2026 23:53",
-  "derniere_verification": "19/10/2026 23:53:46",
-  "fichier_source": "stations-20261019235000.xlsx",
+  "mise_a_jour": "20/10/2026 00:03",
+  "derniere_verification": "20/10/2026 00:03:09",
+  "fichier_source": "stations-20261020000000.xlsx",
   "total": 78,
   "stations": [
     {
@@ -493,6 +493,14 @@
       "lon": -71.277321
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 177.9,
+      "lat": 48.387452,
+      "lon": -71.114645
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "1312 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
@@ -501,12 +509,12 @@
       "lon": -71.093216
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
+      "banniere": "Esso",
+      "adresse": "1931 boul. saint-paul, Saguenay",
+      "ville": "Jonquiere",
       "prix": 177.9,
-      "lat": 48.387452,
-      "lon": -71.114645
+      "lat": 48.395019,
+      "lon": -71.106094
     },
     {
       "banniere": "Petro-Canada",
@@ -539,14 +547,6 @@
       "prix": 178.5,
       "lat": 48.433314,
       "lon": -71.187357
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "1931 boul. saint-paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 178.9,
-      "lat": 48.395019,
-      "lon": -71.106094
     },
     {
       "banniere": "Énergie Express BD",
