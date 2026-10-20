@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "20/10/2026 20:23",
-  "derniere_verification": "20/10/2026 20:23:02",
-  "fichier_source": "stations-20261020202000.xlsx",
+  "mise_a_jour": "20/10/2026 20:45",
+  "derniere_verification": "20/10/2026 20:45:41",
+  "fichier_source": "stations-20261020204500.xlsx",
   "total": 78,
   "stations": [
     {
@@ -381,6 +381,22 @@
       "lon": -71.088774
     },
     {
+      "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "ville": "Saguenay",
+      "prix": 173.4,
+      "lat": 48.209145,
+      "lon": -70.067898
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 173.5,
+      "lat": 48.438557,
+      "lon": -71.061332
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
       "ville": "LaBaie",
@@ -437,6 +453,14 @@
       "lon": -71.252854
     },
     {
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 174.4,
+      "lat": 48.373886,
+      "lon": -71.091169
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "4391 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
@@ -451,30 +475,6 @@
       "prix": 174.8,
       "lat": 48.5064,
       "lon": -71.270068
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 174.9,
-      "lat": 48.317822,
-      "lon": -70.861146
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
-      "ville": "Saguenay",
-      "prix": 174.9,
-      "lat": 48.209145,
-      "lon": -70.067898
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 174.9,
-      "lat": 48.387452,
-      "lon": -71.114645
     },
     {
       "banniere": "Petro-Canada",
@@ -502,19 +502,19 @@
     },
     {
       "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 174.9,
+      "lat": 48.387452,
+      "lon": -71.114645
+    },
+    {
+      "banniere": "Ultramar",
       "adresse": "2681 Boul. du Royaume, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 174.9,
       "lat": 48.404702,
       "lon": -71.171977
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 174.9,
-      "lat": 48.337232,
-      "lon": -70.888533
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -525,20 +525,20 @@
       "lon": -70.889349
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
       "prix": 174.9,
-      "lat": 48.32626,
-      "lon": -70.873104
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
       "prix": 174.9,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Crevier",
@@ -549,20 +549,20 @@
       "lon": -71.187357
     },
     {
+      "banniere": "R.L.",
+      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 174.9,
+      "lat": 48.32626,
+      "lon": -70.873104
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "952 rue Du Boulevard, Saguenay",
       "ville": "Saguenay",
       "prix": 175.4,
       "lat": 48.307346,
       "lon": -71.114422
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 175.4,
-      "lat": 48.373886,
-      "lon": -71.091169
     },
     {
       "banniere": "Nutrinor Énergies",
