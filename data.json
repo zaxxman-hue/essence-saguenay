@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "20/10/2026 21:10",
-  "derniere_verification": "20/10/2026 21:10:47",
-  "fichier_source": "stations-20261020211001.xlsx",
+  "mise_a_jour": "20/10/2026 21:44",
+  "derniere_verification": "20/10/2026 21:44:41",
+  "fichier_source": "stations-20261020214000.xlsx",
   "total": 78,
   "stations": [
     {
@@ -101,20 +101,20 @@
       "lon": -71.234999
     },
     {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 172.8,
-      "lat": 48.441444,
-      "lon": -71.052232
-    },
-    {
       "banniere": "Irving",
       "adresse": "2005 boul. Mellon, Saguenay",
       "ville": "Jonquiere",
       "prix": 172.8,
       "lat": 48.424585,
       "lon": -71.180502
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 172.8,
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
@@ -134,6 +134,14 @@
     },
     {
       "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 172.8,
+      "lat": 48.441444,
+      "lon": -71.052232
+    },
+    {
+      "banniere": "R.L.",
       "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 172.8,
@@ -147,14 +155,6 @@
       "prix": 172.8,
       "lat": 48.40314,
       "lon": -71.250599
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 172.8,
-      "lat": 48.428994,
-      "lon": -71.027496
     },
     {
       "banniere": "Shell",
@@ -293,12 +293,12 @@
       "lon": -71.067338
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 172.8,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "R.L.",
@@ -357,6 +357,14 @@
       "lon": -71.065681
     },
     {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 172.8,
+      "lat": 48.411254,
+      "lon": -71.261772
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "81 rue Price ouest, Saguenay",
       "ville": "Jonquiere",
@@ -387,14 +395,6 @@
       "prix": 173.5,
       "lat": 48.40886,
       "lon": -71.19486
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 173.5,
-      "lat": 48.438557,
-      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
@@ -541,12 +541,12 @@
       "lon": -71.114422
     },
     {
-      "banniere": "Crevier",
-      "adresse": "2922 boul. du Saguenay, SAGUENAY",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1360 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 174.9,
-      "lat": 48.433314,
-      "lon": -71.187357
+      "lat": 48.407448,
+      "lon": -71.094182
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -565,12 +565,12 @@
       "lon": -70.873104
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1360 boul. Saint-Paul, Saguenay",
+      "banniere": "Crevier",
+      "adresse": "2922 boul. du Saguenay, SAGUENAY",
       "ville": "Jonquiere",
-      "prix": 175.9,
-      "lat": 48.407448,
-      "lon": -71.094182
+      "prix": 174.9,
+      "lat": 48.433314,
+      "lon": -71.187357
     },
     {
       "banniere": "Shell",
