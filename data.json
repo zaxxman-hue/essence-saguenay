@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "21/10/2026 21:51",
-  "derniere_verification": "21/10/2026 21:51:07",
-  "fichier_source": "stations-20261021215000.xlsx",
+  "mise_a_jour": "21/10/2026 22:01",
+  "derniere_verification": "21/10/2026 22:01:18",
+  "fichier_source": "stations-20261021220000.xlsx",
   "total": 78,
   "stations": [
     {
@@ -501,14 +501,6 @@
       "lon": -70.889349
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 172.2,
-      "lat": 48.404137,
-      "lon": -71.166787
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "2681 Boul. du Royaume, SAGUENAY",
       "ville": "Jonquiere",
@@ -525,20 +517,20 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Crevier",
-      "adresse": "2922 boul. du Saguenay, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 172.8,
-      "lat": 48.433314,
-      "lon": -71.187357
-    },
-    {
       "banniere": "Irving",
       "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 172.8,
       "lat": 48.438557,
       "lon": -71.061332
+    },
+    {
+      "banniere": "Crevier",
+      "adresse": "2922 boul. du Saguenay, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 172.8,
+      "lat": 48.433314,
+      "lon": -71.187357
     },
     {
       "banniere": "Petro-Canada",
@@ -557,6 +549,14 @@
       "lon": -71.094182
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 173.9,
+      "lat": 48.387452,
+      "lon": -71.114645
+    },
+    {
       "banniere": "Esso",
       "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
@@ -565,12 +565,12 @@
       "lon": -71.106094
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 173.9,
-      "lat": 48.387452,
-      "lon": -71.114645
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 174.9,
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "Shell",
