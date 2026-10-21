@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "21/10/2026 20:29",
-  "derniere_verification": "21/10/2026 20:29:54",
-  "fichier_source": "stations-20261021202500.xlsx",
+  "mise_a_jour": "21/10/2026 20:45",
+  "derniere_verification": "21/10/2026 20:45:36",
+  "fichier_source": "stations-20261021204500.xlsx",
   "total": 78,
   "stations": [
     {
@@ -221,12 +221,12 @@
       "lon": -71.027496
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
+      "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
       "ville": "Saguenay",
-      "prix": 169.9,
-      "lat": 48.425557,
-      "lon": -71.26138
+      "prix": 169.4,
+      "lat": 48.209145,
+      "lon": -70.067898
     },
     {
       "banniere": "R.L.",
@@ -245,12 +245,12 @@
       "lon": -71.00279
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "4391 rte Saint-Léonard, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
+      "ville": "Jonquiere",
       "prix": 169.9,
-      "lat": 48.470796,
-      "lon": -71.277321
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "Ultramar",
@@ -334,11 +334,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "4391 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
       "prix": 169.9,
-      "lat": 48.454243,
-      "lon": -71.061125
+      "lat": 48.470796,
+      "lon": -71.277321
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -365,12 +365,12 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 169.9,
-      "lat": 48.424585,
-      "lon": -71.180502
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Couche-Tard",
@@ -381,12 +381,20 @@
       "lon": -71.059061
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 169.9,
+      "lat": 48.425557,
+      "lon": -71.26138
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "641 rue Delisle, Saguenay",
       "ville": "Chicoutimi",
       "prix": 169.9,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "lat": 48.454243,
+      "lon": -71.061125
     },
     {
       "banniere": "Canadian Tire",
@@ -422,19 +430,19 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "952 rue Du Boulevard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 170.7,
+      "lat": 48.307346,
+      "lon": -71.114422
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "81 rue Price ouest, Saguenay",
       "ville": "Jonquiere",
       "prix": 170.9,
       "lat": 48.425808,
       "lon": -71.071138
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
-      "ville": "Saguenay",
-      "prix": 171.4,
-      "lat": 48.209145,
-      "lon": -70.067898
     },
     {
       "banniere": "Shell",
@@ -469,20 +477,20 @@
       "lon": -70.861146
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 171.9,
-      "lat": 48.373886,
-      "lon": -71.091169
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "1623 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 171.9,
       "lat": 48.336456,
       "lon": -70.889349
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 171.9,
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Irving",
@@ -493,20 +501,20 @@
       "lon": -70.888533
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 172.2,
-      "lat": 48.404702,
-      "lon": -71.171977
-    },
-    {
       "banniere": "Esso",
       "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 172.2,
       "lat": 48.404137,
       "lon": -71.166787
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 172.2,
+      "lat": 48.404702,
+      "lon": -71.171977
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -517,20 +525,20 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 172.8,
-      "lat": 48.438557,
-      "lon": -71.061332
-    },
-    {
       "banniere": "Crevier",
       "adresse": "2922 boul. du Saguenay, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 172.8,
       "lat": 48.433314,
       "lon": -71.187357
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 172.8,
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
@@ -549,14 +557,6 @@
       "lon": -71.094182
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 173.9,
-      "lat": 48.387452,
-      "lon": -71.114645
-    },
-    {
       "banniere": "Esso",
       "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
@@ -565,12 +565,12 @@
       "lon": -71.106094
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "952 rue Du Boulevard, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
       "ville": "Saguenay",
-      "prix": 174.9,
-      "lat": 48.307346,
-      "lon": -71.114422
+      "prix": 173.9,
+      "lat": 48.387452,
+      "lon": -71.114645
     },
     {
       "banniere": "Shell",
