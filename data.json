@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "22/10/2026 01:06",
-  "derniere_verification": "22/10/2026 01:06:40",
-  "fichier_source": "stations-20261022010500.xlsx",
+  "mise_a_jour": "22/10/2026 01:40",
+  "derniere_verification": "22/10/2026 01:40:15",
+  "fichier_source": "stations-20261022014000.xlsx",
   "total": 78,
   "stations": [
     {
@@ -14,11 +14,11 @@
     },
     {
       "banniere": "Ultramar",
-      "adresse": "266 rue Malraux, SAGUENAY",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
-      "prix": 168.5,
-      "lat": 48.39744,
-      "lon": -71.081011
+      "prix": 167.8,
+      "lat": 48.411756,
+      "lon": -71.05197
     },
     {
       "banniere": "Ultramar",
@@ -29,12 +29,12 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 168.5,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.39744,
+      "lon": -71.081011
     },
     {
       "banniere": "Couche-Tard",
@@ -53,14 +53,6 @@
       "lon": -71.068372
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 168.5,
-      "lat": 48.394683,
-      "lon": -71.070736
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
@@ -69,12 +61,20 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 168.5,
-      "lat": 48.411756,
-      "lon": -71.05197
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 168.5,
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Canadian Tire",
