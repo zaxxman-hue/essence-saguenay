@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "22/10/2026 02:18",
-  "derniere_verification": "22/10/2026 02:18:27",
-  "fichier_source": "stations-20261022021500.xlsx",
+  "mise_a_jour": "22/10/2026 05:14",
+  "derniere_verification": "22/10/2026 05:14:32",
+  "fichier_source": "stations-20261022051000.xlsx",
   "total": 78,
   "stations": [
     {
@@ -437,12 +437,12 @@
       "lon": -71.061125
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
       "ville": "LaBaie",
       "prix": 170.0,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "lat": 48.336551,
+      "lon": -70.882167
     },
     {
       "banniere": "Petro-Canada",
@@ -451,14 +451,6 @@
       "prix": 170.0,
       "lat": 48.331986,
       "lon": -70.881141
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
-      "prix": 170.0,
-      "lat": 48.336551,
-      "lon": -70.882167
     },
     {
       "banniere": "Énergie DDF",
@@ -499,6 +491,14 @@
       "prix": 170.9,
       "lat": 48.373886,
       "lon": -71.091169
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 171.4,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "R.L.",
