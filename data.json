@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "23/10/2026 21:31",
-  "derniere_verification": "23/10/2026 21:31:48",
-  "fichier_source": "stations-20261023213000.xlsx",
+  "mise_a_jour": "23/10/2026 21:44",
+  "derniere_verification": "23/10/2026 21:44:25",
+  "fichier_source": "stations-20261023214000.xlsx",
   "total": 77,
   "stations": [
     {
@@ -485,12 +485,12 @@
       "lon": -70.873104
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "4391 rte Saint-Léonard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 163.2,
-      "lat": 48.470796,
-      "lon": -71.277321
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 162.9,
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Petro-Canada",
@@ -499,6 +499,14 @@
       "prix": 163.2,
       "lat": 48.5064,
       "lon": -71.270068
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "4391 rte Saint-Léonard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 163.2,
+      "lat": 48.470796,
+      "lon": -71.277321
     },
     {
       "banniere": "Énergie Express BD",
@@ -515,14 +523,6 @@
       "prix": 164.9,
       "lat": 48.395019,
       "lon": -71.106094
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1312 boul. Saint-Paul, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 164.9,
-      "lat": 48.408178,
-      "lon": -71.093216
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -549,20 +549,20 @@
       "lon": -71.114645
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "1312 boul. Saint-Paul, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 164.9,
+      "lat": 48.408178,
+      "lon": -71.093216
+    },
+    {
       "banniere": "Irving",
       "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 165.8,
       "lat": 48.438557,
       "lon": -71.061332
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 165.9,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Ultramar",
