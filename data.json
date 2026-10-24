@@ -1,24 +1,24 @@
 {
-  "mise_a_jour": "24/10/2026 14:16",
-  "derniere_verification": "24/10/2026 14:16:54",
-  "fichier_source": "stations-20261024141500.xlsx",
+  "mise_a_jour": "24/10/2026 14:45",
+  "derniere_verification": "24/10/2026 14:45:06",
+  "fichier_source": "stations-20261024144500.xlsx",
   "total": 76,
   "stations": [
-    {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 160.5,
-      "lat": 48.403131,
-      "lon": -71.059187
-    },
     {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 160.5,
+      "prix": 159.8,
       "lat": 48.40924,
       "lon": -71.052572
+    },
+    {
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 159.8,
+      "lat": 48.411103,
+      "lon": -71.052843
     },
     {
       "banniere": "Ultramar",
@@ -29,12 +29,12 @@
       "lon": -71.05197
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 160.5,
-      "lat": 48.411103,
-      "lon": -71.052843
+      "lat": 48.403131,
+      "lon": -71.059187
     },
     {
       "banniere": "Esso",
