@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "24/10/2026 18:15",
-  "derniere_verification": "24/10/2026 18:15:19",
-  "fichier_source": "stations-20261024181500.xlsx",
+  "mise_a_jour": "24/10/2026 18:32",
+  "derniere_verification": "24/10/2026 18:32:46",
+  "fichier_source": "stations-20261024183000.xlsx",
   "total": 76,
   "stations": [
+    {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 158.4,
+      "lat": 48.40924,
+      "lon": -71.052572
+    },
     {
       "banniere": "Esso",
       "adresse": "1455 boul. Talbot, Saguenay",
@@ -11,14 +19,6 @@
       "prix": 159.1,
       "lat": 48.403131,
       "lon": -71.059187
-    },
-    {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 159.1,
-      "lat": 48.40924,
-      "lon": -71.052572
     },
     {
       "banniere": "Canadian Tire",
