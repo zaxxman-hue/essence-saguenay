@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "24/10/2026 19:21",
-  "derniere_verification": "24/10/2026 19:21:28",
-  "fichier_source": "stations-20261024192000.xlsx",
+  "mise_a_jour": "24/10/2026 19:36",
+  "derniere_verification": "24/10/2026 19:36:49",
+  "fichier_source": "stations-20261024193500.xlsx",
   "total": 76,
   "stations": [
+    {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 158.4,
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
     {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
@@ -11,14 +19,6 @@
       "prix": 158.4,
       "lat": 48.40924,
       "lon": -71.052572
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 158.4,
-      "lat": 48.411103,
-      "lon": -71.052843
     },
     {
       "banniere": "Shell",
@@ -29,12 +29,20 @@
       "lon": -71.070736
     },
     {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 158.4,
+      "lat": 48.411103,
+      "lon": -71.052843
+    },
+    {
+      "banniere": "Harnois",
+      "adresse": "1821 rue Sainte-Famille, Saguenay",
       "ville": "Jonquiere",
       "prix": 159.1,
-      "lat": 48.400574,
-      "lon": -71.145998
+      "lat": 48.431009,
+      "lon": -71.233782
     },
     {
       "banniere": "Esso",
@@ -45,20 +53,12 @@
       "lon": -70.990331
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 159.1,
-      "lat": 48.403131,
-      "lon": -71.059187
-    },
-    {
-      "banniere": "Harnois",
-      "adresse": "1821 rue Sainte-Famille, Saguenay",
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
       "ville": "Jonquiere",
       "prix": 159.1,
-      "lat": 48.431009,
-      "lon": -71.233782
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Esso",
