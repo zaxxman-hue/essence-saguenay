@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "24/10/2026 18:32",
-  "derniere_verification": "24/10/2026 18:32:46",
-  "fichier_source": "stations-20261024183000.xlsx",
+  "mise_a_jour": "24/10/2026 18:52",
+  "derniere_verification": "24/10/2026 18:52:19",
+  "fichier_source": "stations-20261024185000.xlsx",
   "total": 76,
   "stations": [
     {
@@ -13,20 +13,20 @@
       "lon": -71.052572
     },
     {
+      "banniere": "Canadian Tire",
+      "adresse": "1050 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 158.4,
+      "lat": 48.411103,
+      "lon": -71.052843
+    },
+    {
       "banniere": "Esso",
       "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.1,
       "lat": 48.403131,
       "lon": -71.059187
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "1050 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 159.1,
-      "lat": 48.411103,
-      "lon": -71.052843
     },
     {
       "banniere": "Shell",
