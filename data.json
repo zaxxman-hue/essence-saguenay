@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "25/10/2026 19:49",
-  "derniere_verification": "25/10/2026 19:49:16",
-  "fichier_source": "stations-20261025194501.xlsx",
+  "mise_a_jour": "25/10/2026 20:19",
+  "derniere_verification": "25/10/2026 20:19:19",
+  "fichier_source": "stations-20261025201500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -325,12 +325,12 @@
       "lon": -71.277321
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1845 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "ville": "Saguenay",
       "prix": 158.4,
-      "lat": 48.441506,
-      "lon": -71.051019
+      "lat": 48.209145,
+      "lon": -70.067898
     },
     {
       "banniere": "Canadian Tire",
@@ -349,20 +349,20 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
-      "ville": "Saguenay",
-      "prix": 158.4,
-      "lat": 48.209145,
-      "lon": -70.067898
-    },
-    {
       "banniere": "R.L.",
       "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 158.4,
       "lat": 48.458572,
       "lon": -71.00279
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 158.4,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Irving",
@@ -387,6 +387,14 @@
       "prix": 158.4,
       "lat": 48.331986,
       "lon": -70.881141
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "1845 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 158.4,
+      "lat": 48.441506,
+      "lon": -71.051019
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -419,14 +427,6 @@
       "prix": 159.9,
       "lat": 48.387452,
       "lon": -71.114645
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 160.5,
-      "lat": 48.337232,
-      "lon": -70.888533
     },
     {
       "banniere": "Ultramar",
@@ -509,6 +509,14 @@
       "lon": -71.187357
     },
     {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 161.7,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "R.L.",
       "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
@@ -539,14 +547,6 @@
       "prix": 162.4,
       "lat": 48.307346,
       "lon": -71.114422
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 162.9,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Nutrinor Énergies",
