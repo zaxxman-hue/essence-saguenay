@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "25/10/2026 09:03",
-  "derniere_verification": "25/10/2026 09:03:45",
-  "fichier_source": "stations-20261025090000.xlsx",
+  "mise_a_jour": "25/10/2026 11:00",
+  "derniere_verification": "25/10/2026 11:00:02",
+  "fichier_source": "stations-20261025105500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -229,12 +229,12 @@
       "lon": -71.23757
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
       "prix": 159.4,
-      "lat": 48.454243,
-      "lon": -71.061125
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Petro-Canada",
@@ -261,6 +261,14 @@
       "lon": -71.076179
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "641 rue Delisle, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 159.4,
+      "lat": 48.454243,
+      "lon": -71.061125
+    },
+    {
       "banniere": "R.L.",
       "adresse": "5822 boul. Talbot, Saguenay",
       "ville": "Saguenay",
@@ -277,20 +285,20 @@
       "lon": -71.091169
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 160.9,
-      "lat": 48.387452,
-      "lon": -71.114645
-    },
-    {
       "banniere": "Irving",
       "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 160.9,
       "lat": 48.337232,
       "lon": -70.888533
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 160.9,
+      "lat": 48.387452,
+      "lon": -71.114645
     },
     {
       "banniere": "Esso",
@@ -307,14 +315,6 @@
       "prix": 161.1,
       "lat": 48.470796,
       "lon": -71.277321
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
-      "prix": 161.2,
-      "lat": 48.426389,
-      "lon": -71.259018
     },
     {
       "banniere": "Petro-Canada",
@@ -341,12 +341,12 @@
       "lon": -71.171977
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1960 rue De Montfort, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1934 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
       "prix": 161.2,
-      "lat": 48.424661,
-      "lon": -71.234995
+      "lat": 48.426389,
+      "lon": -71.259018
     },
     {
       "banniere": "Ultramar",
@@ -374,6 +374,14 @@
     },
     {
       "banniere": "Petro-Canada",
+      "adresse": "1960 rue De Montfort, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 161.2,
+      "lat": 48.424661,
+      "lon": -71.234995
+    },
+    {
+      "banniere": "Petro-Canada",
       "adresse": "2245 boul. du Saguenay, Saguenay",
       "ville": "Jonquiere",
       "prix": 161.2,
@@ -381,12 +389,12 @@
       "lon": -71.140604
     },
     {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
-      "ville": "Saguenay",
+      "banniere": "R.L.",
+      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 161.4,
-      "lat": 48.209145,
-      "lon": -70.067898
+      "lat": 48.396372,
+      "lon": -70.993907
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -397,20 +405,12 @@
       "lon": -71.252854
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
+      "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
       "ville": "Saguenay",
       "prix": 161.4,
-      "lat": 48.316248,
-      "lon": -71.134685
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "2635 boul. Saint-Jean-Baptiste, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 161.4,
-      "lat": 48.396372,
-      "lon": -70.993907
+      "lat": 48.209145,
+      "lon": -70.067898
     },
     {
       "banniere": "R.L.",
