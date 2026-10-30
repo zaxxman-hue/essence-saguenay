@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "30/10/2026 21:38",
-  "derniere_verification": "30/10/2026 21:38:00",
-  "fichier_source": "stations-20261030213500.xlsx",
+  "mise_a_jour": "30/10/2026 21:53",
+  "derniere_verification": "30/10/2026 21:53:38",
+  "fichier_source": "stations-20261030215000.xlsx",
   "total": 77,
   "stations": [
     {
@@ -165,12 +165,12 @@
       "lon": -71.26138
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "2245 boul. du Saguenay, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 170.8,
-      "lat": 48.435333,
-      "lon": -71.140604
+      "lat": 48.458572,
+      "lon": -71.00279
     },
     {
       "banniere": "Petro-Canada",
@@ -246,6 +246,14 @@
     },
     {
       "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 170.8,
+      "lat": 48.404702,
+      "lon": -71.171977
+    },
+    {
+      "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 170.8,
@@ -253,20 +261,12 @@
       "lon": -71.081011
     },
     {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 170.8,
-      "lat": 48.458572,
-      "lon": -71.00279
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "banniere": "Crevier",
+      "adresse": "2922 boul. du Saguenay, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 170.8,
-      "lat": 48.423109,
-      "lon": -71.212988
+      "lat": 48.433314,
+      "lon": -71.187357
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -277,12 +277,12 @@
       "lon": -71.259018
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2000 Boul. René-Lévesque, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 170.8,
-      "lat": 48.369606,
-      "lon": -71.28365
+      "lat": 48.423109,
+      "lon": -71.212988
     },
     {
       "banniere": "Shell",
@@ -325,12 +325,12 @@
       "lon": -71.052843
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
+      "ville": "Saguenay",
       "prix": 170.8,
-      "lat": 48.39309,
-      "lon": -71.070497
+      "lat": 48.369606,
+      "lon": -71.28365
     },
     {
       "banniere": "Ultramar",
@@ -349,28 +349,28 @@
       "lon": -71.068372
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "2245 boul. du Saguenay, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 170.8,
+      "lat": 48.435333,
+      "lon": -71.140604
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 170.8,
+      "lat": 48.39309,
+      "lon": -71.070497
+    },
+    {
       "banniere": "R.L.",
       "adresse": "45 rue Du Pont, Saguenay",
       "ville": "Chicoutimi",
       "prix": 170.8,
       "lat": 48.436903,
       "lon": -71.067338
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 170.8,
-      "lat": 48.429329,
-      "lon": -71.065922
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 170.8,
-      "lat": 48.424585,
-      "lon": -71.180502
     },
     {
       "banniere": "Irving",
@@ -421,12 +421,20 @@
       "lon": -71.051019
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 170.8,
+      "lat": 48.429329,
+      "lon": -71.065922
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
       "ville": "Jonquiere",
-      "prix": 170.9,
-      "lat": 48.425808,
-      "lon": -71.071138
+      "prix": 170.8,
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "Irving",
@@ -435,6 +443,14 @@
       "prix": 170.9,
       "lat": 48.337232,
       "lon": -70.888533
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 170.9,
+      "lat": 48.425808,
+      "lon": -71.071138
     },
     {
       "banniere": "R.L.",
@@ -461,14 +477,6 @@
       "lon": -71.114645
     },
     {
-      "banniere": "Crevier",
-      "adresse": "2922 boul. du Saguenay, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 171.5,
-      "lat": 48.433314,
-      "lon": -71.187357
-    },
-    {
       "banniere": "Esso",
       "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
@@ -485,6 +493,14 @@
       "lon": -71.093216
     },
     {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 171.9,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "Irving",
       "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
@@ -494,27 +510,11 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 171.9,
-      "lat": 48.317822,
-      "lon": -70.861146
-    },
-    {
-      "banniere": "Esso",
       "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
       "prix": 171.9,
       "lat": 48.373886,
       "lon": -71.091169
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 172.2,
-      "lat": 48.404702,
-      "lon": -71.171977
     },
     {
       "banniere": "Esso",
