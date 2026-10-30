@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "30/10/2026 19:35",
-  "derniere_verification": "30/10/2026 19:35:20",
-  "fichier_source": "stations-20261030193500.xlsx",
+  "mise_a_jour": "30/10/2026 19:52",
+  "derniere_verification": "30/10/2026 19:52:46",
+  "fichier_source": "stations-20261030195000.xlsx",
   "total": 77,
   "stations": [
     {
@@ -437,12 +437,12 @@
       "lon": -71.114645
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
       "prix": 171.9,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "R.L.",
@@ -462,11 +462,11 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
       "prix": 171.9,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "R.L.",
@@ -477,20 +477,20 @@
       "lon": -71.027496
     },
     {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 171.9,
+      "lat": 48.438557,
+      "lon": -71.061332
+    },
+    {
       "banniere": "R.L.",
       "adresse": "68 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 171.9,
       "lat": 48.429329,
       "lon": -71.065922
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 172.2,
-      "lat": 48.404137,
-      "lon": -71.166787
     },
     {
       "banniere": "Ultramar",
@@ -510,11 +510,11 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 172.7,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 172.2,
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "R.L.",
