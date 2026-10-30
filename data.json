@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "30/10/2026 22:41",
-  "derniere_verification": "30/10/2026 22:41:41",
-  "fichier_source": "stations-20261030224000.xlsx",
+  "mise_a_jour": "30/10/2026 23:07",
+  "derniere_verification": "30/10/2026 23:07:36",
+  "fichier_source": "stations-20261030230500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -501,22 +501,6 @@
       "lon": -71.093216
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 171.9,
-      "lat": 48.373886,
-      "lon": -71.091169
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 171.9,
-      "lat": 48.317822,
-      "lon": -70.861146
-    },
-    {
       "banniere": "Irving",
       "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
@@ -525,12 +509,12 @@
       "lon": -71.061332
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "952 rue Du Boulevard, Saguenay",
-      "ville": "Saguenay",
-      "prix": 173.4,
-      "lat": 48.307346,
-      "lon": -71.114422
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 171.9,
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -539,6 +523,14 @@
       "prix": 173.4,
       "lat": 48.316248,
       "lon": -71.134685
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "952 rue Du Boulevard, Saguenay",
+      "ville": "Saguenay",
+      "prix": 173.4,
+      "lat": 48.307346,
+      "lon": -71.114422
     },
     {
       "banniere": "Crevier",
@@ -550,11 +542,27 @@
     },
     {
       "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 173.9,
+      "lat": 48.336456,
+      "lon": -70.889349
+    },
+    {
+      "banniere": "Nutrinor Énergies",
       "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
       "prix": 173.9,
       "lat": 48.396671,
       "lon": -71.252854
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 173.9,
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Énergie Express BD",
@@ -571,14 +579,6 @@
       "prix": 173.9,
       "lat": 48.450526,
       "lon": -71.088774
-    },
-    {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 173.9,
-      "lat": 48.336456,
-      "lon": -70.889349
     },
     {
       "banniere": "Shell",
