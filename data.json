@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "31/10/2026 00:17",
-  "derniere_verification": "31/10/2026 00:17:34",
-  "fichier_source": "stations-20261031001500.xlsx",
+  "mise_a_jour": "31/10/2026 00:55",
+  "derniere_verification": "31/10/2026 00:55:22",
+  "fichier_source": "stations-20261031005500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -461,12 +461,12 @@
       "lon": -71.071138
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
       "prix": 171.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "R.L.",
@@ -477,20 +477,20 @@
       "lon": -70.873104
     },
     {
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 171.4,
+      "lat": 48.419808,
+      "lon": -71.100018
+    },
+    {
       "banniere": "Esso",
       "adresse": "1931 boul. saint-paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 171.5,
       "lat": 48.395019,
       "lon": -71.106094
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 171.5,
-      "lat": 48.387452,
-      "lon": -71.114645
     },
     {
       "banniere": "Petro-Canada",
@@ -501,12 +501,12 @@
       "lon": -71.093216
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 171.9,
-      "lat": 48.438557,
-      "lon": -71.061332
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 171.5,
+      "lat": 48.387452,
+      "lon": -71.114645
     },
     {
       "banniere": "Esso",
@@ -517,12 +517,12 @@
       "lon": -71.091169
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 173.4,
-      "lat": 48.316248,
-      "lon": -71.134685
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 171.9,
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
@@ -531,6 +531,14 @@
       "prix": 173.4,
       "lat": 48.307346,
       "lon": -71.114422
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 173.4,
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Crevier",
@@ -542,27 +550,11 @@
     },
     {
       "banniere": "Nutrinor Énergies",
-      "adresse": "1623 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 173.9,
-      "lat": 48.336456,
-      "lon": -70.889349
-    },
-    {
-      "banniere": "Nutrinor Énergies",
       "adresse": "3899 rue des Mouettes, Saguenay",
       "ville": "Jonquiere",
       "prix": 173.9,
       "lat": 48.396671,
       "lon": -71.252854
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 173.9,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Énergie Express BD",
@@ -579,6 +571,14 @@
       "prix": 173.9,
       "lat": 48.450526,
       "lon": -71.088774
+    },
+    {
+      "banniere": "Nutrinor Énergies",
+      "adresse": "1623 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 173.9,
+      "lat": 48.336456,
+      "lon": -70.889349
     },
     {
       "banniere": "Shell",
