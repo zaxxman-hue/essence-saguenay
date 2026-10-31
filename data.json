@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "31/10/2026 18:00",
-  "derniere_verification": "31/10/2026 18:00:52",
-  "fichier_source": "stations-20261031180000.xlsx",
+  "mise_a_jour": "31/10/2026 18:40",
+  "derniere_verification": "31/10/2026 18:40:49",
+  "fichier_source": "stations-20261031184000.xlsx",
   "total": 77,
   "stations": [
     {
@@ -62,19 +62,19 @@
     },
     {
       "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 168.9,
+      "lat": 48.40314,
+      "lon": -71.250599
+    },
+    {
+      "banniere": "Irving",
       "adresse": "3635 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 168.9,
       "lat": 48.421137,
       "lon": -71.234999
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 168.9,
-      "lat": 48.411756,
-      "lon": -71.05197
     },
     {
       "banniere": "Ultramar",
@@ -85,12 +85,12 @@
       "lon": -71.212988
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 168.9,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.411756,
+      "lon": -71.05197
     },
     {
       "banniere": "Esso",
@@ -99,6 +99,22 @@
       "prix": 168.9,
       "lat": 48.415732,
       "lon": -71.065681
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 168.9,
+      "lat": 48.411254,
+      "lon": -71.261772
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 169.2,
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "Ultramar",
@@ -110,27 +126,11 @@
     },
     {
       "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 169.2,
-      "lat": 48.40314,
-      "lon": -71.250599
-    },
-    {
-      "banniere": "Irving",
       "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 169.2,
       "lat": 48.438557,
       "lon": -71.061332
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 169.2,
-      "lat": 48.429329,
-      "lon": -71.065922
     },
     {
       "banniere": "Petro-Canada",
@@ -485,12 +485,12 @@
       "lon": -70.888533
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
       "prix": 171.4,
-      "lat": 48.32626,
-      "lon": -70.873104
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Énergie DDF",
@@ -499,6 +499,14 @@
       "prix": 171.4,
       "lat": 48.419808,
       "lon": -71.100018
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 171.4,
+      "lat": 48.32626,
+      "lon": -70.873104
     },
     {
       "banniere": "Esso",
@@ -515,14 +523,6 @@
       "prix": 171.5,
       "lat": 48.387452,
       "lon": -71.114645
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 171.9,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Petro-Canada",
