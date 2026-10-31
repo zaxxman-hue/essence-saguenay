@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "31/10/2026 20:25",
-  "derniere_verification": "31/10/2026 20:25:26",
-  "fichier_source": "stations-20261031202500.xlsx",
+  "mise_a_jour": "31/10/2026 20:32",
+  "derniere_verification": "31/10/2026 20:32:40",
+  "fichier_source": "stations-20261031203000.xlsx",
   "total": 77,
   "stations": [
     {
@@ -469,12 +469,12 @@
       "lon": -70.888533
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
       "prix": 171.4,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "lat": 48.32626,
+      "lon": -70.873104
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -485,28 +485,12 @@
       "lon": -71.134685
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 171.4,
-      "lat": 48.32626,
-      "lon": -70.873104
-    },
-    {
       "banniere": "Énergie DDF",
       "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
       "prix": 171.4,
       "lat": 48.419808,
       "lon": -71.100018
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
-      "ville": "Saguenay",
-      "prix": 171.5,
-      "lat": 48.387452,
-      "lon": -71.114645
     },
     {
       "banniere": "Esso",
@@ -517,12 +501,28 @@
       "lon": -71.106094
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "1333 Boul. du Royaume est, SAGUENAY",
+      "ville": "Saguenay",
+      "prix": 171.5,
+      "lat": 48.387452,
+      "lon": -71.114645
+    },
+    {
       "banniere": "Nutrinor Énergies",
       "adresse": "1360 boul. Saint-Paul, Saguenay",
       "ville": "Jonquiere",
       "prix": 171.9,
       "lat": 48.407448,
       "lon": -71.094182
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 171.9,
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Petro-Canada",
