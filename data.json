@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "31/10/2026 17:29",
-  "derniere_verification": "31/10/2026 17:29:51",
-  "fichier_source": "stations-20261031172500.xlsx",
+  "mise_a_jour": "31/10/2026 17:49",
+  "derniere_verification": "31/10/2026 17:49:54",
+  "fichier_source": "stations-20261031174500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -405,12 +405,12 @@
       "lon": -71.187357
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
+      "ville": "Jonquiere",
       "prix": 170.8,
-      "lat": 48.331986,
-      "lon": -70.881141
+      "lat": 48.404702,
+      "lon": -71.171977
     },
     {
       "banniere": "Petro-Canada",
@@ -445,12 +445,12 @@
       "lon": -71.234995
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "391 boul. de la Grande-Baie Sud, Saguenay",
       "ville": "LaBaie",
       "prix": 170.8,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "lat": 48.331986,
+      "lon": -70.881141
     },
     {
       "banniere": "Shell",
@@ -469,20 +469,20 @@
       "lon": -71.180502
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 170.8,
-      "lat": 48.404702,
-      "lon": -71.171977
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "81 rue Price ouest, Saguenay",
       "ville": "Jonquiere",
       "prix": 170.9,
       "lat": 48.425808,
       "lon": -71.071138
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 170.9,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "R.L.",
