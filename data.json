@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "01/11/2026 20:05",
-  "derniere_verification": "01/11/2026 20:05:41",
-  "fichier_source": "stations-20261101200500.xlsx",
+  "mise_a_jour": "01/11/2026 20:38",
+  "derniere_verification": "01/11/2026 20:38:53",
+  "fichier_source": "stations-20261101203500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -509,6 +509,14 @@
       "lon": -71.071138
     },
     {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 170.9,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "Nutrinor Énergies",
       "adresse": "1623 rue Bagot, Saguenay",
       "ville": "LaBaie",
@@ -547,14 +555,6 @@
       "prix": 171.9,
       "lat": 48.407448,
       "lon": -71.094182
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 171.9,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Petro-Canada",
