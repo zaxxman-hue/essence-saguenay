@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "04/11/2026 21:59",
-  "derniere_verification": "04/11/2026 21:59:49",
-  "fichier_source": "stations-20261104215500.xlsx",
+  "mise_a_jour": "04/11/2026 22:30",
+  "derniere_verification": "04/11/2026 22:30:05",
+  "fichier_source": "stations-20261104223000.xlsx",
   "total": 77,
   "stations": [
     {
@@ -21,28 +21,12 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 165.4,
-      "lat": 48.425557,
-      "lon": -71.26138
-    },
-    {
       "banniere": "Esso",
       "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
       "prix": 165.4,
       "lat": 48.373886,
       "lon": -71.091169
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 165.4,
-      "lat": 48.454509,
-      "lon": -71.111521
     },
     {
       "banniere": "Shell",
@@ -54,11 +38,11 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "641 rue Delisle, Saguenay",
+      "adresse": "1755 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 165.4,
-      "lat": 48.454243,
-      "lon": -71.061125
+      "lat": 48.454509,
+      "lon": -71.111521
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -69,12 +53,28 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Petro-Canada",
+      "adresse": "641 rue Delisle, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 165.4,
+      "lat": 48.454243,
+      "lon": -71.061125
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
       "prix": 165.5,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "lat": 48.338231,
+      "lon": -70.990331
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 165.5,
+      "lat": 48.425557,
+      "lon": -71.26138
     },
     {
       "banniere": "Irving",
@@ -101,12 +101,12 @@
       "lon": -71.243563
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
       "prix": 165.5,
-      "lat": 48.406769,
-      "lon": -71.051965
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Petro-Canada",
@@ -125,12 +125,12 @@
       "lon": -71.246977
     },
     {
-      "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Pétro-T",
+      "adresse": "2320 rue Dubose, Saguenay",
+      "ville": "Jonquiere",
       "prix": 165.5,
-      "lat": 48.338231,
-      "lon": -70.990331
+      "lat": 48.400574,
+      "lon": -71.145998
     },
     {
       "banniere": "Petro-Canada",
@@ -213,12 +213,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Pétro-T",
-      "adresse": "2320 rue Dubose, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 165.5,
-      "lat": 48.400574,
-      "lon": -71.145998
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
       "banniere": "Shell",
