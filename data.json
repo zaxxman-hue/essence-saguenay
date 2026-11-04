@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "04/11/2026 22:43",
-  "derniere_verification": "04/11/2026 22:43:33",
-  "fichier_source": "stations-20261104224000.xlsx",
+  "mise_a_jour": "04/11/2026 23:07",
+  "derniere_verification": "04/11/2026 23:07:58",
+  "fichier_source": "stations-20261104230500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -421,12 +421,12 @@
       "lon": -71.070497
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 166.5,
-      "lat": 48.336551,
-      "lon": -70.882167
+      "lat": 48.408298,
+      "lon": -71.054487
     },
     {
       "banniere": "Ultramar",
@@ -485,12 +485,12 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
+      "ville": "LaBaie",
       "prix": 166.5,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.336551,
+      "lon": -70.882167
     },
     {
       "banniere": "Petro-Canada",
@@ -501,20 +501,20 @@
       "lon": -70.881141
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 166.5,
-      "lat": 48.337232,
-      "lon": -70.888533
-    },
-    {
       "banniere": "Esso",
       "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 166.5,
       "lat": 48.404137,
       "lon": -71.166787
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 166.9,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Petro-Canada",
