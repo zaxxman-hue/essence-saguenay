@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "06/11/2026 19:00",
-  "derniere_verification": "06/11/2026 19:00:45",
-  "fichier_source": "stations-20261106190000.xlsx",
+  "mise_a_jour": "06/11/2026 19:34",
+  "derniere_verification": "06/11/2026 19:34:46",
+  "fichier_source": "stations-20261106193000.xlsx",
   "total": 77,
   "stations": [
+    {
+      "banniere": "Mobil",
+      "adresse": "1101 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 161.0,
+      "lat": 48.40924,
+      "lon": -71.052572
+    },
     {
       "banniere": "Ultramar",
       "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
@@ -11,14 +19,6 @@
       "prix": 161.4,
       "lat": 48.442216,
       "lon": -71.07443
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 161.4,
-      "lat": 48.44285,
-      "lon": -71.076179
     },
     {
       "banniere": "Petro-Canada",
@@ -45,12 +45,12 @@
       "lon": -71.28365
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 161.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -77,6 +77,14 @@
       "lon": -71.061125
     },
     {
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 161.4,
+      "lat": 48.419808,
+      "lon": -71.100018
+    },
+    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
@@ -94,19 +102,19 @@
     },
     {
       "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
-      "prix": 161.7,
-      "lat": 48.338231,
-      "lon": -70.990331
-    },
-    {
-      "banniere": "Esso",
       "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 161.7,
       "lat": 48.403131,
       "lon": -71.059187
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
+      "prix": 161.7,
+      "lat": 48.338231,
+      "lon": -70.990331
     },
     {
       "banniere": "Pétro-T",
@@ -115,14 +123,6 @@
       "prix": 161.7,
       "lat": 48.400574,
       "lon": -71.145998
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 161.7,
-      "lat": 48.413826,
-      "lon": -71.246977
     },
     {
       "banniere": "Ultramar",
@@ -237,20 +237,20 @@
       "lon": -71.233782
     },
     {
-      "banniere": "Mobil",
-      "adresse": "1101 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 161.7,
-      "lat": 48.40924,
-      "lon": -71.052572
-    },
-    {
       "banniere": "Petro-Canada",
       "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 161.7,
       "lat": 48.451071,
       "lon": -71.020099
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 161.7,
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Harnois",
@@ -480,7 +480,7 @@
       "banniere": "Esso",
       "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
-      "prix": 162.8,
+      "prix": 162.7,
       "lat": 48.317822,
       "lon": -70.861146
     },
