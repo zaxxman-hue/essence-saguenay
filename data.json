@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "07/11/2026 02:07",
-  "derniere_verification": "07/11/2026 02:07:21",
-  "fichier_source": "stations-20261107020500.xlsx",
+  "mise_a_jour": "07/11/2026 02:28",
+  "derniere_verification": "07/11/2026 02:28:34",
+  "fichier_source": "stations-20261107022500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -14,11 +14,11 @@
     },
     {
       "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.4,
-      "lat": 48.44285,
-      "lon": -71.076179
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Petro-Canada",
@@ -27,6 +27,14 @@
       "prix": 159.4,
       "lat": 48.454509,
       "lon": -71.111521
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 159.4,
+      "lat": 48.44285,
+      "lon": -71.076179
     },
     {
       "banniere": "Petro-Canada",
@@ -43,14 +51,6 @@
       "prix": 159.5,
       "lat": 48.40924,
       "lon": -71.052572
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 160.2,
-      "lat": 48.39309,
-      "lon": -71.070497
     },
     {
       "banniere": "Ultramar",
@@ -77,12 +77,12 @@
       "lon": -71.052843
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 160.2,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Ultramar",
