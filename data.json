@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "07/11/2026 17:47",
-  "derniere_verification": "07/11/2026 17:47:37",
-  "fichier_source": "stations-20261107174500.xlsx",
+  "mise_a_jour": "07/11/2026 17:55",
+  "derniere_verification": "07/11/2026 17:55:57",
+  "fichier_source": "stations-20261107175500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -142,14 +142,6 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 159.4,
-      "lat": 48.458572,
-      "lon": -71.00279
-    },
-    {
-      "banniere": "R.L.",
       "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.4,
@@ -157,12 +149,20 @@
       "lon": -71.094392
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
+      "banniere": "Irving",
+      "adresse": "4024 boul. du Royaume, Saguenay",
+      "ville": "Saguenay",
+      "prix": 159.4,
+      "lat": 48.425557,
+      "lon": -71.26138
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.4,
-      "lat": 48.421176,
-      "lon": -71.059061
+      "lat": 48.458572,
+      "lon": -71.00279
     },
     {
       "banniere": "Irving",
@@ -189,12 +189,12 @@
       "lon": -71.166787
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.4,
-      "lat": 48.39309,
-      "lon": -71.070497
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Petro-Canada",
@@ -325,12 +325,12 @@
       "lon": -71.111521
     },
     {
-      "banniere": "R.L.",
-      "adresse": "5822 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
       "prix": 159.4,
-      "lat": 48.317087,
-      "lon": -71.134075
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Esso",
@@ -389,20 +389,20 @@
       "lon": -71.051965
     },
     {
+      "banniere": "R.L.",
+      "adresse": "5822 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
+      "prix": 159.4,
+      "lat": 48.317087,
+      "lon": -71.134075
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "641 rue Delisle, Saguenay",
       "ville": "Chicoutimi",
       "prix": 159.4,
       "lat": 48.454243,
       "lon": -71.061125
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
-      "prix": 159.5,
-      "lat": 48.336551,
-      "lon": -70.882167
     },
     {
       "banniere": "Canadian Tire",
@@ -419,6 +419,14 @@
       "prix": 159.5,
       "lat": 48.412676,
       "lon": -71.23162
+    },
+    {
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
+      "ville": "LaBaie",
+      "prix": 159.5,
+      "lat": 48.336551,
+      "lon": -70.882167
     },
     {
       "banniere": "Petro-Canada",
@@ -461,14 +469,6 @@
       "lon": -71.270068
     },
     {
-      "banniere": "Irving",
-      "adresse": "4024 boul. du Royaume, Saguenay",
-      "ville": "Saguenay",
-      "prix": 160.9,
-      "lat": 48.425557,
-      "lon": -71.26138
-    },
-    {
       "banniere": "Inconnue",
       "adresse": "3575 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
@@ -509,20 +509,20 @@
       "lon": -71.071138
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 162.4,
-      "lat": 48.317822,
-      "lon": -70.861146
-    },
-    {
       "banniere": "Irving",
       "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 162.5,
       "lat": 48.337232,
       "lon": -70.888533
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 162.7,
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "R.L.",
