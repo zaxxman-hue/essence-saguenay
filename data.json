@@ -1,14 +1,14 @@
 {
-  "mise_a_jour": "09/11/2026 08:57",
-  "derniere_verification": "09/11/2026 08:57:24",
-  "fichier_source": "stations-20261109085500.xlsx",
+  "mise_a_jour": "09/11/2026 12:43",
+  "derniere_verification": "09/11/2026 12:43:07",
+  "fichier_source": "stations-20261109124000.xlsx",
   "total": 77,
   "stations": [
     {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
-      "prix": 158.5,
+      "prix": 158.7,
       "lat": 48.40924,
       "lon": -71.052572
     },
@@ -421,20 +421,20 @@
       "lon": -70.993907
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
       "prix": 159.4,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
-      "banniere": "R.L.",
-      "adresse": "1845 boul. Tadoussac, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 159.4,
-      "lat": 48.441506,
-      "lon": -71.051019
+      "lat": 48.412108,
+      "lon": -71.231414
     },
     {
       "banniere": "Petro-Canada",
@@ -446,19 +446,19 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 159.5,
-      "lat": 48.32626,
-      "lon": -70.873104
+      "adresse": "1845 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 159.4,
+      "lat": 48.441506,
+      "lon": -71.051019
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
-      "prix": 159.5,
-      "lat": 48.336551,
-      "lon": -70.882167
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 159.4,
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Canadian Tire",
@@ -469,12 +469,20 @@
       "lon": -71.23162
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
       "ville": "LaBaie",
       "prix": 159.5,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "lat": 48.336551,
+      "lon": -70.882167
+    },
+    {
+      "banniere": "R.L.",
+      "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 159.5,
+      "lat": 48.32626,
+      "lon": -70.873104
     },
     {
       "banniere": "Irving",
@@ -494,14 +502,6 @@
     },
     {
       "banniere": "Petro-Canada",
-      "adresse": "4500 rte Mathias, Saguenay",
-      "ville": "Saguenay",
-      "prix": 159.9,
-      "lat": 48.5064,
-      "lon": -71.270068
-    },
-    {
-      "banniere": "Petro-Canada",
       "adresse": "4391 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
       "prix": 159.9,
@@ -509,20 +509,12 @@
       "lon": -71.277321
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 161.4,
-      "lat": 48.419808,
-      "lon": -71.100018
-    },
-    {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 161.4,
-      "lat": 48.412108,
-      "lon": -71.231414
+      "banniere": "Petro-Canada",
+      "adresse": "4500 rte Mathias, Saguenay",
+      "ville": "Saguenay",
+      "prix": 159.9,
+      "lat": 48.5064,
+      "lon": -71.270068
     },
     {
       "banniere": "Petro-Canada",
@@ -539,6 +531,14 @@
       "prix": 161.9,
       "lat": 48.425808,
       "lon": -71.071138
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 162.9,
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Esso",
