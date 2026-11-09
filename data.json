@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "09/11/2026 20:31",
-  "derniere_verification": "09/11/2026 20:31:38",
-  "fichier_source": "stations-20261109203000.xlsx",
+  "mise_a_jour": "09/11/2026 20:53",
+  "derniere_verification": "09/11/2026 20:53:31",
+  "fichier_source": "stations-20261109205000.xlsx",
   "total": 77,
   "stations": [
     {
@@ -509,12 +509,12 @@
       "lon": -70.882167
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
       "prix": 159.5,
-      "lat": 48.412676,
-      "lon": -71.23162
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "R.L.",
@@ -525,20 +525,20 @@
       "lon": -70.873104
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
       "prix": 159.5,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "81 rue Price ouest, Saguenay",
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
-      "prix": 159.9,
-      "lat": 48.425808,
-      "lon": -71.071138
+      "prix": 159.5,
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Petro-Canada",
@@ -549,12 +549,12 @@
       "lon": -71.277321
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "Petro-Canada",
+      "adresse": "81 rue Price ouest, Saguenay",
+      "ville": "Jonquiere",
       "prix": 159.9,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "lat": 48.425808,
+      "lon": -71.071138
     },
     {
       "banniere": "Petro-Canada",
