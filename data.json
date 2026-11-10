@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "10/11/2026 18:01",
-  "derniere_verification": "10/11/2026 18:01:42",
-  "fichier_source": "stations-20261110180000.xlsx",
+  "mise_a_jour": "10/11/2026 18:29",
+  "derniere_verification": "10/11/2026 18:29:15",
+  "fichier_source": "stations-20261110182500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -13,20 +13,20 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 158.4,
-      "lat": 48.316248,
-      "lon": -71.134685
-    },
-    {
       "banniere": "Ultramar",
       "adresse": "266 rue Malraux, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 158.7,
       "lat": 48.39744,
       "lon": -71.081011
+    },
+    {
+      "banniere": "Canadian Tire",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 158.7,
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Canadian Tire",
@@ -51,14 +51,6 @@
       "prix": 158.7,
       "lat": 48.39309,
       "lon": -71.070497
-    },
-    {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 158.7,
-      "lat": 48.412676,
-      "lon": -71.23162
     },
     {
       "banniere": "Énergie Express BD",
@@ -94,6 +86,14 @@
     },
     {
       "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "ville": "Saguenay",
+      "prix": 169.4,
+      "lat": 48.209145,
+      "lon": -70.067898
+    },
+    {
+      "banniere": "Shell",
       "adresse": "487 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
       "prix": 169.4,
@@ -101,12 +101,12 @@
       "lon": -71.076179
     },
     {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 169.4,
-      "lat": 48.209145,
-      "lon": -70.067898
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Inconnue",
