@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "12/11/2026 03:12",
-  "derniere_verification": "12/11/2026 03:12:05",
-  "fichier_source": "stations-20261112031000.xlsx",
+  "mise_a_jour": "12/11/2026 03:29",
+  "derniere_verification": "12/11/2026 03:29:58",
+  "fichier_source": "stations-20261112032500.xlsx",
   "total": 76,
   "stations": [
     {
@@ -37,14 +37,6 @@
       "lon": -71.145998
     },
     {
-      "banniere": "Esso",
-      "adresse": "3 Rue Wing, Saguenay",
-      "ville": "Saguenay",
-      "prix": 163.5,
-      "lat": 48.338231,
-      "lon": -70.990331
-    },
-    {
       "banniere": "Harnois",
       "adresse": "1476 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
@@ -53,12 +45,20 @@
       "lon": -71.023248
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 163.5,
-      "lat": 48.406769,
-      "lon": -71.051965
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
+    {
+      "banniere": "Esso",
+      "adresse": "3 Rue Wing, Saguenay",
+      "ville": "Saguenay",
+      "prix": 163.5,
+      "lat": 48.338231,
+      "lon": -70.990331
     },
     {
       "banniere": "Harnois",
@@ -85,14 +85,6 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 163.5,
-      "lat": 48.394683,
-      "lon": -71.070736
-    },
-    {
       "banniere": "Irving",
       "adresse": "2600 rue Saint-Hubert, Saguenay",
       "ville": "Jonquiere",
@@ -101,12 +93,20 @@
       "lon": -71.250599
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 163.5,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.406769,
+      "lon": -71.051965
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 163.5,
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Esso",
@@ -117,12 +117,12 @@
       "lon": -71.065681
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 164.2,
-      "lat": 48.421176,
-      "lon": -71.059061
+      "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 163.5,
+      "lat": 48.411254,
+      "lon": -71.261772
     },
     {
       "banniere": "Canadian Tire",
@@ -149,12 +149,12 @@
       "lon": -71.07443
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 164.2,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "R.L.",
