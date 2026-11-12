@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "12/11/2026 20:37",
-  "derniere_verification": "12/11/2026 20:37:57",
-  "fichier_source": "stations-20261112203500.xlsx",
+  "mise_a_jour": "12/11/2026 20:58",
+  "derniere_verification": "12/11/2026 20:58:16",
+  "fichier_source": "stations-20261112205501.xlsx",
   "total": 77,
   "stations": [
     {
@@ -549,6 +549,14 @@
       "lon": -71.071138
     },
     {
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 163.4,
+      "lat": 48.404137,
+      "lon": -71.166787
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "952 rue Du Boulevard, Saguenay",
       "ville": "Saguenay",
@@ -563,14 +571,6 @@
       "prix": 169.4,
       "lat": 48.373886,
       "lon": -71.091169
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 169.4,
-      "lat": 48.404137,
-      "lon": -71.166787
     },
     {
       "banniere": "Crevier",
