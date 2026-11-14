@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "14/11/2026 21:37",
-  "derniere_verification": "14/11/2026 21:37:37",
-  "fichier_source": "stations-20261114213500.xlsx",
+  "mise_a_jour": "14/11/2026 21:55",
+  "derniere_verification": "14/11/2026 21:55:28",
+  "fichier_source": "stations-20261114215500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -557,20 +557,20 @@
       "lon": -70.873104
     },
     {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 160.7,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "Irving",
       "adresse": "1542 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 160.7,
       "lat": 48.337232,
       "lon": -70.888533
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 160.9,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Petro-Canada",
