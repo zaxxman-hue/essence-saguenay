@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "14/11/2026 18:46",
-  "derniere_verification": "14/11/2026 18:46:48",
-  "fichier_source": "stations-20261114184500.xlsx",
+  "mise_a_jour": "14/11/2026 18:53",
+  "derniere_verification": "14/11/2026 18:53:12",
+  "fichier_source": "stations-20261114185000.xlsx",
   "total": 77,
   "stations": [
     {
@@ -517,12 +517,12 @@
       "lon": -71.071138
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 160.4,
-      "lat": 48.419808,
-      "lon": -71.100018
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Inconnue",
@@ -533,12 +533,12 @@
       "lon": -71.231414
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 160.7,
-      "lat": 48.337232,
-      "lon": -70.888533
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 160.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -560,9 +560,17 @@
       "banniere": "Esso",
       "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
-      "prix": 160.9,
+      "prix": 160.7,
       "lat": 48.317822,
       "lon": -70.861146
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 160.7,
+      "lat": 48.337232,
+      "lon": -70.888533
     },
     {
       "banniere": "Petro-Canada",
@@ -571,14 +579,6 @@
       "prix": 161.9,
       "lat": 48.450526,
       "lon": -71.088774
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 162.4,
-      "lat": 48.438557,
-      "lon": -71.061332
     },
     {
       "banniere": "Crevier",
