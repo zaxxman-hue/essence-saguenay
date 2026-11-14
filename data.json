@@ -1,9 +1,17 @@
 {
-  "mise_a_jour": "14/11/2026 03:26",
-  "derniere_verification": "14/11/2026 03:26:05",
-  "fichier_source": "stations-20261114032500.xlsx",
+  "mise_a_jour": "14/11/2026 03:55",
+  "derniere_verification": "14/11/2026 03:55:44",
+  "fichier_source": "stations-20261114035500.xlsx",
   "total": 77,
   "stations": [
+    {
+      "banniere": "Esso",
+      "adresse": "1455 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 157.5,
+      "lat": 48.403131,
+      "lon": -71.059187
+    },
     {
       "banniere": "Mobil",
       "adresse": "1101 boul. Talbot, Saguenay",
@@ -19,14 +27,6 @@
       "prix": 157.5,
       "lat": 48.394683,
       "lon": -71.070736
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 158.2,
-      "lat": 48.413826,
-      "lon": -71.246977
     },
     {
       "banniere": "Pétro-T",
@@ -53,12 +53,12 @@
       "lon": -71.023248
     },
     {
-      "banniere": "Harnois",
-      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 158.2,
-      "lat": 48.406769,
-      "lon": -71.051965
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Harnois",
@@ -93,12 +93,12 @@
       "lon": -71.234999
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "3397 rue Saint-Dominique, Saguenay",
-      "ville": "Saguenay",
+      "banniere": "Irving",
+      "adresse": "2600 rue Saint-Hubert, Saguenay",
+      "ville": "Jonquiere",
       "prix": 158.2,
-      "lat": 48.369606,
-      "lon": -71.28365
+      "lat": 48.40314,
+      "lon": -71.250599
     },
     {
       "banniere": "Petro-Canada",
@@ -125,20 +125,20 @@
       "lon": -71.259124
     },
     {
-      "banniere": "Irving",
-      "adresse": "2600 rue Saint-Hubert, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Harnois",
+      "adresse": "1285 rue Des Champs-Élysées, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 158.2,
-      "lat": 48.40314,
-      "lon": -71.250599
+      "lat": 48.406769,
+      "lon": -71.051965
     },
     {
-      "banniere": "Esso",
-      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "banniere": "Petro-Canada",
+      "adresse": "3397 rue Saint-Dominique, Saguenay",
       "ville": "Saguenay",
       "prix": 158.2,
-      "lat": 48.411254,
-      "lon": -71.261772
+      "lat": 48.369606,
+      "lon": -71.28365
     },
     {
       "banniere": "Shell",
@@ -150,19 +150,19 @@
     },
     {
       "banniere": "Esso",
+      "adresse": "2319 rue Saint-Jean-Baptiste, Saguenay",
+      "ville": "Saguenay",
+      "prix": 158.2,
+      "lat": 48.411254,
+      "lon": -71.261772
+    },
+    {
+      "banniere": "Esso",
       "adresse": "138 rue Dubé, Saguenay",
       "ville": "Chicoutimi",
       "prix": 158.2,
       "lat": 48.415732,
       "lon": -71.065681
-    },
-    {
-      "banniere": "Shell",
-      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 158.4,
-      "lat": 48.44285,
-      "lon": -71.076179
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -181,20 +181,20 @@
       "lon": -71.07443
     },
     {
+      "banniere": "Shell",
+      "adresse": "487 boul. Sainte-Geneviève, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 158.4,
+      "lat": 48.44285,
+      "lon": -71.076179
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "641 rue Delisle, Saguenay",
       "ville": "Chicoutimi",
       "prix": 158.4,
       "lat": 48.454243,
       "lon": -71.061125
-    },
-    {
-      "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 158.9,
-      "lat": 48.429329,
-      "lon": -71.065922
     },
     {
       "banniere": "Petro-Canada",
@@ -230,11 +230,11 @@
     },
     {
       "banniere": "R.L.",
-      "adresse": "130 rue Arthur-Hamel, Saguenay",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
       "ville": "Chicoutimi",
       "prix": 158.9,
-      "lat": 48.428994,
-      "lon": -71.027496
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "Canadian Tire",
@@ -357,12 +357,12 @@
       "lon": -71.094392
     },
     {
-      "banniere": "Esso",
-      "adresse": "1455 boul. Talbot, Saguenay",
+      "banniere": "R.L.",
+      "adresse": "130 rue Arthur-Hamel, Saguenay",
       "ville": "Chicoutimi",
       "prix": 158.9,
-      "lat": 48.403131,
-      "lon": -71.059187
+      "lat": 48.428994,
+      "lon": -71.027496
     },
     {
       "banniere": "Canadian Tire",
