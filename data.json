@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "16/11/2026 21:44",
-  "derniere_verification": "16/11/2026 21:44:17",
-  "fichier_source": "stations-20261116214000.xlsx",
+  "mise_a_jour": "16/11/2026 22:22",
+  "derniere_verification": "16/11/2026 22:22:59",
+  "fichier_source": "stations-20261116222000.xlsx",
   "total": 77,
   "stations": [
     {
@@ -565,6 +565,14 @@
       "lon": -71.094182
     },
     {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 154.7,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "Énergie Express BD",
       "adresse": "3421 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
@@ -587,14 +595,6 @@
       "prix": 159.8,
       "lat": 48.353958,
       "lon": -71.324386
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 160.7,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Shell",
