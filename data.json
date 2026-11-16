@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "16/11/2026 23:05",
-  "derniere_verification": "16/11/2026 23:05:08",
-  "fichier_source": "stations-20261116230500.xlsx",
+  "mise_a_jour": "16/11/2026 23:28",
+  "derniere_verification": "16/11/2026 23:28:03",
+  "fichier_source": "stations-20261116232500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -301,28 +301,28 @@
       "lon": -71.111521
     },
     {
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 152.4,
+      "lat": 48.412108,
+      "lon": -71.231414
+    },
+    {
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 152.4,
+      "lat": 48.419808,
+      "lon": -71.100018
+    },
+    {
       "banniere": "Shell",
       "adresse": "1916 boul. Talbot, Saguenay",
       "ville": "Chicoutimi",
       "prix": 152.5,
       "lat": 48.394683,
       "lon": -71.070736
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "1016 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 152.5,
-      "lat": 48.411756,
-      "lon": -71.05197
-    },
-    {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 152.5,
-      "lat": 48.408298,
-      "lon": -71.054487
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -437,6 +437,22 @@
       "lon": -71.059061
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "1016 Boul. Talbot, SAGUENAY",
+      "ville": "Chicoutimi",
+      "prix": 152.5,
+      "lat": 48.411756,
+      "lon": -71.05197
+    },
+    {
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 152.5,
+      "lat": 48.408298,
+      "lon": -71.054487
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "1001 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
@@ -501,14 +517,6 @@
       "lon": -70.067898
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 153.4,
-      "lat": 48.438557,
-      "lon": -71.061332
-    },
-    {
       "banniere": "Esso",
       "adresse": "3003 rue du Plein air, Saguenay",
       "ville": "Chicoutimi",
@@ -517,12 +525,12 @@
       "lon": -71.091169
     },
     {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 153.4,
-      "lat": 48.412108,
-      "lon": -71.231414
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -531,14 +539,6 @@
       "prix": 153.4,
       "lat": 48.316248,
       "lon": -71.134685
-    },
-    {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 153.4,
-      "lat": 48.419808,
-      "lon": -71.100018
     },
     {
       "banniere": "Petro-Canada",
