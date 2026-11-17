@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/11/2026 08:20",
-  "derniere_verification": "17/11/2026 08:20:07",
-  "fichier_source": "stations-20261117082000.xlsx",
+  "mise_a_jour": "17/11/2026 10:00",
+  "derniere_verification": "17/11/2026 10:00:06",
+  "fichier_source": "stations-20261117100000.xlsx",
   "total": 77,
   "stations": [
     {
@@ -549,6 +549,14 @@
       "lon": -70.873104
     },
     {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 153.6,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "Nutrinor Énergies",
       "adresse": "1623 rue Bagot, Saguenay",
       "ville": "LaBaie",
@@ -563,14 +571,6 @@
       "prix": 153.9,
       "lat": 48.425557,
       "lon": -71.26138
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 154.9,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Énergie Express BD",
