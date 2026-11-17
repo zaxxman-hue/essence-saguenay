@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "17/11/2026 21:29",
-  "derniere_verification": "17/11/2026 21:29:24",
-  "fichier_source": "stations-20261117212500.xlsx",
+  "mise_a_jour": "17/11/2026 21:50",
+  "derniere_verification": "17/11/2026 21:50:10",
+  "fichier_source": "stations-20261117215000.xlsx",
   "total": 77,
   "stations": [
     {
@@ -397,12 +397,12 @@
       "lon": -71.094182
     },
     {
-      "banniere": "R.L.",
-      "adresse": "68 boul. du Saguenay est, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Canadian Tire",
+      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
+      "ville": "LaBaie",
       "prix": 150.7,
-      "lat": 48.429329,
-      "lon": -71.065922
+      "lat": 48.336551,
+      "lon": -70.882167
     },
     {
       "banniere": "Irving",
@@ -413,12 +413,12 @@
       "lon": -70.888533
     },
     {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
+      "banniere": "R.L.",
+      "adresse": "68 boul. du Saguenay est, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 150.7,
-      "lat": 48.317822,
-      "lon": -70.861146
+      "lat": 48.429329,
+      "lon": -71.065922
     },
     {
       "banniere": "R.L.",
@@ -454,11 +454,11 @@
     },
     {
       "banniere": "Canadian Tire",
-      "adresse": "225 boul. de la Grande-Baie nord, Saguenay",
-      "ville": "LaBaie",
+      "adresse": "3580 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 150.7,
-      "lat": 48.336551,
-      "lon": -70.882167
+      "lat": 48.412676,
+      "lon": -71.23162
     },
     {
       "banniere": "Petro-Canada",
@@ -469,12 +469,12 @@
       "lon": -70.881141
     },
     {
-      "banniere": "Canadian Tire",
-      "adresse": "3580 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 150.7,
-      "lat": 48.412676,
-      "lon": -71.23162
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 150.9,
+      "lat": 48.317822,
+      "lon": -70.861146
     },
     {
       "banniere": "Nutrinor Énergies",
