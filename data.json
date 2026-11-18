@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/11/2026 22:59",
-  "derniere_verification": "18/11/2026 22:59:03",
-  "fichier_source": "stations-20261118225500.xlsx",
+  "mise_a_jour": "18/11/2026 23:19",
+  "derniere_verification": "18/11/2026 23:19:13",
+  "fichier_source": "stations-20261118231500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -45,14 +45,6 @@
       "lon": -71.100018
     },
     {
-      "banniere": "Nutrinor Énergies",
-      "adresse": "5850 boul. Talbot, Saguenay",
-      "ville": "Saguenay",
-      "prix": 149.4,
-      "lat": 48.316248,
-      "lon": -71.134685
-    },
-    {
       "banniere": "Énergie Express BD",
       "adresse": "3421 rte Saint-Léonard, Saguenay",
       "ville": "Saguenay",
@@ -93,6 +85,14 @@
       "lon": -71.023248
     },
     {
+      "banniere": "R.L.",
+      "adresse": "281 boul. Tadoussac, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 159.4,
+      "lat": 48.458572,
+      "lon": -71.00279
+    },
+    {
       "banniere": "Petro-Canada",
       "adresse": "677 boul. Tadoussac, Saguenay",
       "ville": "Chicoutimi",
@@ -117,12 +117,12 @@
       "lon": -70.990331
     },
     {
-      "banniere": "R.L.",
-      "adresse": "281 boul. Tadoussac, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 159.4,
-      "lat": 48.458572,
-      "lon": -71.00279
+      "lat": 48.442216,
+      "lon": -71.07443
     },
     {
       "banniere": "Esso",
@@ -245,12 +245,12 @@
       "lon": -71.261772
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Nutrinor Énergies",
+      "adresse": "5850 boul. Talbot, Saguenay",
+      "ville": "Saguenay",
       "prix": 159.4,
-      "lat": 48.442216,
-      "lon": -71.07443
+      "lat": 48.316248,
+      "lon": -71.134685
     },
     {
       "banniere": "Pétro-T",
