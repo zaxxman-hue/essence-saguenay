@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "18/11/2026 03:58",
-  "derniere_verification": "18/11/2026 03:58:32",
-  "fichier_source": "stations-20261118035500.xlsx",
+  "mise_a_jour": "18/11/2026 04:37",
+  "derniere_verification": "18/11/2026 04:37:18",
+  "fichier_source": "stations-20261118043500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -397,14 +397,6 @@
       "lon": -71.091169
     },
     {
-      "banniere": "Irving",
-      "adresse": "2082 rue Roussel, Saguenay",
-      "ville": "Chicoutimi",
-      "prix": 150.4,
-      "lat": 48.438557,
-      "lon": -71.061332
-    },
-    {
       "banniere": "Shell",
       "adresse": "60 rue Dumas, Petit-Saguenay",
       "ville": "Saguenay",
@@ -413,20 +405,20 @@
       "lon": -70.067898
     },
     {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 150.4,
-      "lat": 48.412108,
-      "lon": -71.231414
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "5850 boul. Talbot, Saguenay",
       "ville": "Saguenay",
       "prix": 150.4,
       "lat": 48.316248,
       "lon": -71.134685
+    },
+    {
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 150.4,
+      "lat": 48.412108,
+      "lon": -71.231414
     },
     {
       "banniere": "Énergie DDF",
@@ -453,6 +445,14 @@
       "lon": -70.861146
     },
     {
+      "banniere": "Irving",
+      "adresse": "1542 rue Bagot, Saguenay",
+      "ville": "LaBaie",
+      "prix": 150.7,
+      "lat": 48.337232,
+      "lon": -70.888533
+    },
+    {
       "banniere": "Canadian Tire",
       "adresse": "3580 boul. Harvey, Saguenay",
       "ville": "Jonquiere",
@@ -477,20 +477,20 @@
       "lon": -70.882167
     },
     {
-      "banniere": "Irving",
-      "adresse": "1542 rue Bagot, Saguenay",
-      "ville": "LaBaie",
-      "prix": 150.7,
-      "lat": 48.337232,
-      "lon": -70.888533
-    },
-    {
       "banniere": "Nutrinor Énergies",
       "adresse": "1623 rue Bagot, Saguenay",
       "ville": "LaBaie",
       "prix": 150.9,
       "lat": 48.336456,
       "lon": -70.889349
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 151.4,
+      "lat": 48.424585,
+      "lon": -71.180502
     },
     {
       "banniere": "Petro-Canada",
@@ -507,6 +507,14 @@
       "prix": 151.4,
       "lat": 48.426389,
       "lon": -71.259018
+    },
+    {
+      "banniere": "Irving",
+      "adresse": "2082 rue Roussel, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 151.4,
+      "lat": 48.438557,
+      "lon": -71.061332
     },
     {
       "banniere": "Petro-Canada",
@@ -549,14 +557,6 @@
       "lon": -71.324386
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 160.9,
-      "lat": 48.404702,
-      "lon": -71.171977
-    },
-    {
       "banniere": "Esso",
       "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
@@ -581,12 +581,12 @@
       "lon": -71.140604
     },
     {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 160.9,
-      "lat": 48.424585,
-      "lon": -71.180502
+      "lat": 48.404702,
+      "lon": -71.171977
     },
     {
       "banniere": "Petro-Canada",
