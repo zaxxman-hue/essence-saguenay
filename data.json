@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "20/11/2026 18:58",
-  "derniere_verification": "20/11/2026 18:58:32",
-  "fichier_source": "stations-20261120185500.xlsx",
+  "mise_a_jour": "20/11/2026 19:11",
+  "derniere_verification": "20/11/2026 19:11:33",
+  "fichier_source": "stations-20261120191000.xlsx",
   "total": 77,
   "stations": [
     {
@@ -13,20 +13,20 @@
       "lon": -71.052572
     },
     {
+      "banniere": "Petro-Canada",
+      "adresse": "1201 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 152.4,
+      "lat": 48.408298,
+      "lon": -71.054487
+    },
+    {
       "banniere": "Ultramar",
       "adresse": "1016 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 152.4,
       "lat": 48.411756,
       "lon": -71.05197
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "3820 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 153.1,
-      "lat": 48.413826,
-      "lon": -71.246977
     },
     {
       "banniere": "Pétro-T",
@@ -53,12 +53,12 @@
       "lon": -71.020099
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
-      "ville": "Chicoutimi",
+      "banniere": "Esso",
+      "adresse": "3820 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 153.1,
-      "lat": 48.442216,
-      "lon": -71.07443
+      "lat": 48.413826,
+      "lon": -71.246977
     },
     {
       "banniere": "Ultramar",
@@ -117,12 +117,12 @@
       "lon": -71.180502
     },
     {
-      "banniere": "Couche-Tard",
-      "adresse": "585 rue Bégin, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "432 Boul. Sainte-Geneviève, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 153.1,
-      "lat": 48.421176,
-      "lon": -71.059061
+      "lat": 48.442216,
+      "lon": -71.07443
     },
     {
       "banniere": "Harnois",
@@ -245,12 +245,12 @@
       "lon": -71.259124
     },
     {
-      "banniere": "Petro-Canada",
-      "adresse": "1201 boul. Talbot, Saguenay",
+      "banniere": "Couche-Tard",
+      "adresse": "585 rue Bégin, Saguenay",
       "ville": "Chicoutimi",
       "prix": 153.1,
-      "lat": 48.408298,
-      "lon": -71.054487
+      "lat": 48.421176,
+      "lon": -71.059061
     },
     {
       "banniere": "Esso",
