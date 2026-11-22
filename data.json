@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "22/11/2026 20:47",
-  "derniere_verification": "22/11/2026 20:47:36",
-  "fichier_source": "stations-20261122204500.xlsx",
+  "mise_a_jour": "22/11/2026 20:57",
+  "derniere_verification": "22/11/2026 20:57:45",
+  "fichier_source": "stations-20261122205500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -509,28 +509,20 @@
       "lon": -70.889349
     },
     {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 147.8,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "R.L.",
       "adresse": "1162 boul. de la Grande-Baie sud, Saguenay",
       "ville": "LaBaie",
       "prix": 147.8,
       "lat": 48.32626,
       "lon": -70.873104
-    },
-    {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
-      "ville": "Jonquiere",
-      "prix": 149.2,
-      "lat": 48.404702,
-      "lon": -71.171977
-    },
-    {
-      "banniere": "Irving",
-      "adresse": "2005 boul. Mellon, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 149.2,
-      "lat": 48.424585,
-      "lon": -71.180502
     },
     {
       "banniere": "Esso",
@@ -541,12 +533,28 @@
       "lon": -71.166787
     },
     {
+      "banniere": "Irving",
+      "adresse": "2005 boul. Mellon, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 149.2,
+      "lat": 48.424585,
+      "lon": -71.180502
+    },
+    {
       "banniere": "Crevier",
       "adresse": "2922 boul. du Saguenay, SAGUENAY",
       "ville": "Jonquiere",
       "prix": 149.2,
       "lat": 48.433314,
       "lon": -71.187357
+    },
+    {
+      "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 149.2,
+      "lat": 48.404702,
+      "lon": -71.171977
     },
     {
       "banniere": "Crevier",
@@ -563,14 +571,6 @@
       "prix": 152.4,
       "lat": 48.451071,
       "lon": -71.020099
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 153.1,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Petro-Canada",
