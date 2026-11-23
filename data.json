@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "23/11/2026 22:27",
-  "derniere_verification": "23/11/2026 22:27:59",
-  "fichier_source": "stations-20261123222500.xlsx",
+  "mise_a_jour": "23/11/2026 22:50",
+  "derniere_verification": "23/11/2026 22:50:10",
+  "fichier_source": "stations-20261123225000.xlsx",
   "total": 77,
   "stations": [
     {
@@ -333,6 +333,14 @@
       "lon": -71.071138
     },
     {
+      "banniere": "Ultramar",
+      "adresse": "2681 Boul. du Royaume, SAGUENAY",
+      "ville": "Jonquiere",
+      "prix": 143.2,
+      "lat": 48.404702,
+      "lon": -71.171977
+    },
+    {
       "banniere": "R.L.",
       "adresse": "1224 boul. Sainte-Geneviève, Saguenay",
       "ville": "Chicoutimi",
@@ -349,20 +357,12 @@
       "lon": -71.19486
     },
     {
-      "banniere": "Énergie DDF",
-      "adresse": "972 ch. de la Réserve, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Esso",
+      "adresse": "3003 rue du Plein air, Saguenay",
+      "ville": "Chicoutimi",
       "prix": 143.4,
-      "lat": 48.419808,
-      "lon": -71.100018
-    },
-    {
-      "banniere": "Inconnue",
-      "adresse": "3575 boul. Harvey, Saguenay",
-      "ville": "Jonquiere",
-      "prix": 143.4,
-      "lat": 48.412108,
-      "lon": -71.231414
+      "lat": 48.373886,
+      "lon": -71.091169
     },
     {
       "banniere": "Nutrinor Énergies",
@@ -373,20 +373,20 @@
       "lon": -71.134685
     },
     {
-      "banniere": "Esso",
-      "adresse": "3003 rue du Plein air, Saguenay",
-      "ville": "Chicoutimi",
+      "banniere": "Inconnue",
+      "adresse": "3575 boul. Harvey, Saguenay",
+      "ville": "Jonquiere",
       "prix": 143.4,
-      "lat": 48.373886,
-      "lon": -71.091169
+      "lat": 48.412108,
+      "lon": -71.231414
     },
     {
-      "banniere": "Shell",
-      "adresse": "60 rue Dumas, Petit-Saguenay",
-      "ville": "Saguenay",
-      "prix": 143.9,
-      "lat": 48.209145,
-      "lon": -70.067898
+      "banniere": "Énergie DDF",
+      "adresse": "972 ch. de la Réserve, Saguenay",
+      "ville": "Jonquiere",
+      "prix": 143.4,
+      "lat": 48.419808,
+      "lon": -71.100018
     },
     {
       "banniere": "Petro-Canada",
@@ -461,12 +461,12 @@
       "lon": -71.252854
     },
     {
-      "banniere": "Esso",
-      "adresse": "2615 boul. du Royaume, Saguenay",
-      "ville": "Jonquiere",
+      "banniere": "Shell",
+      "adresse": "60 rue Dumas, Petit-Saguenay",
+      "ville": "Saguenay",
       "prix": 143.9,
-      "lat": 48.404137,
-      "lon": -71.166787
+      "lat": 48.209145,
+      "lon": -70.067898
     },
     {
       "banniere": "Irving",
@@ -477,12 +477,12 @@
       "lon": -70.888533
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "2681 Boul. du Royaume, SAGUENAY",
+      "banniere": "Esso",
+      "adresse": "2615 boul. du Royaume, Saguenay",
       "ville": "Jonquiere",
       "prix": 143.9,
-      "lat": 48.404702,
-      "lon": -71.171977
+      "lat": 48.404137,
+      "lon": -71.166787
     },
     {
       "banniere": "Canadian Tire",
@@ -573,6 +573,14 @@
       "lon": -71.260593
     },
     {
+      "banniere": "Esso",
+      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
+      "ville": "LaBaie",
+      "prix": 147.1,
+      "lat": 48.317822,
+      "lon": -70.861146
+    },
+    {
       "banniere": "Irving",
       "adresse": "2082 rue Roussel, Saguenay",
       "ville": "Chicoutimi",
@@ -587,14 +595,6 @@
       "prix": 149.9,
       "lat": 48.330239,
       "lon": -70.890031
-    },
-    {
-      "banniere": "Esso",
-      "adresse": "2625 boul. de la Grande-Baie sud, Saguenay",
-      "ville": "LaBaie",
-      "prix": 153.1,
-      "lat": 48.317822,
-      "lon": -70.861146
     },
     {
       "banniere": "Petro-Canada",
