@@ -1,7 +1,7 @@
 {
-  "mise_a_jour": "26/11/2026 23:35",
-  "derniere_verification": "26/11/2026 23:35:03",
-  "fichier_source": "stations-20261126233000.xlsx",
+  "mise_a_jour": "26/11/2026 23:55",
+  "derniere_verification": "26/11/2026 23:55:25",
+  "fichier_source": "stations-20261126235500.xlsx",
   "total": 77,
   "stations": [
     {
@@ -13,12 +13,12 @@
       "lon": -71.081011
     },
     {
-      "banniere": "Shell",
-      "adresse": "1916 boul. Talbot, Saguenay",
+      "banniere": "Ultramar",
+      "adresse": "1985 Boul. Talbot, SAGUENAY",
       "ville": "Chicoutimi",
       "prix": 139.2,
-      "lat": 48.394683,
-      "lon": -71.070736
+      "lat": 48.39309,
+      "lon": -71.070497
     },
     {
       "banniere": "Ultramar",
@@ -29,20 +29,20 @@
       "lon": -71.114645
     },
     {
-      "banniere": "Ultramar",
-      "adresse": "1985 Boul. Talbot, SAGUENAY",
-      "ville": "Chicoutimi",
-      "prix": 139.2,
-      "lat": 48.39309,
-      "lon": -71.070497
-    },
-    {
       "banniere": "Énergie DDF",
       "adresse": "972 ch. de la Réserve, Saguenay",
       "ville": "Jonquiere",
       "prix": 139.4,
       "lat": 48.419808,
       "lon": -71.100018
+    },
+    {
+      "banniere": "Shell",
+      "adresse": "1916 boul. Talbot, Saguenay",
+      "ville": "Chicoutimi",
+      "prix": 139.9,
+      "lat": 48.394683,
+      "lon": -71.070736
     },
     {
       "banniere": "Énergie Express BD",
